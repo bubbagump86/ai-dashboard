@@ -870,6 +870,7 @@
     grid-template-columns: 280px 1fr;
     gap: 32px;
     align-items: center;
+    position: relative;
   }
   .donut-legend {
     display: flex;
@@ -885,6 +886,31 @@
   }
   .donut-swatch { width: 10px; height: 10px; border-radius: 2px; }
   .donut-legend-count { color: var(--text-3); margin-left: auto; font-variant-numeric: tabular-nums; }
+  .donut-legend-item { cursor: default; transition: color .15s ease; }
+  .donut-legend-item:hover { color: var(--text); font-weight: 600; }
+  .donut-legend-item.is-active { color: var(--text); font-weight: 600; }
+  .donut-arc { transition: opacity .15s ease, transform .15s ease; transform-origin: 140px 140px; cursor: pointer; }
+  .donut-arc:hover { opacity: 0.85; transform: scale(1.03); }
+  .donut-arc.is-dim { opacity: 0.25; }
+  .donut-arc.is-active { opacity: 1; }
+  .donut-tooltip {
+    position: absolute;
+    pointer-events: none;
+    background: var(--bg-2);
+    border: 1px solid var(--border-2);
+    color: var(--text);
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    opacity: 0;
+    transition: opacity .12s ease;
+    z-index: 10;
+    white-space: nowrap;
+  }
+  .donut-tooltip.is-visible { opacity: 1; }
+  .donut-tooltip-cat { font-weight: 600; }
+  .donut-tooltip-count { color: var(--text-3); margin-top: 2px; }
 
   /* ===== Timeline ===== */
   .timeline {
@@ -1448,6 +1474,7 @@
     return d.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
   };
   const escapeHtml = s => String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const escapeAttr = s => String(s || '').replace(/[^A-Za-z0-9_\- .\/]/g, '');
 
   // ============ State ============
   let companySearch = '';
@@ -1915,7 +1942,8 @@
       const x2 = cx + rOuter * Math.cos(a2), y2 = cy + rOuter * Math.sin(a2);
       const x3 = cx + rInner * Math.cos(a2), y3 = cy + rInner * Math.sin(a2);
       const x4 = cx + rInner * Math.cos(a1), y4 = cy + rInner * Math.sin(a1);
-      arcs += `<path d="M ${x1.toFixed(1)} ${y1.toFixed(1)} A ${rOuter} ${rOuter} 0 ${large} 1 ${x2.toFixed(1)} ${y2.toFixed(1)} L ${x3.toFixed(1)} ${y3.toFixed(1)} A ${rInner} ${rInner} 0 ${large} 0 ${x4.toFixed(1)} ${y4.toFixed(1)} Z" fill="${colors[i % colors.length]}" stroke="${segStroke}" stroke-width="2"/>`;
+      const pct = ((n / total) * 100).toFixed(0);
+      arcs += `<path class="donut-arc" data-cat="${escapeAttr(cat)}" data-count="${n}" data-pct="${pct}" d="M ${x1.toFixed(1)} ${y1.toFixed(1)} A ${rOuter} ${rOuter} 0 ${large} 1 ${x2.toFixed(1)} ${y2.toFixed(1)} L ${x3.toFixed(1)} ${y3.toFixed(1)} A ${rInner} ${rInner} 0 ${large} 0 ${x4.toFixed(1)} ${y4.toFixed(1)} Z" fill="${colors[i % colors.length]}" stroke="${segStroke}" stroke-width="2"/>`;
       cumAngle = a2;
     });
     const donut = `<svg viewBox="0 0 280 280" width="100%" style="max-width: 280px;">
@@ -1924,10 +1952,13 @@
       <text x="140" y="160" text-anchor="middle" fill="${labelColor}" font-size="11" font-weight="500" text-transform="uppercase">COMPANIES</text>
     </svg>`;
     document.getElementById('donut-wrap').innerHTML = `
-      ${donut}
+      <div style="position:relative;">
+        ${donut}
+        <div class="donut-tooltip" id="donut-tooltip"></div>
+      </div>
       <div class="donut-legend">
-        ${entries.map(([cat, n], i) => `
-          <div class="donut-legend-item">
+        ${entries.map(([cat, n], i]) => `
+          <div class="donut-legend-item" data-cat="${escapeAttr(cat)}">
             <div class="donut-swatch" style="background: ${colors[i % colors.length]}"></div>
             <span>${escapeHtml(cat)}</span>
             <span class="donut-legend-count">${n} · ${((n / total) * 100).toFixed(0)}%</span>
@@ -1935,6 +1966,60 @@
         `).join('')}
       </div>
     `;
+    wireDonutHover();
+  }
+
+  function wireDonutHover() {
+    const wrap = document.getElementById('donut-wrap');
+    const tooltip = document.getElementById('donut-tooltip');
+    if (!wrap || !tooltip) return;
+    const arcs = wrap.querySelectorAll('.donut-arc');
+    const legendItems = wrap.querySelectorAll('.donut-legend-item');
+
+    const showTooltip = (cat, count, pct, evt) => {
+      tooltip.innerHTML = `<div class="donut-tooltip-cat" style="color: var(--accent);">${escapeHtml(cat)}</div><div class="donut-tooltip-count">${count} companies · ${pct}%</div>`;
+      tooltip.classList.add('is-visible');
+      const wrapRect = wrap.getBoundingClientRect();
+      const x = (evt.clientX - wrapRect.left) + 14;
+      const y = (evt.clientY - wrapRect.top) - 10;
+      tooltip.style.left = x + 'px';
+      tooltip.style.top = y + 'px';
+      requestAnimationFrame(() => {
+        const tRect = tooltip.getBoundingClientRect();
+        if (tRect.right > wrapRect.right - 4) {
+          tooltip.style.left = (wrapRect.width - tRect.width - 8) + 'px';
+        }
+        if (tRect.left < wrapRect.left + 4) {
+          tooltip.style.left = '8px';
+        }
+      });
+    };
+
+    const hideTooltip = () => { tooltip.classList.remove('is-visible'); };
+
+    const setActive = (cat) => {
+      arcs.forEach(a => {
+        if (a.dataset.cat === cat) { a.classList.add('is-active'); a.classList.remove('is-dim'); }
+        else { a.classList.add('is-dim'); a.classList.remove('is-active'); }
+      });
+      legendItems.forEach(li => { li.classList.toggle('is-active', li.dataset.cat === cat); });
+    };
+
+    const clearActive = () => {
+      arcs.forEach(a => a.classList.remove('is-active', 'is-dim'));
+      legendItems.forEach(li => li.classList.remove('is-active'));
+    };
+
+    arcs.forEach(arc => {
+      arc.addEventListener('mouseenter', (e) => { setActive(arc.dataset.cat); showTooltip(arc.dataset.cat, arc.dataset.count, arc.dataset.pct, e); });
+      arc.addEventListener('mousemove', (e) => { showTooltip(arc.dataset.cat, arc.dataset.count, arc.dataset.pct, e); });
+      arc.addEventListener('mouseleave', () => { clearActive(); hideTooltip(); });
+    });
+
+    legendItems.forEach(li => {
+      li.addEventListener('mouseenter', () => setActive(li.dataset.cat));
+      li.addEventListener('mouseleave', () => clearActive());
+    });
   }
 
   // ============ Timeline (overview + full) ============
