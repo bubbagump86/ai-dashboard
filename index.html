@@ -1957,7 +1957,7 @@
         <div class="donut-tooltip" id="donut-tooltip"></div>
       </div>
       <div class="donut-legend">
-        ${entries.map(([cat, n], i]) => `
+        ${entries.map(([cat, n], i) => `
           <div class="donut-legend-item" data-cat="${escapeAttr(cat)}">
             <div class="donut-swatch" style="background: ${colors[i % colors.length]}"></div>
             <span>${escapeHtml(cat)}</span>
