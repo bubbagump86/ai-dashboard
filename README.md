@@ -1,18 +1,16 @@
-# AI Intel Dashboard Redirect
+# AI Intel Dashboard
 
-This repo hosts a static redirect page that always points to the latest
-deployed version of the AI Intel Dashboard.
+Strategic intelligence on 40 of the most important AI companies in 2026.
 
-The redirect target is in the `<meta http-equiv="refresh">` tag in `index.html`.
+- Live site: https://bubbagump86.github.io/ai-dashboard/
+- Data file: data.json (auto-refreshed daily)
+- Source: [Minimax private workspace]
 
-## How to update
+## Update workflow
+1. refresh.py pulls latest news from public RSS feeds
+2. funding detection (10% threshold, no churn)
+3. writes new data.json
+4. git push → GitHub Pages redeploys in ~30s
+5. users see new data on next page refresh
 
-When Maxie deploys a new dashboard, the `index.html` is updated to point to the
-new URL and pushed to this repo's `main` branch. GitHub Pages automatically
-serves the latest commit.
-
-## Bookmark the URL
-
-The URL never changes:
-
-- https://bubbagump86.github.io/ai-dashboard/
+No HTML rebuild, no CDN redeploy, no URL change.
