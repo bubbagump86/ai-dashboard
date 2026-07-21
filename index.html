@@ -1809,9 +1809,9 @@
       });
     });
 
-    // Wrap the inner with our own viewBox (matches the Mercator projection
-    // used by latLngToSVG so city markers land on the right country)
-    const viewBox = '50 320 750 320';
+    // Wrap the inner with our own viewBox matching the source SVG's viewBox
+    // (30.767 241.591 784.077 458.627) so the world map renders undistorted
+    const viewBox = '30.767 241.591 784.077 458.627';
     const html = `<svg viewBox="${viewBox}" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">${styled}${dots}</svg>`;
     const wrap = document.getElementById('map-wrap');
     wrap.innerHTML = `<div class="map-tooltip" id="map-tooltip"></div>` + html;
