@@ -1709,20 +1709,45 @@
   }
 
   // ============ Map ============
-  // The underlying SVG is a hand-drawn simplified world map (Al MacDonald),
-  // not a clean projection, so we project lat/lng to SVG coords with a fitted
-  // Mercator formula AND apply per-HQ overrides for cities that fall off
-  // Projection: lat/lng to SVG coordinates.
-  // The world map SVG (Al MacDonald's "Simple World Map") uses a Robinson-style
-  // projection. We fit a 3-parameter polynomial against 28 known country centroids
-  // measured directly from the SVG path data, so the result is exact (mean error < 5px).
-  //   x = 402.54 + 2.397 * lng
-  //   y = 524.95 - 143.69 * lat_rad - 12.68 * lat_rad^3
-  // Replaces the old hand-tuned HQ_OVERRIDES table — no more special cases per city.
+  // The underlying SVG is a hand-drawn simplified world map (Al MacDonald), not a
+  // clean projection, so we use a fitted Mercator formula as the base AND apply
+  // per-HQ overrides for known cities (which is how v3.7 placed pins correctly).
+  // The projection alone puts Pacific-coast cities a bit too far west because the
+  // SVG is a hand-drawn Robinson-style and the US west coast is irregular.
+  // Per-city overrides (visually verified) correct this for known cities; new
+  // cities without an override fall back to the projection.
+  const HQ_OVERRIDES = {
+    'San Francisco, CA': [100, 425],
+    'Palo Alto, CA': [100, 425],
+    'San Francisco, CA (data centers in Memphis, TN)': [110, 425],
+    'Santa Clara, CA': [100, 425],
+    'New York, NY': [220, 418],
+    'Jersey City, NJ': [220, 418],
+    'Massachusetts': [248, 405],
+    'Bozeman, MT': [155, 390],
+    'London, UK': [399, 379],
+    'Cambridge, UK': [399, 379],
+    'Paris, France': [410, 405],
+    'Tokyo, Japan': [732, 420],
+    'Beijing, China': [684, 415],
+    'Beijing, China (MSRA)': [684, 415],
+    'Shanghai, China': [691, 445],
+    'Hangzhou, China': [685, 450],
+    'Singapore': [659, 528],
+    'Edmonton, Canada': [180, 360],
+    'Toronto, Canada': [215, 395],
+    'Prague, Czech Republic': [440, 393],
+    'Zurich': [425, 406],
+    'San Francisco / London / Zurich': [425, 406],  // Prometheus
+    'Tel Aviv, Israel': [486, 449],
+  };
   function latLngToSVG(lat, lng) {
-    const x = 402.54 + 2.397 * lng;
+    // Mercator-style projection, coefficients fitted to the SVG
+    // (close to the old v3.7 formula which placed known cities correctly)
+    const x = 406.82 + 2.34 * lng;
     const latRad = lat * Math.PI / 180;
-    const y = 524.95 - 143.69 * latRad - 12.68 * latRad * latRad * latRad;
+    const yNorm = (1 - Math.log(Math.tan(Math.PI / 4 + latRad / 2)) / Math.PI) / 2;
+    const y = 62.67 + 943.89 * yNorm;
     return [x, y];
   }
   function valuationToRadius(v) {
@@ -1772,8 +1797,14 @@
         n === 3 ? [[-2.5, -1.5], [2.5, -1.5], [0, 2.5]] :
         [[-3, -2], [3, -2], [-3, 2], [3, 2]];
       g.companies.forEach((c, i) => {
-        // Use lat/lng projection for all cities (no per-city overrides)
-        let [x, y] = latLngToSVG(g.lat, g.lng);
+        // Prefer HQ-specific override (visually verified), fall back to lat/lng projection
+        const override = HQ_OVERRIDES[c.hq];
+        let x, y;
+        if (override) {
+          [x, y] = override;
+        } else {
+          [x, y] = latLngToSVG(g.lat, g.lng);
+        }
         const [dx, dy] = offsets[i] || [0, 0];
         const cx = x + dx, cy = y + dy;
         const r = valuationToRadius(c.funding?.post_money_valuation_usd);
