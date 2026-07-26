@@ -1908,7 +1908,7 @@
     const btnOut = document.getElementById('map-zoom-out');
     const btnReset = document.getElementById('map-zoom-reset');
     let currentVB = DEFAULT_VB.slice();
-    const MIN_VB_W = 30;   // max zoom-in (smallest viewBox width)
+    const MIN_VB_W = 60;   // max zoom-in (smallest viewBox width, ~city level)
     const MAX_VB_W = DEFAULT_VB[2]; // min zoom-out (full world)
 
     function setViewBox(vb, label) {
@@ -1924,49 +1924,39 @@
     function zoomToCluster(g, ev) {
       // Stop click from propagating to the SVG background listener
       ev.stopPropagation();
-      // Compute the bounding box of all dots in this cluster
+      // Compute the centroid of the cluster (in SVG coords)
       const all = Array.from(wrap.querySelectorAll('.map-dot'));
       const clusterDots = g.companies.map(c =>
         all.find(d => d.dataset.co === c.name)
       ).filter(Boolean);
       if (clusterDots.length === 0) return;
-      let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+      let cx = 0, cy = 0;
       clusterDots.forEach(d => {
-        const cx = parseFloat(d.getAttribute('cx'));
-        const cy = parseFloat(d.getAttribute('cy'));
-        const r = parseFloat(d.getAttribute('r')) || 6;
-        minX = Math.min(minX, cx - r - 4);
-        minY = Math.min(minY, cy - r - 4);
-        maxX = Math.max(maxX, cx + r + 4);
-        maxY = Math.max(maxY, cy + r + 4);
+        cx += parseFloat(d.getAttribute('cx'));
+        cy += parseFloat(d.getAttribute('cy'));
       });
-      // Add padding around the cluster
-      const padW = (maxX - minX) * 0.4;
-      const padH = (maxY - minY) * 0.4;
-      let w = (maxX - minX) + padW * 2;
-      let h = (maxY - minY) + padH * 2;
-      // Maintain aspect ratio (the source SVG's aspect is 784.077/458.627 ≈ 1.71)
-      const targetAspect = DEFAULT_VB[2] / DEFAULT_VB[3];
-      if (w / h < targetAspect) w = h * targetAspect; else h = w / targetAspect;
-      // Enforce zoom limits
-      if (w < MIN_VB_W) { w = MIN_VB_W; h = w / targetAspect; }
-      if (w > MAX_VB_W) { w = MAX_VB_W; h = w / targetAspect; }
-      const cx = (minX + maxX) / 2;
-      const cy = (minY + maxY) / 2;
-      setViewBox([cx - w/2, cy - h/2, w, h], `${g.hq} · ${g.companies.length} ${g.companies.length === 1 ? 'company' : 'companies'}`);
+      cx /= clusterDots.length;
+      cy /= clusterDots.length;
+      // Use a fixed zoom level that shows the cluster + some city surroundings
+      // The cluster radius on the map is small (a few px), so a city-level viewBox
+      // of ~120x70 SVG units gives a good readable zoom
+      const targetW = 130;  // SVG units wide for the zoomed view
+      const targetH = targetW / (DEFAULT_VB[2] / DEFAULT_VB[3]);
+      setViewBox([cx - targetW/2, cy - targetH/2, targetW, targetH],
+        `${g.hq} · ${g.companies.length} ${g.companies.length === 1 ? 'company' : 'companies'}`);
     }
 
     function zoomIn() {
       const [x, y, w, h] = currentVB;
       const cx = x + w/2, cy = y + h/2;
-      const nw = Math.max(MIN_VB_W, w * 0.6);
+      const nw = Math.max(MIN_VB_W, w * 0.5);
       const nh = nw / (DEFAULT_VB[2] / DEFAULT_VB[3]);
       setViewBox([cx - nw/2, cy - nh/2, nw, nh], 'Zoomed in');
     }
     function zoomOut() {
       const [x, y, w, h] = currentVB;
       const cx = x + w/2, cy = y + h/2;
-      const nw = Math.min(MAX_VB_W, w * 1.6);
+      const nw = Math.min(MAX_VB_W, w * 2);
       const nh = nw / (DEFAULT_VB[2] / DEFAULT_VB[3]);
       if (nw === MAX_VB_W) {
         setViewBox(DEFAULT_VB, null);
