@@ -768,7 +768,8 @@
     border-radius: 8px;
     overflow: hidden;
   }
-  .map-wrap svg { width: 100%; height: auto; display: block; }
+  .map-wrap svg { width: 100%; height: auto; display: block; cursor: grab; transition: viewBox 0.6s cubic-bezier(0.4, 0, 0.2, 1); }
+  .map-wrap svg:active { cursor: grabbing; }
   .map-dot {
     cursor: pointer;
     transition: transform 0.2s;
@@ -776,6 +777,47 @@
     transform-box: fill-box;
   }
   .map-dot:hover { transform: scale(1.4); }
+  .map-zoom-controls {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    z-index: 5;
+  }
+  .map-zoom-btn {
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
+    background: var(--bg-2);
+    border: 1px solid var(--border);
+    color: var(--text-1);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .map-zoom-btn:hover { background: var(--bg-3); border-color: var(--border-light); color: var(--text-0); }
+  .map-zoom-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+  .map-zoom-info {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: var(--bg-2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 6px 10px;
+    font-size: 11px;
+    color: var(--text-2);
+    z-index: 5;
+    pointer-events: none;
+  }
+  .map-zoom-info strong { color: var(--text-0); margin-right: 4px; }
   .map-tooltip {
     position: absolute;
     background: var(--bg-2);
@@ -1847,10 +1889,154 @@
 
     // Wrap the inner with our own viewBox matching the source SVG's viewBox
     // (30.767 241.591 784.077 458.627) so the world map renders undistorted
-    const viewBox = '30.767 241.591 784.077 458.627';
-    const html = `<svg viewBox="${viewBox}" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">${styled}${dots}</svg>`;
+    const DEFAULT_VB = [30.767, 241.591, 784.077, 458.627];
+    const vbStr = DEFAULT_VB.join(' ');
+    const html = `<svg id="map-svg" viewBox="${vbStr}" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">${styled}${dots}</svg>`;
     const wrap = document.getElementById('map-wrap');
-    wrap.innerHTML = `<div class="map-tooltip" id="map-tooltip"></div>` + html;
+    wrap.innerHTML = `<div class="map-tooltip" id="map-tooltip"></div>` +
+      `<div class="map-zoom-controls">
+         <button class="map-zoom-btn" id="map-zoom-in" title="Zoom in">+</button>
+         <button class="map-zoom-btn" id="map-zoom-out" title="Zoom out">−</button>
+         <button class="map-zoom-btn" id="map-zoom-reset" title="Reset to world view">⟳</button>
+       </div>
+       <div class="map-zoom-info" id="map-zoom-info"><strong>World view</strong>Click a cluster to zoom in</div>` + html;
+
+    // ============ Zoom / pan ============
+    const svg = document.getElementById('map-svg');
+    const info = document.getElementById('map-zoom-info');
+    const btnIn = document.getElementById('map-zoom-in');
+    const btnOut = document.getElementById('map-zoom-out');
+    const btnReset = document.getElementById('map-zoom-reset');
+    let currentVB = DEFAULT_VB.slice();
+    const MIN_VB_W = 30;   // max zoom-in (smallest viewBox width)
+    const MAX_VB_W = DEFAULT_VB[2]; // min zoom-out (full world)
+
+    function setViewBox(vb, label) {
+      currentVB = vb.slice();
+      svg.setAttribute('viewBox', vb.join(' '));
+      if (info) {
+        info.innerHTML = label
+          ? `<strong>${escapeHtml(label)}</strong>Click empty area to zoom out`
+          : `<strong>World view</strong>Click a cluster to zoom in`;
+      }
+    }
+
+    function zoomToCluster(g, ev) {
+      // Stop click from propagating to the SVG background listener
+      ev.stopPropagation();
+      // Compute the bounding box of all dots in this cluster
+      const all = Array.from(wrap.querySelectorAll('.map-dot'));
+      const clusterDots = g.companies.map(c =>
+        all.find(d => d.dataset.co === c.name)
+      ).filter(Boolean);
+      if (clusterDots.length === 0) return;
+      let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+      clusterDots.forEach(d => {
+        const cx = parseFloat(d.getAttribute('cx'));
+        const cy = parseFloat(d.getAttribute('cy'));
+        const r = parseFloat(d.getAttribute('r')) || 6;
+        minX = Math.min(minX, cx - r - 4);
+        minY = Math.min(minY, cy - r - 4);
+        maxX = Math.max(maxX, cx + r + 4);
+        maxY = Math.max(maxY, cy + r + 4);
+      });
+      // Add padding around the cluster
+      const padW = (maxX - minX) * 0.4;
+      const padH = (maxY - minY) * 0.4;
+      let w = (maxX - minX) + padW * 2;
+      let h = (maxY - minY) + padH * 2;
+      // Maintain aspect ratio (the source SVG's aspect is 784.077/458.627 ≈ 1.71)
+      const targetAspect = DEFAULT_VB[2] / DEFAULT_VB[3];
+      if (w / h < targetAspect) w = h * targetAspect; else h = w / targetAspect;
+      // Enforce zoom limits
+      if (w < MIN_VB_W) { w = MIN_VB_W; h = w / targetAspect; }
+      if (w > MAX_VB_W) { w = MAX_VB_W; h = w / targetAspect; }
+      const cx = (minX + maxX) / 2;
+      const cy = (minY + maxY) / 2;
+      setViewBox([cx - w/2, cy - h/2, w, h], `${g.hq} · ${g.companies.length} ${g.companies.length === 1 ? 'company' : 'companies'}`);
+    }
+
+    function zoomIn() {
+      const [x, y, w, h] = currentVB;
+      const cx = x + w/2, cy = y + h/2;
+      const nw = Math.max(MIN_VB_W, w * 0.6);
+      const nh = nw / (DEFAULT_VB[2] / DEFAULT_VB[3]);
+      setViewBox([cx - nw/2, cy - nh/2, nw, nh], 'Zoomed in');
+    }
+    function zoomOut() {
+      const [x, y, w, h] = currentVB;
+      const cx = x + w/2, cy = y + h/2;
+      const nw = Math.min(MAX_VB_W, w * 1.6);
+      const nh = nw / (DEFAULT_VB[2] / DEFAULT_VB[3]);
+      if (nw === MAX_VB_W) {
+        setViewBox(DEFAULT_VB, null);
+      } else {
+        setViewBox([cx - nw/2, cy - nh/2, nw, nh], 'Zoomed out');
+      }
+    }
+    function resetZoom() { setViewBox(DEFAULT_VB, null); }
+
+    btnIn.addEventListener('click', zoomIn);
+    btnOut.addEventListener('click', zoomOut);
+    btnReset.addEventListener('click', resetZoom);
+
+    // Wheel zoom
+    svg.addEventListener('wheel', (e) => {
+      e.preventDefault();
+      const rect = svg.getBoundingClientRect();
+      const px = (e.clientX - rect.left) / rect.width;
+      const py = (e.clientY - rect.top) / rect.height;
+      const [x, y, w, h] = currentVB;
+      const cx = x + w * px, cy = y + h * py;
+      const factor = e.deltaY > 0 ? 1.2 : 0.8;
+      const nw = Math.max(MIN_VB_W, Math.min(MAX_VB_W, w * factor));
+      if (nw === w) return;
+      const nh = nw / (DEFAULT_VB[2] / DEFAULT_VB[3]);
+      setViewBox([cx - nw*px, cy - nh*py, nw, nh], nw === MAX_VB_W ? null : 'Zoomed');
+    }, { passive: false });
+
+    // Pan with drag
+    let isPanning = false, panStart = null, vbStart = null;
+    svg.addEventListener('mousedown', (e) => {
+      if (e.target.closest('.map-dot')) return; // dot handles its own click
+      isPanning = true;
+      panStart = { x: e.clientX, y: e.clientY };
+      vbStart = currentVB.slice();
+      svg.style.cursor = 'grabbing';
+    });
+    window.addEventListener('mousemove', (e) => {
+      if (!isPanning) return;
+      const dx = e.clientX - panStart.x;
+      const dy = e.clientY - panStart.y;
+      const rect = svg.getBoundingClientRect();
+      const [x, y, w, h] = vbStart;
+      const sx = w / rect.width;
+      const sy = h / rect.height;
+      setViewBox([x - dx * sx, y - dy * sy, w, h], 'Panning');
+    });
+    window.addEventListener('mouseup', () => {
+      if (isPanning) { isPanning = false; svg.style.cursor = 'grab'; }
+    });
+
+    // Click on empty area resets to world view (unless it was a pan)
+    let mouseDownPos = null;
+    svg.addEventListener('mousedown', (e) => {
+      if (e.target.closest('.map-dot')) return;
+      mouseDownPos = { x: e.clientX, y: e.clientY };
+    });
+    svg.addEventListener('click', (e) => {
+      if (e.target.closest('.map-dot')) return;
+      if (mouseDownPos) {
+        const dx = e.clientX - mouseDownPos.x;
+        const dy = e.clientY - mouseDownPos.y;
+        if (Math.sqrt(dx*dx + dy*dy) > 5) { mouseDownPos = null; return; } // was a pan
+      }
+      mouseDownPos = null;
+      // Reset to world view (only if zoomed)
+      if (currentVB[2] < MAX_VB_W - 1) {
+        resetZoom();
+      }
+    });
 
     // Tooltip
     const tooltip = document.getElementById('map-tooltip');
@@ -1875,7 +2061,17 @@
         tooltip.style.top = y + 'px';
       });
       dot.addEventListener('mouseleave', () => tooltip.classList.remove('show'));
-      dot.addEventListener('click', () => openModal(c));
+      // Left click → zoom to cluster. Right click or shift-click → open modal.
+      dot.addEventListener('click', (e) => {
+        e.stopPropagation();
+        // Find which cluster this dot belongs to
+        const g = byHq[c.hq] || Object.values(byHq).find(g => g.companies.some(co => co.name === c.name));
+        if (g) zoomToCluster(g, e);
+      });
+      dot.addEventListener('dblclick', (e) => {
+        e.stopPropagation();
+        openModal(c);
+      });
     });
   }
 
