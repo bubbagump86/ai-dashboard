@@ -1865,23 +1865,25 @@
 
     // Build dots
     const withLoc = COMPANIES.filter(c => c.lat != null && c.lng != null);
-    // Group by HQ for the visual to show clusters
+    // Group by effective SVG position (after override or projection). Cities
+    // sharing the same lat/lng (e.g. SF, Palo Alto, Santa Clara all at 37.77/-122.42)
+    // collapse into one cluster even though they have different HQ strings.
     const byHq = {};
     withLoc.forEach(c => {
-      // Key by HQ string so cities sharing lat/lng but with different HQ labels
-      // (e.g. SF Bay variants) all get the same override if any applies.
-      const key = c.hq || `${c.lat},${c.lng}`;
-      if (!byHq[key]) byHq[key] = { lat: c.lat, lng: c.lng, hq: c.hq, companies: [] };
+      const override = HQ_OVERRIDES[c.hq];
+      const [x, y] = override || latLngToSVG(c.lat, c.lng);
+      // Use rounded position as the cluster key so cities within 0.5 SVG units merge
+      const key = `${Math.round(x*2)/2},${Math.round(y*2)/2}`;
+      if (!byHq[key]) byHq[key] = { x, y, hq: c.hq, companies: [] };
       byHq[key].companies.push(c);
     });
 
     let dots = '';
     Object.values(byHq).forEach(g => {
       const n = g.companies.length;
-      // Get cluster center (from override or projection)
-      const override = HQ_OVERRIDES[g.hq];
-      const baseX = override ? override[0] : latLngToSVG(g.lat, g.lng)[0];
-      const baseY = override ? override[1] : latLngToSVG(g.lat, g.lng)[1];
+      // Get cluster center (already computed in byHq grouping)
+      const baseX = g.x;
+      const baseY = g.y;
 
       if (n === 1) {
         // Single company: render normally
@@ -2107,7 +2109,7 @@
       dot.addEventListener('click', (e) => {
         e.stopPropagation();
         // Find which cluster this dot belongs to
-        const g = byHq[c.hq] || Object.values(byHq).find(g => g.companies.some(co => co.name === c.name));
+        const g = Object.values(byHq).find(g => g.companies.some(co => co.name === c.name));
         if (g) zoomToCluster(g, e);
       });
       dot.addEventListener('dblclick', (e) => {
@@ -2154,11 +2156,11 @@
 
     function showFanout(halo, g) {
       hideFanout();
-      const hq = halo.getAttribute('data-hq');
       const cx = parseFloat(halo.getAttribute('cx'));
       const cy = parseFloat(halo.getAttribute('cy'));
-      const layout = fanoutByHq.get(hq) || buildFanoutLayout(g);
-      fanoutByHq.set(hq, layout);
+      const cacheKey = `${cx},${cy}`;
+      const layout = fanoutByHq.get(cacheKey) || buildFanoutLayout(g);
+      fanoutByHq.set(cacheKey, layout);
       fanoutGroup = document.createElementNS('http://www.w3.org/2000/svg', 'g');
       fanoutGroup.setAttribute('class', 'map-fanout-group');
       // Connector lines from cluster center to each pin (subtle visual hint)
@@ -2201,7 +2203,7 @@
         dot.addEventListener('click', (e) => {
           e.stopPropagation();
           // Zoom into this specific cluster (more focused than just opening modal)
-          const g2 = byHq[c.hq] || Object.values(byHq).find(g => g.companies.some(co => co.name === c.name));
+          const g2 = Object.values(byHq).find(g => g.companies.some(co => co.name === c.name));
           if (g2) zoomToCluster(g2, e);
         });
         dot.addEventListener('dblclick', (e) => {
@@ -2219,8 +2221,11 @@
     }
 
     wrap.querySelectorAll('.map-cluster-halo').forEach(halo => {
-      const hq = halo.getAttribute('data-hq');
-      const g = byHq[hq];
+      // Find the cluster group by matching SVG position (clusters are keyed
+      // by rounded SVG coords, not HQ string)
+      const cx = parseFloat(halo.getAttribute('cx'));
+      const cy = parseFloat(halo.getAttribute('cy'));
+      const g = Object.values(byHq).find(g => Math.abs(g.x - cx) < 1 && Math.abs(g.y - cy) < 1);
       if (!g) return;
       halo.addEventListener('mouseenter', () => showFanout(halo, g));
       halo.addEventListener('mouseleave', () => {
