@@ -1883,7 +1883,7 @@
         const cx = x + dx, cy = y + dy;
         const r = valuationToRadius(c.funding?.post_money_valuation_usd);
         const opacity = 0.7 + 0.3 * Math.min(1, (c.confidence === 'high' ? 1 : c.confidence === 'medium' ? 0.6 : 0.3));
-        dots += `<circle class="map-dot" cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${r}" fill="#58a6ff" stroke="${dotStroke}" stroke-width="1" fill-opacity="${opacity}" data-co="${escapeHtml(c.name)}"></circle>`;
+        dots += `<circle class="map-dot" cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${r}" data-r="${r}" fill="#58a6ff" stroke="${dotStroke}" stroke-width="${Math.max(0.5, r/8).toFixed(2)}" fill-opacity="${opacity}" data-co="${escapeHtml(c.name)}"></circle>`;
       });
     });
 
@@ -1914,6 +1914,14 @@
     function setViewBox(vb, label) {
       currentVB = vb.slice();
       svg.setAttribute('viewBox', vb.join(' '));
+      // Scale pin radii so they appear the same size on screen regardless of zoom
+      // (when zoomed in, smaller SVG radii; when zoomed out, larger)
+      const worldW = DEFAULT_VB[2];
+      const zoomFactor = worldW / vb[2]; // 1.0 at world, ~6 at city zoom
+      wrap.querySelectorAll('.map-dot').forEach(d => {
+        const r = parseFloat(d.getAttribute('data-r')) || 6;
+        d.setAttribute('r', (r / Math.sqrt(zoomFactor)).toFixed(1));
+      });
       if (info) {
         info.innerHTML = label
           ? `<strong>${escapeHtml(label)}</strong>Click empty area to zoom out`
