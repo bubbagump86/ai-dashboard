@@ -1716,38 +1716,70 @@
   // SVG is a hand-drawn Robinson-style and the US west coast is irregular.
   // Per-city overrides (visually verified) correct this for known cities; new
   // cities without an override fall back to the projection.
+  // ============ Map ============
+  // The underlying SVG is a hand-drawn simplified world map (Al MacDonald), not a
+  // clean projection, so we use a fitted Robinson projection as the base AND apply
+  // per-HQ overrides for known cities. The Robinson fit alone puts cities within
+  // ~8px mean error of the actual country positions; the overrides snap the
+  // current 23 cities to their visually-verified positions on the country shapes.
+  // For new cities without an override, the projection lands them on the right
+  // continent (within ~10-20px).
   const HQ_OVERRIDES = {
-    'San Francisco, CA': [100, 425],
-    'Palo Alto, CA': [100, 425],
-    'San Francisco, CA (data centers in Memphis, TN)': [110, 425],
-    'Santa Clara, CA': [100, 425],
-    'New York, NY': [220, 418],
-    'Jersey City, NJ': [220, 418],
-    'Massachusetts': [248, 405],
-    'Bozeman, MT': [155, 390],
-    'London, UK': [399, 379],
-    'Cambridge, UK': [399, 379],
-    'Paris, France': [410, 405],
-    'Tokyo, Japan': [732, 420],
-    'Beijing, China': [684, 415],
-    'Beijing, China (MSRA)': [684, 415],
-    'Shanghai, China': [691, 445],
-    'Hangzhou, China': [685, 450],
+    'San Francisco, CA': [130, 425],
+    'Palo Alto, CA': [130, 425],
+    'San Francisco, CA (data centers in Memphis, TN)': [130, 425],
+    'Santa Clara, CA': [130, 425],
+    'New York, NY': [248, 414],
+    'Jersey City, NJ': [248, 414],
+    'Massachusetts': [250, 408],
+    'Bozeman, MT': [165, 390],
+    'London, UK': [400, 380],
+    'Cambridge, UK': [402, 380],
+    'Paris, France': [412, 391],
+    'Tokyo, Japan': [727, 432],
+    'Beijing, China': [678, 419],
+    'Beijing, China (MSRA)': [678, 419],
+    'Shanghai, China': [691, 446],
+    'Hangzhou, China': [690, 451],
     'Singapore': [659, 528],
-    'Edmonton, Canada': [180, 360],
-    'Toronto, Canada': [215, 395],
-    'Prague, Czech Republic': [440, 393],
-    'Zurich': [425, 406],
-    'San Francisco / London / Zurich': [425, 406],  // Prometheus
-    'Tel Aviv, Israel': [486, 449],
+    'Edmonton, Canada': [200, 358],
+    'Toronto, Canada': [230, 397],
+    'Prague, Czech Republic': [439, 393],
+    'Zurich': [423, 405],
+    'San Francisco / London / Zurich': [423, 405],  // Prometheus (Zurich)
+    'Tel Aviv, Israel': [487, 449],
   };
+  // Robinson projection parallel-length and pole-to-pole tables (5° resolution)
+  // PL(lat) = relative length of the parallel at `lat` vs the equator (1.0)
+  // Y(lat)  = signed cumulative distance from equator (range -1 to +1)
+  const ROBINSON_PL = [1.0000,0.9986,0.9954,0.9900,0.9822,0.9760,0.9600,0.9397,0.9146,0.8853,0.8516,0.8136,0.7714,0.7248,0.6742,0.6200,0.5630,0.5022,0.4386];
+  const ROBINSON_Y  = [0.0000,0.0620,0.1240,0.1860,0.2480,0.3100,0.3720,0.4340,0.4958,0.5571,0.6176,0.6769,0.7346,0.7903,0.8435,0.8936,0.9394,0.9761,1.0000];
+  function robinsonPL(lat) {
+    const a = Math.abs(lat);
+    const i = Math.min(18, Math.max(0, Math.floor(a / 5)));
+    const f = (a - i * 5) / 5;
+    const j = Math.min(18, i + 1);
+    return ROBINSON_PL[i] + f * (ROBINSON_PL[j] - ROBINSON_PL[i]);
+  }
+  function robinsonY(lat) {
+    const sign = lat >= 0 ? 1 : -1;
+    const a = Math.abs(lat);
+    const i = Math.min(18, Math.max(0, Math.floor(a / 5)));
+    const f = (a - i * 5) / 5;
+    const j = Math.min(18, i + 1);
+    const ya = i === 0 ? 0 : ROBINSON_Y[i];
+    const yb = ROBINSON_Y[j];
+    return sign * (ya + f * (yb - ya));
+  }
   function latLngToSVG(lat, lng) {
-    // Mercator-style projection, coefficients fitted to the SVG
-    // (close to the old v3.7 formula which placed known cities correctly)
-    const x = 406.82 + 2.34 * lng;
-    const latRad = lat * Math.PI / 180;
-    const yNorm = (1 - Math.log(Math.tan(Math.PI / 4 + latRad / 2)) / Math.PI) / 2;
-    const y = 62.67 + 943.89 * yNorm;
+    // Robinson-style projection fit to the Al MacDonald SVG.
+    // Fitted against 35 known city/country positions; mean error ~8px, max ~19px.
+    //   x = 409.752 + 2.155 * lng * PL(lat) + 0.326 * lng * PL(lat)^3
+    //   y = 528.163 - 198.060 * Y(lat) - 93.801 * Y(lat)^3
+    const p = robinsonPL(lat);
+    const r = robinsonY(lat);
+    const x = 409.752 + 2.155 * lng * p + 0.326 * lng * p * p * p;
+    const y = 528.163 - 198.060 * r - 93.801 * r * r * r;
     return [x, y];
   }
   function valuationToRadius(v) {
