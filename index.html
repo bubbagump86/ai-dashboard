@@ -1914,13 +1914,14 @@
     function setViewBox(vb, label) {
       currentVB = vb.slice();
       svg.setAttribute('viewBox', vb.join(' '));
-      // Scale pin radii so they appear the same size on screen regardless of zoom
-      // (when zoomed in, smaller SVG radii; when zoomed out, larger)
+      // Scale pin radii so they appear the same size on screen regardless of zoom.
+      // Linear scaling (r / zoomFactor) keeps pins at constant screen size.
       const worldW = DEFAULT_VB[2];
-      const zoomFactor = worldW / vb[2]; // 1.0 at world, ~6 at city zoom
+      const zoomFactor = worldW / vb[2]; // 1.0 at world, ~3-6 at city zoom
       wrap.querySelectorAll('.map-dot').forEach(d => {
         const r = parseFloat(d.getAttribute('data-r')) || 6;
-        d.setAttribute('r', (r / Math.sqrt(zoomFactor)).toFixed(1));
+        // Cap minimum at 1.2 SVG units so tiny pins don't disappear at high zoom
+        d.setAttribute('r', Math.max(1.2, r / zoomFactor).toFixed(2));
       });
       if (info) {
         info.innerHTML = label
@@ -1947,8 +1948,8 @@
       cy /= clusterDots.length;
       // Use a fixed zoom level that shows the cluster + some city surroundings
       // The cluster radius on the map is small (a few px), so a city-level viewBox
-      // of ~120x70 SVG units gives a good readable zoom
-      const targetW = 130;  // SVG units wide for the zoomed view
+      // of ~220x130 SVG units gives a good readable zoom where individual pins are visible
+      const targetW = 220;  // SVG units wide for the zoomed view
       const targetH = targetW / (DEFAULT_VB[2] / DEFAULT_VB[3]);
       setViewBox([cx - targetW/2, cy - targetH/2, targetW, targetH],
         `${g.hq} · ${g.companies.length} ${g.companies.length === 1 ? 'company' : 'companies'}`);
