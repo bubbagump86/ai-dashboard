@@ -1948,8 +1948,9 @@
       cy /= clusterDots.length;
       // Use a fixed zoom level that shows the cluster + some city surroundings
       // The cluster radius on the map is small (a few px), so a city-level viewBox
-      // of ~220x130 SVG units gives a good readable zoom where individual pins are visible
-      const targetW = 220;  // SVG units wide for the zoomed view
+      // of ~120x70 SVG units gives a tight zoom where individual pins are visible
+      // (cluster fills ~5% of view, pins are 11-31px on screen for hover/click)
+      const targetW = 120;  // SVG units wide for the zoomed view
       const targetH = targetW / (DEFAULT_VB[2] / DEFAULT_VB[3]);
       setViewBox([cx - targetW/2, cy - targetH/2, targetW, targetH],
         `${g.hq} · ${g.companies.length} ${g.companies.length === 1 ? 'company' : 'companies'}`);
