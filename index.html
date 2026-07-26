@@ -777,6 +777,19 @@
     transform-box: fill-box;
   }
   .map-dot:hover { transform: scale(1.4); }
+  .map-cluster-halo {
+    cursor: pointer;
+    transition: fill-opacity 0.2s, r 0.2s;
+  }
+  .map-cluster-halo:hover { fill-opacity: 0.3; }
+  .map-cluster-badge { pointer-events: none; }
+  .map-dot-fanout {
+    cursor: pointer;
+    transition: transform 0.2s, opacity 0.2s;
+    transform-origin: center;
+    transform-box: fill-box;
+  }
+  .map-dot-fanout:hover { transform: scale(1.3); }
   .map-zoom-controls {
     position: absolute;
     top: 10px;
@@ -1864,27 +1877,56 @@
 
     let dots = '';
     Object.values(byHq).forEach(g => {
-      // Place dots in a small cluster around the exact point if multiple
       const n = g.companies.length;
-      const offsets = n === 1 ? [[0, 0]] :
-        n === 2 ? [[-2, -2], [2, 2]] :
-        n === 3 ? [[-2.5, -1.5], [2.5, -1.5], [0, 2.5]] :
-        [[-3, -2], [3, -2], [-3, 2], [3, 2]];
-      g.companies.forEach((c, i) => {
-        // Prefer HQ-specific override (visually verified), fall back to lat/lng projection
-        const override = HQ_OVERRIDES[c.hq];
-        let x, y;
-        if (override) {
-          [x, y] = override;
-        } else {
-          [x, y] = latLngToSVG(g.lat, g.lng);
-        }
-        const [dx, dy] = offsets[i] || [0, 0];
-        const cx = x + dx, cy = y + dy;
+      // Get cluster center (from override or projection)
+      const override = HQ_OVERRIDES[g.hq];
+      const baseX = override ? override[0] : latLngToSVG(g.lat, g.lng)[0];
+      const baseY = override ? override[1] : latLngToSVG(g.lat, g.lng)[1];
+
+      if (n === 1) {
+        // Single company: render normally
+        const c = g.companies[0];
         const r = valuationToRadius(c.funding?.post_money_valuation_usd);
         const opacity = 0.7 + 0.3 * Math.min(1, (c.confidence === 'high' ? 1 : c.confidence === 'medium' ? 0.6 : 0.3));
-        dots += `<circle class="map-dot" cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${r}" data-r="${r}" fill="#58a6ff" stroke="${dotStroke}" stroke-width="${Math.max(0.5, r/8).toFixed(2)}" fill-opacity="${opacity}" data-co="${escapeHtml(c.name)}"></circle>`;
-      });
+        dots += `<circle class="map-dot" cx="${baseX.toFixed(1)}" cy="${baseY.toFixed(1)}" r="${r}" data-r="${r}" fill="#58a6ff" stroke="${dotStroke}" stroke-width="${Math.max(0.5, r/8).toFixed(2)}" fill-opacity="${opacity}" data-co="${escapeHtml(c.name)}"></circle>`;
+      } else {
+        // Multi-company cluster: render a halo + count badge + 1-2 representative dots
+        // Sort by size (largest first) so the biggest pins are visible
+        const sorted = g.companies.slice().sort((a, b) => {
+          const ra = valuationToRadius(a.funding?.post_money_valuation_usd);
+          const rb = valuationToRadius(b.funding?.post_money_valuation_usd);
+          return rb - ra;
+        });
+        // Place the largest pin in the center, 1-2 medium pins at small offsets,
+        // and render a halo behind them with a count badge. The remaining pins
+        // (smaller ones) are revealed on hover via the fan-out.
+        const maxR = valuationToRadius(sorted[0].funding?.post_money_valuation_usd);
+        const haloR = maxR + 4;
+        // Cluster halo (transparent, captures hover for fan-out)
+        dots += `<circle class="map-cluster-halo" cx="${baseX.toFixed(1)}" cy="${baseY.toFixed(1)}" r="${haloR}" fill="#58a6ff" fill-opacity="0.15" stroke="#58a6ff" stroke-width="0.5" stroke-opacity="0.4" data-hq="${escapeHtml(g.hq)}" data-cluster-size="${n}"></circle>`;
+        // Big representative dot in center
+        const opacity = 0.7 + 0.3 * Math.min(1, (sorted[0].confidence === 'high' ? 1 : sorted[0].confidence === 'medium' ? 0.6 : 0.3));
+        dots += `<circle class="map-dot map-dot-cluster-head" cx="${baseX.toFixed(1)}" cy="${baseY.toFixed(1)}" r="${maxR}" data-r="${maxR}" fill="#58a6ff" stroke="${dotStroke}" stroke-width="${Math.max(0.5, maxR/8).toFixed(2)}" fill-opacity="${opacity}" data-co="${escapeHtml(sorted[0].name)}" data-cluster-hq="${escapeHtml(g.hq)}"></circle>`;
+        // 2nd largest at a small offset (if exists)
+        if (sorted.length >= 2) {
+          const r2 = valuationToRadius(sorted[1].funding?.post_money_valuation_usd);
+          const dx2 = -3, dy2 = -3;
+          const op2 = 0.7 + 0.3 * Math.min(1, (sorted[1].confidence === 'high' ? 1 : sorted[1].confidence === 'medium' ? 0.6 : 0.3));
+          dots += `<circle class="map-dot map-dot-cluster-peek" cx="${(baseX+dx2).toFixed(1)}" cy="${(baseY+dy2).toFixed(1)}" r="${r2}" data-r="${r2}" fill="#58a6ff" stroke="${dotStroke}" stroke-width="${Math.max(0.5, r2/8).toFixed(2)}" fill-opacity="${op2}" data-co="${escapeHtml(sorted[1].name)}" data-cluster-hq="${escapeHtml(g.hq)}"></circle>`;
+        }
+        // Count badge
+        dots += `<g class="map-cluster-badge" data-hq="${escapeHtml(g.hq)}">
+          <circle cx="${(baseX + haloR - 2).toFixed(1)}" cy="${(baseY - haloR + 2).toFixed(1)}" r="3.5" fill="#f85149" stroke="#fff" stroke-width="0.4"/>
+          <text x="${(baseX + haloR - 2).toFixed(1)}" y="${(baseY - haloR + 3).toFixed(1)}" text-anchor="middle" fill="#fff" font-size="5" font-weight="bold">${n}</text>
+        </g>`;
+        // Hidden dots for the other companies (shown on hover)
+        // We store their data on the halo element via a side-channel map
+        g._otherCompanies = sorted.slice(2).map(c => ({
+          name: c.name,
+          r: valuationToRadius(c.funding?.post_money_valuation_usd),
+          opacity: 0.7 + 0.3 * Math.min(1, (c.confidence === 'high' ? 1 : c.confidence === 'medium' ? 0.6 : 0.3))
+        }));
+      }
     });
 
     // Wrap the inner with our own viewBox matching the source SVG's viewBox
@@ -2073,6 +2115,128 @@
         openModal(c);
       });
     });
+
+    // ============ Cluster halo hover → fan-out all pins ============
+    // On hover of a cluster halo, fan out the remaining (hidden) company pins
+    // radially so they're individually visible and hoverable. Hide on mouseout.
+    let fanoutGroup = null;  // current <g> of fan-out pins
+    const fanoutByHq = new Map(); // hq -> [{ name, r, opacity, angle }]
+
+    function buildFanoutLayout(g) {
+      // Sort smaller pins to the outside (visible without overlapping big pins)
+      const sorted = g.companies.slice().sort((a, b) => {
+        const ra = valuationToRadius(a.funding?.post_money_valuation_usd);
+        const rb = valuationToRadius(b.funding?.post_money_valuation_usd);
+        return ra - rb;  // smallest first → outer ring
+      });
+      const maxR = valuationToRadius(sorted[sorted.length - 1].funding?.post_money_valuation_usd);
+      const out = [];
+      const baseR = maxR + 4;  // start of fan-out circle (outside the big pin)
+      const stepR = 6;
+      sorted.forEach((c, i) => {
+        // Place smaller pins farther out so they don't get hidden by bigger ones
+        const layer = i;  // 0 = innermost (smallest), increases outward
+        const r = valuationToRadius(c.funding?.post_money_valuation_usd);
+        const dist = baseR + layer * stepR;
+        // Distribute angularly: smallest pins first
+        const angle = (i / sorted.length) * 2 * Math.PI - Math.PI / 2;
+        out.push({
+          name: c.name,
+          r,
+          opacity: 0.7 + 0.3 * Math.min(1, (c.confidence === 'high' ? 1 : c.confidence === 'medium' ? 0.6 : 0.3)),
+          dx: Math.cos(angle) * dist,
+          dy: Math.sin(angle) * dist,
+          angle
+        });
+      });
+      return out;
+    }
+
+    function showFanout(halo, g) {
+      hideFanout();
+      const hq = halo.getAttribute('data-hq');
+      const cx = parseFloat(halo.getAttribute('cx'));
+      const cy = parseFloat(halo.getAttribute('cy'));
+      const layout = fanoutByHq.get(hq) || buildFanoutLayout(g);
+      fanoutByHq.set(hq, layout);
+      fanoutGroup = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+      fanoutGroup.setAttribute('class', 'map-fanout-group');
+      // Connector lines from cluster center to each pin (subtle visual hint)
+      layout.forEach(item => {
+        const dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+        dot.setAttribute('class', 'map-dot map-dot-fanout');
+        dot.setAttribute('cx', (cx + item.dx).toFixed(2));
+        dot.setAttribute('cy', (cy + item.dy).toFixed(2));
+        dot.setAttribute('r', item.r);
+        dot.setAttribute('data-r', item.r);
+        dot.setAttribute('fill', '#58a6ff');
+        dot.setAttribute('stroke', dotStroke);
+        dot.setAttribute('stroke-width', Math.max(0.5, item.r/8).toFixed(2));
+        dot.setAttribute('fill-opacity', item.opacity);
+        dot.setAttribute('data-co', item.name);
+        fanoutGroup.appendChild(dot);
+      });
+      svg.appendChild(fanoutGroup);
+      // Wire up events on the fanout dots
+      fanoutGroup.querySelectorAll('.map-dot-fanout').forEach(dot => {
+        const name = dot.getAttribute('data-co');
+        const c = COMPANIES.find(x => x.name === name);
+        if (!c) return;
+        dot.addEventListener('mouseenter', (e) => {
+          tooltip.innerHTML = `
+            <div class="tooltip-name">${escapeHtml(c.name)}</div>
+            <div class="tooltip-row"><span>HQ</span><strong>${escapeHtml(c.hq)}</strong></div>
+            <div class="tooltip-row"><span>Category</span><strong>${escapeHtml(c.category)}</strong></div>
+            <div class="tooltip-row"><span>Valuation</span><strong>${fmtUSD(c.funding?.post_money_valuation_usd)}</strong></div>
+            <div class="tooltip-row"><span>Total raised</span><strong>${fmtUSD(c.funding?.total_raised_usd || c.funding?.amount_usd)}</strong></div>
+          `;
+          tooltip.classList.add('show');
+        });
+        dot.addEventListener('mousemove', (e) => {
+          const rect = wrap.getBoundingClientRect();
+          tooltip.style.left = (e.clientX - rect.left + 14) + 'px';
+          tooltip.style.top  = (e.clientY - rect.top + 14) + 'px';
+        });
+        dot.addEventListener('mouseleave', () => tooltip.classList.remove('show'));
+        dot.addEventListener('click', (e) => {
+          e.stopPropagation();
+          // Zoom into this specific cluster (more focused than just opening modal)
+          const g2 = byHq[c.hq] || Object.values(byHq).find(g => g.companies.some(co => co.name === c.name));
+          if (g2) zoomToCluster(g2, e);
+        });
+        dot.addEventListener('dblclick', (e) => {
+          e.stopPropagation();
+          openModal(c);
+        });
+      });
+    }
+
+    function hideFanout() {
+      if (fanoutGroup) {
+        fanoutGroup.remove();
+        fanoutGroup = null;
+      }
+    }
+
+    wrap.querySelectorAll('.map-cluster-halo').forEach(halo => {
+      const hq = halo.getAttribute('data-hq');
+      const g = byHq[hq];
+      if (!g) return;
+      halo.addEventListener('mouseenter', () => showFanout(halo, g));
+      halo.addEventListener('mouseleave', () => {
+        // Delay hiding so user can move to a fan-out dot
+        setTimeout(() => {
+          if (fanoutGroup && !fanoutGroup.matches(':hover')) hideFanout();
+        }, 100);
+      });
+      halo.addEventListener('click', (e) => {
+        e.stopPropagation();
+        zoomToCluster(g, e);
+      });
+    });
+    // Also hide fanout on pan/wheel
+    svg.addEventListener('mousedown', hideFanout);
+    svg.addEventListener('wheel', hideFanout);
   }
 
   // ============ Bar chart helper ============
