@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-08-17"
+    "_refresh_note": "2026-08-18"
   },
   {
     "name": "OpenAI",
@@ -1544,6 +1544,18 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-06",
+        "headline": "Datadog, Inc.  (DDOG)  (CIK 0001561550) - 8-K filing",
+        "summary": "SEC filing: Datadog, Inc.  (DDOG)  (CIK 0001561550) - 8-K filing",
+        "source": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001561550&type=8-K"
+      },
+      {
+        "date": "2026-08-06",
+        "headline": "Datadog, Inc.  (DDOG)  (CIK 0001561550) - 10-Q filing",
+        "summary": "SEC filing: Datadog, Inc.  (DDOG)  (CIK 0001561550) - 10-Q filing",
+        "source": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001561550&type=10-Q"
+      },
+      {
         "date": "2026-08-17",
         "headline": "Mizuho reiterates Datadog stock rating on AI growth, product strength - Investing.com",
         "summary": "Mizuho reiterates Datadog stock rating on AI growth, product strength - Investing.com",
@@ -1590,18 +1602,6 @@
         "headline": "The Top 5 Analyst Questions From Datadog’s Q2 Earnings Call - StockStory",
         "summary": "The Top 5 Analyst Questions From Datadog’s Q2 Earnings Call - StockStory",
         "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc1VtWU9ReXVHNzlqcUpRS2NaMXNCMTRTSF94bFBjdWNQMk1yemdFQk1yZ0RXNk45RnRlb2Q4RFJ6V1lqbjBkQll2SXlvcFhzQ2pBeG9WYWpUbWhoWjFoWVo2ZkRxM3NnZzFNMDBRcFkyUS1HUVotaEZsRWxUTTFHX1d3UjVaVXhjX2Q1aW9JVk01dGsxUWQzYm9nZ0VYYm9mTV96ZGRkWmV4TnJ4UmZmTjhCaHNPb2xPMWg5T1V4dw?oc=5"
-      },
-      {
-        "date": "2026-08-13",
-        "headline": "Why Datadog (DDOG) Stock Is Up Today - quiverquant.com",
-        "summary": "Why Datadog (DDOG) Stock Is Up Today - quiverquant.com",
-        "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IcGZaTnlmZEZSZmdqRE9ia0xuWlphNnMzLVhUelc2N0ZNTm55M0dtbVg5YXRWakNjdUV4S0xYNVBCd2IwaFdvUlVHLTI3NUktbmNqTXVZM2lxY3VzcTQtdTQ5T1F0VzIyVTNGYmttdmhhdFBKaXVDTmN6ejY5QQ?oc=5"
-      },
-      {
-        "date": "2026-08-13",
-        "headline": "Datadog Sees AI, Platform Expansion Fueling Accelerating Growth - MarketBeat",
-        "summary": "Datadog Sees AI, Platform Expansion Fueling Accelerating Growth - MarketBeat",
-        "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMjlTSTFEWGFUc1k0UTUzQzJpRXhjYjlBZ3I5X1E4WGk4amxLY2lRYWRpNkQwWnNKWktUOTJ1dGFnd3Rac0xGTUpoQU5yOFZ5Q3diNGg4RFdtMWtyX1ZWc1U4RWRZS0x0MGNURGtUcVl3THpTTkdxbTZaSkJLQkFYanA0U1VhejNHWkJSV0tNbElvRUhmc2FNMGxRZkFRMjItc0pGcWNrM0RzQ0NZbmg2cnFkRUxmbE0?oc=5"
       }
     ],
     "sources": [
