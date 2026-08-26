@@ -1572,33 +1572,110 @@
   }
 
   // ============ Stats (key stats row) ============
+  // Public companies are valued at market cap, not post-money (which is
+  // historically set once at IPO and goes stale). Keep this list in sync
+  // with build/compute_stats.py:PUBLIC_COMPANIES.
+  const PUBLIC_COMPANIES = new Set(['ServiceNow', 'Snowflake', 'DataDog', 'AvePoint']);
+
+  // Pre-compute stats from COMPANIES so we have a fallback if stats.json
+  // hasn't been published yet (e.g. first page load, cache miss).
+  function computeStatsFromCompanies() {
+    const n = COMPANIES.length;
+    // Capital raised: ONLY lifetime total_raised_usd, never fall back to
+    // amount_usd (which is the latest round amount, not lifetime).
+    let capitalTotal = 0, capitalDisclosed = 0;
+    let latestRoundTotal = 0, latestRoundCount = 0;
+    // Valuation: private post-money + public market cap.
+    let privateVal = 0, privateCount = 0;
+    let publicVal = 0, publicCount = 0;
+    // ARR: only count disclosed.
+    let arrTotal = 0, arrDisclosed = 0;
+    for (const c of COMPANIES) {
+      const f = c.funding || {};
+      const tr = f.total_raised_usd;
+      if (typeof tr === 'number' && tr > 0) { capitalTotal += tr; capitalDisclosed += 1; }
+      const amt = f.amount_usd;
+      if (typeof amt === 'number' && amt > 0) { latestRoundTotal += amt; latestRoundCount += 1; }
+      if (PUBLIC_COMPANIES.has(c.name)) {
+        const cap = f.current_market_cap_usd;
+        if (typeof cap === 'number' && cap > 0) { publicVal += cap; publicCount += 1; }
+      } else {
+        const pm = f.post_money_valuation_usd;
+        if (typeof pm === 'number' && pm > 0) { privateVal += pm; privateCount += 1; }
+      }
+      const a = c.arr_usd;
+      if (typeof a === 'number' && a > 0) { arrTotal += a; arrDisclosed += 1; }
+    }
+    const newsTotal = COMPANIES.reduce((s, c) => s + (c.latest_news?.length || 0), 0);
+    const catSet = new Set(COMPANIES.map(c => c.category).filter(Boolean));
+    return {
+      companies_tracked: n,
+      categories: catSet.size,
+      news_items: newsTotal,
+      capital_raised: { total_usd: capitalTotal, disclosed_count: capitalDisclosed, total_count: n, latest_round_total_usd: latestRoundTotal, latest_round_count: latestRoundCount },
+      combined_arr:    { total_usd: arrTotal, disclosed_count: arrDisclosed, total_count: n },
+      combined_valuation: { total_usd: privateVal + publicVal, private_post_money_usd: privateVal, private_count: privateCount, public_market_cap_usd: publicVal, public_count: publicCount },
+      last_updated: null,
+    };
+  }
+
+  let STATS = null;
+  // Try to load the precomputed stats sidecar. Falls back to live-compute.
+  fetch('./stats.json', { cache: 'no-store' })
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(s => { STATS = s; renderStats(); })
+    .catch(() => { /* stats.json missing — live-compute fallback */ });
+
+  function fmtLastUpdated(iso) {
+    if (!iso) return '';
+    try {
+      const d = new Date(iso);
+      const ms = Date.now() - d.getTime();
+      const min = Math.floor(ms / 60000);
+      if (min < 1) return 'just now';
+      if (min < 60) return `${min}m ago`;
+      const hr = Math.floor(min / 60);
+      if (hr < 24) return `${hr}h ago`;
+      const day = Math.floor(hr / 24);
+      return `${day}d ago`;
+    } catch { return ''; }
+  }
+
   function renderStats() {
-    const total = COMPANIES.length;
-    const totalFunding = COMPANIES.reduce((s, c) => s + (c.funding?.total_raised_usd || c.funding?.amount_usd || 0), 0);
-    const totalVal = COMPANIES.reduce((s, c) => s + (c.funding?.post_money_valuation_usd || 0), 0);
-    const totalARR = COMPANIES.reduce((s, c) => s + (c.arr_usd || 0), 0);
-    const totalNews = COMPANIES.reduce((s, c) => s + (c.latest_news?.length || 0), 0);
-    const catSet = new Set(COMPANIES.map(c => c.category));
+    const s = STATS || computeStatsFromCompanies();
+    const cap = s.capital_raised || {};
+    const arr = s.combined_arr || {};
+    const val = s.combined_valuation || {};
+    const total = s.companies_tracked ?? COMPANIES.length;
+    const catSet = new Set(COMPANIES.map(c => c.category).filter(Boolean));
+    const cats = s.categories ?? catSet.size;
+    const news = s.news_items ?? COMPANIES.reduce((sum, c) => sum + (c.latest_news?.length || 0), 0);
+    const capDisc = cap.disclosed_count != null ? `${cap.disclosed_count}/${cap.total_count || total} disclosed` : 'cumulative across disclosed rounds';
+    const arrDisc = arr.disclosed_count != null ? `${arr.disclosed_count}/${arr.total_count || total} disclosed` : 'annualized recurring revenue';
+    const valSub  = val.private_count != null && val.public_count != null
+      ? `${val.private_count} private + ${val.public_count} public`
+      : `${news} developments tracked`;
+    const lastUpdated = s.last_updated ? `updated ${fmtLastUpdated(s.last_updated)}` : '';
     document.getElementById('stats-row').innerHTML = `
       <div class="stat">
         <div class="stat-label">Companies Tracked</div>
         <div class="stat-value">${total}</div>
-        <div class="stat-sub">across ${catSet.size} categories</div>
+        <div class="stat-sub">across ${cats} categories${lastUpdated ? ' &middot; ' + lastUpdated : ''}</div>
       </div>
       <div class="stat">
         <div class="stat-label">Total Capital Raised</div>
-        <div class="stat-value">${fmtUSD(totalFunding)}</div>
-        <div class="stat-sub">cumulative across disclosed rounds</div>
+        <div class="stat-value">${fmtUSD(cap.total_usd)}</div>
+        <div class="stat-sub">${capDisc}</div>
       </div>
       <div class="stat">
         <div class="stat-label">Combined ARR</div>
-        <div class="stat-value">${fmtUSD(totalARR)}</div>
-        <div class="stat-sub">annualized recurring revenue</div>
+        <div class="stat-value">${fmtUSD(arr.total_usd)}</div>
+        <div class="stat-sub">${arrDisc}</div>
       </div>
       <div class="stat">
         <div class="stat-label">Combined Valuation</div>
-        <div class="stat-value">${fmtUSD(totalVal)}</div>
-        <div class="stat-sub">${totalNews} developments tracked</div>
+        <div class="stat-value">${fmtUSD(val.total_usd)}</div>
+        <div class="stat-sub">${valSub}</div>
       </div>
     `;
   }

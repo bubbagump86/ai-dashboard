@@ -1,0 +1,29 @@
+{
+  "last_updated": "2026-08-26T10:22:24+00:00",
+  "as_of_date": "2026-08-26",
+  "companies_tracked": 40,
+  "categories": 10,
+  "news_items": 357,
+  "capital_raised": {
+    "total_usd": 105917600000,
+    "disclosed_count": 35,
+    "total_count": 40,
+    "latest_round_total_usd": 258038800000,
+    "latest_round_count": 34,
+    "note": "sum of funding.total_raised_usd (lifetime)"
+  },
+  "combined_arr": {
+    "total_usd": 30532200000,
+    "disclosed_count": 11,
+    "total_count": 40,
+    "note": "sum of arr_usd; only disclosed companies included"
+  },
+  "combined_valuation": {
+    "total_usd": 2867760000000,
+    "private_post_money_usd": 2553530000000,
+    "private_count": 25,
+    "public_market_cap_usd": 314230000000,
+    "public_count": 4,
+    "note": "private = post_money_valuation_usd; public = current_market_cap_usd"
+  }
+}
