@@ -1252,15 +1252,15 @@
     "funding": {
       "latest_round": "Series D",
       "amount_usd": 1000000000,
-      "date": "2026-08-12",
+      "date": "2026-05-27",
       "lead_investors": [
         "Lux Capital",
         "General Catalyst",
         "8VC"
       ],
-      "post_money_valuation_usd": 40000000000,
+      "post_money_valuation_usd": 26000000000,
       "total_raised_usd": 2500000000,
-      "source_note": "Series D >$1B at $26B post-money valuation. Previous round was $400M at $10.2B in September 2025. Total raised >$2.5B. Source: TechCrunch, May 2026."
+      "source_note": "Series D >$1B at $26B post-money valuation, closed May 27 2026. Co-led by Lux Capital, General Catalyst, 8VC. Previous round was $400M at $10.2B post in September 2025. August 2026 Bloomberg report about $40B talks contingent on $1B ARR has not closed (current ARR ~$492M); do not count that as current valuation."
     },
     "latest_news": [
       {
@@ -2748,15 +2748,16 @@
     "intro": "Preferred Networks (PFN) is Japan's leading independent AI company, established in 2014 by University of Tokyo computer scientists. A vertically integrated developer of AI semiconductors, computing infrastructure, generative AI, and specific AI solutions. Developed PLaMo (Japanese-optimized LLM) and MN-Core processors. Recently joined the Noetra consortium with SoftBank, Sony, NEC, Honda for Japan's national AI project, receiving ~¥1T (~$6.1B) in 5-year government support.",
     "product": "PLaMo (proprietary LLM trained on Japanese data, PLaMo 3.0 Prime priced at <50% of OpenAI for Japanese). Kachaka (autonomous mobile robot). PLaMo Light & PLaMo 100B (open-weight). Real-world control systems for oil refineries. MN-Core AI processors. New NEDO project: multimodal Physical AI foundation model with Noetra. Joint research with Toyota Frontier Research Center and MHI for defense applications.",
     "funding": {
-      "latest_round": "Government + Strategic",
-      "amount_usd": 6300000000,
-      "date": "2026-07-16",
+      "latest_round": "Strategic partnerships",
+      "amount_usd": null,
+      "date": null,
       "lead_investors": [
-        "Japan METI/NEDO"
+        "Mitsubishi Heavy Industries",
+        "Toyota Frontier Research"
       ],
       "post_money_valuation_usd": null,
       "total_raised_usd": null,
-      "source_note": "Japanese government providing ~¥1T (~$6.1B) over 5 years to Noetra (consortium including PFN, SoftBank, Sony, NEC, Honda). PFN also partnered with MHI for defense AI. Source: Asia Times, Kyodo News, PFN press release."
+      "source_note": "No direct PFN equity raise of this size. The ¥1T (~$6.1B) 5-year figure refers to a Japan METI/NEDO grant to Noetra (consortium led by SoftBank, Sony, NEC, Honda, with PFN contributing engineers to the PLaMo model team). Confirmed FY2026 commission is ¥387.3B (~$2.4B) to Noetra; PFN is a participating member, not the direct grant recipient. PFN-level capital commitments are via partnerships with Mitsubishi Heavy (June 2026) and Toyota Frontier Research. No public PFN equity raise amount on record. amount_usd and total_raised_usd left null to avoid overstating PFN-specific capital."
     },
     "latest_news": [
       {
@@ -3152,16 +3153,15 @@
     "intro": "SandboxAQ is an enterprise B2B AI/quantum company spun out of Alphabet in 2022. Led by Jack Hidary (former Google AI/quantum lead), the company builds Large Quantitative Models (LQMs) — a complement to LLMs for science and business problems in drug discovery, materials science, cybersecurity, navigation, and medical devices. Has raised >$950M total. Recently announced a Pentagon AI cyber contract.",
     "product": "Large Quantitative Models (LQMs) for life sciences, financial services, navigation, and other sectors. Cybersecurity AI products (recent Pentagon contract). Drug discovery & materials science AI. Solutions at the intersection of AI and quantum techniques — addressing problems where LLMs alone are insufficient.",
     "funding": {
-      "latest_round": "Strategic",
+      "latest_round": "CHIPS R&D Award (equity-linked)",
       "amount_usd": 500000000,
       "date": "2026-06-18",
       "lead_investors": [
-        "Fred Alger Management",
-        "T. Rowe Price"
+        "US Department of Commerce"
       ],
       "post_money_valuation_usd": 5300000000,
       "total_raised_usd": 950000000,
-      "source_note": "December 2024: $300M+ at $5.3B pre-money. Total raised >$950M since Alphabet spinoff. Investors: Fred Alger, T. Rowe Price, Mumtalakat, Parkway Venture Capital, Breyer Capital, Marc Benioff, Eric Schmidt, Yann LeCun, IQT. Source: SandboxAQ press release."
+      "source_note": "CHIPS and Science Act R&D award of $500M (definitive agreement June 17, 2026). In exchange, US Dept of Commerce receives a minority, non-voting equity stake. R&D scope: PFAS-free process chemicals, catalysts, rare earth-free magnets, fab backup batteries. Prior priced equity: $300M+ in Dec 2024 at $5.3B pre-money. Total traditional equity raised >$950M since 2022 Alphabet spinoff. CHIPS award is excluded from funding.total_raised_usd because it is an R&D grant + government minority equity, not a primary priced round."
     },
     "latest_news": [
       {
@@ -3460,7 +3460,7 @@
       ],
       "post_money_valuation_usd": null,
       "total_raised_usd": 3500000000,
-      "source_note": "Series B+ ~CNY 5B (~$719M). Largest single financing in China's large-model sector in past 12 months. State-owned investors (Shanghai SDIC, China Life PE, Pudong VC). Existing: Tencent, Qiming, 5Y Capital. Source: Yicai Global, Asia Tech Daily, TechNode."
+      "source_note": "Closed $2.5B funding round Aug 4, 2026, ahead of Hong Kong IPO (seeking $12B valuation per June 2026 reports). Co-led by Shanghai SDIC Leading Fund and China Life Private Equity. State-owned investors. Previous Series B+ was ~CNY 5B (~$719M) in early 2026, with Tencent, Qiming, 5Y Capital participating."
     },
     "latest_news": [
       {
