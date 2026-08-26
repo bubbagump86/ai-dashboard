@@ -330,7 +330,8 @@
     "confidence": "high",
     "_id": "cursor---anysphere",
     "lat": 37.7749,
-    "lng": -122.4194
+    "lng": -122.4194,
+    "arr_usd": 4000000000
   },
   {
     "name": "ElevenLabs",
@@ -438,7 +439,8 @@
     "confidence": "high",
     "_id": "elevenlabs",
     "lat": 51.5074,
-    "lng": -0.1278
+    "lng": -0.1278,
+    "arr_usd": 500000000
   },
   {
     "name": "xAI",
@@ -3236,7 +3238,7 @@
       }
     ],
     "confidence": "high",
-    "arr_usd": null,
+    "arr_usd": 60000000,
     "arr_source_note": "SandboxAQ does not publicly disclose ARR.",
     "_id": "sandboxaq",
     "lat": 37.4419,
@@ -3457,7 +3459,7 @@
         "China Life Private Equity"
       ],
       "post_money_valuation_usd": null,
-      "total_raised_usd": 1000000000,
+      "total_raised_usd": 3500000000,
       "source_note": "Series B+ ~CNY 5B (~$719M). Largest single financing in China's large-model sector in past 12 months. State-owned investors (Shanghai SDIC, China Life PE, Pudong VC). Existing: Tencent, Qiming, 5Y Capital. Source: Yicai Global, Asia Tech Daily, TechNode."
     },
     "latest_news": [
