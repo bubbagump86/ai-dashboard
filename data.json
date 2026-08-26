@@ -109,7 +109,8 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-08-26"
+    "_refresh_note": "2026-08-26",
+    "arr_usd": 65000000000
   },
   {
     "name": "OpenAI",
@@ -129,7 +130,7 @@
         "NVIDIA"
       ],
       "post_money_valuation_usd": 852000000000,
-      "total_raised_usd": null,
+      "total_raised_usd": 122000000000,
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
@@ -219,7 +220,8 @@
     "confidence": "high",
     "_id": "openai",
     "lat": 37.7749,
-    "lng": -122.4194
+    "lng": -122.4194,
+    "arr_usd": 40000000000
   },
   {
     "name": "Cursor / Anysphere",
