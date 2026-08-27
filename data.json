@@ -23,6 +23,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I. - The New York Times",
+        "summary": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I. - The New York Times",
+        "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFBaLWFrTEl2bjlmNGZYNW40ck1LN1lMOWJpUUpZR1YzVGhEaE1QTkdNNGNZRWs4M2tLSnkyRUhkUDREZEx0VlNvMUNEcUFJMDFKcjhkYmd6MTVIVU5IZEFyMmhMU21ldkc1TDkxOHktMEdyUEkxNGlqcnQ4Nk5qMw?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "OpenAI, Anthropic Urge Cyber Defense Action as AI Models Improve - Bloomberg.com",
+        "summary": "OpenAI, Anthropic Urge Cyber Defense Action as AI Models Improve - Bloomberg.com",
+        "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDd3U3BGeEl1OTlveFhkeGp5R0I3XzFxdDVSdFVNdTlUaUdrR1VReE9wUDJYeEdpVzY5V3BMRGNYUnpKV0lBV3hlTjRodkZmODB2enhoY2RMMlJxdWc4WHdTOEo2RUgyV0Nzd0VzcHBWZ0E0WGJnSGpXRHAxVnJmcnYyRmtaSVd2Yl96NzVhdElJQjI1Q3Y5ZVpJc0hQWUlzb2ZDcnROREJLSmd1bV9lbE9IbUs?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Anthropic's new hardware standard lets AI agents control the physical world - Ars Technica",
+        "summary": "Anthropic's new hardware standard lets AI agents control the physical world - Ars Technica",
+        "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2dOSHcyS2VTS2YxQ2ZwSTBLZ2ljelNkd2ZPeXVLc196Y0h5eG9lRDF0U1c1ZUN4VmEza29mSWdXT05QVURvNHFZMnNxWWVieHdLenAzUDdtOGlVbF9SU3ZrVjJVek5wM1Voek5mN0NmSk5jVDdNUjhhamlDYk1Ha2Y1Y3lKbGQtUm8zWW91TklhUWp4akVDNWNmdFdERkxsRGkyNTZ2YmNpLXQ1X24w?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Anthropic launches AI tool that can conduct scientific experiments - Financial Times",
+        "summary": "Anthropic launches AI tool that can conduct scientific experiments - Financial Times",
+        "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdktRbmg2OXVoenFZZTN2c2E4T1ozVjZ2Tl9NdW9XNHROTXZlU0liU0NSU21sck42YXZQdXd1QVJwVWprODk5VTZNa2g4dTEydFN6dTA4TDhvMnlnZDdSN2lnU0h4ZVRWUzlrS0NJZzB6d2phUk00TGxDWTNoLU93Mm1GalU?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools - Bloomberg.com",
+        "summary": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools - Bloomberg.com",
+        "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnU3QkdiNk1jYklqWmJZWXlJbGlCWUhjTEM5REpHcFJxX0c0ZndUZUFnTDJVNWJKQ1dnN2Z6QkxJSHdhYmlkN2p5blZUUFUxaTdBWXJUcl9WaHNyVjN3M0N3RzBPZUNRaHBZdkU0YmtvRDc1MzBkME9EamdoYTEwYlU3QTJ5RmtmV2dKdHpWMm9EY3hURkFhYS1DSWVmSVVPS28xaEEwbklDMTU5Yk1kM2RjZHZveVhhV1pUTF90R0ZWaE9pcUkwSXNn?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns - CNBC",
         "summary": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns - CNBC",
@@ -51,36 +81,6 @@
         "headline": "Anthropic agrees $45bn AI data centre deal with UK start-up Nscale - Financial Times",
         "summary": "Anthropic agrees $45bn AI data centre deal with UK start-up Nscale - Financial Times",
         "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFdwRkdzT29RSlNEUjhiTk9wbEF5S2RKSW5fbmZzOHM2WXFKaHlrYVhVT2ctRWRTLWZLMlFGMXNDU0VhWXJhNkRjNGpZYUVlMkJoWDJ4OHhyVmZ0NTNtTkdZSUVFeGVRVWVyZzdUT0o5dUFVeUNVQVJmcDQ3aVAwRUFfbFg?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Five things to know about Anthropic ahead of Wall Street debut - Yahoo Finance",
-        "summary": "Five things to know about Anthropic ahead of Wall Street debut - Yahoo Finance",
-        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRnJndWRSczVBM1dBZ2k3YXdHcW05TDRnWEVnQzdFdEo4WGZ1ekNINVFtcWpmaWdZdmN3ei05MUpPai1ObUN2U1hxMGZjZWg0dGtIUTZBMTMxYWlfVFhJV1lWVTduTUlhVXJxOEdsNmlNcmZHTHhJbFpWTHA5OXVjUGVKNzZUZDNWZ3B0R1FsMjBoU3oxaTFIcUpucjE?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Anthropic IPO: Five things to know before its Wall Street debut - Euronews.com",
-        "summary": "Anthropic IPO: Five things to know before its Wall Street debut - Euronews.com",
-        "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1Y2ZDVQUmoxekl6LTB6OUQ3T09qT0o1MHlKYW9Yd0MyNmJ1MlZWLU93bzlXbmRGLUpoSU1JWjRBTUgxV0RlYkE3VUtKLU5CelNzR211R01lMTVLclVDNkVOVnEzRmEtZ0U1QmE2T2hVSnNCckkxcS1yZWtGa1dFLWN0LXJtc243dXRjVk1IbVpxYzlZWUZwREtodjlDRHNkekRkY3lhRWlzaHc?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Anthropic Sees a $30T Market: Inside the Stocks Around Claude - Moomoo",
-        "summary": "Anthropic Sees a $30T Market: Inside the Stocks Around Claude - Moomoo",
-        "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkl4YnBHaElyNTM1R19jem1mdUJVclg3WGtOdXEtRHgwNUpjaTZ3ZEI2bHowWXJKbmpfc0FNTFFYUmhqaUNYMU1uVFpNWmtPRExodVg3QkRtelJ1b2lwTFFKTG1leG5fQVZxVnZLSkM0STRjeFVpcHpFZGx4QTZ5SGJMUF9nbmZJT3JUQ3Z4THhwYkZzYjRJUV9WZ1FqVXlXWVpLajcxSFJpSjZ5dmt0Z29aMA?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Anthropic prepares for potential record IPO with $30T market pitch - Anadolu Ajansı",
-        "summary": "Anthropic prepares for potential record IPO with $30T market pitch - Anadolu Ajansı",
-        "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1JNLS1oTUIxdTdab29yOXE0TFRhTjNBaWF4UFk2WGpzX2wyektleXotNkdpRVNjZmZOY04xUWdqRG53d1ZUMTYya2tZOFJxckJFNjlXcDNjcUxTcXJIOWtzdnczMk1Ia2JxV3c0QmJGNkh4Ni11dkRkOVBvY3NyZ2JjYzV1bHB0WmMzMWZITEEwQW40UV9lZG5lVk0zRHRxOTVwYlhpN1lLdw?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "[Anthropic vs. OpenAI] On the Eve of IPOs, a Battle for Dominance in a $30 Trillion Market! Searching for the \"Next Star\" from the AI Ecosystems of These Two Companies - Moomoo",
-        "summary": "[Anthropic vs. OpenAI] On the Eve of IPOs, a Battle for Dominance in a $30 Trillion Market! Searching for the \"Next Star\" from the AI Ecosystems of These Two Companies - Moomoo",
-        "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV045a0FEVDJiT2VXaFRJVF9mRkJjYjNYeWt2OTBxbkM0ZVVQYVlHTmduX256WG91MzBZN1dDcnIxMEdKYWZBalNwRHJsZGlUdm5TWHlaSHNRR3J1Y3Vmd2hBcGNmQjFkWm55Xzl5OTRQcDVpbGV3ZUF0YWZsbm9remV6UVlub3JKZ3RTbGRSdmMzSU8wNUZYNnFoQjJwbkhqelE?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-08-26",
+    "_refresh_note": "2026-08-27",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,36 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-08-27",
+        "headline": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico",
+        "summary": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico",
+        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "OpenAI's back-to-school giveaway isn't about teachers. It's about 2028. - Yahoo Finance Australia",
+        "summary": "OpenAI's back-to-school giveaway isn't about teachers. It's about 2028. - Yahoo Finance Australia",
+        "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdUU0UE1oeHVBeVRGQl95OEVscnExSzZqaTNPZzlzVDcxNGNySGxrcWtvU2szaElERUM5enRHLTN0QmdoWnZfU3VPWVoySXpyMGNIUjB6V2lKUmZWSmJCbmNjalZhVGxBUmtZeDlWMGx1OUpiYUk1SzFMa0d2aGFFdnppTS1wbzJFeVE?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "OpenAI Is Developing a ‘Persistent’ AI Agent - WIRED",
+        "summary": "OpenAI Is Developing a ‘Persistent’ AI Agent - WIRED",
+        "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ERTFVb0NSYWxlWGxYdEwzV1Bfb3BnR1dDNjlySVMzcHA1M01ia3lYbS1Jak1vYTZXekl5RlA4ZHA4ME15SjlmOE1Ga2F3X0ZDazd5Y1hsT0lDOUtWN0N6YjN6bk5NS1ZydWk4dWFsdUI0eUk0Tl9CYU5UNA?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Nvidia CEO Jensen Huang Not Taking OpenAI's 'Jalapeño' Chip Personally: 'Lots of Projects Get Started. Lots of Projects Get Canceled' - Yahoo Finance",
+        "summary": "Nvidia CEO Jensen Huang Not Taking OpenAI's 'Jalapeño' Chip Personally: 'Lots of Projects Get Started. Lots of Projects Get Canceled' - Yahoo Finance",
+        "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdTk3SHR3ZnZYMTZnS2VBa2UxYnJmZzQ4YW9sdVVFUW1kbXNwdDVlVlBtZ2NESFRaWVQzREE2dGEzLUNnbVhRNG1qQ0xxeE1ObjVCYkh3UEFFM0hSMXhGVUJ6ZkwwVDVWUlRSR0tHTTBJMlZ3NHRsSDlpUFlaNkxqbDlUZFRyZHZCWjFzRDhJdzI2UzkxWUE?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "OpenAI, Nvidia CEOs to speak at tech-focused G20 meeting - Reuters",
+        "summary": "OpenAI, Nvidia CEOs to speak at tech-focused G20 meeting - Reuters",
+        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2hNTjJlM0VMcW8yeWg1UjUtUWRVbDE2WFlUb0ZQTTRkb1hNaEUtdTd6MGZGelFvN1hwU2hHMHhNNGNOSVVxMVNhUmFKMlVBNGJkT1hOdDNCMjZKWmRrcEtrY3JGWFlMU3dPOWYxTGNDaUt2VjZlQzRWZW01dlE2a1RwRUZtblRqZDA3bVVwVllRWmpWZTF5ZmJ5cXBfZFlfNUEtYWtmXzZYd19pTEkxVA?oc=5"
+      },
       {
         "date": "2026-08-26",
         "headline": "Unexpected chat between OpenAI bots led to Hugging Face hack - BBC",
@@ -163,36 +193,6 @@
         "headline": "How do we explain OpenAI’s executive exodus? - TechCrunch",
         "summary": "How do we explain OpenAI’s executive exodus? - TechCrunch",
         "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSnVHRnFsUmo5Tk0tOHJVQnFNaWpqOFFvNTNGMkpjVWVSTURwd092RzMxcXBLNlVPcUh5LUhRT0lTRktQMVRteGcweXBrai16a3U2WDN6VE1KdXozay1LeEFvaU5HWFRNaElzOUZfb21zZE9NSjJjSDFUSTdjei1xZUhTbw?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "OpenAI loses a top data center exec as stream of high-profile departures continues - TechCrunch",
-        "summary": "OpenAI loses a top data center exec as stream of high-profile departures continues - TechCrunch",
-        "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQnZDYTNQU016aGJnVUljb0VNRXQtd2ExUzBuSl9ZZE5XVWtwUG5kY2RpVmZqcGs5cHpTUjhuakFnVFRkRFhQaE5BRDhXbGdCSnRVbVhhYm4zNEJSLWpQR0lodzE2YzBUODkwUnNLd2FBSWZWYnozcDBYd1FxTG1GNlVCOFdjUnpKM0hvRnZNM1ljSkx1UThVWDg3dU45eE1BSGV2M0VjSk9tS2tIRW51VTF5TlBzOFJG?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "OpenAI exposes Russian influence campaign built around Israel-based think tank - Ynetnews",
-        "summary": "OpenAI exposes Russian influence campaign built around Israel-based think tank - Ynetnews",
-        "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BV1NkSTBhN2lvRlJCSk9HN3NrSnRCM2kxeUFlYzBvek45MkctSk5IQl9IbU5Zb2tyMmNRYkFWNWdFZEZaQlVJWDBaLUZzREQ1Y2VKeUY3a3ZDUkVXWnhEZlhlVjNJNWhJUTFsZw?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing - Bloomberg.com",
-        "summary": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing - Bloomberg.com",
-        "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGNBOThiTEdqZHNsZURvWVhrZjM0d2NhZXNEYnRIdzJTbTJ5cW1FM2FPaEJJTWRTWldpMFhpYXFKcjljNWVsdDhwNVJ3Q2YzWkZMT05NOExHejhPRERlcllCRnRqQkxSdV83RHdBWHlLdGhDS05BTW5RU2x0aXY1VHlTZ2RkaFY4eXpxN1IyLV8zTEpYYWloTFNfZ3JqbWlsb3JvYkcxNjZTUGlLakdFQkxPQQ?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Exclusive: Second OpenAI Sales Exec to Return to Salesforce - The Information",
-        "summary": "Exclusive: Second OpenAI Sales Exec to Return to Salesforce - The Information",
-        "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWjBBTlNlcTVTZ0h0ZU82dzNDZ2JDY29uZ0VlNk9uWVU3d2VYMUVUaVZBbTNKdFVwTExrVVptLWdVWkEzV3lvcUR3MGYyeVdXUTZhZU1yeE9kT2FBWElKUjhXV1VfS19FSWNubDNMSFYyWklRUjFlOFdQS0kwbG1zMWF6V0VpT3RINkRUblRDYlQ5ZWdwc0h2cA?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "OpenAI Jalapeno Custom AI ASIC at Hot Chips 2026 - ServeTheHome",
-        "summary": "OpenAI Jalapeno Custom AI ASIC at Hot Chips 2026 - ServeTheHome",
-        "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WSGhkZ3l5ZkJpdklTaHFuVlBCcElvcWxaME9wc1ZNeU5XRzVxU3JueGI2dnhYU3llYm9MZlN0S1pLekhSMHhjTXlqSk5oZ2dEXy11Nk1qR2lhWXIzazFyUlY0OFR0aXQ2RzRObjR3T0xGbEpISVE0?oc=5"
       }
     ],
     "sources": [
@@ -245,6 +245,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "Russian hackers turn Cursor AI coding tool into cyber weapon, target 7 companies - The News International",
+        "summary": "Russian hackers turn Cursor AI coding tool into cyber weapon, target 7 companies - The News International",
+        "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkZlaWU0LXNrSjBrS3FGOFpYRGc5MWdCTVdVZFFTZXZIcGk5OE5VNmZlYXBScGswbTRpSWQtU3VCZUtBWk51RDhKb1JfLVZWOTJLRzNOb1Z1SGxKVmZoaXhWWXBJSnNaRzN6WjFudENzSUdnYl93Q0NBbTZoTTVDeUY0MHg1T1VqRHFoc0VLX3NFSFA1VFp2ek4zQ085eXlySUR4aVU3aDlDdEFFV3FmSzUzekR2TF9vNHVVOFFR0gG6AUFVX3lxTE1qaHdMZlBQd3Z3Z0kxa1VFSWRqZ1V5dTBRZzE3VWtRRlBSODlManNsQnZORHZIYU42R1pXSVAxNjlzRTJDYVdJcFlxUHVENVpaajNKN2VVYnJTaEFjZThfTGF6ak9aSmpqM1UtQ3NnREZHbWVpLW5sVGZzMjkwMzVqNnlMdzVmWTJZdGRkQ1liR0lBRGtnb010cFlGQjBRYXI4Z3kyeE1RMEM5azFOQmZMT2ZiQzRId3hMQQ?oc=5"
+      },
+      {
+        "date": "2026-08-14",
+        "headline": "SpaceX completes acquisition of Anysphere in $60 billion all-stock deal - Investing.com",
+        "summary": "SpaceX completes acquisition of Anysphere in $60 billion all-stock deal - Investing.com",
+        "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORGhRajB3WXZRRjZfZEhtZV9oSEJJeTFIaDRHeEM4RnladlVpRnp0X1pPZ1J6S19KZlZCNGxBdXVMektfcTJNbHlqRXJreEtjeXVMUnZUYlBveWYtQUVSSm1BczZZYTJYMWxsRnEzbXlzbXhsaHV6dWpvcndSeTRKemdNcklIbXFqMFQ0OGF4dTJVVUNtU0hLaU9Xdzk4U0N5MUhod2txVmplN0g2NWxvVXBBVWFmTGNUT0ZPUlhWYW9CaHc?oc=5"
+      },
+      {
+        "date": "2026-08-14",
+        "headline": "SpaceX buys Cursor maker Anysphere in $60 billion all-stock deal - Cryptopolitan",
+        "summary": "SpaceX buys Cursor maker Anysphere in $60 billion all-stock deal - Cryptopolitan",
+        "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DV1JWTmZhRkVuT1p2QlVWODcySHJKOF9KLUdKUHJtdldENnZObkN4dzFZRDc0aFhEVlRoU0hnd1hsbEg2dGg4ek1mel9fTmxka3ZjNWZKMXZDakxrWFVUU18xNEJualdvaFBGTk9QQUpfV3o1bUdycjdXWQ?oc=5"
+      },
+      {
+        "date": "2026-08-14",
+        "headline": "SpaceX buys Cursor maker Anysphere in $60 billion all-stock deal - CryptoRank",
+        "summary": "SpaceX buys Cursor maker Anysphere in $60 billion all-stock deal - CryptoRank",
+        "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZG5LRjVPeGYxZ1djaHZUUVU3RzRqMFZwYUZYeWdkdHZkcWkzR1piekZzZmVuVTBxak1oM0h3VGw3QUwzV1VOZDdCamdPNnZyWkI0aVRmbUlwWE1iSVNvS0R6SXVUbzU3Sy1JUWcwaUJiOFR0bWUtX1RkWW9kX05pd3pfNVE?oc=5"
+      },
+      {
+        "date": "2026-06-16",
+        "headline": "SpaceX to buy Cursor AI parent company Anysphere in $60 billion deal - CNBC",
+        "summary": "SpaceX to buy Cursor AI parent company Anysphere in $60 billion deal - CNBC",
+        "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHRXTE0zckkzcHdQdktMSXk4MTJGUzlpUFptNWNIQzdreDlFakQ3X0N5WDhGX1JWM1c3Nm9pSm81N1dBNHZlcDFFQ3hQNDVpLVQxVkdqOWZkdU1FUGdOY0hQdFRvUmhjd19Td3V2T2RyZlYtYUl3NHo0X3JTRjUxN2pQXy1MTE1sZTR5WGtuWWtEX2kwYW5SSFpxQlNDMnU3YVJrOXFPbWRRRG56UlJv?oc=5"
+      },
+      {
         "date": "2026-08-16",
         "headline": "SpaceX Buys Cursor: 60 Billion for Anysphere, the Largest Startup Acquisition Ever - Pasquale Pillitteri",
         "summary": "SpaceX Buys Cursor: 60 Billion for Anysphere, the Largest Startup Acquisition Ever - Pasquale Pillitteri",
@@ -273,36 +303,6 @@
         "headline": "SpaceX To Acquire AI Coding Startup Anysphere In $60 Billion Deal - International Business Times",
         "summary": "SpaceX To Acquire AI Coding Startup Anysphere In $60 Billion Deal - International Business Times",
         "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORy1iTFlYRDJ5UlpsUU5mTUdqYWNjUnRRa1VaZHRGTjY2UVRJWUtWWGFCaU1YbUtBRVgxY3d5cVdUSXhMZjNUaXk2eVM0TC1OSFlpRVZtbUxoMmxGeFpqQjJUTkZGRGdaa0llUDFQS2V1NzNYVXVxNG1sU0d0MkFDcWlUMHhjemVTRDd6dEVVcUdtS3E3?oc=5"
-      },
-      {
-        "date": "2026-07-28",
-        "headline": "Anysphere Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
-        "summary": "Anysphere Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
-        "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lbEVILU1wNkNQMUwzeFl5NEhJSVpfVTNOVUtHVTNkSjFkbEpmajctUjJZTGFwYWhtRWZ0TmNZeUdOTXJ0SkRjNXZQTUZxU0ZJeEtKamNNWHowNmx2aVZmQmIzLUtGVHlo?oc=5"
-      },
-      {
-        "date": "2026-06-17",
-        "headline": "Can Anysphere Buyout Drive SPCX Further After a Blockbuster IPO? - Zacks Investment Research",
-        "summary": "Can Anysphere Buyout Drive SPCX Further After a Blockbuster IPO? - Zacks Investment Research",
-        "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUtXNEV4R1dZemVaQ1REYWZCVlVjMmY0TUF3S0Ezc2ZQNkN6c0QzN0tMR2xNb25qUlhXVi0zT2MtRG1vWDBZdTRJS0RPdktIRUhDSm0wVnJqZ0NaU0MwODVpWEh1M2tqYk8xazZXbFZCUi1LNTJGNUxTVmQ4VVlManpONWU4SFdlcmJGYTdqSExWT09nZTdCdjZaSUg0UFZCNWZBdXBwWQ?oc=5"
-      },
-      {
-        "date": "2026-06-17",
-        "headline": "Can Anysphere Buyout Drive SPCX Further After a Blockbuster IPO? - TradingView",
-        "summary": "Can Anysphere Buyout Drive SPCX Further After a Blockbuster IPO? - TradingView",
-        "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0UxR183blRGaWpCN0YyN1h0UnZOR1hqVmRhcHVhNk9VRi1FTENoeVBqRU44NDMzT1poV0p0UDBPT1lDeHQ5VURQR0hLYVdNZlZWRVZ6WHgtNmhwSENCVlV5M3RvcVNjVFZrbVo4bEpXZEZDaTR2M0NhbGx5alJJSmtDbFBkYjI5NFVyVElzVTNBMTRXeE1hZlVwTnpGN3QxZmwySnlpYUljOEx5S2tFZlh2RWFKYXlvWXZJ?oc=5"
-      },
-      {
-        "date": "2026-06-17",
-        "headline": "SpaceX Acquires AI Coding Startup Anysphere, Maker of Cursor, in $60 Billion All-Stock Deal - gHacks",
-        "summary": "SpaceX Acquires AI Coding Startup Anysphere, Maker of Cursor, in $60 Billion All-Stock Deal - gHacks",
-        "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSXVOeUtTVzZJMDRWN0Q2YUVUSTJxLVFweU5ZQlRJM1k5ZExndTBQVl9zU2dZcGR6TDhBOW1RenBWbHFhS2lCSnBtYXdwMWJJR0MtR01vX1dFRDkwcGIzV2JYR1N0T0h4c0F6Mlpub1ZwUmVLRmZESVBOUVR3bEJVQ0lBYjdnNVBHYlVpX01zamwwUk1OcHlGSFFZRmt5OE5kNFo1WWpZMlhTMHU3dzhnTFFxdnNLVUgyajNvWEQ2SFY?oc=5"
-      },
-      {
-        "date": "2026-06-16",
-        "headline": "Breaking: Elon Musk’s SpaceX to Acquire Cursor AI Tool Firm Anysphere - CoinGape",
-        "summary": "Breaking: Elon Musk’s SpaceX to Acquire Cursor AI Tool Firm Anysphere - CoinGape",
-        "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORVlNdUhRQ3dFaVg5dld5MXpBN1drbUptNElPQjZOSlpiM3lyZkVseWJmTjEzaU5vNm9rbXBWb3FnRExIM2ZvaHFZNW4wV0ZrSkFOd21xSEc0R0JNOFBqVEJqTURac3pzTWRYMGNNS25wcHB2Z1ZQWWtTNUNZZDl4RXFmYnFvWDQ?oc=5"
       }
     ],
     "sources": [
@@ -354,6 +354,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "Karnataka Government Partners With ElevenLabs For AI-Powered Citizen Services - Rediff",
+        "summary": "Karnataka Government Partners With ElevenLabs For AI-Powered Citizen Services - Rediff",
+        "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2lYbUthbjU4R1pqcnhvV3FMOHpyY1ZqaGk0T0tJZm51UE1CY01zX24tcTVBaGZwWm9jUk5iYnJkVi0xMlBqYU1vMkQtaGdURDVZSHg5aldvNTBuQnJhTXpsV0NySW1XWjFTYVBHMUduS0NXN2hGMFFvQmhySHM0ZHZnUXUzN1VpbG5iNkNFQzB5UXdBVUN1NG1XckNBc1V6R3RnUTdPbkpwd9IBrAFBVV95cUxPV2ZGM2R1akRSNHhPZGV3bHRXX1c0Um16ckRCYkluanhoN2ZJbVBDNl9Fcm5UNHB3aGFkZkJjN0g0R3U1X2xpaExGVG9CRHNocU1Va2JFemlNeWZaM1c4UnRhNzRHU1JzdEEtR1BfRGVNemVmUTFzcS14MFlra2FGeG5CUjIxMF80anU4SnRJRlZRdTlJNkNxNXhyRFFvSzUwUDJ0VkRjOUZTSlVu?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "ElevenLabs adds section-by-section song editing to ElevenMusic, as Suno, Udio, and Google build out rival tools - Music Business Worldwide",
+        "summary": "ElevenLabs adds section-by-section song editing to ElevenMusic, as Suno, Udio, and Google build out rival tools - Music Business Worldwide",
+        "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcUlNdkI3WmRHb2tMXzhycG4yNWRsWFBPanliaDdLbkJBOHpuQk1VQUdvMWZiOGdoMFlKNHlGLTVhSkpObHhSQzVQeGJZTENlUmlaS2ZLYS1nLTBzZE1TeV92ZVhjdmE4aHlpSFFxd2J1STNOampKZXVIQkhKTGRwQnpxX2d5X3lCcnpZVGZ1SnpjX2Z1SGRnbUNNa2NVN3ltMXZVSjY1NFVOMk9IVjlFb0tHa0EwU0RPYkVaeEU0MVJ4MFpQMENaaHhPY3ZvWnFoZ0xjZnotVHM5UFVGQzhIOW13?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Karnataka explores voice AI pilots with ElevenLabs across skilling, health and citizen services - YourStory.com",
+        "summary": "Karnataka explores voice AI pilots with ElevenLabs across skilling, health and citizen services - YourStory.com",
+        "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55bkhNRVBkV21LamMyWGxJTHFaamZBMS1MOGFOeFR3cHRvVTJPcUt2Q0hrdkUxbURVRnZPWjZQUHpDemt1YVBEZHFqZk5XMlh4X2IyNkxuVVgtZjdZN1JjX01LU0FoeGFpWEtJ?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Karnataka to run voice AI pilots with ElevenLabs across skilling, healthcare, citizen services - The Economic Times",
+        "summary": "Karnataka to run voice AI pilots with ElevenLabs across skilling, healthcare, citizen services - The Economic Times",
+        "source": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZ2JVTXk2Wk5uOVJWNnBjNGMtSHlLRWZQdlMwUWM3SkFsWmhGbFc2eFJzX1NUbHhFLXJla1k0c3NXNWZ3bXJFaUNPSWRaWjc5S05SNlVnaFE4RUx0Sm1nVE95Ukluc2c5cE9fcXRhcnhCaXhvTnhtRFVxLVJ6ZmpPNGlCUm85WXUxVnBfVVN2TENCV201THUzSzNsd3VGNV9GaldKcXdjOXBKZjM0OElNMW8xUUxYOU9BbHczV0ZWMDVHWTRRUUF1SDBxVzJLUDNVZ2lnSmNwOXhvcmI1N0hXQW1hMEowNGs0eEMxZGdpUHp6TkRibjZVQnpfNEk3QWFlLTlkZFp30gGLAkFVX3lxTE1JS282alFlalFITzI2S2cxZENpbGpaNjZDVG1kUktEREMySHlGUktObmxGNnlNd0JTSmd6Wk1XZEJ4VkpvNlMtSFlXSFZia1ZMSHBpZEVlVFZPZXFRa21feDd2NE1pOU45bnZKY3RiRmZxTEVXRVNhQWtUR2hSeWcwQS1iMFFiWkFHSXBIVEUtX3BxSFNFOFVfQXp2b2QwRDE2bnJvbFRvbjEwaGQtWWNiMXk4U1hfdHFvQUtsOXY4M2JCUGlmU2Z2UUFnbWRzWnQyUkRSaGdDTk03ZlNQOHdGNDIwMjEya1cxX1RXOG9UbkVBaTIxNnRkT2N1VmR5SV9KRVRiVjg4OGtYZw?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Karnataka explores ElevenLabs AI voice pilots for skilling, healthcare and governance - Moneycontrol.com",
+        "summary": "Karnataka explores ElevenLabs AI voice pilots for skilling, healthcare and governance - Moneycontrol.com",
+        "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV1M0aWVQc014SjNLd21iZTRKQ2NiSmNnSG9ZV0NPXzZYZ2RUWXpiZVhPT2dEOEVqU20ydDNCaTJfQW1FUUtuWkllMHB6MWs4MkN2NC05QlJGUFZSSU9fY253UEtLS0ltdGoxUHAwTVd0SERMdjZNUzM2ZzlsODJHZzM4Rjl1UWgta0YzY3JyaGtmeXhuYTczRHVLUWNFOHFoZGJoMTdMV2FHOHY0NzBfb05fWGVMLWhQUTd0eVZkdFctMm80SGFqME14Y0NxZGtHN2NFQVdNMUPSAd4BQVVfeXFMT0U1NE5Ob3gtc1haMUluZmxJVzZpVzdINzFwc0RnVDlDZGktQUxSSG5ZWFg0VEtZVjVaTWdhS2RsSlZJcHFPamlNbDlKUlZiZThtWFUyamlKS21OdVJLamxtVVVKcnhiMmh6d0ZHSWY1Y3lEdzVlTWlqODhTQ2d6a2d4eWdSaThlMnRPaDRKb2dqRGhRRG1iV1lFVE5jNnhyU3dTTElnUThPcHA5aFFiSm5vbDZTZmwxelRscFRRNkxpVEQ2MHlkWTdERFRpTE9fRTJQVC1SOGVOZmxKOEhB?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "Gaurav Singh Chauhan Joins ElevenLabs to Drive Events Strategy Across APAC - Eventfaqs",
         "summary": "Gaurav Singh Chauhan Joins ElevenLabs to Drive Events Strategy Across APAC - Eventfaqs",
@@ -382,36 +412,6 @@
         "headline": "Burda Media x Black Forest Labs x ElevenLabs: Joint collaboration brings the Lissy PONY brand to video | Burda News - Hubert Burda Media",
         "summary": "Burda Media x Black Forest Labs x ElevenLabs: Joint collaboration brings the Lissy PONY brand to video | Burda News - Hubert Burda Media",
         "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMUljVEU3TTZlTENDR2Jick1NX19jYk82cHZmTXNkamViX1RHa1Vhc3gyemNXZEJvMzBjYW1OUElyS1BQT2tkaUQ4cnFQZTV3cWxkbG5kRnJJdlpKYVdzOTlsQXAzV0tvUjd5NGpSS3VtdlJCT3JHZlM5Q2RMNUhPQmYzQQ?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "ElevenLabs’ Suno Rival ElevenMusic Launches Composer ‘Section-by-Section Song Editor’ - Digital Music News",
-        "summary": "ElevenLabs’ Suno Rival ElevenMusic Launches Composer ‘Section-by-Section Song Editor’ - Digital Music News",
-        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWll2QXZLWUNwYnh1Q05QZnRRU3ZqbGItNEJ5V2N6MmlxSFU4a1lXdDlFQW1lckJTSmFmNmlOOWhtd1ZpdEkyUDlOV3ptTzZQWGZ4Z3N4Mk9oTF9EaUVESUNiSWYycHhDSUt0ZVhUajBTWi02NjY5ODIzZ0JtWmJ5N25PVzV0X1NJQkdkNlMyUXFHeGJEYmpkTHkxR0U?oc=5"
-      },
-      {
-        "date": "2026-08-20",
-        "headline": "Murf AI's Falcon 2 takes on OpenAI, ElevenLabs with lower-cost voice AI - Storyboard18",
-        "summary": "Murf AI's Falcon 2 takes on OpenAI, ElevenLabs with lower-cost voice AI - Storyboard18",
-        "source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV25VUGRoaDRpRFkwd1BVZlRfdlVzZ0JGWWhFVjhZYWVtYWpXNmFEN1hqckM4R3pTNTBETW8zRzR1UVJkdENKMzhQQ0JYQ0NiQ3BwQ0ZYYjVhZW50elY2cUdIc2Zvc3p2Q2stdDZzUVNrM3gyODZtN2N1ZXU4QWFrcFN6eFAzN3g0WFJwZTZ3aHNhbXp2MUJ5b2JpT2tzT1NlQUdaQ0lmQ2thM21WajF6eG5JMWFPeHBUcVo5a2dFVXlsdGYzUEJvRkhTWkVVdkpnSkQtSmxWMXMtYVXSAeABQVVfeXFMTl9GYmNyLWFzb0pySmNoam5ONmpDYXZyYmJGcU4ycVRZdHRUa0hrNjBiTVd4M1l3czI4bWtYS3RrSmYyUlZvZmt5cVpoR2hxYzdkUFZaandLUFczNEJKbnplOUJ4SG5reUNKYWJJY2ZYLUVXQm13YTZLbXRUSFRjRFphRGpkaEJxTHNDYzFiSnlGaVpZNWYyYklQVHRRQXo2YUNUb2wycUZIS0Y3MjlKeVJwaHN0OHk4VFpTaXdvdU1SbTl3T2N3bmstLXhfMXFEZXI5SEtKUk5QM3o3bzlScEY?oc=5"
-      },
-      {
-        "date": "2026-08-20",
-        "headline": "Murf AI’s Falcon 2 Takes Aim at OpenAI and ElevenLabs With Faster, Cheaper Voice AI - ciol.com",
-        "summary": "Murf AI’s Falcon 2 Takes Aim at OpenAI and ElevenLabs With Faster, Cheaper Voice AI - ciol.com",
-        "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmRIMzRER3JaZ0RubkdRMy1LWmp2YTljNlp1akZ4bjh2bkg0Qks1clpxQ2FYNENFZmNsQkVXSmhGYThjalE0UDY4cDFnQlV6TDZ3LWhHM0NzT0gxOHVwMlZKRDdKcVZrMDNCQTRLc25zSURqWUIzRWtjZ2haVm0wWUVic2XSAYQBQVVfeXFMUE5kSDM0REdyWmdEbm5HUTMtS1pqdmE5YzZadWpGeG44dm5INEJLNXJacUNhWDRDRWZjbEJFV0poRmE4Y2pRNFA2OHAxZ0JVekw2dy1oRzNDc09IMTh1cDJWSkQ3SnFWazAzQkE0S3Nuc0lEallCM0VrY2doWlZtMFlFYnNl?oc=5"
-      },
-      {
-        "date": "2026-08-20",
-        "headline": "Murf AI launches Falcon 2, takes aim at OpenAI, ElevenLabs with lower-cost voice model - CNBC TV18",
-        "summary": "Murf AI launches Falcon 2, takes aim at OpenAI, ElevenLabs with lower-cost voice model - CNBC TV18",
-        "source": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYWZrRzJKU2lFOHlScThMOFNwLVRJbzlPRVZzaERUanplMlhCdlN1T3VLcElwMnJPRjhDeUxzRkRUZDJNdFNUTDJjbE5WWEZXZ1N4TFJid1NTY3hNYVRLQldYaWxrbndYZGhOVW5UTm5FTkxwT3BTbGZ6WVJPQm5NWGZsVGlzZUFhOG5SU0g5ZnFxX3FLWFlvVWg4QWdrVEV6THA4SmVlOE1VNWRoYVhXRElySWgtUHpOUDd6WV9ZX3kxNUNFaG81TzNXcjduaVUzZFU2UUVweXA2dFFqWHZvZlJkR3dTQdIB6wFBVV95cUxQcmZDMGprMHUtVE1NZFhOaDRmNmc5N3oxbkpXTTA3UUNHbUZzVnI5bXVnRnBFWXhIU1NEYjRGcWZaVDlQbjdmVUVhdEhILWlINWktdlpzQ0ZBY1lHbWFyazBSYURvcjNzT2tjTXVjSGNKemxxcV82WUVYTjZQLU0wZ3pFajhyVFhONlJXUDlsYUh6dmd6YVpqUTVoVnR3Q29nT3JaaTd2cjBzYzVnTVFEa0l2NzE5SU5WbGdybm9mU3FZbVJaNFZPTnVvc1lVcXpSRmJUc0ludkZ1UUJLUDlReEtRb01VSVdFUkY0?oc=5"
-      },
-      {
-        "date": "2026-08-19",
-        "headline": "Bengaluru startup Murf AI takes on OpenAI, ElevenLabs with Falcon 2 voice model at one-fifth the cost - Moneycontrol.com",
-        "summary": "Bengaluru startup Murf AI takes on OpenAI, ElevenLabs with Falcon 2 voice model at one-fifth the cost - Moneycontrol.com",
-        "source": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdk95WmQ3WHFuUldmR0NETzA1UnQ5MTZkNFc2OGxSYWhiLXNwMlZ3RzlpM2ZmVm1VYjJHYzNwS3ktbXRfRkVPWjZ2a1FMenZaLV9EY1pwdkRHLXpEZ2tqLWs3SHhKdzJhbzY4N3JLTER1bWFNQ3JnMWQ2MWc3ZkpfYjdMa1JacHVhRTBRSVdJNkMtWXRoTUY2d0ZVN25XYkRFM1BQczdxMElhRDllcExKR2szWkhEQmFYcF9sSENzOXd1LWNKMVdfNDJ2ZjYtamw1WHNMdEdxSnJRM055bm5uR1NhVE9ZdTlpVGo2eU1VTFc3VndoQ2U2Q9IB_gFBVV95cUxPU2o2U2RrNnhlRTU3dTQwVmYxQzFkbVFpcDEtSlRXZklUODlXbDJTTUtsQmxhR3VmcnRTaXR6bDRLd2FBaVBLVHk3UXFUSXdnOW5vR0k1amZrWDRpakZhZGozZzlCbURHRHRaRUpWSDA1MUo2TDBQSEkxTzdFZFJaZmJ6RFVMMjNEamluOXllX3hROVdoaU9jWUJiajVUYktPcnVCSmRqdW9uajNHTmFrUXlqNmNKWnExSlF2ZWxoU290cGxqbWVQdkFTZXZOOWN1WjNhY2pFakFlS1VmbWlldWVPVzN6NDFnTDd1azdubWYtTU1lYkNOZVpxSWU2Zw?oc=5"
       }
     ],
     "sources": [
@@ -465,6 +465,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says - Ars Technica",
+        "summary": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says - Ars Technica",
+        "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR2xvS1BEUmtXZ2ZPVkJlYVE0Ylh2SzNoaExwdGktZ2lRUVRQd2lEbHNaWTN2ZU9qN3hHaWkyWlhVeGdsNURLc09nemsxeGNtQzFpUExrUXY3UlNnbk1DM042N19kbWR0VnE4UEtwOVNvRDcycml6ZUNZbHRpUE1HUWZ6cHpSbmNIRlBTM3ZvZ0hMMWZmb3ZzQVMwQ0lmaXZpZEJrR0VRMTltdWZvZ1E?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Elon Musk's xAI Sued For Using Child Survivor Photos To Generate Abusive Content - NDTV",
+        "summary": "Elon Musk's xAI Sued For Using Child Survivor Photos To Generate Abusive Content - NDTV",
+        "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQTZJa1dUWVJ6cHB1ZjQtLVFPYW5PbHVZeUZpMkY4Zzh4UXR0T2ZLd2lTdWNWS3M2ank1M05mOVVnUmRFblREQ0dkeHFqOEFYSUd6SGI2RUpYV0gzbVJ0MU1tT1EyZkhKbHpsWUljanNqeTBqNVVlWXFSWFZhVVJKdk5oUTdDdUppend4ZTBnSDl5QWVjajJjQ2x6X2hneEZaR1gyXzBuZkVWcDdSNURSLUxIc1RSYmR1V24wM29HWjh5X285a0HSAc4BQVVfeXFMUEtTQ0pQZVExUzhTcng2d21aeDZuaFJBRTN0VVpzNm1lUUw1MWw1dERoMkl3VVpYZ1NkOXdXZEx6bDYwTmZjR3luTy0tdFJNWkUyUHBydTVncWpkUXotVnBpb0d5RzZfV1lnQlQ2NjlaM3dMMTFlQXhCV1pYOEF4eF9WZFRwWUVoLXg5QXZFTXc0V1UtN0Rwb1VhMG5wV1U1RGhmdm9YZ1JXdXVqNFQ2UWJpNExOeDlLcTlCbzVqdnVIakpEZk1fRUNVX0FjMmc?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Xai’Shaun Edwards mug - Columbia Missourian",
+        "summary": "Xai’Shaun Edwards mug - Columbia Missourian",
+        "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQmZlVTRrQlhYNXVHRjN1QVIwWmd5UjZLNWIyY3NiVl9HS2ZIX0NtMWJMUzRMYS1oTnNZZDN2RVpzNkJlUDR0MFh4aUNSclpXTG1EWmNBVE5XLUE5cHMyRUVvSThlTUlmdkdYQVA4dWJJSXdBYzRWZzlNMG05bEZjNWFCRE9HSV94clZhYzVPcFpLYTNrUm81YWhiOUtDNS12dXBYMHZicmNUdExpSEV4SzR2QncycFo4ODFjallPRTVJN3ZpM3c?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "New method systematically generates graph XAI benchmarks using Weisfeiler–Leman coloring - Bioengineer.org",
+        "summary": "New method systematically generates graph XAI benchmarks using Weisfeiler–Leman coloring - Bioengineer.org",
+        "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbVRGQ3hiN2JLZFJxbldnbXpmRmpMRlZfZmNzdDNwZ0NZTTZpck5nRWUwbUZsa2NpQmpGcmF1VU5aZGFoXzFtQm9WUC1hRGpKOEMzRGc4eXlSTjZJQUdjS2xuQzRtajBteDRTRjRMaEh2OHNSNUMyeE54OU50cmFySGp4RDBCaE80SUxUanhVcndBX2UwT1RRZk9HMEdkQ29BZmpmdG9aUWFMN01ZczVwbXRaYw?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Child abuse victim sues Elon Musk's xAI over AI-generated images - The Economic Times",
+        "summary": "Child abuse victim sues Elon Musk's xAI over AI-generated images - The Economic Times",
+        "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM3UyT3VCTEU4clhhYUF3Umd2WWppdXQ1d1kwWk9fWWhLeENrY3gxZVo4OWh2RllkbjA1SzYwWWxKWmFXTHMyVk15d1N2MWtMMEJuNlpubVBHeUd1ZHB6dmFTVUpzdDNhZ1N1VzJOeW9vXzYzcXZMRzkyQVc4em5ZN0VIemtPam1YdVd6ellPeldYMDktQjY4Y3FFYWJNNUh0bWhvZkFKS0pOdXp6SXZVeEdaTE15b0dtQlVLOXE3SXJJZ0dUZ2FUNzZaRVdpQUpGZHNpMkNLQkLSAd4BQVVfeXFMT3haYS1HUlhRMnhla3M5aVRtTlB0cWluRTZOYThNOU9YZ3R3Y0hnOGtzM3AtVzR1RWtCdm5fNVk2MXZCLXc1SGN0OFFHUG5DaVVuanZoR3ExTFR3OWVuaFBsTkdYVTlIZndJOWRXSTg1Unl6Mlh4NU05THRWOWFWeDBTbVhqRmYxeGN3UFlVVVZMMGlKbzJaVm05Y3BGaGlnamMtel8zM3lPaHVHTUhXNTlFYUM2RU9JY0pKaHQ1RDRsYVM1RjVvWW00R212TnI3bGNHUHhjdnJlLXBVdFF3?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "Elon Musk’s xAI Sounds Alarm Over Power Shutdown: Grok Could ‘Largely Cease to Function’ - Yahoo Finance",
         "summary": "Elon Musk’s xAI Sounds Alarm Over Power Shutdown: Grok Could ‘Largely Cease to Function’ - Yahoo Finance",
@@ -493,36 +523,6 @@
         "headline": "Tennessee man arrested for child sexual abuse material after being reported by xAI - FOX13 Memphis",
         "summary": "Tennessee man arrested for child sexual abuse material after being reported by xAI - FOX13 Memphis",
         "source": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPM0pyZk5EMEJTNzZtS0ZuTkJEbVg3SXphdWliSnNvTFVRSU9tN1AtZko4d0YzSkN1VEIzdUN3aU5Kb2FYV010V3RPOGFRc3FUWG9YeUlXSjR4NElHSTQwZzBMY3BOMHNTalpMZUtYUnZNSlpJOEc5N1ZUZTBSMk5Xa2wzanFtU1hoN0pnakxKNF9ncW90dXE4ZG9fS3pLd1d2XzJOMTRZM0JwMlJ5cU9wSkUxWVlrME9JbFp1Szc3QWxXSkw5MzYyejdaRWJTX0loZ2FJd1NCcEdtQVZJbW5nbGt4UGRFb0FrRnc2LWFDMHZkWF9FWGE5UG9B?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Former xAI CFO Offers $100K Bounty for Info on Alleged Stalking That Began Hours After Abrupt xAI Departure - Glitchwire",
-        "summary": "Former xAI CFO Offers $100K Bounty for Info on Alleged Stalking That Began Hours After Abrupt xAI Departure - Glitchwire",
-        "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2MwYUs1S0JCN08zTDU2OEFsdTlNOXctR29kdW41bjlldmFvalAtQnZmSElSQUR2TTA3LWh6QkI4TEM1WHVHQ3N2anl4ZjQxYU5QT3NzUkVjSnZtaGhMTmlJbjVwaWlVbWRCYnZldlRRaXA2ZUJlYVhpWVZ5UWxoXzJucmczVWxOc2pyUFI2MVRKdVhKbzRWZk8zdDdidEg1d2NHeVRCZUdiWE1E?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Read petition filed against Spacex, after xAI data centers reportedly pushed out a family that owned 2-ac - The Times of India",
-        "summary": "Read petition filed against Spacex, after xAI data centers reportedly pushed out a family that owned 2-ac - The Times of India",
-        "source": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOYjgtODk0OWdQMWJkalkzbERqRnZsUVk0OXNlS1RFb3FaYm5SZlV3SFBzd0RkaXpIbnVmSU5zSUtTeHBMOE9QVWZhU2h4YmlmcnFjMmtQYVdlME96Y2ZtMDBKdjdSTkxGNTQyUURwMVRFWUFaTnFrSEd2djhsdlJHY0h5QW50bzN5ZzZhYldodW5oNFdoTXFHaVl6bnpjLS1HMHJlalViWE9qU1JvbE1pYWhzZHZRSWd4OUVGd0ZOQXNvUUc3b29fbWNwRURrLW9aRFZHQ0xESGNLb25wc1BuUnRlMmpqLTBCblV5NEY0XzdOLU1LSEtfZjNMazlGU29uMjh2WmlJN3RGLWRiekFQUmUzUjdua3U3S3R0RVpYVDIzeGhmQldlc0FhNTB1dUFYWmVEMklLWDl6ZkxLSzYyNFRzVTU3TUxVX3VGSUdmQlDSAdYCQVVfeXFMTUhPRzkxWjRNQkhaR3dYU0ZVdzFrMXFJVlVtM0E3RW9QTmd3YW54RHU0M1Q5Zkx0QkxES09sZlNYVHJXTDFUVlNrMlNCcFR4b3V5N1VGalJJTWtIVHh5dTZpM2lQYnItNTBBY2xELUhaTElBdXY1VlJDOW1WcmtHY3FZUGU4X2tSSDc0aVdGM1lWMmZPcWtFanVCaGozdGl6MWtmUEx4RUs1NDdpS2c4MzhtNDZNZmFCZ1RuT3hKdHZVbVIyU05FMkRwaWxkSGtKaDJ3eEtsOTdrYWpPY1ptZXhxNUNiYWw0NXhIdnVnUzFNWW9Wbkt6TjR5MWR5d3k5WHY4U3c5cjJ2bEhtWkxMRjhfX01TcGVnbGVVQmNHdU9XNFZBeEtiWjhQeEtkcXNQeHFXSWF0VGh2NGNXYlg3Q3VvdzRWRmR5N1hlVHI4VEh6V2pjazF3?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "xAI's Grok Chatbot Glitched Into Gibberish About Cheese and Planets - Startup Fortune",
-        "summary": "xAI's Grok Chatbot Glitched Into Gibberish About Cheese and Planets - Startup Fortune",
-        "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYlJSZGdLX0MxdjY4NlR1Sm5peDJFUm0xTXhWUlczanVrOHFVekNZQ0dhYk9mazViM1cyNW16QXhNa0xQTWJpcjE2OW5Bc2plTm5wZktDT05wR19NcTdvRmZyMzVueGNrMTYzT29kMXEwUVFwTkFOYnlUZ05IcW9LQUd0Vkl5cnkza19fUnhSUVdMZzJwYk5CN1FB?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Elon Musk's xAI Multi-Agent Architecture Explained 2026 - StartupHub.ai",
-        "summary": "Elon Musk's xAI Multi-Agent Architecture Explained 2026 - StartupHub.ai",
-        "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzdCd29relJPeUliVXh6S3pha0ZJa284LVFvUUplTE50SGZja0N0alFmaEVaMWV1SnZhbUp2djNHRTFXbkUwNmRKcVltRjdReHVSZWhialZtYzFqa1NJbzRUVkZQSktYZWF1bUlaQ2NiV3Zndy1kc0pLakNvOGs2UFhGV1dHQnNXekdGYUVoaUktN0pvY3ctRXdralJHV1pMTEJzaGpSbWo5b0E?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Elon Musk's Rare Weakness Admission: First Public Statement Post Sky-High Cursor Acquisition Reveals Grok AI Lags Behind - 36 Kr",
-        "summary": "Elon Musk's Rare Weakness Admission: First Public Statement Post Sky-High Cursor Acquisition Reveals Grok AI Lags Behind - 36 Kr",
-        "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jRTlpYWNkOFY4aUJUQlFjWmk5THR2MWpUT3YyQXI3THdMaHFZSkZmWFA4UFpJYnRBcF9rU0pDWmhldmEyYnZJVm1LTFpiS0dEZXh3?oc=5"
       }
     ],
     "sources": [
@@ -574,6 +574,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "China’s MiniMax sees revenue nearly quadruple in first half as AI demand surges - 927thevan.com",
+        "summary": "China’s MiniMax sees revenue nearly quadruple in first half as AI demand surges - 927thevan.com",
+        "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObkh4ZmtNTmNkcDJXX0FEeHVWN1dNYWk4VkRPRW10czdqbWlCZVY0VHQwYVhIekd6NmVUUm9IYnQ4SzFSTkpveGpZaFN5c1hUWjlXcUFEMDRDWVdYanAzamh3WTFrOXhzTWF2RGthakFmUENHSVhta1B6bTNmOTFwSUY0WWFSdEUtLUl6Z21pa1g3Vkk5bVZXYnNaSmhiZWc1bUFIN3pLYzdEZDNNaW8wTjNB?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "MiniMax’s enterprise AI and open-platform revenue jumps 703% in H1 - TechNode",
+        "summary": "MiniMax’s enterprise AI and open-platform revenue jumps 703% in H1 - TechNode",
+        "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSy1fNjB0bkRWUnVnVVdGc0N3VV9DYXloaGtlN2pxazhZOUwtbWgwZk9raXFVNmdfc0dVQzN1N253Y0d0YkhhejhSQ2JxY0hGZjBVR2FNRzlyaGNsUkt3VTFwTF9vZVNhdDk0bWlOd3NzUWJRaDZOQ1h3Z3pRdEFKOXVHZ2xKRHBCTUt3eGlNS09JZ3JES21OMDFvdW42UQ?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "MiniMax shares rise after H1 revenue surges 283%, gross margin improves - Investing.com",
+        "summary": "MiniMax shares rise after H1 revenue surges 283%, gross margin improves - Investing.com",
+        "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU2M5bzA0LUhfT3hFTDhQNlJjZ2RpMEtyMC1Yd25yTzlnOUNuS3p1QkM0dUpkNjlVemxzU2FSUTZwb05lOS12Ri1FTEVXLUxQYW5LYXM1Q0oxSXZic040NExMV1BBZzk0dzNaaXkwTkltUURadnpDZ1lQVDZuSm9fMVdMaFFRa0wybHBzU2RCdWtpU0h6Y3lScWZWNk5kUDhTMVpoTlRXeW9VV1JidUdSM01UU1UxdkQ1ZlBUWmdLQU5tVkNGcFZOSmxxMWtaRHM?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "MiniMax revenue surges 283% as enterprise adoption increases - digitimes",
+        "summary": "MiniMax revenue surges 283% as enterprise adoption increases - digitimes",
+        "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcjN4Zk1wc0Q5XzJOTzJ1NTVDTDA0NzMwOW5TY2JLWmp6UE14OUxxRlVZRkF5Skl1cmF2bWZ6LTczU2tRZ0lXMk5WUWJmd1dENmFkaVB4S0wwZll4UEVqNC05WTdRS3V4UjB1ZFZ2dHliek5jbFktRk81bk1DOS02NFVPaXJjTTZFZmdwM1JhT0k5Qm01blE?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "MiniMax’s Revenue Jumps 280% as Business Customers Drive Growth - Caixin Global",
+        "summary": "MiniMax’s Revenue Jumps 280% as Business Customers Drive Growth - Caixin Global",
+        "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORWFKa1pVOWdsZzFWaFRxdmpkZ0MybzRHUENVREc2TUtzbU9DRUpkQlpPLTE1YXMtaFZOS1dnaFFITTNjM0NMN2JnZnp2Y1UwenNrWmpTOTFuOC1SbkVlaFFrWndOUEFIZ1ZqcTVBSmNqUzdkOFhFdjdETktNdGd2RllYRmZ5UzhEd2lOV05FZHgzbDRuMENPMWR5UDFkTGxjT21TVTBhVDFtVWpTaFoyOWxuaWNXTFU?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "China's MiniMax sees revenue nearly quadruple in first half as AI demand surges - Reuters",
         "summary": "China's MiniMax sees revenue nearly quadruple in first half as AI demand surges - Reuters",
@@ -602,36 +632,6 @@
         "headline": "MiniMax's Revenue Nearly Quadrupled While Its Losses Kept Growing Too - Startup Fortune",
         "summary": "MiniMax's Revenue Nearly Quadrupled While Its Losses Kept Growing Too - Startup Fortune",
         "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdi13TUdBNVRnZnZWLV9iUVBXM2ROekdiVHBKcDNVQ3JzMExMNXZrdU5WSkJ6WElxLWxMVVBYcFFDRWhZSVpjZHozYXFrZlBmTHoxdWVNaVpOdVpqdWNqQW9sTXc3OXlsZUNZaXlzekxUWWdjdE5jdjZEU2JhYmlGMkpLdTNwc2F3aTBUejI0akxNQlBIOUh2QmI3T0M?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "MiniMax Sales Nearly Quadruple in Crowded Race for ChinaAI Lead - Bloomberg.com",
-        "summary": "MiniMax Sales Nearly Quadruple in Crowded Race for ChinaAI Lead - Bloomberg.com",
-        "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2hEMUdRRG1hMWJDd1hhUXlPVGczb1U0cUlncV9Pb3UyMXVSdm9vdkx1ZmU3WG40V1laSnR1elZmd3RlaGE3ZHNQVE5pMEREeG03Zl9pQnBQM0Y1Rk9jMlZVc1J5QVNFSzFiV2FCUjBCTVRXbDlRcHNmWWlwbl9KVzllTDhvbHMxNXg5Z3hTc280UXRheTJhVEo0Z1gxZEFXWDNUQ1hDSjktZk55NjJwanZPSXI?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "MiniMax Group: Revenue up 283% year-over-year, gross margin rises, and loss narrows amid global AI demand - TradingView",
-        "summary": "MiniMax Group: Revenue up 283% year-over-year, gross margin rises, and loss narrows amid global AI demand - TradingView",
-        "source": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbEc1Y0lmUm9aci00eDhHS1VtMTF5am9OOGxxYWVCd1NEUWo3RUVpWC1KbFdzRXdBM3lhUGNJRU1nYWxRYWJ0cjBDaDJlczE3dkpYa1ZmU1BZNEh6bTZHQkxTVjVLVm9DcUR3TWdWUjN5OVJleEQzRm9KY3BxUzRzRDZpSVFuVDkxQkZDVlhDNnVKYURGUHNMZ0ZaZEZBQ2xQbDl3eGQxel9NcWVZRTdPd2d6N1NRbVdtTngzSkN0aF9aZVhxZzE4OU1BRHMtUlJreVVOOFRtZ2JVd2hHWHFGLWlWcmNZX3hFSFc4dG5JdVdENGlFRVVUdzVGekIya3FoMk1KUVd1TFdkdkNfRlliY1h3?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "MiniMax：目标打造能力持续迭代增强的智能体系。 - 新浪网",
-        "summary": "MiniMax：目标打造能力持续迭代增强的智能体系。 - 新浪网",
-        "source": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91aGtBN1ZMQ1dxTk5pRGVRelliVkNqdzlZenpiMUwyUHAzRHR6X2NuLWt2cVFhaFVMTkNQRzAwdGZyWEd1QWhXMmpSZw?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "MINIMAX：上半年收入为1.17亿美元，同比增长283.1% - 新浪网",
-        "summary": "MINIMAX：上半年收入为1.17亿美元，同比增长283.1% - 新浪网",
-        "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52U3puRlotSC1BRUN3RktDbGFaUDJJb3p4cnBRQTQ3MURiY2FhM25GajhVZGZWOThOS2RkMGZMcXhfUkJKLVk5Yzh2Zk9wMlVQMWJJSlE5Nmc5R2pLRnBjdVNjT1ZBWHhLQlVBcklPc0RTZVl1WHZVZg?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "2026 免费 AI 视频网站推荐：MiniMax H3 一句话直接开拍 - t.cj.sina.cn",
-        "summary": "2026 免费 AI 视频网站推荐：MiniMax H3 一句话直接开拍 - t.cj.sina.cn",
-        "source": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Zb05CYnJRNXFKVHlRXzhCaktXaGJJRjNwLTA4WjE5R25qOUY2cTFlV1VRTmlUSWo2RWU4WlJsVXdFLXlEc0xkbVZWVENOc0NEYnVsb1dSX20tV0xURDdsNzQwdmJCSUZCNmJXaF96Q0tVQQ?oc=5"
       }
     ],
     "sources": [
@@ -675,6 +675,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-06",
+        "headline": "AI21 Labs - 2026 Funding Rounds & List of Investors - Tracxn",
+        "summary": "AI21 Labs - 2026 Funding Rounds & List of Investors - Tracxn",
+        "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYTIwYmxaa1dRclZXRzFsZUc5dTVUVW5nSUlaazF0ZVdvNkZ4UklkS2pzUk5ySFFwSnJvU1FIM1BWNDdvV0ZJa3gtRERqYlhvWVB6SWswTElCVG9KN2l0eUI5N3p3eGwzVFRNMzdDN2lRdHE2Wmc5TVRvMkdudlpSV3JwT3FEYjVUSVp6bEstQ1ZvdjF5TmRsWWYzTnZSS2lTdFJCaDRLVERHaVRI?oc=5"
+      },
+      {
+        "date": "2026-07-07",
+        "headline": "Amnon Shashua to leave AI21 after nine years - calcalistech.com",
+        "summary": "Amnon Shashua to leave AI21 after nine years - calcalistech.com",
+        "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EaXBuT3d5ZjJ2cDNFamdBdDJmVmFKZzJXZnA1VnJfaUlaelpNcEU5M0ZHVkVBOFhzcDdjOElITlhXM2Rtc3h4Z29xcW1HUFQ5MmIxMU9UYld3ZjVvTVEzMDNqcFFJVW4z?oc=5"
+      },
+      {
+        "date": "2026-05-19",
+        "headline": "AI21’s fall from unicorn to survival mode - calcalistech.com",
+        "summary": "AI21’s fall from unicorn to survival mode - calcalistech.com",
+        "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QcjkwQW1Za0lkejlPMlRaVDNpeGNVRjNYSllORlpoZEpfTzhtOFN0a0VLZEo1V3k0bms3cVVPNmx1cjBmcXgtbWNPZC16bld6TjZBcXV1RUh4bnlZcnlYeWZ6amxqbWhXZ3c?oc=5"
+      },
+      {
+        "date": "2026-05-19",
+        "headline": "AI21 Jurassic Statistics 2026: Model Size, Usage and AI Performance Trends - About Chromebooks",
+        "summary": "AI21 Jurassic Statistics 2026: Model Size, Usage and AI Performance Trends - About Chromebooks",
+        "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NENsU2szT2JHMW1SMGp0azAwQUdjakZNQkdYRk1TRV9HT3NhTzFaMHgzenRtYms4MktMbkdORjFWNkROY3VDR2xuWFBEdFlkaG42Q0Vsb2VIMDVDZWtFb3BZODJxdTM3bXc?oc=5"
+      },
+      {
+        "date": "2026-04-10",
+        "headline": "Nebius Group Reportedly in Talks to Buy AI21 Labs After Nvidia Backs Out - MLQ.ai",
+        "summary": "Nebius Group Reportedly in Talks to Buy AI21 Labs After Nvidia Backs Out - MLQ.ai",
+        "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZmo4UUNMU2xOSVJBWkdxNmJGUlFUdDV5WFZJNXRfZ1I1dzdHMEI1Wm1kekYwTzUwbXNGcnFxRll2Vkg2VU9VWHVMLUtybTZaYVZBdVJRdUNfbnFMSUd2ZFRoRWxqa05wOWE5a0JVZHNyZHVIMkYxalhHZkZGLVBFN3BOT3dmS2k4ZE5KVk1DVHRUaGk5VDlHNQ?oc=5"
+      },
+      {
         "date": "2026-04-16",
         "headline": "Nebius Group (NBIS) Is Up 21.3% After AI21 Labs Deal Talks Surface - What's Changed - Yahoo Finance",
         "summary": "Nebius Group (NBIS) Is Up 21.3% After AI21 Labs Deal Talks Surface - What's Changed - Yahoo Finance",
@@ -703,36 +733,6 @@
         "headline": "Nebius Eyes AI21 Deal to Expand AI Software Stack - Asia Business Outlook",
         "summary": "Nebius Eyes AI21 Deal to Expand AI Software Stack - Asia Business Outlook",
         "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcUJsc185OUJZSFVIY0RiRjRha1RsaElaQzZWdGtfckExR250YVI3ZWJ3WlJzaUEzZnZRUUxkcEwxWlF5U2kyaXA3ZnJyNTdYcG5lOW1YNU1FbGM3ZTNjb0ptcmpXM1djQWYtVGJwX0hrNjZsSUtVSXNBZjRyMnhfMXZRZVlxMzI4UTkxVGdDanFTWF9mcHlQdG1MalcwWkI4b0dNSFNVUkJEQQ?oc=5"
-      },
-      {
-        "date": "2026-05-18",
-        "headline": "AI21 cuts more than 60% of its workforce in major strategic overhaul - calcalistech.com",
-        "summary": "AI21 cuts more than 60% of its workforce in major strategic overhaul - calcalistech.com",
-        "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoR3FFZGU2MTg2MEItU1dFR2tjQ05adk1fY1ZET2dtNXVadFUxaTR2bFF2NXdydFRqTmd4TGhnZUY1MU4yTmRUdUpCTGd5Q05RZkVOcXJZa2s4SmZKc0RvU3JlTi1sZ2o3?oc=5"
-      },
-      {
-        "date": "2026-05-18",
-        "headline": "OpenAI rival AI21 downsizes staff for strategic shift - Tech in Asia",
-        "summary": "OpenAI rival AI21 downsizes staff for strategic shift - Tech in Asia",
-        "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFltaktwSkJrNkhKWVBHLVdLYmoyalpTVmMtaURwazExaTNsR2dUdkdyblg4TTI1Vl8zOVJkOGJsOXJLRF9Od2lRSUkxQmNrd3ZFeHdqc2lDTEV3dDNPV2VpeDZvcFUxem1YcWhuaW9KMElmZFczZ2Q5U0U0ZEgzZUIzS0JJcF9I?oc=5"
-      },
-      {
-        "date": "2026-05-18",
-        "headline": "Shashua’s AI21 Labs laying off 60% of employees - Globes - Israel Business News",
-        "summary": "Shashua’s AI21 Labs laying off 60% of employees - Globes - Israel Business News",
-        "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmJkTWNsRUdnRzEtYWZ0b3AwdUxsOGF3bXVVNHBoRVJmd1lfdWVUQVBwRGdLb25fRnM1YWRUb2FFSER3MmgtS0tidGJ4ZGcwTlFkSElQQ1ZhNjhQejZqTGl6N0hMUjRLN1VVVU5mUHI5VHJZZGRQMWRhOGFRdG9RdmZyRWxJaTJZOGlKSXJJX2gyck1QZ2c?oc=5"
-      },
-      {
-        "date": "2026-04-09",
-        "headline": "Nebius in talks to acquire AI21 Labs - report - Globes - Israel Business News",
-        "summary": "Nebius in talks to acquire AI21 Labs - report - Globes - Israel Business News",
-        "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmlEZUlCMW52MkRQWHl2enlicTVqY0hTU0tuUWNQMlNVTlU5UUFaRF9ZaEdfQjluTktwQzdMRDVOdmhUWGZpazZJOF9ob2dXaExabkd3eExGTm00MVRES0E3UlBUVjJTeGNwRHlsMnJqTGFPd3ZYY2ZHYm96eEtRbkx5WkwyYkhFRk54VWlWQ1dxUQ?oc=5"
-      },
-      {
-        "date": "2026-04-08",
-        "headline": "Nebius in Talks to Buy Israeli AI Startup AI21 After Nvidia Deal Fizzles - The Information",
-        "summary": "Nebius in Talks to Buy Israeli AI Startup AI21 After Nvidia Deal Fizzles - The Information",
-        "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXRmUDhaY0tHRjh5dWNvVWZBanpYVE52emlvRGdVaTMxOUttQnVMTFNpc21VVmMwd1NJVm5hOVlFOFdldUJkemNOX3FpX3VSclNHdTMtWjJvQWFnbXRUZ3lHZVZtQVptekhrUVVrVUJFeVlhVmNfQjgyREtxR0Viai1vb3Zpa3Fya1g5S3VzSF9tcVlTak82emJfejFtRnFkUFE?oc=5"
       }
     ],
     "sources": [
@@ -784,6 +784,18 @@
     },
     "latest_news": [
       {
+        "date": "2026-03-11",
+        "headline": "Advanced Machine Intelligence Closes $1.03 Billion Seed Funding - FinSMEs",
+        "summary": "Advanced Machine Intelligence Closes $1.03 Billion Seed Funding - FinSMEs",
+        "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTUxcXFkcnJxZDVkNElkbGtQMUpZTHFyb2F3RXBxR3BMNTdpUFI2MVRHWmVJZ2p2ZTNNdV9QRC1LbFRGblVReGxfRWRMVmlxYk95a0YzSmhmVGMwRWR0aUxmZEkxOHYyUncxbzNVRi1zTmtVcEE3WlFyM1ZYbHRfQ24yTUJyWF8tUjRpaC04WVZtOXpLUXlLWFQyelN4WWFu?oc=5"
+      },
+      {
+        "date": "2026-03-10",
+        "headline": "Advanced Machine Intelligence raises record $1.03 billion financing round - Jones Day",
+        "summary": "Advanced Machine Intelligence raises record $1.03 billion financing round - Jones Day",
+        "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTXFfNTMxczhzMXZYMXY5LVdUbEtJbXY2Sml1bHZiVk1yaFBCeFBqZzNwTFFzM2I3ajdTRzJaanJNdndwZ1Voak9DQjVQRVMxZGZZLUtaYTZVS1QwZlpaeWE4b3dVUWxIOVNzdjVsNGFieGZ3NWNWU1lISEZxdEhDSGU0dUZGNVk2YzF1YUVwWG04eVA3TUlvV3FlV1c4Tnc1Y0lVLVFOd3JVcjhlUmJUamlfQ3ozcUtJX3NkMF9MTXZPTTdudTVF?oc=5"
+      },
+      {
         "date": "2026-03-10",
         "headline": "Advanced Machine Intelligence (AMI): $1.03 Billion Raised For World Model AI Systems - Pulse 2.0",
         "summary": "Advanced Machine Intelligence (AMI): $1.03 Billion Raised For World Model AI Systems - Pulse 2.0",
@@ -830,18 +842,6 @@
         "headline": "Advanced Machine Intelligence (AMI) is Enabling the Next AI Revolution — Built on Foundational World Models - Cathay Capital",
         "summary": "Advanced Machine Intelligence (AMI) is Enabling the Next AI Revolution — Built on Foundational World Models - Cathay Capital",
         "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFVkS0xGc1lHdDlfRFV1blRSeGhVbzFVRDNvZFNBYnhrd0Vac21IdnRrSUpaLXYxd2tCVmF0OUMtZHpzejVEeTByVmdJaF81bG1jVFNwSjdoQkcwbFE1Qmc3WGpWZFowUm9CWXpCWFlIcy05THdpSUk2a3ZsV0QyWmx6ZlIzVVNhMGwxanVvUTZQOW9FXzNXenZtdmRoY3N4blc3QXIydFB4YlprUjhfbmhaZjJKWWl1dkNrWjhYTmZXUDN4bnVtNGpPME9jcWM?oc=5"
-      },
-      {
-        "date": "2026-03-10",
-        "headline": "Yann LeCun raises $1 billion for his Advanced Machine Intelligence Labs, breaking European records - Sherwood News",
-        "summary": "Yann LeCun raises $1 billion for his Advanced Machine Intelligence Labs, breaking European records - Sherwood News",
-        "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUUFUZzgtN3BUWTVLY0ZQLThGNnZOanh2dGdIX3NfbHp6U0lhLVpoLXF2Umo0Vk9qMDhVeGFEQnNzcWFzRnhwYkFMdjk2aDhfZGVUVzM3SjFxQnFjV1l3QzVoZy0zTjBJN1p3WEJwa3pXakc0UVJNT2JWU0dLV1VPZXFoWnhDRTBNNGdFc2VtTkViYXRVM1JnS2NpVFZGWS01dG1J?oc=5"
-      },
-      {
-        "date": "2025-11-23",
-        "headline": "AMI – Advanced Machine Intelligence – Das Ende der Skalierung: Warum Yann LeCun nicht mehr an LLMs glaubt - Xpert.Digital - Konrad Wolfenstein",
-        "summary": "AMI – Advanced Machine Intelligence – Das Ende der Skalierung: Warum Yann LeCun nicht mehr an LLMs glaubt - Xpert.Digital - Konrad Wolfenstein",
-        "source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FQUN3d1QwUmFaNzJSV1lDRnhLN0FoZk1TQWdkeHJzX29PQ1o4UEZfWnZQeUJpa0ZoRGEyWVR6RVNnRFJHN0pfQWg1S25ISk9LUzQyQXNtRUJhMklkX1NmaTdNcnVnQdIBbkFVX3lxTE1DN01nTnFCejVsdEM4Zm9lZnJDMzhHMkp2eHVEak5WNW00Q0wtaWtmWG5IT3FFRnI2clE5UUFDeEVfbmFhWVFaT1lvZG9GQlRnaFZjUTQtVkE4RVNvQnlxZXhvalR3R0lWZ1p3N1lB?oc=5"
       }
     ],
     "sources": [
@@ -888,6 +888,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "AvePoint (AVPT) insider lines up new stock sale after recent trades - Stock Titan",
+        "summary": "AvePoint (AVPT) insider lines up new stock sale after recent trades - Stock Titan",
+        "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ2FVeTdHc3piR1p4MmtXQk9rcngxeHdvWld0MFg2LWdMT19tTmZaNWt4S2RTQTM3QjNVbTNaZlF4UGVwd1FlNWRQZmFrYl80Z2lnM0F6emJsMEJ1M1g3SkVrSE11ZTF5c0dzdGdESFBUUGJaZzdaRlZOLTl1R3gzZENralZEUVliR2VWdWRDMUJLOUlq?oc=5"
+      },
+      {
+        "date": "2026-08-24",
+        "headline": "AvePoint (NASDAQ: AVPT) trust to sell 10,000 shares after recent disposals - Stock Titan",
+        "summary": "AvePoint (NASDAQ: AVPT) trust to sell 10,000 shares after recent disposals - Stock Titan",
+        "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRzdfWlBOaUtLVVdzNEdVQ2hjVzJ6RGpROXZNS21YVkVRVlJGV29KREtWV0ZDMnZkd2VrS0loTEo2d3ZDSGc3STVMRXpQZ3pVRGMtMnJhNGZ5cEFMOWJERnVjeWJvVEFuX2VHWW1oMEI0SUJJQjlOdmk2dzNpNVhXUi1ZY3F5X3lWaEQ4a0pzMWE4NVI0?oc=5"
+      },
+      {
+        "date": "2026-08-19",
+        "headline": "AVPT Stock Price, Quote & Chart - ChartMill",
+        "summary": "AVPT Stock Price, Quote & Chart - ChartMill",
+        "source": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnMzJGaGRJYW9jeHZYMzM1dEpvYTVwTmtpb0x3b2xidEt0ckJub3AxdXlPb2c3QVJWYU8zZHZ6ZkRqcGl1dEk2M3hXbUVKQ0R6aXBaNmlwdXI0eU5vLWZ3?oc=5"
+      },
+      {
+        "date": "2026-08-18",
+        "headline": "Stronger Guidance and New AI Tools Might Change The Case For Investing In AvePoint (AVPT) - simplywall.st",
+        "summary": "Stronger Guidance and New AI Tools Might Change The Case For Investing In AvePoint (AVPT) - simplywall.st",
+        "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNC1wODJaQ0o1M1ZObE5NOGFNRUNaQ1IxME9YbjRkamtjeS1TMlVwanExdFhGbWoyV19EYWxhc3k3YldvV1hSSDROcGQ5MTFkSmJNOHM5ZTB4bWJsVlpab1ZsWmxyN1pQUWlqZTM4b2RHUFNWcjkwV1d1QWlvdHBQMV9GX2gxNVZtT0FIcGFtNjlVN09manNGZmJmUTQ5TklWU2FfQXVQN0tpNFpTai1kU3htdEh2QXAwcFdueGw4Rk9pWDFIWFHSAcsBQVVfeXFMTk55bllwczBzd1VZbF9oalY3WVJHbjhEUVFGaDNJV2lOZEdCNkVKZmxOVHUxeFBsZ0hJR2RyM1VGS3FmaEZibUhXU25oM3pTVTZSLTVIYzM2eWtick9RdHVhWGFYSmVZaVM3ZDVaVTkzVGF4NEJDSEtJVFJFVE44UlZlb3pzZlAtejJlTUpoSXR0UFF2eHlQWWVqYWx0UExUTUYzWmRaNGJhX0VCLTdpVDN6STRMWko3TFNvLXlsaW1pVEY5N3QzeVFZVXM?oc=5"
+      },
+      {
+        "date": "2026-08-17",
+        "headline": "AvePoint Inc. (AVPT) Slips 1.56% to $13.27 as Shares Trade in Tight Range - Wave Alternation - vinanet.vn",
+        "summary": "AvePoint Inc. (AVPT) Slips 1.56% to $13.27 as Shares Trade in Tight Range - Wave Alternation - vinanet.vn",
+        "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2tvcGkyQ0lZVUcwTU1BbHBvNXUyQVdmSXNaRHRueVBoVjc3VTk2ZDl4US1ueldjR2JaSXFWbms4VFgzUTNXeURsQTYxWmdJRFpURmNqWlhKdWQtYVBNWFpOTFZFcFViRFpWdEVPVFJ1Sl9jbEx0anRWWkIwRUo3T1BnQUVhMlJadU5JcXVoUjMyNFhXejhIRXU4bkpGTElGVTVoUU43aDRab1It?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "AvePoint (AVPT) legal chief sells 10K shares in 10b5-1 plan - Stock Titan",
         "summary": "AvePoint (AVPT) legal chief sells 10K shares in 10b5-1 plan - Stock Titan",
@@ -916,36 +946,6 @@
         "headline": "AvePoint (AVPT) 10K Form and Latest SEC Filings 2026 - MarketBeat",
         "summary": "AvePoint (AVPT) 10K Form and Latest SEC Filings 2026 - MarketBeat",
         "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xVnJ1QUFiQTM3ajRMYzBRcW9WQUtTSmIxdGw4N2RGMUJPQTNWamlGbGxXVXd2RzVKMll5OXZnbHEtUWJmcDg3U1FzdFl2TWM2dHpRZWpJbmtsakN2dW1sVTA2ZXJEZHpBUUE?oc=5"
-      },
-      {
-        "date": "2026-08-20",
-        "headline": "AvePoint Project Manager Salaries in Montgomery, AL - Comparably",
-        "summary": "AvePoint Project Manager Salaries in Montgomery, AL - Comparably",
-        "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaXAxc2U2NHg2WUpiNDB6Q3NtT2g5VkNJUUF0ZmR1WFZtSnNlV0VGRlFveXJyLTdHWERiN05lTS1sWW5nSk5CVXVDbmxNQW1Yak5CdW1wS1BJS3ZsNVBvYURNTXpOcDQ2ZjdNWENTTTRkSVdnMjVQanFKVjBoaEZlZUItR0xrRDJxcENzR0s3Q3Y?oc=5"
-      },
-      {
-        "date": "2026-08-17",
-        "headline": "AvePoint Inc: Midyear Update (17 August 2026) - Smartkarma",
-        "summary": "AvePoint Inc: Midyear Update (17 August 2026) - Smartkarma",
-        "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc1ByNEI2WDdkV0t1ZHhrWFoxcDFwOWVhYWd4SE8wT3ctRDFHcjEzUG1kR09iT3ZNajFKSTdTcFNiZUxTbXBSckdJRUhlN0xBUHhyS252cmdyRnpTdTNPRzdmS2phWEo0RkVpQ1AxclE3NFdHUkhFT241eThPaUxMeXVyX3M?oc=5"
-      },
-      {
-        "date": "2026-08-13",
-        "headline": "AvePoint (AVPT) Q2 2026 Earnings Call Transcript - The Globe and Mail",
-        "summary": "AvePoint (AVPT) Q2 2026 Earnings Call Transcript - The Globe and Mail",
-        "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3ZTTUMtLTE4SkJIQzNuNFRwdjVMekc1bnotYmRaYmlyRmE3SDdETXotSVU4UzZuTzhMNF94d2dpX1VxaGtzYUppelNFV0ZpX29DaWF4OTZxeW1nQ2paV29qcy1FakRoTy15VXFtRGZITW9aMUF4NXppWG9naWI3OThYaFVSbnJ3d1ZZYV81S2tVVmtfQWwwRlFkMnZPOHQ1WlV4SDlTckhndlFRN1dqd2xHdUM0NjFDMXdiWUxOOUQ4V0k?oc=5"
-      },
-      {
-        "date": "2026-08-12",
-        "headline": "AvePoint (AVPT) Could Be 45% Undervalued Following Strong Results And Higher Guidance - simplywall.st",
-        "summary": "AvePoint (AVPT) Could Be 45% Undervalued Following Strong Results And Higher Guidance - simplywall.st",
-        "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaV9wN0E4bGEwYUtXSlpPU2Q2NV9oUl9ILXhOX3JBT0RuUTFYVkxyZkVFVkhJU2FvMzhMZFAzRTJLa0NWbngxTnhBb3VnUERHWG1MdDNHdHpZcWlPSUEzN2h2OHk4dHhKMWNQX2ZIVjNLUWRRNDdrU250WC1wMHY3Slo0ekNsX1ZLM0gwd090RXJXSzVZcXhPZnNJSmJLbmR1aHNVV0NSTHpZbVhQeG0xWEljVVJmWkpheEh0S0NtSWszczNrN1HSAcsBQVVfeXFMUHhYUnZWSHh4OGxQUzNUTDhQdU9FUU1uRWRJMnFjczdabHJuc2cxRXdvbFppdnJlUHJ3STFUMTUxVGNSUG1yWVZjX1YyczA3a0l3UmphU2JjejE3empIVHZBTzJMb1ZMRWMxSVdTWDFkcDQ4SEpWVUw2YkhMR0VCOFR0R3FGYURXY1lVT3BsRnpuVzhvbi1FM3JIZUF4T2g3T0ZmaGtRMW8yaW5fNHFBTFJtT2M5ejJLOEsxVTE1bXJvWHZUQUlnaDh4OHM?oc=5"
-      },
-      {
-        "date": "2026-08-12",
-        "headline": "Citi Maintains AvePoint(AVPT.US) With Hold Rating, Raises Target Price to $14 - Moomoo",
-        "summary": "Citi Maintains AvePoint(AVPT.US) With Hold Rating, Raises Target Price to $14 - Moomoo",
-        "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNU1XWHFSYjV4c3lUY2pPb3pyZmx4MXI2bHdpaE5VczhkZDFqcmlmVmFtRHYyTExwNWJzUTM3LWVBMmxwQ0FlZ2I4a0thZjlXNUlZMUJhYU80MVNKaUZYckRtNEtzS25uaWQtaFdBMWJucXNnU1JDNURrNHUxODd1cHVRYjBuaTMtQUdsNGNLR1JiYTZUckJjcmZ5N1FPQmJUMzlra29NUVZUVEpVU1E?oc=5"
       }
     ],
     "sources": [
@@ -987,6 +987,12 @@
       "source_note": "Seed extension of $10M led by Cambridge Innovation Capital closes Seed at $18.5M. Initial $8.5M seed from 2024 led by UP.Partners. Source: BeyondMath press release, Feb 2026."
     },
     "latest_news": [
+      {
+        "date": "2024-08-20",
+        "headline": "BeyondMath raises $8M to transform engineering and design with AI trained on world's knowledge of physics - SiliconANGLE",
+        "summary": "BeyondMath raises $8M to transform engineering and design with AI trained on world's knowledge of physics - SiliconANGLE",
+        "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3ktZWh2c0Z3aW0tOTVvOE8ybjI0QzN4WVh1eXV4bDR4aEJsdGFmWEtJVzdZZmZmUHplRnI3QzlnOGl0OEFvQTVaYzhTM040VjNYb2lYWlFkeEhvMXprNGkzcmQ2UnBXbTBMQlZNc0tIeFJHZjNmVnVGUk4zTzhTQk5ianVzY3dTbkxhMW95MHpWT205dFNRZEJZMTh5eEl6T3Y4VnR4ZEtIMFdsRjJKdXVmVGVydEcwQnVISzZNVQ?oc=5"
+      },
       {
         "date": "2024-08-21",
         "headline": "BeyondMath Raises $8.5M Seed Funding - citybiz",
@@ -1040,12 +1046,6 @@
         "headline": "BeyondMath Highlights AI Tool Aimed at Accelerating Engineering Simulation Workflows - TipRanks",
         "summary": "BeyondMath Highlights AI Tool Aimed at Accelerating Engineering Simulation Workflows - TipRanks",
         "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN1dYU3BVUTh3NXo1Q1pSRTYtdHpGQ083ZkdoQ3BmNGtLOE1LWjJvdV94NXlHVWhESUFuSEl4dFJmd0RRQmo5Slg5MDRUTkF3RUJSWWRwUU96OC1QcDVQWEg1TkJhdWRHV3FJeUM4WEZCTXU0d0ppRTFkcjhvVktJWnpKT2ZxZE83Rll5ZVRVb3VWRzlRU2tJLXl4VE00TkNVTWc3dFQ5OFpUeFVSa2tlYTJqTWYwQ3ltRG5OZnVEczlWT3loMlhLc2lRdE4?oc=5"
-      },
-      {
-        "date": "2024-08-20",
-        "headline": "BeyondMath’s ‘digital wind tunnel’ puts a physics-based AI simulation to work on F1 cars - TechCrunch",
-        "summary": "BeyondMath’s ‘digital wind tunnel’ puts a physics-based AI simulation to work on F1 cars - TechCrunch",
-        "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDAzUUw0eTZwbU1oMUJqd0tRRTY0RVJJNVNEeFNnUTdQTjh0ZmJCZFNLX3RWYm8tZV8wdXcwYlptU05INHJBaWhrd1lvXy11cGpsSUc1TmoydEFyYnZaeFk1RmF1NVlnMi1ibFpVdUVHVGFDcVNYc0VwMVZCaEVPbmNnZDhfMVBMNWpQZ0M1ZnIyREZpLWMtdmROUmVrQ1RYOGd0ZXdlZUoyVl9Odzdkd0NYcVNBRTRod0FVM2dB?oc=5"
       }
     ],
     "sources": [
@@ -1264,6 +1264,18 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-21",
+        "headline": "Cognition AI vs Mistral AI: Revenue, Funding & Team Size Compared - GetLatka",
+        "summary": "Cognition AI vs Mistral AI: Revenue, Funding & Team Size Compared - GetLatka",
+        "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oR29HdjdZemEtbG5zZ3J5b29RRzI4QTZ5Qjlfb1RXUGxtSjZuX1dBYzNMbHc5SGtmdXRrTW53ZklUMFRINXZhU0xpSm1jamYxNk0zTFFIMVdEN0pWXzVyYXBnTVdGVERL?oc=5"
+      },
+      {
+        "date": "2026-06-04",
+        "headline": "Carahsoft and Cognition AI Enter Into Strategic Partnership - ExecutiveBiz",
+        "summary": "Carahsoft and Cognition AI Enter Into Strategic Partnership - ExecutiveBiz",
+        "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd1FCeVdKaFJ4T1Q3aE13MGxMR0NsY3h0MnlDYloxLTZ4cjhHb19mcUwyTk0zcHNENXBtNGtOTHhNcXozRFFhc0dYUGJGX0F4V0QxZWFGSDBwUEZJREQwV3RwSUw5MXRUWTUzWC0yY29JM2tRanBPM05veldWWFMyQjhSRXdxSlhMYVN5SzFIZE0?oc=5"
+      },
+      {
         "date": "2026-06-01",
         "headline": "Cognition AI Raises $1 Billion as Devin Starts Writing Most of Its Own Code - Memeburn",
         "summary": "Cognition AI Raises $1 Billion as Devin Starts Writing Most of Its Own Code - Memeburn",
@@ -1310,18 +1322,6 @@
         "headline": "Cognition AI vs Cvent: Revenue, Funding & Team Size Compared - GetLatka",
         "summary": "Cognition AI vs Cvent: Revenue, Funding & Team Size Compared - GetLatka",
         "source": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tV1dIbzJKTGx4bUtkbjZyNkllSHVHTWNjWi1XVmN6cDJNZWhfYjNvQWN6cm5oNnhUU0xjT1BfYU5qa2VDR0ZIN1BDbDFpLXd0M0tfeEU1MGFBMVF6THVNekxB?oc=5"
-      },
-      {
-        "date": "2026-08-23",
-        "headline": "Cognition AI vs Poolside AI: Revenue, Funding & Team Size Compared - GetLatka",
-        "summary": "Cognition AI vs Poolside AI: Revenue, Funding & Team Size Compared - GetLatka",
-        "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xUGFWN09VckxaLUpKbHpEeGVkaF9HWFd6bWFJMFdjMDMxc0xkQnJ5azVtdGg2YW5sMC1JMXlkdFUwbFpYTC1zdlE1eXJxNDgwN2g0WnB3WVpXdVM0WlE1Z0d2eVdNbGptc3c?oc=5"
-      },
-      {
-        "date": "2026-08-23",
-        "headline": "Anthropic vs Cognition AI: Revenue, Funding & Team Size Compared - GetLatka",
-        "summary": "Anthropic vs Cognition AI: Revenue, Funding & Team Size Compared - GetLatka",
-        "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jSjE4YmRacXR3LURzWGVTYnB5elR5OURIZWpReVAtTW1NbTBQUDRXd3kzc245SXc5WmdnRHY0YjBKR1c4WVU3QmtrUWdLd1NGdHVpTE5xTk56SUVBYUZFSWF0U1RnSkk?oc=5"
       }
     ],
     "sources": [
@@ -1364,6 +1364,12 @@
       "source_note": "April 2026 Series D $800M at $14B. Earlier $500M round at $6.8B. Schwarz Group investing $600M as part of Aleph Alpha acquisition deal. Total ~$1.6B. Source: AA Orbit, Reuters, Bloomberg."
     },
     "latest_news": [
+      {
+        "date": "2024-07-23",
+        "headline": "Laser Focus on the Enterprise, Innovation, and Partnerships Differentiate Cohere AI Strategy - Cloud Wars",
+        "summary": "Laser Focus on the Enterprise, Innovation, and Partnerships Differentiate Cohere AI Strategy - Cloud Wars",
+        "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVUdoNnBYU1d6ZnEyamN1NWNMY0R0OTdqcFVPQndZcDQ3eElZSloxSHpKVTFlSWR0dE91Vy1zSXh4NllKaVQ3bkwtQzFkbndxSkdjOTk1ZmRINjQ0ZXFjSVp4T2JnRVRLUXh4M21IVHpFcDQwakI4bklnby1USmM3ZlI0aGF6c0JFZjVRcmtKa2R5WDBFdVlB?oc=5"
+      },
       {
         "date": "2026-04-22",
         "headline": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape - The Hacker News",
@@ -1458,6 +1464,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "Vertical Advantage: Transforming Industries with Lakebase and Agentic AI - Databricks",
+        "summary": "Vertical Advantage: Transforming Industries with Lakebase and Agentic AI - Databricks",
+        "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjVWTjVwdWszb2VqTEwwY011QTljNFBpSm1uSGZianJ6YmdCTVVCa0Zad2c3RmM5UGZ2ZWJBVG9fQ0VxMGt6OVJlejd3aUFnRFFDYjhhNGlkdGxZcnpyRG5QODk4bGhPWDh4MDduYzNEWUFIV2dveHlwLW83MlhjdHY2cHozeUpZS3YyaGxyUmlnNWozblNNS0NkSWszNlE?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Databricks Extends AI Reach with Industry Solutions - StartupHub.ai",
+        "summary": "Databricks Extends AI Reach with Industry Solutions - StartupHub.ai",
+        "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQamRpRVE4ZzNaeGdUaXBxN21iVWxNYXVvNlVfa2F2YVQteGo3ZkNaenRMRVNBcFh0bmFNdkNZRzJmRlc5Rkc2Q21qbWNieXpuTDNpS08zclBPMWkzMUFoSE1uUjlvLUw4dlJ2WGdkMVViMjIzQ0dpQ1l6R3A0VE5PR0FDSGd5bURETUZ4ZGhTNFk3UnZGb2tteGhtM2dkU3VmZ3RNdFVIU3hZeDhQR3Z5NmdwOUU?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "BSTZ: A Backdoor Into Anthropic And Databricks At A 7% Discount - Seeking Alpha",
+        "summary": "BSTZ: A Backdoor Into Anthropic And Databricks At A 7% Discount - Seeking Alpha",
+        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEU0RG1kTnRvd184cFp0eWdpNWpDMVFKRmJMS1NMNG9Eenl2LVFxMmVtWGpwZWRlWWk0UVFmZ0xNSU9JbzB0WWIyWlN1V2ZJcWZhVHViQWU4TURqLUlhNHRUa2RWWHEtdkkwWGtxNmhNel9jNVJIcTh3dEgzUWM2WUhZc3ZoTTFKTVhaZmtubFBaZlUyVlNIWEhTVlA2T05xZ1VMMFp1cHk3TVBmNlR3bw?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Retool scales smarter with Lakebase - Databricks",
+        "summary": "Retool scales smarter with Lakebase - Databricks",
+        "source": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvNVFLLVJDN3c1VzFWZmdOcDZiWlNHSms3VUV2X2hxUTZYTWtjbGJuVFNJcGdERHBRWWlJcjhUTlZZLUhvUXhmUWFnQmxoZFVXM0VYUE9SZjNHRDVydGRpS09R?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Modernizing MRI Data at Scale - Databricks",
+        "summary": "Modernizing MRI Data at Scale - Databricks",
+        "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WVVpRQjg5LXE4MnFmSENIbTZDUC15VGdfT3dGNkhPTkFQWlgwNlg4THphRExWX1BDbnNTZHV1VjJ6OXpfUm5XVUhCOG9OWkI0Smh1b1gzeTQ1WXRUeGVpTFRDaWo0SUxEOEdsdGFBZk4?oc=5"
+      },
+      {
         "date": "2026-08-25",
         "headline": "Databricks Simplifies SQL ETL in Lakehouse - StartupHub.ai",
         "summary": "Databricks Simplifies SQL ETL in Lakehouse - StartupHub.ai",
@@ -1486,36 +1522,6 @@
         "headline": "IPO inevitable for Databricks after adding $5B in funding - TechTarget",
         "summary": "IPO inevitable for Databricks after adding $5B in funding - TechTarget",
         "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN202ZmpXaDJZeVRCRzBld0RNdHVhdU8wQ1ZDS2JxeEhGWGZqVnJIek1GeVJtQnAza0hvbEFsbjNqODI1cGhHeHNWNVBlbmkyZkhvYnlqalZkdDdVc2tsbWtoU3lSNEpqVmZkSzlpNFY5Tl9BTk5rb2ZWb3kwTUlHUzV5SE9pV1dlOE5jLTJWLUJXc0pxMTlNdTBSWkg3LUZiRS1WZW9saDJPd1hfbVJNRzFIazVqdU0?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Introducing Governance Hub: Intelligent, account-level governance over your Databricks estate - Databricks",
-        "summary": "Introducing Governance Hub: Intelligent, account-level governance over your Databricks estate - Databricks",
-        "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORlpsb2JfaVRXVFBTX3NaR1FxMGx4ejl4YmVpUE4zd3l2Y0xwM0pLNXg2alJ1R1RuTkowWGpBVnBBS01kU09idGZtN3dHLWd5bXRGaVlFZHJ0X0dpNzNmR0Zqd2MzeTNLb3Ruc2VIZnRuMDVyZWVvTjczLVJrWW5XN29JQlVibHhualNZMEc1TWI0M3Jha1pqUGNISUZDanhsYW9tV2hvZUpSQnVWaGxYQVN5MzdXbmhRUGJVczdpR3Y?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Brasilprev turns scattered knowledge into governed insights with Genie - Databricks",
-        "summary": "Brasilprev turns scattered knowledge into governed insights with Genie - Databricks",
-        "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5cWNWNXR2YXdvTXdGendmLVFXUlVPNWNER3BJV05lclNzcTFaVnJmcEItbE9DSVhQRThhcUNJWVhpd0xfajBjZmJUMWZIMTN3NF92TnNsTHhRM2MzV1htdk9ucw?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "bp Standardizes on SDP - Databricks",
-        "summary": "bp Standardizes on SDP - Databricks",
-        "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRi1ZRk9mZ05RZlAxUFJzOEFJLTZNMFVld3RPeG41aXRzRnczOU1KZEtVQkJacnRhN0w0Yk05UER5YUc5UldBZ2FKYTVmeDBkU1E0ajR5MkJidEJJYTlJbFJFVTk1aGI2RlZheFJxQ0Z1bjRuUkZ0bjlmaTRLNUZDbHFDNEdvNUszOFd0NGQ5ZW01ZGNt?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Leveraging Databricks to Support FISC Security Guidelines - Databricks",
-        "summary": "Leveraging Databricks to Support FISC Security Guidelines - Databricks",
-        "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcU1OSDVDNUozYm13NnFGSlAzT3NaNFNOejdKRGNtbllfdUFtWkhvUHIxVEhoWFFVWkxOcVJyRWRVWnMya3hYVlZGU1NleUJwQmxGUUYyXzEzRUhRd1hPckh5SWN4eFdTR2VrUklsZVpvUHotbGhYRlI0VzJVT0hIaElNZXR6N2NyV1MtUUlZcw?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Modernizing SQL ETL in Lakehouse with Declarative Patterns - Databricks",
-        "summary": "Modernizing SQL ETL in Lakehouse with Declarative Patterns - Databricks",
-        "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQTUwR05VRFFvcUljUk0tQy03cG1TLWdxdThoaVlPcnFZOFd5U0FkdlBSU3Z4bXNZVmhvUzJ3TUJOcnpuOTh2eHA4RkxwMjZBbDFvQjNBZ3R3V3N3R1QtR0V4SGJKMV95V1drLXVtaElVWlZrdV9ZZFZSd3BnZ0tKaThtYUdIMDcxM3c?oc=5"
       }
     ],
     "sources": [
@@ -1562,6 +1568,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "French Tech Founders Reap $3 Billion Windfall From Datadog Stock - Bloomberg.com",
+        "summary": "French Tech Founders Reap $3 Billion Windfall From Datadog Stock - Bloomberg.com",
+        "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd1lMVWdzblhuVjJqMFZXMVUyT1kyNENFc0xFNWxaZHBla2tXdFZ5TDlWUlVtRWNYamJORk8zbXhDYmd1cVpQWTNWaTlGV21Hb01ncWlRTmROTFdoQW1sbk5FYmxOUHNaV1FUbjFwUEdXQkhvaDBaLWxtYjQ2SFdUV2dIV1phX1psdXpzanJaMlRNN1RQaHQtUzF4MEV1TGRDOTRUeEx5SjhtN0RGaWc3MVM1QlM?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Datadog: Growing Into A 400x P/E Will Be Difficult (NASDAQ:DDOG) - Seeking Alpha",
+        "summary": "Datadog: Growing Into A 400x P/E Will Be Difficult (NASDAQ:DDOG) - Seeking Alpha",
+        "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVh2M3NPRXJ2M25hYXgyTG5Ya0Vhdjd4Q1dFa2dIZ1BNcEdCaEMzRW5sZUdtV0xDa2dheXdXc2ZvTUhKZnJ5bjd2NEpxT3B4X3NzLUQ2OTF0VmNPd1NSaWxsNUkxMERyZmtjcVExejY0MEM2ZWY4cmFRYkJsWGFiV3UzLWxsUm9vRlRDeTExTkgtcjNr?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Paylocity, MongoDB, Datadog, Five9, and monday.com Stocks Trade Up, What You Need To Know - TradingView",
+        "summary": "Paylocity, MongoDB, Datadog, Five9, and monday.com Stocks Trade Up, What You Need To Know - TradingView",
+        "source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZnlfN1BfN2ZKeFNQZ1BGeWctVHFPTF9EWXRiTFM4NW0xbnozdzVNdEpoUjBfY0JvczRxRGYwQldLYkhwWDdJVWJjU0c4cVRIRmhaMFNSaHZhalFWampsR3IwalBYNC1VNmxLMXA1VzhvSVVkQVlqRE5jLWtHVkdyVXRyUEI2QVBFTHNFcnRCNnJMOFhJQnliZnlTcDRTNi1Nb3VFQTR5ZUhsWjJFX2dKVHZXbE9ESzljd1pPRk5aYkhydS1VWG95cGd4aW11S3hmbW1wdloxSU1HY2VlMUE?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Datadog Inc (DDOG) Stock Up 6.7% but GF Value Says Overvalued -- GF Score: 85/100 - GuruFocus",
+        "summary": "Datadog Inc (DDOG) Stock Up 6.7% but GF Value Says Overvalued -- GF Score: 85/100 - GuruFocus",
+        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVDhob1FscmR6RnprWldfc0xVR0ZGTjN3WnpIWDFOOTR4eHlxNFZoc2Nra2tFS2d0OWljbE5TYVozSEZjdnc2UHZsRUZPY3FaY2dhQ082WTc3NXFFQU1wY3A3a0FlOUJVOHRLRVJDQ1ZqME5KTDdNMU0zeHhCU0pVYTBjVmk3dzZIWlBsaThuelFaamVQN2stTnNvRXAxZEJqa1dqanh1OFVQSElVclFFRw?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Datadog Inc Stock (DDOG) Moved Up by 6.67% on Aug 27: Facts Behind the Movement - TradingKey",
+        "summary": "Datadog Inc Stock (DDOG) Moved Up by 6.67% on Aug 27: Facts Behind the Movement - TradingKey",
+        "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS3p3ancxSFM2dXM1WDF0NEtOMnRpeHVGTFhWWWQ5RFVFd0k2eEc1OFl1TWhhWm1uWHVya1dwMUxobDRFeWRfcnFwNVBOWUI4bHlPSmtrTmJYbl81UFdBQjJFbGVjMEFQQTNHSTN0cHRjMmxCenhrT0trcEZuTkVWa2ZIUm9TZkdwLU9j?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "Palo Alto CEO considered deals to buy Datadog, Okta - The Information - Seeking Alpha",
         "summary": "Palo Alto CEO considered deals to buy Datadog, Okta - The Information - Seeking Alpha",
@@ -1590,36 +1626,6 @@
         "headline": "Datadog (NASDAQ: DDOG) CTO sells 43,224 shares under 10b5-1 plan - Stock Titan",
         "summary": "Datadog (NASDAQ: DDOG) CTO sells 43,224 shares under 10b5-1 plan - Stock Titan",
         "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbHNOQW8wdHZDVnpSMVRQNEhBdTIxM3VEdDlaSmlpcnhwT1JtaVR5VVVsMnJnWG0wcXNsVUZ2TU5zRmhzUXlKLTVGdWs1WU5aS0JGanM5dktmczdsN1g1X0ZQUFBMVDBpUmlKeG55YXg0alVDRjVTTnF5QmRjQWpTZGFEV0c2UzlqUEhfVHAyV212UjlnM3NKdEkxWTlxMFBmVHdyUTBjSUk?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Datadog: A Market Winner With Accelerating Growth And Long-Term Tailwinds (NASDAQ:DDOG) - Seeking Alpha",
-        "summary": "Datadog: A Market Winner With Accelerating Growth And Long-Term Tailwinds (NASDAQ:DDOG) - Seeking Alpha",
-        "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1otQTQ3YUhnczlWWUpMeVpzV0JuT1pJckQxVWJqVHJaZVZLZG9CZnJPTWRKNnlKQzJSR1QyNjRuN3dyNXA3QndfUFY2TU5obktSZ1NqaVg2bzJQcEZEVHpHeFVGdnA5OGtnZ2FZQ0tEdjhiVGhySTZGcWhUNl9oSlBPakt4X1F1VzlER2NFUUlBb25QRDFtNlpDVkplMy1RU0ZNTmlOTW5vbi1fZENpTmNkMA?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Datadog's Multi-Product Adoption Grows: Can It Drive More Revenues? - The Globe and Mail",
-        "summary": "Datadog's Multi-Product Adoption Grows: Can It Drive More Revenues? - The Globe and Mail",
-        "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNjY4Q05xMVRfVEZWY0JSYzBQSXowblN3NHB5NF9aS3FNLTVHQXpCUzVja0RRQi1tLXhMTGdqaGxaSExZWVQ4bGs3Mkd4NGdqV3ptczEyWURNcE5UT1ozQmZyekZXYi1Mc1dTX0VpMlJxNmxvb1AzTFNBR1RNdVV1eGRtZDR0QnI1cHgxM0FVNmJ2MU1yMDNoVVFTaEJRMzAwOXJSNDlrVmMzNnlEeDdUamxLWjJvNW92VWNFT2E4NEtCMDNJTklXVmtrZ0tmbkpQS2ZWcTdpb25EaTdiV2JIeXZGcw?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Datadog Stock Is Up 116% in Six Months. Its Q3 Guide Just Tested That Rally. - TIKR.com",
-        "summary": "Datadog Stock Is Up 116% in Six Months. Its Q3 Guide Just Tested That Rally. - TIKR.com",
-        "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVW5Hc3YzS3p1S1hNT2ZYdlNYLWhoYlQxd1hvbk50Qzl3MmV0SDF3VTZlMjkyMml5SlZFTm45MkppYktHaE52c1c5cTNEc3BwNVRBT0hXR3BobGV4NXUtdzNMUnk5MzFqeWlOdGFjU1hscTItLVNsbG1WY0VzaEd2MnQwcVRzS1o4TzQ4WEJtbGFCX09mMk44SXZ3MVlHU2h1?oc=5"
-      },
-      {
-        "date": "2026-08-24",
-        "headline": "Meiji Yasuda Asset Management Co Ltd. Buys New Shares in Datadog, Inc. $DDOG - MarketBeat",
-        "summary": "Meiji Yasuda Asset Management Co Ltd. Buys New Shares in Datadog, Inc. $DDOG - MarketBeat",
-        "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd2dkcGtsZkNsWmp3Wnkxek9QU3FiNDdJUU9YZFlWNVlwUjlLN3hFOU9Ld01RYUZuSHRqVDhtMG0ydTZvYjhaOEdoMDAyeXFjUmRPV0pSTGpWUDl6WXVuZ0JwNEQzM2luMW4wbkRYYW5VRXUyaUtxa3pJR3lmdVJQal9mem8wYW40MFdyTkJTeDJndzNlQko0YzQ1X1dlSHFaTnRXSEphNUR1TjMzWHo1OW1KQ3VXSHk1VEljWUJpSDluU19HNW4yeFRVYnJFdw?oc=5"
-      },
-      {
-        "date": "2026-08-24",
-        "headline": "Scotiabank Has Positive Outlook for Datadog FY2026 Earnings - MarketBeat",
-        "summary": "Scotiabank Has Positive Outlook for Datadog FY2026 Earnings - MarketBeat",
-        "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFF5QVl3djlsWHZiMzRxY05mY1hLdklxUER0MlpwQWUwZXltUkM5YlVBc0l5ek45U2VwQkpjMEZZcDNXX3NTMHdxUi04NzluQlliLV8tVlB5MkQ1aXNuWUduWDFIZnJVR1VNb1FJYktxWkJEYmNxbTBPOHVLVmJxZVZCaUxJeU9LaDlkZG9rd0JXdm51VU9BWko5QW90dkFzaXcwQTB2bDk5Vk5fNXhpd2dSVQ?oc=5"
       }
     ],
     "sources": [
@@ -1662,6 +1668,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-23",
+        "headline": "Decart’s $7 billion Anthropic deal could become far more valuable after the IPO - calcalistech.com",
+        "summary": "Decart’s $7 billion Anthropic deal could become far more valuable after the IPO - calcalistech.com",
+        "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9icVRMd3dSeFhQTWpObmNESTFpUlhLUjdiY3E1eW9YZlE1ZktBRDctX04tMkRjQ2FjTVFUS3ZRRUZRdFA2UjhkbEQ1R0RIUU5vVGhsZ3hWRktLeC14NWplbVFoeXZpQXdR?oc=5"
+      },
+      {
+        "date": "2026-08-21",
+        "headline": "SpaceX (SPCX) Reportedly Enters Decart AI Bidding Race - Sahm",
+        "summary": "SpaceX (SPCX) Reportedly Enters Decart AI Bidding Race - Sahm",
+        "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYnBSNHpVOTZuNmVpNlV6Y2lUenBLb05HeVJsSWlNN0lZS0VWM2FqZEVQaF9ZNkEtUk1xQVBaZ2FsaHVCUXRxOTJwWjRlVDRZNGduYzdnbnlFTklqTjBFZzExNlVQV0F6Z0ZkSW5CVk1IRklyMmlJTFJRc1lORGZldGc0cGhGdGg1U0tWR2ZlM2Y4aEdYWnBKMVYyV2kwM21CbnhaRmFRaw?oc=5"
+      },
+      {
+        "date": "2026-08-18",
+        "headline": "Anthropic nears $6 billion deal for Israeli AI startup Decart, creating new billionaires - The Jerusalem Post",
+        "summary": "Anthropic nears $6 billion deal for Israeli AI startup Decart, creating new billionaires - The Jerusalem Post",
+        "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2ZjNEQxYmh6N3dHS1RoOXNJVGxuaDRnYXRvemZuLWVDYUNudHBCaURVdHdFSHNaTlRoNWFsSUhkc2k5RU9OcVpWeVh1UGg3QjJZc3dwWVduTGJNNEh4MV9OR0FmQkthSnhmVXdxZjZGcUZiNFh5MXk0OGZUbkJwdThFaFBMdw?oc=5"
+      },
+      {
+        "date": "2026-08-18",
+        "headline": "Anthropic revenue run rate tops $65 billion as IPO looms and Decart deal advances - calcalistech.com",
+        "summary": "Anthropic revenue run rate tops $65 billion as IPO looms and Decart deal advances - calcalistech.com",
+        "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrcHh0cEFRUGU0aXF6RWhMQWY4S2dmT3pJclpIZGFUdW1hUHo0eEFSeG9QcmxXN2hZc3J6WWE2cVBFWUtPMk9oOWE4R0I5aDMzSTBXRVRiaWZqWmFYX3pRNmFTSzhNMFk?oc=5"
+      },
+      {
+        "date": "2026-08-17",
+        "headline": "When Elon Musk said 'Wow': How Israeli company Decart became a key player in the AI arms race - Ynetnews",
+        "summary": "When Elon Musk said 'Wow': How Israeli company Decart became a key player in the AI arms race - Ynetnews",
+        "source": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04bTlzR0RZUDRxV3p0dlp6eGN5M29CQ0MxSXJySXQ5TzhlbERCLVR1YWVVSXZYY0VrMTYxcXpKaFZVVlFqSThkTHVtdnNTQXBVbktyMnRWdkE1YWIzY3p3LVJn?oc=5"
+      },
+      {
         "date": "2026-08-21",
         "headline": "SpaceX (SPCX) Reportedly Enters Decart AI Bidding Race - simplywall.st",
         "summary": "SpaceX (SPCX) Reportedly Enters Decart AI Bidding Race - simplywall.st",
@@ -1690,36 +1726,6 @@
         "headline": "Anthropic’s $7 billion Decart deal puts a spotlight on its little-known 23-year-old co-founder and chief scientist - calcalistech.com",
         "summary": "Anthropic’s $7 billion Decart deal puts a spotlight on its little-known 23-year-old co-founder and chief scientist - calcalistech.com",
         "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ESkppZ0l0aEpMNk1LQkd6UmF5ZFc0T01JOG9XYjdMbmJmZTB1eVN4bG1pVm1DYWp0RF9remxCTFpybndkSFZHTnJCWGpFSTlnQTZZSnM5WkZuTWR0S1ktaUNvcGVGc1Ru?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Nebius Increases Debt Raise Plan To $5B: Neocloud Operator Reportedly Bids For Decart AI Buyout Eyed by Anthropic - Stocktwits",
-        "summary": "Nebius Increases Debt Raise Plan To $5B: Neocloud Operator Reportedly Bids For Decart AI Buyout Eyed by Anthropic - Stocktwits",
-        "source": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMW8wUWpWQVpJX0hvak5QR2FFdXhvazZmT3BzaENkSm1jMHlzbElBamk4ZGVqMXFSd0FrZF9UNEpyQXduOWJZLXFsemJkYlhVX2hBYWx2LVlsYWFweWlwanZVOTVyc2pDalNjMEhNaHk5U1lTY24zcjRzeERraGQxbldnZW5oZTlMN3dqWWVVYzlDQzNReDNXV3JUN1FiQlRzeERmNlJFUjJ2eG5aM3FtcU14ekJLS2pVRGhGQnhlYzR1QnN3UVk1SHhKM0JQZGx1M1JYQ2JXbWFQWTdqSk1MRllZcnJ2N0RlS2c4YWZrTjhaYzJJY2E3c3NmLWRuOEhtTWFZcnVMUQ?oc=5"
-      },
-      {
-        "date": "2026-08-20",
-        "headline": "Anthropic in Talks to Buy Decart AI in Push to $2 Trillion IPO While Financials Remain Murky - MarketWise",
-        "summary": "Anthropic in Talks to Buy Decart AI in Push to $2 Trillion IPO While Financials Remain Murky - MarketWise",
-        "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYlNnUW4wd0ItNDJaU21ScURnSkxKMzRQdmFibnZZanJrQmJQa1N6dHhsX1l3WXZPeVotMW1NellZbE12YjM2MC1OVldXQzNXTWhkVE5Lb1pzU2pjNUktU09fY2lrc0dsNG14TmROSDRldFpjQTREWUdHR2hrZmNwcGxWRHBldVp4U01qNzN4YlZUUi0xWFZqRGRmMHlmNXhWUTNQQWFpMlNMb2c?oc=5"
-      },
-      {
-        "date": "2026-08-16",
-        "headline": "Anthropic closes in on $7 billion Decart deal after beating Nvidia to the table - calcalistech.com",
-        "summary": "Anthropic closes in on $7 billion Decart deal after beating Nvidia to the table - calcalistech.com",
-        "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54bFFPYzZPY0xRUVFIVjBzN3ZTYlJqcVp5Mnk0MjdtdHpwZm02ZElpY2kwNVFTbGhNZWo4a2d6NExDRkRIMG9KdlhJQzdLTklBdGh4V1I2bURlUjlaSHJ3NHFfLUVidHdq?oc=5"
-      },
-      {
-        "date": "2026-08-16",
-        "headline": "Anthropic Reportedly In Talks To Acquire Decart AI For About $6 Billion - Pulse 2.0",
-        "summary": "Anthropic Reportedly In Talks To Acquire Decart AI For About $6 Billion - Pulse 2.0",
-        "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYkJHcGJUdkxjR1g3RFhRQlFYbWlzUkIwTzV6MFBLQTJMSDZHdUNLMGZlU05RYXA0Q05veHlkWnp3Yy1kWEtnRFp4WlEyQ0pyZTI1Z0ljaW9JaE8tZTd5T3FnUHRtV09fWm96Z015bFJFY0luLUdZZlR5Y21CYXhMZmF6TkotODUxS19qSlJDckp5VXQ50gGaAUFVX3lxTE1KeWRicmxBR2NMVnpWd2ltb1o0YTEtV0l1MkZrT0RDSDBzQUQzWkdFWklJeXJZZ1AwTWdKeXpBMWZYbXhOSTEtU1dxZFVqS3RPQzlCcllLZjR4UzRVSFkyYnpmZFgxblhjeE83WDdTRW9Uc0RZNEpMSjNxMGtEWWd5RE9JZ3cwNEJpNlBOdzhaVnUyWFl2eHpPdnc?oc=5"
-      },
-      {
-        "date": "2026-08-14",
-        "headline": "Anthropic’s $6 Billion Deal Talks With Decart Show Focus on Cost Efficiency - Yahoo Finance",
-        "summary": "Anthropic’s $6 Billion Deal Talks With Decart Show Focus on Cost Efficiency - Yahoo Finance",
-        "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMG9qcllRUHR2ZE1hRThxcnNHbXVCRk16RF9vb0Q4eXJBcy1VUVZVbko1QmVNeV9HWmR5X213WXczZm9LbmxfekVjWUc0bTVZVVlhZEJOX0hGWWJHcXdfeWJKMEhXLUo4aDBuQTIzUVhVUVB3N3kzNHB4VU1pT3JfcHYtdU00Nk1ibFR0cWJMYUtOemF6WFRzVEpR?oc=5"
       }
     ],
     "sources": [
@@ -1762,6 +1768,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics - Amazon Web Services (AWS)",
+        "summary": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics - Amazon Web Services (AWS)",
+        "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdmRqTlV6WVRfckJYMXRmcmVFVjAyckFhcTZ5VkFOOFhkMWJkQzlSSzdVaXN4cWpDS0lZZU1xQWpNYWlIZUJfQmw5eUVpa1daYzRfMmE4MmNHWUhfTkZTaENYa0lESjROQnlyRHExUkFhLW96cDZfUTJFdVgzOThVeG4yU0MwMW5zTmljaE56QXFRVjYzc1pBSkt1UklHSFY2V0pyTmo4UDhzSms2aTI5cnQ2bjJlcklBUlJJ?oc=5"
+      },
+      {
+        "date": "2026-08-18",
+        "headline": "US Voice AI Firm Deepgram Picks Singapore for APAC Headquarters - finews.asia",
+        "summary": "US Voice AI Firm Deepgram Picks Singapore for APAC Headquarters - finews.asia",
+        "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ1hFZEZrbjJFckdWWEZsUHJrWkwxaEYyOUFZXzFZODQ3cVpMVU80Yk5WZ3JiZzlweUVCSHIzT09JMUFoVnpWM3FiZEI1TjBfVFlfc0xhVnhvNUhmVGl1VjRZSVdiUXNHWHQ3c2R4dWZmand5Z3JIU1dKVGF4QWhMUjZiT01acFRzQXc?oc=5"
+      },
+      {
+        "date": "2026-08-18",
+        "headline": "US voice AI firm Deepgram to set up APAC HQ in Singapore - Tech in Asia",
+        "summary": "US voice AI firm Deepgram to set up APAC HQ in Singapore - Tech in Asia",
+        "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX255Y1ZzenduQXNmNnlYcXNoZmItUnVJLWJQMGRYTUtRTkxLOWxuSHJ0VUNWbk5xNW1scjZ5YWlPV1F5YjN3bVJPSUE0UDFMU3dKN3gwTTVEV3U0cXQ3Qi1DZG1TZVdxVzlVeTc4bXlUcXpqc1FUZFN2UmtWQVhkY1BR?oc=5"
+      },
+      {
+        "date": "2026-08-18",
+        "headline": "Deepgram to establish APAC headquarters in Singapore after EDBI investment - Tech Edition",
+        "summary": "Deepgram to establish APAC headquarters in Singapore after EDBI investment - Tech Edition",
+        "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkNlajhscTdlekJieXNGSzRQMl9SUW84WHp5SFFfaDdSbTl4LWxCa2FlY1VZMXZITDRTMURwV2YzLXFGNzZVRTRlUmxZSjlqQ1FkOUdfQmdTTnBYYkJ5Vnc0bGExVkpfZjg3YjJEN09JU3hLR3pYTGJsb214c0pSdHNnUGR6M2VqZzg4dUQwYjU3UC1WUUdFX0NEZkRWcGc?oc=5"
+      },
+      {
+        "date": "2026-08-17",
+        "headline": "Voice AI Infrastructure Leader Deepgram to Establish APAC Headquarters in Singapore Following Strategic Investment from EDBI - Yahoo Finance",
+        "summary": "Voice AI Infrastructure Leader Deepgram to Establish APAC Headquarters in Singapore Following Strategic Investment from EDBI - Yahoo Finance",
+        "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTdkRG5GbTBxVTNSVDFWRW91UnU4aklfNkVldnJHc0d3TUFDNUNwcld3NlJVQ3kyR2lxVnl3QlJpT3BWRFZFMmFrSXloRGpZTERDODFmVmxWcEU1clBGeTBkU0ZxeTJYVnJ4WXZOMmwwZ3d4R0lXQ0J6X1dxX0l0TDlWVlMwa3BIemZkRGtmcWhzYjYxeWlmODNvelRETXNXZWxXV0dB?oc=5"
+      },
+      {
         "date": "2026-07-21",
         "headline": "Deepgram Brings Real-Time Voice AI to the Edge with Snapdragon - Telecom Reseller / Technology Reseller News",
         "summary": "Deepgram Brings Real-Time Voice AI to the Edge with Snapdragon - Telecom Reseller / Technology Reseller News",
@@ -1790,36 +1826,6 @@
         "headline": "Deepgram Delivers Private Voice AI to Regulated Industries with On-Premises Deployments Powered by Fortanix Confidential AI and NVIDIA Confidential Computing - Yahoo Finance",
         "summary": "Deepgram Delivers Private Voice AI to Regulated Industries with On-Premises Deployments Powered by Fortanix Confidential AI and NVIDIA Confidential Computing - Yahoo Finance",
         "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUWtTRk5Sb1NENFJGS2RxU2R2NUVveUdYZDV6QUtKYzQzd1M4RzE3QnJPRFZZcThMeFZWa0RNMVl0TnZJanM4UVBST0Itdi1Pajg1RmhvZXAzZXprYS12dUhRRkUtelJ6ZWJQT3pib1NEem5IU25iQ2ttYi12R053c2dHQVZtZk1MU0R6Y1p3NTl3bGl0UmJJelN4S2cyS3FoOXl5SUtn?oc=5"
-      },
-      {
-        "date": "2026-08-21",
-        "headline": "Profuz Digital SubtitleNEXT at IBC 2026: AI Transcription with AssemblyAI, Deepgram, ElevenLabs and Whisper Plus New Broadcast Features - Digital Studio India",
-        "summary": "Profuz Digital SubtitleNEXT at IBC 2026: AI Transcription with AssemblyAI, Deepgram, ElevenLabs and Whisper Plus New Broadcast Features - Digital Studio India",
-        "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWjFqRmhFTXM5RGt1b1IyTHpubHN1WVdoekp0VmtpckNPNzNtSUpsakF6ME40TjNjdDVRdkNDM3pLVWQ2OVdYV2JyQThzWExYcW9FMnlpWEdVcFZXSkZoYWp0cnk5S0tzR0FmR3BJOUpWcVBaUnJRQ0dXczlNQUVDNDNn?oc=5"
-      },
-      {
-        "date": "2026-08-12",
-        "headline": "Deepgram Launches Flux TTS Conversation-Aware Text-to-Speech Model for Voice Agents - audioXpress",
-        "summary": "Deepgram Launches Flux TTS Conversation-Aware Text-to-Speech Model for Voice Agents - audioXpress",
-        "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGdIOUZxWll6N3c1SVJoa3FhZEFPQXJJYV94RU1rY2lFeEV1aVhPb2dmUWpfN0pWOXUxdzJKWkRFbXN5V0U0MmNIUWNDNWpJMjBEazdsRmtIZmNJaUNpaVFzZWhKMjNpbkZqLTVVZ3pad1pBNnpWX3Myc3J5WjVJNm9ON0xFSzhhdUg2UUVZVEJEM2l5SUUtVUNBU3pJLXA0dVdCaDR2bURuR3psVFpOcDJn?oc=5"
-      },
-      {
-        "date": "2026-07-30",
-        "headline": "Deepgram - 2026 Funding Rounds & List of Investors - Tracxn",
-        "summary": "Deepgram - 2026 Funding Rounds & List of Investors - Tracxn",
-        "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOTJIMWZ2eld1YVVmaXRNTUhzQXpVSm1NMzRwY1luNzdTYm9ZcnlDaGgtS3BNRFo0WTRWSXcyTXRQZVo0a3FlODVlSHVjS2dVWVhYSTJXSU9XekJmTk5kY1MwVFNtSG5kYjQ5b0tXakFNQ0xOVXBQOG5SaGdyUzJGbE1uQkRUekZqb1d3allWVVJoSTRXaVVzSnoxTzR6MFJmR3ZJSjRMQ0NCRUE?oc=5"
-      },
-      {
-        "date": "2026-07-24",
-        "headline": "Deepgram Delivers On-Device Real-Time Voice AI for Snapdragon-Based PCs - audioXpress",
-        "summary": "Deepgram Delivers On-Device Real-Time Voice AI for Snapdragon-Based PCs - audioXpress",
-        "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDQ4dnl1UktKMFNSME1xSGpRTDBteGZxZ0RIQWlqMFY3QlZUNUdpc2FXTXRlenFma0VtN3VHMXJRZS1GcXkyRHRhRjNRN0xMV21uZVlOS1dKZFpMbWtBUWRHQ1JzVUE0Z1Q5UkJDN1JhX01MOWJkcDdRWkJEWEhuRFZiaHg0YVROZ05HeElIRWhPUTNXeDBqOE9rTE9QZUxqZ3c?oc=5"
-      },
-      {
-        "date": "2026-07-21",
-        "headline": "Deepgram brings Nova-3 speech recognition to Snapdragon PCs - Techzine Global",
-        "summary": "Deepgram brings Nova-3 speech recognition to Snapdragon PCs - Techzine Global",
-        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMTVIVTZvUlgyeVA3MFE2ZnVMNU1DU1l2ZlpxS2V5UExDa3JET3BJVUoyX2QwMmpybHp4Z0VPTG4yXzlwaVZmS3R2Uk0xazVBTy1ZalNVd0RlTXhybWN1clVpWWRRMC1sSXZVMUlsbTBPVmdISTNzdDUyQ19zbmRtWXMtN3NpQndMU1Y3ZVpRWTc2T01GSHFtRVcyclEzM0dXb0dJSXd1OWl1V25NUUV6ZQ?oc=5"
       }
     ],
     "sources": [
@@ -1956,6 +1962,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "Google DeepMind is losing its grip on elite AI talent, new data shows - Fortune",
+        "summary": "Google DeepMind is losing its grip on elite AI talent, new data shows - Fortune",
+        "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObS1iQWJMUFcyT0FoTjdGcXB6VFFJTjEyYnd4OVlTalVieFFQcC1veTdKX0tmc2Q3bWtCTmNraGhvZVJyeFlENlBFLUUwWTRGd2lQTU96X3Z1dzBDb05tVTZHdV95eDVfRTVYdjV6MG1SZ1kzczJPbnpreENwdHpJRTBBRnhWQzByYmhGRlNqUzF4cm1oRHpJOE5TSzRZeWZoTmpz?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Barret Zoph joining Google DeepMind as research VP - qz.com",
+        "summary": "Barret Zoph joining Google DeepMind as research VP - qz.com",
+        "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMjhKUlRYaEJYUzdSRUlVNWpOTGVmS2VDTjR5aTlMZHI1eTF4X1U4LURRb0l2QUtrS0NHZDVwRk1qTTUtU2k1dGF5cUJuOTdfblJZNW9YMV9xT1l0Y0J5MXFsNV9QQ08zeWF0QlI1VDhHQ2pjNUdJYWp1WmtKU3J1amFYZEcxQQ?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Google moves AI responsibility team out of DeepMind - Yahoo Finance",
+        "summary": "Google moves AI responsibility team out of DeepMind - Yahoo Finance",
+        "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWhZWVFnUXFiRU1jS1JkY3pNbDgteFU1QWlIRml1eV9FS2hNaUN4SUZrVm1IQk13WUxBdms4el9HN2VVQ3B4RzRESlNWSDJab1VPOTRWVVhGWGFfdVJ6SUJWNHBhT3ZxU2F0ZDc0OGR5UER1UXFRbzNSaVlPb3FJdTdfMUFLZU1rZU50RzBtM09BLXkyQklxY2FVRXNRUEJy?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Piloting the world's first double-blind AI evaluations - Google DeepMind",
+        "summary": "Piloting the world's first double-blind AI evaluations - Google DeepMind",
+        "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdTZ6V1lCSnh5ZzVEd0gzMUd0TlA1a0stVGUxMlJrU1Y2M0E2SEZvS0ItLW9OM0MzeDhSeG5TQ2pJT0VrakZkeFc4V01uMXFEcHhBSzFvLW5YenBrRG1mamZOR29iZmxhY25kMmliWG1Ja2lHdWI2RGVPSUFpNXBsRDJ1SkdPTERuYVN3?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Google DeepMind Hires Thinking Machines Co-Founder Barret Zoph as Research VP - citybiz",
+        "summary": "Google DeepMind Hires Thinking Machines Co-Founder Barret Zoph as Research VP - citybiz",
+        "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWJ6YUdETXo3cjA2ZjFfNUJoS201NGNiUGJtb2ZQWV9lbWhZSG01X0prbGlmN3NCcVpFZ205Y1ZWYy12LVVMa2pXMmRWV2thYnJXV3FMby1MN3JKTlloSkw1QXhDTFBMWWZLdkpHRjNnbUJkVVZyMmUzYUhMal9KdkFRaXhoLUMxOHN5aXQ0U1JQYkVuTUVKSGcxSG5zeHNZcF9MRjQwVnBvV0ZCcjdHUWhuY25yOVU?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "Exclusive | Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up - WSJ",
         "summary": "Exclusive | Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up - WSJ",
@@ -1984,36 +2020,6 @@
         "headline": "Google said to restructure its DeepMind team - Breakingthenews.net",
         "summary": "Google said to restructure its DeepMind team - Breakingthenews.net",
         "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ3JEX0FFOXI0M3lSTnRBLTlGN0pmaE9LQi1SanYyT0RJdEdOQ2JWMkw0ajN2RTM3RGtac3NEM1hiZnVwUFNlVVB3anJvT0hGV3RXTkliZ3JRZ1FESnVKR2RCZW56azBRTkpIWU13bmd2QkxvNzBlckQ2WkVMQVgtaVFmSl9nUUVReVBhNTkyZ29uNWs?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Google DeepMind, Kling AI & Alibaba Join Busan Market’s InnoAsia 2026 Program - Yahoo",
-        "summary": "Google DeepMind, Kling AI & Alibaba Join Busan Market’s InnoAsia 2026 Program - Yahoo",
-        "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEkxNVZKb2JjODdZZ3llb1BZQm90SFMwTS1CRm9EVTltLVdjdzBNaWZ4RnZSY1p2NXprNUl5ZW82aHZvRWY1QnpyeDV2bXpDXzNWVW5vZ1RheE5jM2ZGWDc3WTJjdk9aaXVqZlZfdzhYcUg3UjFwQzhzczZ3N0V2TVZDWDBlR2ZzS0Z2Y2FKWTFzUHhzLXZrbWw2ZWJLOFAw?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia - Currently.com",
-        "summary": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia - Currently.com",
-        "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNUlWR1FvYW9iUTRmcVFRdkF6bVlDSFlGT3h1ZHZ1WklHS1lycE1EbzVjeEo1bWdwOWVoRHR1aWF6a3RzU2JTVmYxMlRuLVNLQ29IOUZRN3prYVV3RTdZVWktUkx0ak5ObE9DMWN3Yi1qdmVyRGZsUkpMVzIzWjRETG9tb0psNzZXVmV3ZURzXzB5UQ?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia - Variety",
-        "summary": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia - Variety",
-        "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzh5ajlrNFFWUUJoaTNtOGNyT201emZVeW1LS3dFTGJwTXFFaUEwWHZCNzIxNDhNVEFTdm9xM0kyVG9naW40T09NZXJoX1dJNFVvOEtxSUZldGNjNmNNS0s3ZV9rZEJTaUk3M3R2djBibjZMMjhWekxkUE5kalpEUHR1alNsdTZhRXZxZHplU0pfWENmNnEtaUwyM3hkMnYwWXkwN2xIRQ?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Google DeepMind, Kling AI & Alibaba Join Busan’s Market’s InnoAsia 2026 Program - Deadline",
-        "summary": "Google DeepMind, Kling AI & Alibaba Join Busan’s Market’s InnoAsia 2026 Program - Deadline",
-        "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVVQX2I0cnBqTk1GNDliZjlKLVkySDVJT3NXcFdLR3dWTUNNSGpLY1lnQzJEZ2lPelFocHl0YzVXSUZvWEhBU3R1eWpiaWJZbUZmeW5oajVnNkJQRDhMTXVoT0VXVVRFQi1yQ2RCdGQzR1FqaWNfeDZZczdhdTRxU1NLWE5wSmVzYzZGOXJORVp6b1NUZ19oZA?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia - IMDb",
-        "summary": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia - IMDb",
-        "source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nQUtMc3ZJZ09XSUFic2pLS193bFBwZERseHVZc3YtTkVwNWlSRmtIOFNyQlhXZjlXUDBOVFhjWWszZnNhTjNJeWJoSzlTTFIyZ19lQ1ZxanYwX19iYnNQeGJqTjgydw?oc=5"
       }
     ],
     "sources": [
@@ -2056,6 +2062,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "Luma AI Review: Dream Machine & Cinematic Video Generation - quasa.io",
+        "summary": "Luma AI Review: Dream Machine & Cinematic Video Generation - quasa.io",
+        "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNHdpRkpZRHhfMHJzQWZRQXdWS3lFSVM3QUF1WUNfNW5kdjJpcUpKaElsamJkZGNKeEJzQjduNWRvTU02aHV5Y2ZaSnkxbXY0dUVtQnhIdWNLWmI0anhuNnB4aHY5SFdQR1d3eGpDTERtcG1DalRVX1NWMERISk4tdHJXOW8?oc=5"
+      },
+      {
+        "date": "2026-08-16",
+        "headline": "Luma AI - 2026 Funding Rounds & List of Investors - Tracxn",
+        "summary": "Luma AI - 2026 Funding Rounds & List of Investors - Tracxn",
+        "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczFOdTh4TXNib2lTNlRfa0o1Y2RqSDMxNFJUekdIMWlSWDJlRzk5dV9QNDlzR19lMnQzblc4czB0NnNVaGhFWFpIMkl3U0YxSDRxdXV6WXI2c1lEUHdRb1k5dlo1RUoyejFNM2Y3bUZFLW5MM0RzemUzaDV4QzZNeTN2cDZjc2NtMGl3NW8wdi1wMEZaOHlZRDZjenh5UUJNV0NHdVpaSnplQQ?oc=5"
+      },
+      {
+        "date": "2026-07-31",
+        "headline": "Track-Prepped E46 BMW M3, Factory Five 818, Buckeye Dream Machine: The Dopest Cars I Found For Sale Online - Jalopnik",
+        "summary": "Track-Prepped E46 BMW M3, Factory Five 818, Buckeye Dream Machine: The Dopest Cars I Found For Sale Online - Jalopnik",
+        "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSmxZWlJTRElZc1ZJMUZoalZFRFJHVGpMV1hKUkxMSTdmeTB3RmpDaTd1ck92SllXQUN5V2F4dHZFemRMWmZTZlZRa3FFSUF3NnJGUU9DOHR4elRVaER0UGdwT3l1alZiTnJuT1pyR3EyczF4dWpuQW5COWJaV0tJM2FhSjZNajlJQm01eXk1UE5SaUNfUW83VE1PeUlpQQ?oc=5"
+      },
+      {
+        "date": "2026-07-20",
+        "headline": "Honda’s dream machine drives on - shots.net",
+        "summary": "Honda’s dream machine drives on - shots.net",
+        "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Y1oxNkgxaDNNLVdFTUhBQUtSczJ6NTZSSlhOZzZlYnV3V1lFWXBHZjZHS1hidjk2N1A4cjFYUlhkdVBmQll3S2RIRUhxUnpmNnJfVWVHWXZMSEh4R1pZeHJleE5xWFcxR0E?oc=5"
+      },
+      {
+        "date": "2026-07-14",
+        "headline": "Welcome to the gamer’s dream machine - System76",
+        "summary": "Welcome to the gamer’s dream machine - System76",
+        "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEWmZsbWR6RGlFNGNmd1BnMmxpZXI4ZXAybTFxZldGckw1VS1LVlk3aEZSUHp4NjEyaU9teWZJS1pDYmhpbFQ2ZzJheGVSeWI1UzhmUnlYTzhrWXhvcWg4LUJsT1hUbUgzTTdvNkRiNjdhT0E?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "8 Seconds of Audio, 2.7M Views, 1 Federal Lawsuit: Carl Sagan’s Estate Sues Luma AI - Yahoo",
         "summary": "8 Seconds of Audio, 2.7M Views, 1 Federal Lawsuit: Carl Sagan’s Estate Sues Luma AI - Yahoo",
@@ -2084,36 +2120,6 @@
         "headline": "Sony Dream Machine from 1991 is still going strong, and owners say some survived 2 house fires - The Cool Down",
         "summary": "Sony Dream Machine from 1991 is still going strong, and owners say some survived 2 house fires - The Cool Down",
         "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWt1M011c3U1ejNDbmtuLTVYVUh2SVJ5YTUxM2NWSk9qQktDV2JpZFVRT19VY2NqRnQ5bmN4cWQyVHdXUDBiTFVoalVrX3FzdXpnYS1HdlBGdF9jVkI1U29TT0J3LWFHV3BRQmxpcXBZbGdTXzhLZ3NvbXVERGJUaTdDd01vbzh0?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Carl Sagan's Widow Sues Over Luma AI Ad's Use of His Voice - Law360",
-        "summary": "Carl Sagan's Widow Sues Over Luma AI Ad's Use of His Voice - Law360",
-        "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SNFZXZ2FxZXpjaHZFNTA4TGdpcVdNUWhzZHRIeERwSkp1THJpc05UcmNwVVUzLXRYbUdlczhlczVkWDRTV1dWZTI3ZjdySHkwbXVNWXBn0gFWQVVfeXFMT1I0VldnYXFlemNodkU1MDhMZ2lxV01RaHNkdEh4RHBKSnVMcmlzTlRyY3BVVTMtdFhtR2VzOGVzNWRYNFNXV1ZlMjdmN3JIeTBtdU1ZcGc?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Luma Ai, Inc. - Reuters",
-        "summary": "Luma Ai, Inc. - Reuters",
-        "source": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QM1dHTFpKc0wxQVJnZ3NZejBkc2g3c2VlU0VNNl91VGVWOW9uTGJtd0xBYUhfZjVBYTdqcHdtQ3pkcEttcnVsZ3VaM0FIV2RvdG9uSWEzTQ?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Edinburgh Fringe 2026 reviews: Dracula: Lucy's Dream / The Dream Machine / Handle with Care - The Arts Desk",
-        "summary": "Edinburgh Fringe 2026 reviews: Dracula: Lucy's Dream / The Dream Machine / Handle with Care - The Arts Desk",
-        "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRXpqQUg3azNmNkNCb0pSV0lWZ2FHU3JXOHNKbm04Q0RHM0hJWmdZcU42cld6dGtLS0hPZUd4VzR2SFFwNS1EdHRZYkc0bFd3QV9TLVl5eUpGelAta2xCRG9qdV9jTXNWNFIzY1l6eTJwR19jaVNOMWNzTUEyLWlTRWhEWWtKX3h4SGNGWF91MVlabk5fUUh5ZVBnUmRKZjBRQjA4QzM3WGdtZWs?oc=5"
-      },
-      {
-        "date": "2026-08-16",
-        "headline": "Former Luma AI Exec Launches L.A.-Based Production Outfit Matriarch - IMDb",
-        "summary": "Former Luma AI Exec Launches L.A.-Based Production Outfit Matriarch - IMDb",
-        "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05LWRUeXhOU0RXVkloc3ZvRWh6aTBacndfNHNhZ1ZPc0toRElhTngtMkFyZmpndXBrTjhlNThfcWp1NkVLQ3VmdTNlUVFZMHc4X3cxaFFZdWF4Y1ZkejhjSHVfdFMtY3d5SmdwZEVR?oc=5"
-      },
-      {
-        "date": "2026-08-13",
-        "headline": "Former Luma AI Exec Launches L.A.-Based Production Outfit Matriarch - Deadline",
-        "summary": "Former Luma AI Exec Launches L.A.-Based Production Outfit Matriarch - Deadline",
-        "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLVNoTURoUy0zand6ZHpmWlBGS3B1TTNoenNidENPekFQYzUxdlhXVFc1WUNoN1ZLb1JubWpXRGZXRUNhMUI0V19ocEtfb05FZUhZemdWeXkwV0J2eFBmaFF1anBPVXM1UTRqdVNPRjlqTHFBMVlKZGFEZnVrbnFmbTJJVWk4MTZIRzdxTnlOWQ?oc=5"
       }
     ],
     "sources": [
@@ -2156,6 +2162,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-15",
+        "headline": "Facebook parent Meta to unwind US$2 billion Manus AI deal after Beijing block - The Star",
+        "summary": "Facebook parent Meta to unwind US$2 billion Manus AI deal after Beijing block - The Star",
+        "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUklTdjFTcTlBRklDT0hYbFl4c2Q0cEFWVzREczlJUmNCOFJkM3FoNjNZd2U1bHlTRFEwUGdIXzlPaTRqeTNDUGVlSGpEU2liV0RqRVc4bFIyenFXSjdtZ1N4bzBueHhoZXRhNEg3NlhyS0ZIRWpIcEZvZzZsakREWjV1cDhyYWVoTmx1V3h1dWZ2dEkyUHlRR2wtUHhzRkRoNERZWVRPd3VHOGY0SFdlbk9UbUdscDZKU2JnNkZZVlRpUElZRVAwTm1aRk0zUHM2THQ3ZXpR?oc=5"
+      },
+      {
+        "date": "2026-08-12",
+        "headline": "Facebook parent Meta to unwind US$2 billion Manus AI deal after Beijing block - South China Morning Post",
+        "summary": "Facebook parent Meta to unwind US$2 billion Manus AI deal after Beijing block - South China Morning Post",
+        "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEF3enRQcnZNRWRCNkdldXRROGQ5T0ZNQmlqSWNLdWJJRW5ob3RYZkFrMC1IamZBMVJBdmV2TEFUN0tFY0RHTGlHdzN2cHdsY1pNb255d3BHZHZuUmo2bF9SeGhyUUxBRkZzMHFtN3F1WF9tY2VCZUlfWDZMWFYxdDl5UGRUclJlNUdpSFhPdU9mWXZDc3Q5ZmxiR0ctQWctZnBTY2dWcVRPNUtxaGRBcTBLZm45a2l0dlHSAboBQVVfeXFMTnlvcXRLZEo3ZjY2T2V0S25WcXh6dk40ZVhiZnMycllqUHdPdkczNkQ1R3lfY1l5OWVnSndQRVZ5em9KRzNicjRuSnhWY2pBQ0dyNjZ4ZTFPeVpsWExMcEhVbWlSaXlPTVBjV29pblI2Z2hyS0FVeWlYYTRZb1B1VkxOSFktRGJwd1dxOUw1NHZZeWZfbFRjX2pRRHJNRFlmM21xWkRXYUdjcW82empmVUd6dkw1Yi1MTHln?oc=5"
+      },
+      {
+        "date": "2026-08-12",
+        "headline": "Singapore-based Manus AI to leave Meta as China blocks Meta's $2B acquisition - TNGlobal",
+        "summary": "Singapore-based Manus AI to leave Meta as China blocks Meta's $2B acquisition - TNGlobal",
+        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHltcHpGZ19fYUV0bnE1VURoc2stQ3g0cXlBaFZBQ0hHZFFIZDU1OWY1cWpTTG1JZU5RRVRJUk1kV3p6VEFmRmE0Y0cxZlpSY0VERWJ1STZQUjByTFhTXzI3ZF82c1RSbllId3hNSUs3ZlA1WE9BVkJmODlqUlZFQjVJWUdVS0tIa1QxMVhqZS1veXhqQUpMVEQxWFlxZC0wQnVoUmJwY18wSmtKaXlXUw?oc=5"
+      },
+      {
+        "date": "2026-08-12",
+        "headline": "Manus AI is going independent after China stops Mark Zuckerberg from buying it - India Today",
+        "summary": "Manus AI is going independent after China stops Mark Zuckerberg from buying it - India Today",
+        "source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSFlaZTdzdGgzcVlMc1hKYkxLallKRjJjdEZTSDJvMmxPcUp4ZmtDb3ppV09XS055RXdYLVMyVXlmdUJFaFpnbHhJMS1lYWNNSnk4V2tkUHNaanV1N2ZGNlN2dlgxbV9JM3E4Z0d2UVlsWGFxYjFlUTFpemdPbG15SVREaFpIVUZ3UG9zbTQ0OUVKUHlaalM1Vi1wdWJ1TmNsMjZvZDR1ZDZGd2tmV2NDSXFPSHA2U2xrUXY1V2VMZGFOQ2FaYnktY2pQZTljcmJPZnFnLW5MSGZkVGZaVEHSAeMBQVVfeXFMTVNKd1JHN2xEOWpjLVpGSzdqUUFvRGRWVWdUb3B5dWNCd21CWlZhakRJeGtneXI4LW9ENVhYdmtWU1NhVW1WQ04zYktqcHNKdGhiV3JvZnd2ekxzZUNZZElfdFFtNkM4SXZVQ0xaZ1VaWDk4anZhLWNITThEcnpyRzNuSFprUUVoU2hHMmxFQm8wOTQ5Qmx1d3lwSzJnTE5MRUljaElsdTBIYzJPTjljWkxJUWZoYUNOMmJ0X3FzR3NZWVFfQkIxbmJlQmZLTTVvZU54cFplUHR4dDl3Z20ydjhRNWc?oc=5"
+      },
+      {
+        "date": "2026-08-12",
+        "headline": "Meta to unwind $2b Manus AI deal on China order - Tech in Asia",
+        "summary": "Meta to unwind $2b Manus AI deal on China order - Tech in Asia",
+        "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1eVBmd0RGRlpkTmtsTzlVdmxjNEhVR2xpb1VmVGp1NU1Nb182ZXA4TWQ5S3l6RGt0WFZTbXBrQkhOOXR2cXNfRFc2Z0J6WTl5OVlCSWNlTUx3SkIyWm94b2g2SG5Lb2haaWpwQlVoMEtZVTFiUzlYZEV6OWo?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "Meta Integrates Manus AI In Ads Manager 02/17/2026 - MediaPost",
         "summary": "Meta Integrates Manus AI In Ads Manager 02/17/2026 - MediaPost",
@@ -2184,36 +2220,6 @@
         "headline": "China blocks Meta's $2 billion Manus AI acquisition - qz.com",
         "summary": "China blocks Meta's $2 billion Manus AI acquisition - qz.com",
         "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FMEVBUzRidWc0Wm90S2ZPNkJiby1Ocmt1YVJSRFpsSXY0Y0Y1c3pZbDdWR0hiYmNMMjZCQ2FnSWFVTTc1blJ3eF9GTXVZbGdRaE9LQWxBS1FHNERqeHZxdDliX2RWZVFJOU9fOUFaZTB1Ym1fMW00?oc=5"
-      },
-      {
-        "date": "2026-08-12",
-        "headline": "Manus AI to go independent after China derails Meta’s $2 billion AI bet - Firstpost",
-        "summary": "Manus AI to go independent after China derails Meta’s $2 billion AI bet - Firstpost",
-        "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkpJclppTmJ1RENtUkpqSUd0bjF4b0JkMnV3ejNXcHBtV25fLW1iSjRvMkdZRjhqekttNjJ6NXRXeHV4NERMdnlhZktwOXlHZ2swbkJQekw0Vl9HLWxUVGtnMUE3enFiTjJ6TDNTVmstY1dnRG9lZUlPU1gxUzkzRGVhVXU1M2ZCcE5WSDZVUFFTaDZGdXhDMUREVFN1cW9Vb25DRlF0UC0xanJ5WkpaM1NJeDDSAboBQVVfeXFMUGJKdlZoVEliREFnVENDLUJpN2pXYlJWSGpDSHhiX2ZOWFM3a0VhTW1KRTJENzM5ZnZfeFR2R3hrM3RwN0xyN0QzRkwxcWUxOHotRGVyN1VyMFlma1M1Yk5zcHRXMHQxUXdWaVhvQld3STBrNDhlX19reVhycDZ5Q0pyeVYzZ01rSmtnTzFkdS02MDhvbXZ0SFRTTW1ydmJ6S1E4NHNmTE1iUDVSTHFKRHBBbnZ2eGdJaXd3?oc=5"
-      },
-      {
-        "date": "2026-08-03",
-        "headline": "Manus AI, Agent Skills, OpenClaw, and more: Part 2 - Financial Management magazine",
-        "summary": "Manus AI, Agent Skills, OpenClaw, and more: Part 2 - Financial Management magazine",
-        "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYTFWZVMwR01TTUJuX1FNODdNRG1KemxnWkZsMFVwOFlHWGswVC05MlRsQXo0MnVxYzJMQlMwUGV6Q1c1MV9wMEFNdUk5TXRnNnRwMkMySlhYLWV2dFlvRWJ3Y0x4UGJhWmd6Y3hCMndVOWEydTR1ZkhOMGF5aHVUb0VMWWdZZmUwRGR2X1dqQUNqNjVWMUE?oc=5"
-      },
-      {
-        "date": "2026-04-29",
-        "headline": "'Singapore washing' will remain in spotlight long after Manus AI is over - PitchBook",
-        "summary": "'Singapore washing' will remain in spotlight long after Manus AI is over - PitchBook",
-        "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkhsdnVVSTM2V1Z3OUJkWTVHQUdxYWUxb3F2RmVyS0dNRmxKcEJmN3VoT0k5anRhMmhDTnQ3U2U4QUNVQ3RjVzVVR2hnOWg3QmswUlJ0SUlIYktYTjg4ZkdhQm50X0psUU1UTWY5OFVFZk1seTBfV0E3UWpUdHlVZFA1dTh0ZmhsdWNZMnUtVGJFTnI0aGZjQw?oc=5"
-      },
-      {
-        "date": "2026-04-27",
-        "headline": "China blocks Meta's acquisition of Manus AI - Axios",
-        "summary": "China blocks Meta's acquisition of Manus AI - Axios",
-        "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnRlMktHM3JDX1JhWFJUTUhnSXpEWlVyTDdLNm40cnVtSHNYang5RTFGbUVic1ZFRWhIdElOZl9jeVVBSmhmQmEwLVk2d1FpYjk3WnJ3MWw5N1IwNWtTNHhKSnlBenRhT01VV1QtQWM0Nzd4QU9aX0pRcV9fNzZXdA?oc=5"
-      },
-      {
-        "date": "2026-04-27",
-        "headline": "Manus AI app downloads 2025-2026, by country - Statista",
-        "summary": "Manus AI app downloads 2025-2026, by country - Statista",
-        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SUUZEeUtUZWIxQlk1NFZaellqLUFWV2RHaEFqNC05Z1dpcWh6LVVRcE9PWVJsWTFPRmNHQ3Qtbl9UQjZ1ZUlHWHAyTjltX1QtVmF4TThEdUtyWnpOUV9jTi1yWTQwMXF2Xy1nOFl4RE5MZmczMUE?oc=5"
       }
     ],
     "sources": [
@@ -2261,6 +2267,36 @@
     },
     "latest_news": [
       {
+        "date": "2025-12-16",
+        "headline": "Inside Microsoft Research Asia: Fundamental research powering the future of AI - Microsoft",
+        "summary": "Inside Microsoft Research Asia: Fundamental research powering the future of AI - Microsoft",
+        "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMEtZRk1SNjhzellFRGJQV3JzeUNadXh4TDdRR0R1OWlhend6VWV5NTFaUDFiYVFHa0pfVVlaVHhxUkxRMXFGcmNVWXhZY2YzS0xJWnljbzlzQ0pCVW5Xb3RZTUN2cWVyazgtbFhMZmdETWpDNjJBSEs1aXlGS3FWU08zdkFHTHN3SkMyaUt1TFhPOXZ5d0NFZFhwNG5adThqVHdNQkg0OVdFMEI4VEdaRTNvOEhMbUJxZVpoWldNQkJZdDQ?oc=5"
+      },
+      {
+        "date": "2025-12-08",
+        "headline": "Microsoft Research Asia StarTrack Scholars 2026: Agentic AI: Reimagining Future Human–Agent Communication and Collaboration - Microsoft",
+        "summary": "Microsoft Research Asia StarTrack Scholars 2026: Agentic AI: Reimagining Future Human–Agent Communication and Collaboration - Microsoft",
+        "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORW5ZVW56UGJETEUwc1pkcl8teVlsTzA2MFJQa1JrTUlFUjJtTjEzaS1xNUI2SkZOMkd5Y1J1SnZNRTBuRE9jQS1GUTJsNkZwSU02T0dBemtKQzk4cllBdUNVN0hnU0hoTVF4ZTVtdzBDSUhZTnJ2R2ZDRWFPWVVvbmRkQVZZWWRmRDlXZk45V1R1TFV6T0c2b19yQWhoVlJ3MHUzTHRVUUFBMWVpOVlicGFjaW0xNzVpR21rY2xWZzRHdw?oc=5"
+      },
+      {
+        "date": "2025-11-27",
+        "headline": "Microsoft Research Asia StarTrack Scholars 2026: Create a synergistic relationship between AI and the brain - Microsoft",
+        "summary": "Microsoft Research Asia StarTrack Scholars 2026: Create a synergistic relationship between AI and the brain - Microsoft",
+        "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdHpIWF8wMkZxNF9wczBWVlJfY3NIdVRvdXBhWVpwZ29zUHBNRVNzcExuWnR3R0lkd2o3Zy1kV3pRUFBXQlBfMDJqVFZnV2JZc0JUUHUzSV9pdDVibk1pOTRBMXhYOFBUdXg3ZGFPX0RiOFFhbzNHM3ZndnBkOHZ6ckh1OXVtR1E4MTlCVVVWdlVuckpJaHI2UEJJYlZDbmVONk90WHZnNGVkTVEyamdOQmZmckNNc2lYZ1JUckl0VThXTDdKTTBKTkpqeXd4ZmxwQ0NNWGtsay1kV0FXdG5RcUhtOHlMNTFtVExHakFn?oc=5"
+      },
+      {
+        "date": "2025-11-27",
+        "headline": "Microsoft Research Asia StarTrack Scholars 2026: AI-Transformed Medical Research - Microsoft",
+        "summary": "Microsoft Research Asia StarTrack Scholars 2026: AI-Transformed Medical Research - Microsoft",
+        "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWmI2SmpEaE5rd09IdU13VHZzNGFJZ1pqRlJzYUNmaGpIbVJ0bEQzU3AwRHhXWk9xOWlHVjJnT3pxeWRLZkZlSU1wV0lMRjJqLUIxWVFEdmpZZkRrS0lRcVZCVzhleEFTS3BOd19jWnp2T1ZtdFVwZWp6dF9ob3E1LWNUYkpGRGJ0eHc?oc=5"
+      },
+      {
+        "date": "2025-01-09",
+        "headline": "Microsoft Research Asia 2024 annual technology exhibition: An AI journey into the future - Microsoft",
+        "summary": "Microsoft Research Asia 2024 annual technology exhibition: An AI journey into the future - Microsoft",
+        "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYWZxYy1TUWVrUWVtdVZnSkxPN05HdEFpZkhGanRKdzJpTmN6UGxBZzFvV3NES2w4UzZhOEgzUUNEejNRTFllcXU5VnlXMTZkQlBSLUhVVHZSOE9hdktHc2Y2Yno2RzIzNzBSQ21Sd2JLak1TcnExbW9iSW5HUGc1cldFbktHZEtsSG5feEM3aUVrUlBnSlNGLUdrcmJrWEdaaVhTbDNxeTN3Wll5cGp6TDJ1OUxzekFNamVEREc4LW1FNUFEVHlkX3F5Q182R0tpS3NKeA?oc=5"
+      },
+      {
         "date": "2025-01-13",
         "headline": "HKUST Signs MoU with Microsoft Research Asia Fostering Collaboration in Future Medical Education and Research - Microsoft Source",
         "summary": "HKUST Signs MoU with Microsoft Research Asia Fostering Collaboration in Future Medical Education and Research - Microsoft Source",
@@ -2289,36 +2325,6 @@
         "headline": "Shaping the Future with Societal AI: 2024 Microsoft Research Asia StarTrack Scholars Program Highlights AI Ethics and Interdisciplinary Integration - Microsoft",
         "summary": "Shaping the Future with Societal AI: 2024 Microsoft Research Asia StarTrack Scholars Program Highlights AI Ethics and Interdisciplinary Integration - Microsoft",
         "source": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQRWVScW5JblllOFhPNWRBU3ZCVmtKam9ZLU1DcHdKVlhiaThGQUhZM0hFamFpX0J1TV9QNTliY3ZuQTU0c082OHAzTWcxbTFiQjBIQ2RkcmVPTklwcGtrdkVtbmtnamZGWDRKOTBIcnhubVdnQkp2Z3VmOHNtVDVZY1NpM1FDakNSMXE3aERmY2I2V1ZFTUZVTmNRUkQyYzhGeGZHeE9CMWJ4MUVxMFJEWWd5eDQ4VVZIbks3QUR0YlU1OFExOWtUVWcwREN1UWEzNjdFa29nb1YwNlJfUmRHaTBwSDFXMnZ2WXN3QkxPUnlUOFNqLTk1ZlYwT0Y4MmVjcHpPeElraW1DelBvTFQxVGl5b2FOeVdhTDlwQUJpaE1QRjdGN3UwQ2c5bXZoOWc0eklZZ3RDdkhoZ1BfSllVT3M3Sy0taUJl?oc=5"
-      },
-      {
-        "date": "2025-12-08",
-        "headline": "Microsoft Research Asia StarTrack Scholars 2026: Societal AI——Upholding “Trustworthiness” and “Science” Amid Technological Transformation - Microsoft",
-        "summary": "Microsoft Research Asia StarTrack Scholars 2026: Societal AI——Upholding “Trustworthiness” and “Science” Amid Technological Transformation - Microsoft",
-        "source": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNX2pMcTJSWnZZWXNxQTFMYVd1OU83MklxNF9FZkp1OG5WMm8wdXNDZDJSVENFZGUzVzU3dDl6cjM5OWFsanZhOEFsYkRRNFU5ZWNKbncwMDVTemo2LUgxTHB0QWlVMVBBMmp4T0dnUmtnZ3Jnc0UzZElNUzVDQl9EcnFybTNNQjAzeVUzYTRMS3Z6dzNKckJjVk5qc0h3OThkY01PODVuMDQtZTh3dzVOcDgwS1hJNmNEbG5jVEZCVzlEUU1UNzNmMXdZQXhPWjhQWC1xLTFyTHNfMG4ydWc5UnFGOE5ZZnpjTlc2ekxWME1SaXBYUG9ocEgtXzJSbzd6alRUM25RUENWT1FiUFVv?oc=5"
-      },
-      {
-        "date": "2025-11-27",
-        "headline": "Microsoft Research Asia StarTrack Scholars 2026: A Holistic Approach to Systems and Networking in the AI Era - Microsoft",
-        "summary": "Microsoft Research Asia StarTrack Scholars 2026: A Holistic Approach to Systems and Networking in the AI Era - Microsoft",
-        "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWkFKNFUxcE4wYjE4RzlBUTJpMlhJanhuUl8xeWpkY3pYSXlLQmNRS3N5MUw5dFJ6dThEcVFrX3haSHl0MEJLcGNTSXc5a0tLekhKdWUwMVhvajFjYWFnQ2U5VTJTcUsyd0ZPckRwQkZUNWRsQkhSaFlqaWdHbjc5RTM2QVQtd3g4OXk2LXBNVncxVkR2MXVFUzVVNWEzaG5HT21FNlZrU3FMU21KR3Jya1NqYXlzT2Vza1Jva1k0Z3IxX0VGRXMxc3V1cTdjQ3E3ZHg1X0J3WHVUUEowT25Ibk9CcHRvb2FLNEdvMmN3Zw?oc=5"
-      },
-      {
-        "date": "2025-11-27",
-        "headline": "Microsoft Research Asia StarTrack Scholars 2026: Crafting Spatial and Embodied Foundation Models for AI - Microsoft",
-        "summary": "Microsoft Research Asia StarTrack Scholars 2026: Crafting Spatial and Embodied Foundation Models for AI - Microsoft",
-        "source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLVFTWWtfODFhTW5yNkdjTFNsV1FRY2VHUTZ4LUd2X1ZFWGV0TVZIMXkzVTNqSGhyWGFJdUNHZWZfMFRMMkZzZFRCbDVsX1F5UXRkVkdQakd4bEFrbU5sMzV0a1dESDA0aC1CQ05YcW5hSDVmZTE0RExYVmk4blZoYTY3RFJIMjlmczVDcUlsbDZPdjlSalRtcUo1VmdzWElNUEVCTkp2VTdfMjloMk4yRHhEcW1yMkRrWVVNRE0xOHBBZU8zcjNTU2Q5QXczZUduMGprRU9sRzNaS19VaVVtaVMyZmxmLWJH?oc=5"
-      },
-      {
-        "date": "2025-07-24",
-        "headline": "Microsoft Research Asia Launches Singapore Lab to Drive AI Innovation, Industrial Transformation, and Talent Development - Microsoft Source",
-        "summary": "Microsoft Research Asia Launches Singapore Lab to Drive AI Innovation, Industrial Transformation, and Talent Development - Microsoft Source",
-        "source": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYnFMT3IzbFIwbmRKV09sYkp0Ylc4bW1pTHRwdElkcUpDVHhDcTFNNm50eXNkUjB4aGVxUVE3UE5BeUJSd0lYcDVZay1YWUcwWjQ5bzRZcmxiVmp6M2hIUV9YZTZvdEU5eGhBdVJIeGl0NUhiOF9DYXZYOE1QOVJ6NEprcXhSUVh5eUxXcE9tdE9FQ2NXVl9DRXdzUHg2Z1RjM1VMQ0dLZzJ4QkVmcGd6YU5zdFViQkRORWJmWFpBUGZJQi1VUjRvRDlmTE95M093V05QRWNKUXhYMlVtRFBRS3hVMDFSbzNBQnd3dmwxS0RsbFRFNldyZzRFaG5sUQ?oc=5"
-      },
-      {
-        "date": "2024-12-17",
-        "headline": "Redefining robot intelligence: 2025 Microsoft Research Asia StarTrack Scholars Program accelerates embodied AI and large robotics models - Microsoft",
-        "summary": "Redefining robot intelligence: 2025 Microsoft Research Asia StarTrack Scholars Program accelerates embodied AI and large robotics models - Microsoft",
-        "source": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPdWd0ajBlVE1aU19YM0hsT00zNVhVbExiUFJ4akxfanNiZU5nTHFPUWhkUl9FeFIwYUdKUXlNdjNEcmlJODV4SXk2YjJtQ3ZlWEtkWFpZWXpTTlBrUnVmVm9XTzJhMXRuU0s4RUZubXJocWhtWFJDeEIyTmFWdlJyMUJzVUl5SGVjbExqelFiSjVscERMMTJpLVRQWm44bTFCTzI5MGNMcUdIQ1R6Ty1BRmh1dDh3SlR4YW9fU3RHLV9BYWpoSV85d3BucVhDSUg3TnNxbFN5bmh3NUxkN3BWa28wYzJ6cHJsZHc0VG15SkgzeF8xSGo3MUxDcmF4NFlVODNqQWNGSDkxQUZBVVVLQWZoMnk?oc=5"
       }
     ],
     "sources": [
@@ -2361,6 +2367,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-07-23",
+        "headline": "Samsung Reportedly Weighs €1B Mistral AI Investment - TechRepublic",
+        "summary": "Samsung Reportedly Weighs €1B Mistral AI Investment - TechRepublic",
+        "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQajNmWEZranBLc2sxdTlpY2RSRWppUjB4WjJDZi1WaTlQZjkteFFlMjFNc1dKOVc5OGJNck85UEZPb0pWa21VbXJheW14UWd2N0VCRXlZQ3d5V3dsY0V3OTZRSkc1Mm5xTXA2YkdyRUhJM2txTzZxR2VpdE92VlFjVF9lcw?oc=5"
+      },
+      {
+        "date": "2026-06-13",
+        "headline": "ASML’s Mistral AI Stake Adds New Angle To Hotly Valued Shares - Yahoo Finance",
+        "summary": "ASML’s Mistral AI Stake Adds New Angle To Hotly Valued Shares - Yahoo Finance",
+        "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZXI2dzNYMHpTbWFVamIyMUx2OGZxdE9RaWg1eUhrZllhampNUVR3MVRqNGxBN1BBS2U0bXpzX2pOLWlBaVd2cndvZTNYUFBYMWl4aHhoeGdDN1RKb3dxTDVyT2VkUGpYQ1Z4LXRXODJZS2c2QXZJRUZPeGQwWC1zcnFzc1oyalptWHBRWTVXM1FuUUJPaUE?oc=5"
+      },
+      {
+        "date": "2026-06-12",
+        "headline": "Mistral AI Eyes €3B Round at €20B Valuation - The Tech Buzz",
+        "summary": "Mistral AI Eyes €3B Round at €20B Valuation - The Tech Buzz",
+        "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sVHc5bkptUTF6S1JFRzJRM0xsa2p0QWJHbnIwcjVzMzk2VGVZbDZkR3NtbXFnbkNEb2RZVXJKTmExdHJZVldpX0NIYURqRVotaGJrdThNd1dqbnFmaVY5UGNndkpJYndwcEgyenFnenVWTnB2bzdCMmFMclBPcW8?oc=5"
+      },
+      {
+        "date": "2026-06-01",
+        "headline": "How Mistral AI Drives Sovereign AI Adoption in Manufacturing - Cyber Magazine",
+        "summary": "How Mistral AI Drives Sovereign AI Adoption in Manufacturing - Cyber Magazine",
+        "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjZMYkF0TFhJOVR6UXBzVk83VlZwWUM4WmJHeDdtd2RqRHRpbjF3V0dEcm9LalBNNGxsRXRNZmMySUwzbHloR1M2czlPTUNDVWNtSmU1d0t4WXN0VnkwSTdQdEZ5a0hHQUdrMWlRTGxYa1pBNlRyRmJPSEFKdzUxVmgydWVlTERlQ3cxalhuMGVKcG9BbEE?oc=5"
+      },
+      {
+        "date": "2026-05-29",
+        "headline": "Mistral AI Shifts to Full-Stack Strategy With Vibe and Industrial AI - The Futurum Group",
+        "summary": "Mistral AI Shifts to Full-Stack Strategy With Vibe and Industrial AI - The Futurum Group",
+        "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObjZwVERfenFvRlROSHdRNDh3QTFUNXBCTHpwaXNNS1dvN1pNM3FZcTU3WmpQTVhXc3hkX3ZFZTI0ZHpjckl4ZW0yemxqbzN1Zk13NW5FQmZDaDhweHd4dlhKN3lzeE5vMWVJYjF4TFduNXdpdERZa1Nqd0Yta2tTTktSbl9zUWxaRlhxSlFSNUVMa2dTamZMem9XM3Z4eEZWNG9CWS1B?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "Mistral AI unveils Agentic Search, an AI engine that navigates and verifies answers directly inside your documents | Artificial Intelligence - Capmad",
         "summary": "Mistral AI unveils Agentic Search, an AI engine that navigates and verifies answers directly inside your documents | Artificial Intelligence - Capmad",
@@ -2389,36 +2425,6 @@
         "headline": "What is Mistral AI? Everything to know about the OpenAI competitor - Yahoo Finance",
         "summary": "What is Mistral AI? Everything to know about the OpenAI competitor - Yahoo Finance",
         "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdE9uQ3l5bFdqcF9CbmVwRmZLVm91RHdwaTdGN3AtV0syZjNKcUxqTnFEMFFRZlU3V2JUZVcyMnhvLUxiN2NQcnFSMEdtS2dMamJ3dmVCcVh1QTRsS3dSeFNvQXlmMTFzN2xvX29JVFNtSlprTm5aTGtMbHBRTzdWZTh1YlBacjJSQU5JQnpmS0RlSkU5NlpFU3hSeDZ3dw?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Mistral AI and Humain partner to accelerate sovereign AI in Saudi Arabia - Telecompaper",
-        "summary": "Mistral AI and Humain partner to accelerate sovereign AI in Saudi Arabia - Telecompaper",
-        "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMlJFeGRMc093SGo0bjRQblM3bmNvVjFpRTQzR0M3bXBJMlA1LTRyeXBUNjlqV0RaWVlLeUtNQzRteS05d2dGRXM1VnpyYWN1X1paZjAwcktKVkxCNU9XX25TcTZnampEZVJWYmpGcHZ1YmJXZHA2SENDNFA4ZDNkZy14X0gwYXRFSHIzMWVqcUgwTWdoSUJRVFBhTDNuUGtmbjVHSzlIRkNjaWZoR3dRbkY0MjRodw?oc=5"
-      },
-      {
-        "date": "2026-08-24",
-        "headline": "Mistral AI vs ChatGPT vs Claude: EU Hosting, $0.50 Gap [2026] - tech-insider.org",
-        "summary": "Mistral AI vs ChatGPT vs Claude: EU Hosting, $0.50 Gap [2026] - tech-insider.org",
-        "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tQW5Ha01BekxwYjJUQ1FvTWNKQnFKYTYyaDZ5SURpU1JLQnF1V0NLNEE5cVViYzUxbmladVpVSno4RXpnVlhPeHpqZ1RJTUdocENSMEtUZlRJbTh1eDNwNHVWeDBod1lWd0oxVURta1NvbjA?oc=5"
-      },
-      {
-        "date": "2026-07-22",
-        "headline": "Samsung Eyes Major Investment in Mistral AI: A Start for Korean 'Sovereign AI'? - Businesskorea",
-        "summary": "Samsung Eyes Major Investment in Mistral AI: A Start for Korean 'Sovereign AI'? - Businesskorea",
-        "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQM0thTm0zMHRBckdXYS1Uckw5WWszTUhTNWpyeDc1bFdQSzFKUUhQV3R3QmxJSEh0Yk5PVWxrN1J1SE5FdXV0clk0TDlnVElfcElyUlZJMUZIcTVvZ2RDY2liZ2RSS2JjNEtvZDd3SkhrLWlm?oc=5"
-      },
-      {
-        "date": "2026-07-21",
-        "headline": "Mistral AI strikes multibillion-dollar deal with Microsoft to build out Azure infrastructure in Europe - SiliconANGLE",
-        "summary": "Mistral AI strikes multibillion-dollar deal with Microsoft to build out Azure infrastructure in Europe - SiliconANGLE",
-        "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWloSTBzSk1zU05ZU2wzcVE1SEdUN0NtTXZsZUtOajVaVkpFUzlIR094Q3lidF83NzhYT0I5c3paSWtEMUdhZWpLZFlrZEw3QkxyUWJsSnkxU2RmYVpDVXFWRXZqSHNjUnYwazlzSFZiRzd0U0ZlZWRVZktRekFyOUdkSFEwb082cGZQN3R0bmhFbFZ4cU5pcE1wWlZxdExWRXFieXZWZlBuSmVKdmVkTVlVc2NJMUU0NVkzVHJ4MWRVQQ?oc=5"
-      },
-      {
-        "date": "2026-07-20",
-        "headline": "Mistral AI explained: the French startup challenging OpenAI - qz.com",
-        "summary": "Mistral AI explained: the French startup challenging OpenAI - qz.com",
-        "source": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE50eWdwVFc5YldtcDdydkRJeHBaanhXZi1nM0kzWXotY2JTd0RSOWFnT0dKVVMzZzhQUG04SG01ZTcxYmpFSWpkQg?oc=5"
       }
     ],
     "sources": [
@@ -2466,6 +2472,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "Moonshot AI in talks with U.S. cloud big three on revenue sharing for Kimi K3 model - 디지털투데이",
+        "summary": "Moonshot AI in talks with U.S. cloud big three on revenue sharing for Kimi K3 model - 디지털투데이",
+        "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFMwbTdmQzhnZ3RMYjlVeFVSeDJJUTZ4MVpvNGRVdVpjd0tYSTNmT3FfUV80a0pxM2ZJRHIyNGNRcC0tQnc5cDRDSVZLZU85a1JJLWZHZ3Y0RkFXbmpkX09udW9LNTVjMXdXUWpWV08zV2FTZUZtUGNsbkszRlAteENaT2tRN3RLWjVROWxENG52ZzBpOW1xbnNEaGtsWURQS3BtODlyUHNnMTdTVTMzRGxrWTk1WFNQUTByVmFNTzcyZVJ2cXVUSUdIOU0?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Reports indicate that Microsoft, Amazon, and Google are in discussions to launch services using the high-performance Chinese-made 'Kimi K3' robot, with developer Moonshot AI proposing a 30% revenue share. - GIGAZINE",
+        "summary": "Reports indicate that Microsoft, Amazon, and Google are in discussions to launch services using the high-performance Chinese-made 'Kimi K3' robot, with developer Moonshot AI proposing a 30% revenue share. - GIGAZINE",
+        "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UT1J6czZGR1Z0VjRDSVZrVlhLVl9IVU1GWlpvX01EZlA2a0pzZmRZeDZ3RzlONk9PMmpjNnVKWjBrWjVMR2drQm5UWU5uLTJKNWMwZ08xVU94NXlQOTNWRTdWQzE3dFpLaDVsYlV3dXliVlZ6NEl0ZWdDeEg3WG8?oc=5"
+      },
+      {
+        "date": "2026-08-26",
+        "headline": "Moonshot AI Wants Microsoft, Amazon and Google to Pay It a Cut of Kimi K3 - Startup Fortune",
+        "summary": "Moonshot AI Wants Microsoft, Amazon and Google to Pay It a Cut of Kimi K3 - Startup Fortune",
+        "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUdZWnc1alNicnJYd3UzWENfRnE1b3h0YkNmV3B2eXJmQkM1aHA3VWlMZ0dDbk9tRnZZMlE5UkQzNTBBanZtSkV3UThER0c5YkZORDBaR2lxT1FjR0R0SXVEbzQ2OS1ucmZTanB3QWVaOS1HQUpGUmlzQkpBOEcyelNmOEh1WEh4Z1FkaVRycV95WkRuaVRYaTM0dkx4QjZ1TUE?oc=5"
+      },
+      {
+        "date": "2026-08-26",
+        "headline": "Moonshot AI Negotiates Revenue Sharing with Major Cloud Platforms - GuruFocus",
+        "summary": "Moonshot AI Negotiates Revenue Sharing with Major Cloud Platforms - GuruFocus",
+        "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb2NIbENqQWNxbk4yWWJ6Zk9oYm5SbkFSSS05SHQ3VkNTTVFzS28tMzl6MUs1NlNMWHdaZS1WX0hLejhxQXQ0QTJhNHhOLTBJRDFLMWVmSkI0d1pBa21EdUVKZ2ZNNlhsNUkxd0dIcC1EbjdNZ1VnczNzbnN5UlJIbG50VExpZmJpWkZJMkNzZldIQnpHWFJHVlBodldBbjFpRVFxNUlxOA?oc=5"
+      },
+      {
+        "date": "2026-08-26",
+        "headline": "China’s Moonshot AI nears 30% revenue sharing talks with US cloud giants - CryptoRank",
+        "summary": "China’s Moonshot AI nears 30% revenue sharing talks with US cloud giants - CryptoRank",
+        "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmxXVUdZekVYWWhNNmJKd2kzZTlIU2laTWZCbEVZcG1fb1Rkek9HZHJNLTVqQThpcG9xdUc4ZjFpbTlDVEp2WGhzdVM2WW9jem4tRnhhSFZ5TkJEclFzRjIxWEtYOFJGWURRUjRrODgycC05MmdYRDJ3RDMwR21fS2ROSFFOMDFZ?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "Moonshot AI seeks revenue-sharing deals with Microsoft, Amazon, Google - qz.com",
         "summary": "Moonshot AI seeks revenue-sharing deals with Microsoft, Amazon, Google - qz.com",
@@ -2494,36 +2530,6 @@
         "headline": "China's Moonshot AI is negotiating revenue-sharing agreements with Microsoft, Amazon and Alphabet's Google that would allow the U.S. cloud giants to host its blockbuster Kimi K3 model, three people familiar with the ‌talks said - Reuters - Moomoo",
         "summary": "China's Moonshot AI is negotiating revenue-sharing agreements with Microsoft, Amazon and Alphabet's Google that would allow the U.S. cloud giants to host its blockbuster Kimi K3 model, three people familiar with the ‌talks said - Reuters - Moomoo",
         "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmNRMGxJQlN4c0JrMC1NU3hMR0ZiWlVZTGp2WTNuWkI3YUx3V1FkSXFFWm54aUtONGE4Uk0xZ3NReS1oYUNFdG5YeWJxWVRMeU5WNlJBU2xyUmFiZFFyY0dYZENNZ1lUc1hoTkJqZElaMXZMcjBDMzBjTlkwRmJwRGNFbDVRYndwMVI4S2FzYzc1R3Nqb3pPRU1NYlJLYzJ5Nkl5ZGRlb1pxeWFGSWdnbE5Za2ZsU2RjUzl1OA?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Moonshot AI wants 30% of what US clouds earn from Kimi K3 - The Next Web",
-        "summary": "Moonshot AI wants 30% of what US clouds earn from Kimi K3 - The Next Web",
-        "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0d0pQa2RVQTl3UUVMTHJNZWRYTV9LSHcxX2kwYXlzVzFOVlBVUjd0UG8tcV9yUHlzQTVvUXRpVkV2UlhLSFBFYTFqbmtHX2ZKNnNxWDdRMmN5WnhoVnlNNk8yTFhSaGxDMHpGX0ZHMWdiMlE?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Moonshot AI in Talks With US Tech Giants Over Revenue-Sharing Deals on Kimi K3 Model - marketscreener.com",
-        "summary": "Moonshot AI in Talks With US Tech Giants Over Revenue-Sharing Deals on Kimi K3 Model - marketscreener.com",
-        "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZmdmMWNuRlhqOFJjckI3VGdwMTdrcE9UaVdRdnRPd3hDcWV6Q1pmS1dkWjZQSzRzbFJDNTg1TDRxOUhmV0dNdjJOcFA2X1lTd2VHTm9NUVJnVHBjbFI5SHJqbi0zblEtTkhHVFhVQ0VCNW1hVy1Ccm4zRnVSUG1GczJpMkdIMXdoa08zUkhNVDlBX256OVhScWhzSHpKczk2RThKbHlVWkpDb1FkNmRiQkViMkNIeFpRcEZsOFVEVDNROVZRck9uUTZ5V25Yb1hiWXZV?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Moonshot AI Negotiating for KIMI K3 Revenue-Sharing with Microsoft, Amazon, Google - marketscreener.com",
-        "summary": "Moonshot AI Negotiating for KIMI K3 Revenue-Sharing with Microsoft, Amazon, Google - marketscreener.com",
-        "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRF8zMS1SY2Y2dFhCZ3VHd0tfdE5FMncwQ1EtZ05wV0EtaGRhdXRGQm5ELUtLTGhUenk2RUdBRVF3RU5MZ1AwYldHQjViNDl0NWJNNnJZNi1Jck84NzBnOVphaFlpMEdfVG8xX0RTTWRfaGNUWTdyb1l4Y2NjWGZDLUp5cVJMSEhQOWE5RU8tMGhxZ0pYVFVqOUZ0TlJnOGR4NjJjMzU5TVN1elBYUFhvWjdHaWl1VkdfRmZyemhjNjNjTlY1T2VRQzIwNzRXUQ?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Moonshot AI: what the Chinese AI startup does and builds - qz.com",
-        "summary": "Moonshot AI: what the Chinese AI startup does and builds - qz.com",
-        "source": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qdTZOWVFSdmhUTExRek5Wd2ZDVDFuQm1ydHJxcWRnRVpIczdLWDBWSUFWNDh0SzJTVVg4UjJQNlgtSXVVOWlpZkNB?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Asiainfo Technologies's Unit Enters Cooperation Agreement With Moonshot Ai - TradingView",
-        "summary": "Asiainfo Technologies's Unit Enters Cooperation Agreement With Moonshot Ai - TradingView",
-        "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcEh5MV8xcHpjalVuQ0syVzUzWUoxeE1mSGJxZEpXa285TkFtTTZoNGVxTE15SUUwS2todmlveXJzRndQQkJ2a21KbVB3NjlYMWlEdXdqYUZPUzVrSjhDUTFOT29QcjlDZkZHNjdZLUJhY0paX1kzdXVyUXRhYjVDRmh3eDRFZDZrZklocGk4b3hwdGNvSmZJWGVZbTRIU2RnYVZwNnNqTWlFOVI2d0lUc2NTM09pcHpIREc4SG1SejhMamhJRzlQMC1iWkljSVlNNzVuOElRcThuNHk0?oc=5"
       }
     ],
     "sources": [
@@ -2566,6 +2572,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-07-21",
+        "headline": "BrainCo bionic hand wowed Turing Award winner Richard Sutton at WAIC 2026 - Xinhua",
+        "summary": "BrainCo bionic hand wowed Turing Award winner Richard Sutton at WAIC 2026 - Xinhua",
+        "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05d1JBQzc2M3Q1TXhpU0psek5qWlFDV2hISDlueDhaY2Q4T2FNRWdDQkVmak95N1JXZlQyZWNoUUs2SDVQeVN0RU5zc2cxMTIza3VuRGw5QVRpRHkzMGJVU2s5dGFlMUx2aFl6SU1iV2JoOFFTMmxWSHVENHE?oc=5"
+      },
+      {
+        "date": "2026-07-14",
+        "headline": "AI pioneer Richard Sutton founds new research lab - BetaKit",
+        "summary": "AI pioneer Richard Sutton founds new research lab - BetaKit",
+        "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBncEQyTGlZVjczN1k2VXI5cjFhS2c0LTM3bV9mLWNxdW1MVjk2THZwNWRuTkc2SjJpaGpaQ1ZhZ3Q2QTBNVVByNnZzeV9sRnV4UWt4VXQ0SUJQWWRBQzVCYzVYZWFYNkt3UXhDWXJnQ21sYVJUTjNfNTN3?oc=5"
+      },
+      {
+        "date": "2026-07-14",
+        "headline": "Richard Sutton leaves Carmack to start his own AI lab - The Next Web",
+        "summary": "Richard Sutton leaves Carmack to start his own AI lab - The Next Web",
+        "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HTGM5MTdkcTNBMi15cE5fYi0wYS1nLThHZzB2a2FZenJrQkI0eEZNQnByNER5c0xOdHFNTDZoa2hKbVgzWFM5UzVXMVlqRG1IeXlMc191NlRJR0NKaUsyQks0R0Ytd0U3Xzg0bERLS2NLUmtjRXQxREVMSTdHQQ?oc=5"
+      },
+      {
+        "date": "2026-07-14",
+        "headline": "Turing Award winner Richard Sutton’s new venture is a bet against today’s AI models - The Indian Express",
+        "summary": "Turing Award winner Richard Sutton’s new venture is a bet against today’s AI models - The Indian Express",
+        "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMWJYUXg0dU41SE1pUTBnNlZQMkVGZS1iQ01kVG9qTkZLVFFYelFxVDZZYklpQU51dmRjU29ucTJBLS1yUHMzUDg3Ri1yZ3Q0d0E0WUEtNWQ4Rm1FTThlNmY2V2luUTZpcUx1VnNzdGRnV1hEZGRXLTFiRWxJcVBqeVMwcmxCMjhDZk44cnJpVEpDUGxOU05yMXlkdDc1MWdjbmxud2w4a1A4QnFaTENzN0ppZm1xeVAtaHBfN2VfekUtWE3SAcoBQVVfeXFMUElQczM5RkpNUlZ0YlJmZHlVNFRRakZGMnpVQWRhVE1DZjhsT3o4UHFGOWhDV0xtSVR6cm90aHZSZHA4UDluY0dkTkpwNW1yckVTZW9PMWFMZGRoYnd2MFNJRi1KTG1SaUx3bW10cFlWaG1SeXBaT1lYdDlVcDMtUUF5R3pMaFFQSUlEcERhZnY2M2RhakU5b29FTWx1OGN3Z1hSdEhKQlV2VUF3MndWU2MyYkNjYUF4NHZWQTBtY01jTGI1WmZiWTh2QQ?oc=5"
+      },
+      {
+        "date": "2026-07-09",
+        "headline": "Tashan Technology Partners with Turing Award Winner Richard Sutton to Launch \"Robot Kindergarten\" – Advancing Embodied Intelligence from the Imitation Era to the Experience Era - 36 Kr",
+        "summary": "Tashan Technology Partners with Turing Award Winner Richard Sutton to Launch \"Robot Kindergarten\" – Advancing Embodied Intelligence from the Imitation Era to the Experience Era - 36 Kr",
+        "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yZmdpTDRUUGtzNnRiNXVwNDhmRVhFYVRIV3NxWHFaRzJjSU8wbjFUREZTZGdqZjkwVG5MSTZPcnRlRVF1cExlWE1BMmxXTnVzN253?oc=5"
+      },
+      {
         "date": "2026-07-14",
         "headline": "Father of Reinforcement Learning Richard Sutton Launches New AI Startup - analyticsindiamag.com",
         "summary": "Father of Reinforcement Learning Richard Sutton Launches New AI Startup - analyticsindiamag.com",
@@ -2594,36 +2630,6 @@
         "headline": "Richard Sutton - IMDb",
         "summary": "Richard Sutton - IMDb",
         "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DbjdEcmVQTEZyd1J0Wm1XT1ZGRHNGU2ZsZEtnNG94YTFxd3FyRVlMT0ktMVBNVERLeFNnNkphQUZJaGVsS19SQUJRdzc5VHBqOEhreDhvcHBvVE50WlFzcV9nckt2Ujl6c19v?oc=5"
-      },
-      {
-        "date": "2026-07-19",
-        "headline": "Turing Award winner Richard Sutton: can AI die? - China Daily Global Edition",
-        "summary": "Turing Award winner Richard Sutton: can AI die? - China Daily Global Edition",
-        "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSEJHQ1QwTHZvRmhfci1nTW5peE1TNlRUbGRLdGNLLWlPMGZGNGs4dDF5TGRFU1BoNXAxMzRFbTlwQXFycTBSRWxHZmJKbVF5SmM3cFlCRmV4YTltdmhCRlYxRU1BT3hxWFZNQlhjLV9PQW91N2R2VUlGSUhyMThsZmp3?oc=5"
-      },
-      {
-        "date": "2026-07-14",
-        "headline": "Reinforcement Learning Pioneer Richard Sutton Launches New Venture, Declares War on the LLM Paradigm - finance.biggo.com",
-        "summary": "Reinforcement Learning Pioneer Richard Sutton Launches New Venture, Declares War on the LLM Paradigm - finance.biggo.com",
-        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1scFNDUlVjRjZlWUE0ZXpJZHFQU0kzakZfdUZvVVlsS01ZbXc0TEd3V21qb3V4THp4NzZWWkNSWWZHTGk3WWUyUWR6c0w2Yk90UzEyNnZKbzBaMHhwNzNiUzN1S29NY1I1ZVd6VE91N25WNl9BMmc?oc=5"
-      },
-      {
-        "date": "2026-06-01",
-        "headline": "Turing Award winner Richard Sutton says pure generative AI can't do real science - the-decoder.com",
-        "summary": "Turing Award winner Richard Sutton says pure generative AI can't do real science - the-decoder.com",
-        "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1RSRDZFSTNrcXNOX2VZWmsycjUwRFk2Y0ZMN08wQWtPX1ptQmE2a2puSTBBZzA1M2MyTWw2NWtqdlc3V3ZKQ2xFVjlBczJMYnU5a0V0b1RpTWtFbDMwbzQ0eW5OaFdJVGRmdFFLeTBhVHdzdllLaU90SjlzM0Rqc2lFZ3JaZE1IeWVuM1NwWDhmMmgzSjZoWDI5amk0RkdIQmFsQTBZQQ?oc=5"
-      },
-      {
-        "date": "2026-01-29",
-        "headline": "AI pioneer Richard Sutton to receive honourary degree from U of A - BetaKit",
-        "summary": "AI pioneer Richard Sutton to receive honourary degree from U of A - BetaKit",
-        "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUFkODlvWlRSa3htSnJyZk9GUGx4bzRXX3lpME1zZFpoSjd2b1ZWZFpMRFVta0JlSkUxaFZXWGpsQnlHVTh1RXRQZi1WN2c4cFBZTFZMZHBzWDh5SEY3ZmhnMWU1N0k3bnJLM0xVWnpQNzhVSWh4V1BwUnI4dFdwRHM1TzZlRm01WVp1bHh5WQ?oc=5"
-      },
-      {
-        "date": "2025-06-17",
-        "headline": "Experience beats knowledge: Prof Richard Sutton on reinforcement learning and the future of AI - NUS - National University of Singapore",
-        "summary": "Experience beats knowledge: Prof Richard Sutton on reinforcement learning and the future of AI - NUS - National University of Singapore",
-        "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGJweDJ6N21zSjhYWjk1LUFWZ2hYUktiMUdOOUNWUV9qelctbGIwWFcwMjc0dXhQYl9CSUxjUWFsUmZxVDJHbEpuQmtubGpxMUNqMDY1azV3aFd4eERQdzZnVzJSTjZ1QzR5cWpIa3Z6dEptR3p4Y1RQaTlvcmF6QVpGRHR4d3RXTGc5WXM5bDEzNjJxZGJrZXRwMk5Bblc2elhmZjVfYlRWVGhHd0hqNS11NGJ6MTUwNEE?oc=5"
       }
     ],
     "sources": [
@@ -2666,6 +2672,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-22",
+        "headline": "Chinese AI scientist behind Grok linked to record $70M California mansion purchase - VnExpress International",
+        "summary": "Chinese AI scientist behind Grok linked to record $70M California mansion purchase - VnExpress International",
+        "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM3YzSHYyVzZfRWVyMVlMekVKRnFlZjk0OUhpUktPWDlrbGRQSndweDgyUkpVNUViTDdIYVBDRmg2NzlKcXYyU0dNZTFmS2pIeERTcVJpZjhDMU41RFRUMk4zb09GdmpZeWRaekRoRVBRMUFfTm5CQ3lOX2lmcUtlMjBmWjd1U1pDUXp5ZjdkYkMwaTZZd1ZhNXhzOU9ZMGZpTUQ5U1NDYVVob3ZiZVUwR3ppZUl1QnBzY29GVUlaWVlSY0ItUENZdFBkaTlsUElfTUpLTXdWUjJ0dw?oc=5"
+      },
+      {
+        "date": "2026-08-06",
+        "headline": "This AI scientist can run experiments. Self-driving labs coming next - Northeastern Global News",
+        "summary": "This AI scientist can run experiments. Self-driving labs coming next - Northeastern Global News",
+        "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGMHlNdjlvU1hhZTV6YWhTV3pLekZXQ09qV2UzTWZycGdjaWhmSDlaLUxYUFJiUkhXcmhwYm1mWl9zdHpZY2U1RnVWQWNHWU1BbHJZZkF2bTZ1eTFsRUZES0pwT3Q5OHFBeEpSV3RWWVczYzlVZ1EwTU1sWQ?oc=5"
+      },
+      {
+        "date": "2026-06-29",
+        "headline": "AI scientist company Edison Scientific tapped by team behind Metsera to create new biotechs - STAT",
+        "summary": "AI scientist company Edison Scientific tapped by team behind Metsera to create new biotechs - STAT",
+        "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWlpZVlpCUWJwbUVRYkhtV1NZOHkyQ21LOENQd3V5Vl9TZEdJcUlzVHdUYjZwSFktXzdnbmdfUmNadGVPTUF0bWpyb2VxWkh4Y245eEVFNjVVc0E0UEE3SlhGbTBiQjVBaDE2ZTJLaldyUFVjMmhjTzhiQlEyemdWMkg2MFBPUEtWMlhDODhkZXJxMC0zVjNuSDdjcFFzZEVHY2VFVU54MTZBcGstVVE?oc=5"
+      },
+      {
+        "date": "2026-05-18",
+        "headline": "Commonwealth Bank of Australia names Mary-Anne Williams as chief AI scientist - Reuters",
+        "summary": "Commonwealth Bank of Australia names Mary-Anne Williams as chief AI scientist - Reuters",
+        "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM2RlN09DYngzRlNhNk9uNzhORV9FbVRyWG9yRDVldng0alV5b0N2ejZ0eHVOTENZTHRodGgtVU5OeGM5TGlzSTBvRllHRmhacm5LLXBCa3NaSS1CWWV5eEM5UFlOeGNFRUJNd1UtM0piYks4eVc3UlJRYkRFcE5VcXVUSzZuUV9SMFJpaDNDQ3BreWYwUTFqZVhTN3dnbmpzVnA3OWMwWEZkeXJtZWZxenZiWjdJb05ORTc1ZF9zN09iZw?oc=5"
+      },
+      {
+        "date": "2026-05-01",
+        "headline": "Protesters shut down Berkeley Forum event hosting Google AI scientist - Daily Cal",
+        "summary": "Protesters shut down Berkeley Forum event hosting Google AI scientist - Daily Cal",
+        "source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMjRFbUtPTUM5X1k2dUtXU0xkX01pT2UtYW1YVmEzX1hHdWZMaE5kQ0FYYzlJRTkzRnM3TmZHSXpXLXdma2o0RFV3UVR0amRfS2VoaFhxLVltdzEzbHFwTXNESnJlU01RS08xT2h2UWV4ZHhUdGZnaW4wcjAyaE1NOWJyeU9EWmpBNmU2R3p2cTlmb09xS2RqS3c5VnVUZ0d0VWRJdDVaZEd4bS1jUUEtMDhRbXJEOWdXOHplWjRhd2t4SkxDSzRRZm16NEpKUnlPYkFXMHU5SXQ5a0taNTVQc0s0ZUllY3VlOExQdA?oc=5"
+      },
+      {
         "date": "2026-08-14",
         "headline": "Inherent releases Faraday AI Scientist for research replication - Dealroom",
         "summary": "Inherent releases Faraday AI Scientist for research replication - Dealroom",
@@ -2694,36 +2730,6 @@
         "headline": "Building MCP-native hierarchical AI scientist ecosystems: a perspective on scaling multi-agent scientific discovery - Frontiers",
         "summary": "Building MCP-native hierarchical AI scientist ecosystems: a perspective on scaling multi-agent scientific discovery - Frontiers",
         "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVl4d24wUW9Gdm1hSHRyV3pGR2RuNnEtdmxYMVpvakR3TEdya3ZBYlNHbTN6cXoyOGxnWVE4MlUtM1hLSTRQdEJsN2cwekx1dGZGSXZJd3FqUXVxOEhzZW45enFVVzJWZXQ5ek1GUFJiZ3FMTUNwRi1fN1AtTWl1ai1tM01fRENJM0h3eFFqZ3A1UXJveFJHT1g1Y045a3JpUFE?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Inherent Says Its 27B 'AI Scientist' Faraday Beat Claude Opus 4.8 and GPT-5.5 at Replicating Research - Wowtale",
-        "summary": "Inherent Says Its 27B 'AI Scientist' Faraday Beat Claude Opus 4.8 and GPT-5.5 at Replicating Research - Wowtale",
-        "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEbkNSSEQwTTF1cng4UU9qXzJ2YW1LT1BkQVk0MXZCbXR3aktjcHpPTTlWelpnRzdHOFM5MW9EWFVtTUZ6eloxQ2xTSm44YWhLYmM0?oc=5"
-      },
-      {
-        "date": "2026-08-05",
-        "headline": "Former Meta chief AI scientist to join investing firm: report (META:NASDAQ) - Seeking Alpha",
-        "summary": "Former Meta chief AI scientist to join investing firm: report (META:NASDAQ) - Seeking Alpha",
-        "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEFwdEFkdURJRzRVakF3UzNhOV92alFaSjdiM2RJeko0VGdmOEpHRk40Q2ZsU29SZHN3aEdEZ05uSllaSG1KQ1hOaDNEeHp6M1hheUdoVW8yb0RjdlBoNFBnNkJ3ck5ZN0xKQk0tZDZJRHM0Q0RBa1NoaFBzWWNPSkotWW4wVlpYQmg3RXY0ODN1bDVUYnpaaUxKd1lvQTg?oc=5"
-      },
-      {
-        "date": "2026-07-10",
-        "headline": "Which ‘AI scientist’ suits your lab? A guide for the perplexed - Nature",
-        "summary": "Which ‘AI scientist’ suits your lab? A guide for the perplexed - Nature",
-        "source": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uVVlMQThNZTVOOTJSYlIwNFNxZUxZbGczUjY3MWt0OWVFbGR1MGp1aURfZ1VIajlRM3Y5NTAxc3UyZU1rMVlIR3dYWkpQYjRod05NQVdhdkxZaTRsUmln?oc=5"
-      },
-      {
-        "date": "2026-06-23",
-        "headline": "Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit | NVIDIA Technical Blog - NVIDIA Developer",
-        "summary": "Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit | NVIDIA Technical Blog - NVIDIA Developer",
-        "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNFRCVUQ4TTVKeXVtWS1yWlhONDdGWDRDLXdOZUY2QlNpT1IzanpCVHFuWk91OWp4OXMxVjJPeVZrOVdRZll0S2FKZU1GUTZSZXVmSFpzQlhKaFoxd01UODRLaGY4SlpFT25Mczg2N2szVVh2ZXI4NmlKRmtwSk5ic3lrUEVUSDdJT2F4d1ZBZ0xNbUtOVXpUdzlIdUUxZlgtejc2bS0zM1ZlR0pnLXRUdXliR3RhYWZC?oc=5"
-      },
-      {
-        "date": "2026-05-19",
-        "headline": "Google DeepMind and Edison Are Building the AI Scientist - Genetic Engineering and Biotechnology News",
-        "summary": "Google DeepMind and Edison Are Building the AI Scientist - Genetic Engineering and Biotechnology News",
-        "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXI5WUI5cU9XQ0ktZjRlaU96ZjY2Z1ZLbWxrcXV1aUVzTDg5bTM1WTR3YTc0ZV9NQ2tUUF9oSXE4WHZUY2NfWnZuZnFNZkliWUhRYnZuOGd1N0hMY1R3MHdJN2F0ckNjZHNBeWs4dWMyLXdUaWRwREk1WVp0dW8yZ0JBU3B4RHJmdi15a1NxNE04RkdkS3QycGZya3J4c3ljc0t6dWVfT1RWcUc0UDFGTm8yMXE4QQ?oc=5"
       }
     ],
     "sources": [
@@ -2767,6 +2773,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-26",
+        "headline": "Charizard Plamo Pokemon Plamo Collection #43 Select Series Charizard Dragonite - fuelcarmagazine",
+        "summary": "Charizard Plamo Pokemon Plamo Collection #43 Select Series Charizard Dragonite - fuelcarmagazine",
+        "source": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KVkpuU1M4MHM0bjJGN05yUmhsdy1zTmFUSDZ2dzJuVnFtb1ZOWmFoRV9UY3l1bUpmb3FKRGpYUTBXek1pV2lGYjhiTzZGQ290aFNmcWZiMA?oc=5"
+      },
+      {
+        "date": "2026-08-26",
+        "headline": "BANDAI HOBBY Unveils Pokémon Plamo Collection Quick!! 30 Dragonair Model Kit – Snap-Fit Assembly for an Adorable Figure! - 玩具人 TOY PEOPLE",
+        "summary": "BANDAI HOBBY Unveils Pokémon Plamo Collection Quick!! 30 Dragonair Model Kit – Snap-Fit Assembly for an Adorable Figure! - 玩具人 TOY PEOPLE",
+        "source": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PUkZOeGRTa1ZKdGtNcXZtYzdWM0k2TkgtNDJtSldOWjR5RGFDOE85aUVhRURMUzJJcTVTc01YaVJqTmx5T3dIdHhxNlZ5alJh?oc=5"
+      },
+      {
+        "date": "2026-08-24",
+        "headline": "Illoca Brings Vibe Modeling to AEC: Plamo, the New Agentic 3D Workspace - The Killeen Daily Herald",
+        "summary": "Illoca Brings Vibe Modeling to AEC: Plamo, the New Agentic 3D Workspace - The Killeen Daily Herald",
+        "source": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWjMzSTdGek5mUWV4bHFmM0M1TFZZbXFtVURVR3BlNS1YTUxMM0ZBQjBhbmozQldkMm5nUV8yRjh5T213ZUhyLU11UUxHcEhldS1ndmRFX0p4b2FxM1VJOFVPaDN0WWdSdHNQeUFQSlJGNEpoVW5RbDBvRjM4MDh3SkVablJzZ1ZpbG0wX05FOXk3WW1pamtpaUJtNjRXUjI4WEpQb2JSVkc5UktfOERZYXZhWTV5alpjdlBpZlExU3lpNDVaM2JYOGhIWkJFYVBaV1U0YXZiUXZiQXBFWGF4cUZmQmFBT2Q1UHA3eHpUY3NwWmZSMUdMSDFJNTdDNkU?oc=5"
+      },
+      {
+        "date": "2026-06-22",
+        "headline": "Japan's Preferred Networks debuts AI priced less than half of OpenAI models - Nikkei Asia",
+        "summary": "Japan's Preferred Networks debuts AI priced less than half of OpenAI models - Nikkei Asia",
+        "source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYnJ1Y2FWR3Q4WHg3WmdzNW5OOWpPejk0czlkVlljby12aGh6ckFXNlRHVGx5cmlTanJvSmJERTBZVGNLNFFpQmd6Y05kM09LZFdOWFdEUTU0S00xMTduMnFka0E2UnFROHcydm9ScEkyTEduVXU5c2JuZ18zaTBDcl9ncVluSWNtdUl4MWI1N3RhakN6M3dRUGc0TUtnZFlkX1UxSVJTWlBHaXVMRkU2azdxQUNiUkFmTFo4QW9vTTZ6UlpTczJ5RXZIU2U4ZGZZczVPMFB4TGdkQXM?oc=5"
+      },
+      {
+        "date": "2026-06-03",
+        "headline": "Mitsubishi Heavy to develop Japan-based defense AI with Preferred Networks - Nikkei Asia",
+        "summary": "Mitsubishi Heavy to develop Japan-based defense AI with Preferred Networks - Nikkei Asia",
+        "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWtPVXpDTTlBZlNZbndPeThJNkV4d3lDSDdqcUNxV3pBcVZva0NQZ2lOSWM2RHBmTTRHMHZKZ3lNenNSMVJSMW1Tc25EWXVldDkxR1FKTnk3Y29GbTlwSW1tbXRzZEV6dUJ4OGJpLTZqZUdYRmNGbnh0akgxVnhQWks4SVI2X3pYMDVWMnlFcHowdmF5VUltcnBwNUd3RjhjRkNsZ3dJNk1UUlVrdDZiWmU0bzVrSlRIYWxiaVBqT2dZOW1PMEp6bnRUNmRHTXVnYVE?oc=5"
+      },
+      {
         "date": "2026-07-29",
         "headline": "PFN to Support Japan Self-Defense Forces' Operational Planning with AI, Commissioned by Acquisition, Technology & Logistics Agency for Proof-of-Concept Using Domestic Model \"PLaMo\" - finance.biggo.com",
         "summary": "PFN to Support Japan Self-Defense Forces' Operational Planning with AI, Commissioned by Acquisition, Technology & Logistics Agency for Proof-of-Concept Using Domestic Model \"PLaMo\" - finance.biggo.com",
@@ -2795,36 +2831,6 @@
         "headline": "Mitsubishi Heavy Industries Partners with Preferred Networks for Japan's Defense AI Development - Dividend Increase Stocks - dars.gov.et",
         "summary": "Mitsubishi Heavy Industries Partners with Preferred Networks for Japan's Defense AI Development - Dividend Increase Stocks - dars.gov.et",
         "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcG96VXREUmJlV3gyNkdYS1hpMUNNMGQwMjNFUGZHSDhtVGk4RkJjdlI1QjBCV0FQVGlnSlJ4cFN4Nlc0ekpVbVIwZFpSOEVXUWFwa3FObU1KTFB4QmFxYjBtaGVDUy14ZGp6R1gzS3RvMHlNbk1aeUgta29kamEyZGZKX3NBdXFsZlQ5MTE4NUxJVkpvSko2NjVIaXJRWVdlRkE1UHVNSUlaU2hURGZPdy04dE5vZnZsakdsYzBDV29ITG9TdG9OQVlVbVNMWG5fX0dqaFh3?oc=5"
-      },
-      {
-        "date": "2026-08-21",
-        "headline": "Illoca brings ‘vibe modelling’ to AEC with Plamo - AEC Magazine",
-        "summary": "Illoca brings ‘vibe modelling’ to AEC with Plamo - AEC Magazine",
-        "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3U2E1X0tPZzFQR29Pc0xvT0NJNGJmM1RCYURDV0ZTbm90aEwxb2w3ZVNxRGxhbUJwdUJRNFhfV3NoMWtsQ00xWU83WnVaWTUtVG0zdU91Smk2R2tKMVJoN0tPOF9nVVF5Q3dVaGxXdmVITGNSWWUtTG5n?oc=5"
-      },
-      {
-        "date": "2026-06-02",
-        "headline": "Mitsubishi Heavy Industries and Preferred Networks Form Business Alliance to Jointly Develop Japan-Made AI Technologies for Mission-Critical Applications -- Accelerating the Intelligence and Autonomy of Social Infrastructure for Resilient, Secure, and Safe - Mitsubishi Heavy Industries, Ltd.",
-        "summary": "Mitsubishi Heavy Industries and Preferred Networks Form Business Alliance to Jointly Develop Japan-Made AI Technologies for Mission-Critical Applications -- Accelerating the Intelligence and Autonomy of Social Infrastructure for Resilient, Secure, and Safe - Mitsubishi Heavy Industries, Ltd.",
-        "source": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hLUtUZXFmMGtEak8zSzRHVnJxQ2NKNXZXWTRfejFyNEVSY3lXWmJFN0pmMk4yNFd5MUQ2R29LdTFkQk5WRkZYSmJpVzg?oc=5"
-      },
-      {
-        "date": "2026-05-14",
-        "headline": "Bandai Namco releasing Pokémon Plamo mini replica keychains - GoNintendo",
-        "summary": "Bandai Namco releasing Pokémon Plamo mini replica keychains - GoNintendo",
-        "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSk1NNEU5S01mNFhsdUpLcVIzYXhnV052RVJFNFlMYWJZNTdoRlZ0ckNEaTQyTU5HLUV6S2Y3REhBdHhERlF6RlZVYmFKaE9sU0NCSThkLU5FS0gxLThNdy03aWE5aUlBRG5jd2phcjFUMkljU0RiWUhSUHdxbkpWOWJOdTJBeGFwV3R3cTVLTXZDQUxKdU56bjViUmVtdw?oc=5"
-      },
-      {
-        "date": "2026-05-13",
-        "headline": "New Pokemon Keychains Are Replicas of Plamo Model Kits - Siliconera",
-        "summary": "New Pokemon Keychains Are Replicas of Plamo Model Kits - Siliconera",
-        "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWpXRUU5VFdvWmVxblBISm9qNzRzcjZSaTdUOENXVW5NaUFHbENnMnFIc05hcXQtMnQ1ZmNrRFg0X0JXUDZId1NtSXQxZFd5MFY1Nm9xN0lialFuSi1kR1NJUmdPNUFQdlVlUUU0UFVKVVhLOWVKLUpheGxYWE9BSmFYb2RVWDVNMEE?oc=5"
-      },
-      {
-        "date": "2026-03-11",
-        "headline": "Super Cool Shiny Version Debuts: 'Pokémon Plamo Collection Select Series Black Rayquaza' Scheduled for October Release! - 玩具人 TOY PEOPLE",
-        "summary": "Super Cool Shiny Version Debuts: 'Pokémon Plamo Collection Select Series Black Rayquaza' Scheduled for October Release! - 玩具人 TOY PEOPLE",
-        "source": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82LVJpRnR0WUhtbVlFOHhWejg0S093NnhMZVowYVpXWU5qdG84YTVLbUR5ald5VWtWMTdETUdSUTJka1ZBaEh6UjUtWW1yUEE?oc=5"
       }
     ],
     "sources": [
@@ -2964,6 +2970,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-23",
+        "headline": "Ramp vs Safe Superintelligence Inc.: Revenue, Funding & Team Size Compared - GetLatka",
+        "summary": "Ramp vs Safe Superintelligence Inc.: Revenue, Funding & Team Size Compared - GetLatka",
+        "source": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdjBYdXN0QWxyLUd1dm9oZmRiZWRHV3JKNzBLeEhTSU5NNlBSemYwNDlJU2tRSVJ0Z1dLbjVyaXFicHprYlRkOGFrYzVYS2drTU5EV1g1OFRiUQ?oc=5"
+      },
+      {
+        "date": "2026-07-28",
+        "headline": "Safe Superintelligence And NVIDIA Form Long-Term AI Compute Partnership - Pulse 2.0",
+        "summary": "Safe Superintelligence And NVIDIA Form Long-Term AI Compute Partnership - Pulse 2.0",
+        "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVJKaGFOcUZwdnFIX19lTjVINkVWQmx4N0pPbGRldkFQdW5EZHhVMEpKLWU1amh1RTIzMXZZTmJDajllRVFCb1FZckhnQTllTzFTQy14UGJJRG5mZHdvYmpyeWdhbG1QTmpKVVdBV1cta1pLQmhfcXh3NUxKWGlGODNpMkZlRmtTX3dNNzJBMEJsa05HOWfSAZsBQVVfeXFMTXJSUnJpSGdtaXhVakQ5VjJMYWZvODExRDdrbEdOV2tkYnJrelFuNDZrVklUTXZzREozRmZvYVNqbDg1UkJsb0VkbjdzWmxTb0taVnJPTHZVTlFLVlNsdFdXZU5SSzZJRkFETHRGd1YxR1N5UFdsZWdyZXNSUDBQVzV2YWs1NVFvTnpIU0JGalNkR1lQSEcxZktSc1U?oc=5"
+      },
+      {
+        "date": "2026-07-28",
+        "headline": "Nvidia Commits $5 Billion to Safe Superintelligence in Major AI Investment - citybiz",
+        "summary": "Nvidia Commits $5 Billion to Safe Superintelligence in Major AI Investment - citybiz",
+        "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZjkyU1pBR3V4ODRVdFotczBtYWI4b29OOURrakZNcmFNMmltRnlrOTdQdEdsSFAxeEhJYV9OYkxsdUw2a0NwckUzVm03cnZSUHowdnNpS2ZXZE9mS2lNTVhZQ1hLcVNLcEgwTWxubm00LXQzOFoybXl1VVNfbmc4bDVGMFdMZWNGV2VHSW0yX1ZFZ1pSTzhnbFpadXVRWldTdXJ0X3FqcmRLTVZZY3VZYWZn?oc=5"
+      },
+      {
+        "date": "2026-07-27",
+        "headline": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership - NVIDIA Newsroom",
+        "summary": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership - NVIDIA Newsroom",
+        "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3gwdE5oOS1qX1RMNVc5bVJXU1hzZVV5U2hoM0JIMDFRYUZrdC00ZUZpR0FDelZ3b3JfRFJJVUNZZjFzdTBrb3Y3bTBmb3pWbWNMem1IZXBnVTdaWkZlREdZeGFVc0xnXzNXZXExLUZJRDlZOG1ZMC1LaXFMYjNmNUx2amMyM1RWb3R6bUZVd19DcnI4UUlSc251RHlWM3VCdlhYMkliWjR3UnBodDRZTl8yTUdoVnZieGhzZHBsWTFoZ3FScnZLUQ?oc=5"
+      },
+      {
+        "date": "2026-07-27",
+        "headline": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research - TechCrunch",
+        "summary": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research - TechCrunch",
+        "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTEpWM0dmdzBOcXF0V09UNldRRlJyWFVJdXZFRmt5cFBuc0QweWhoMm1TR3hZU0ttNFBnUVdtN2h5WkNabHJmdmZxc3FhNVhXRS1mQ2txMVNjNHdYVTA5dE15SE1zeGdoMjJMWE5lTEN4cHRDWTBJZmtObUlYSUZFbEZKT3BVTUlab1BxVEFHV2NWVmJCcUlXRUR5c2UzdXItZW5rTV9YcllVODJsTlB1eVcyMjdiOVV2VWhB?oc=5"
+      },
+      {
         "date": "2026-08-14",
         "headline": "The Model Era Is Ending: Project 777 Unveils the Architecture for Safe Superintelligence - The National Law Review",
         "summary": "The Model Era Is Ending: Project 777 Unveils the Architecture for Safe Superintelligence - The National Law Review",
@@ -2992,36 +3028,6 @@
         "headline": "Nvidia teams with former Safe Superintelligence for long-term partnership; Nvidia to invest (NVDA:NASDAQ) - Seeking Alpha",
         "summary": "Nvidia teams with former Safe Superintelligence for long-term partnership; Nvidia to invest (NVDA:NASDAQ) - Seeking Alpha",
         "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDFmNGotODAwVXhmR1NIdkFHaktQR1k1OVJYWFpxV3VXQVN5NFZXLV9DbTVSZEFNazBsMmNWTElhdV93Z25HdzEzSktuVDZSMW1iRlR6bXhiNXI0NnZWdXg2Z0Y0YUo0aDZpSUctOXB5aDNNdFZKVDNYYnlSc3NQaVpIVDRBS1lBclJJUVRwd05Gd2N2cDF6c211dXRib09HTU9FWTRzaVZ3V0t0cVFGcjBDb3RlZ25ZcktzaHNCQ0hXZE92VXJr?oc=5"
-      },
-      {
-        "date": "2026-07-29",
-        "headline": "Nvidia’s frothy bet on Safe Superintelligence - Semafor",
-        "summary": "Nvidia’s frothy bet on Safe Superintelligence - Semafor",
-        "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeUhOWW9YNTZJNi1uVmVveGhpaUxwSG5PbHFLN2RGWFIwUnBtNS1Fb3NYMUNpWlFUeGJ1YWQ1RE1QRzQzemJ0UFdVdDZpRC1vUWNzc3d1Z0VrQ1ljUjZBRjU4bU9FcFQ1dXJ5a0dNaTNxa0pxLU9zdWxOcTlXODBCUWtJa192V2l6T3NQRWdsZTI?oc=5"
-      },
-      {
-        "date": "2026-07-28",
-        "headline": "Nvidia reportedly commits $5bn to scale Safe Superintelligence - Silicon Republic",
-        "summary": "Nvidia reportedly commits $5bn to scale Safe Superintelligence - Silicon Republic",
-        "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUIxWFk5NjFRQklKamNDRjFmc2JwUlBpQ241dUhGQm9RRnk5c0xmX0drU1JnUEVndjlUREVxeGxKZV9SX1lhYi14a0FwN1lWb2R3elNFS3NKVXJQNjRhOEJFTm1BWDQ4S2xMcFVfclY3NmFMN0hKcXl1ck5ab2RJbXVaejVDcDBBS2pVbWNPcjhORk1IdlI5YlVQVzNSbnVMLTdJMQ?oc=5"
-      },
-      {
-        "date": "2026-07-28",
-        "headline": "Ilya Sutskever’s Safe Superintelligence Announces Multi-Billion Dollar Nvidia Partnership - AI Insider",
-        "summary": "Ilya Sutskever’s Safe Superintelligence Announces Multi-Billion Dollar Nvidia Partnership - AI Insider",
-        "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTNjSUJSSTlnRzJ0bjNkZ0RCODkxN1VQT1lxZ3R1YnNkYXNaWXpqMkFSVjRSQ2c1NWdJNzdmeTN5V01FV3hLbkM3U0dqdUtsUzAtTTloTDRtU1pYX2VrQ2dueG5FVzZMYnpXT3FlMjA2YVlXN0pSSEhkM2RlclplckhBbTlOOFdqdjVTWW4zWVEtZjRYcGhtS1p6cEQyMVhTbjJ6UGxkaTZxUlY4cXpLTmVZUW80MW1TYmNtZkxYcUpuNmxF?oc=5"
-      },
-      {
-        "date": "2026-07-27",
-        "headline": "Ilya Sutskever's Safe Superintelligence raises $5 billion from Nvidia despite not yet releasing a product - calcalistech.com",
-        "summary": "Ilya Sutskever's Safe Superintelligence raises $5 billion from Nvidia despite not yet releasing a product - calcalistech.com",
-        "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PRXRNUXhxclpEelRnQjUzN3liaURDT1VBSURkMFpQTG5ibUwyMVdfS2dNNllVREowSGdsbHhuZ0drMnhYSlFVdFdUT3JZMHR6TndGRGJTeXRvX2FNcnJ3bEE5ZVRWNlU?oc=5"
-      },
-      {
-        "date": "2026-07-27",
-        "headline": "Ilya Sutskever’s Safe Superintelligence gets access to Nvidia’s Vera Rubin platform - SiliconANGLE",
-        "summary": "Ilya Sutskever’s Safe Superintelligence gets access to Nvidia’s Vera Rubin platform - SiliconANGLE",
-        "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmxTYkJLdGt6UmNLUVJhaVhhbFNUaXhHQUsycTM2RkVFQ3NxTFdRMXFWMXI1eGJ3akItbmVmRWZpOW5nSm9DbENlTEtEOVpTQURycUx6cmRFZm8wT19ZbGFjRXF4UXRGbzA1NHdSZ0l3NHE5RTd3eGpQUlRQOFhVU0o0amNJc2Y1TnpZUEJFQ3cyMU9GNWt1alp4Rkdod0NLekVfcWRWdjRkdUhHVDhJWjl0Qml6Zw?oc=5"
       }
     ],
     "sources": [
@@ -3071,6 +3077,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-24",
+        "headline": "Japan's Ministry of Defense Signs Demonstration Contract with Sakana AI for Domestic AI in Intelligence Analysis — Accelerating AI Adoption in Security Sector - finance.biggo.com",
+        "summary": "Japan's Ministry of Defense Signs Demonstration Contract with Sakana AI for Domestic AI in Intelligence Analysis — Accelerating AI Adoption in Security Sector - finance.biggo.com",
+        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PMFJYN3VWcGh6N0ZyaGtBZlpwX0M0QVZicmNtY3RicXZOWHJrN3JVUTBiTW1lemhTc0lIQ1VRMU5TRWxZRzBTNENkTlhkOFNtM05CUmNNOFBKaXJjdXAtNldvUHljRnRnbnUtRnh1QzNIWGs3QUE?oc=5"
+      },
+      {
+        "date": "2026-07-21",
+        "headline": "Introducing Fugu-Cyber: our new orchestration model that achieves state-of-the-art performance on real-world cybersecurity benchmarks - Sakana AI",
+        "summary": "Introducing Fugu-Cyber: our new orchestration model that achieves state-of-the-art performance on real-world cybersecurity benchmarks - Sakana AI",
+        "source": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YWF9OeGlMblpsYmhURzhWODA2QlhnQkJ5eld0REtPMTBvUzBNZU5LVFRvTnpSbW13cUxTMzJDVUZRVklFQ3JFZzllRUhvdw?oc=5"
+      },
+      {
+        "date": "2026-07-05",
+        "headline": "Learning Multi-Agent Coordination via Sheaf-ADMM - Sakana AI",
+        "summary": "Learning Multi-Agent Coordination via Sheaf-ADMM - Sakana AI",
+        "source": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE81bmhQTWttd2ZvTGwyaFVkWTNTRzREN3QwNjEyY2pUVUhyU1RuQjNGUGVrNUJndWRDZlBPTUk0V1N4Z00?oc=5"
+      },
+      {
+        "date": "2026-07-05",
+        "headline": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Translation Tool With Translate, Proofread, and Ask Modes - MarkTechPost",
+        "summary": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Translation Tool With Translate, Proofread, and Ask Modes - MarkTechPost",
+        "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXVHdmFyRGhQelRlcEo2WmpaSzc1VjhyTHhqdV9xMi14SmJPT1FFMk40V0swaWJqREY0ak9nS3oyV3JSSksyMmdSWHcxekdVY0RsbjVVT0xfd3Z0bmZsX2l6SGlrTmw0LXVEWXg0Q25PM0tIVU5ydG9IMmdlVzAwSjln0gGHAUFVX3lxTFBlcXpORWV1VmFKcEN3a1ZSeVktMkcybTdTelRtM0pZWDNwb2I5b0VrM2c1WXVacFVHNTBvV1JKTnpPQUlzcTJTbzVuaVRWWFBxV3dDSklycnBmUXlEUGZETUJiTVd0dXVMakdUOU1aRldTZjg3MXhCclBCMkpaM21HbXhKYlNMSQ?oc=5"
+      },
+      {
+        "date": "2026-07-04",
+        "headline": "Bridging Spherical Black-Box Optimizers - Sakana AI",
+        "summary": "Bridging Spherical Black-Box Optimizers - Sakana AI",
+        "source": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0ySkQ5OXU0T1VKZkxKNFRJblZFczhQSW04dEZSSEJLRlVXLWhnX1NKUUtWT1NBRVUwbUlr?oc=5"
+      },
+      {
         "date": "2026-08-14",
         "headline": "Anthropic’s Mythos Freeze Opens The Door For Asian Challengers Sakana AI And 360 - Yellow.com",
         "summary": "Anthropic’s Mythos Freeze Opens The Door For Asian Challengers Sakana AI And 360 - Yellow.com",
@@ -3099,36 +3135,6 @@
         "headline": "Sakana AI Launches Deep Translation Tool - StartupHub.ai",
         "summary": "Sakana AI Launches Deep Translation Tool - StartupHub.ai",
         "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbGgzZy1HNmpnN1FxOEdvTFdPeW9uWnBqZGhicEdhTGFSMzNFTE5QajR3NUlscnViQmVxdXlLNnZTM2w1ZVF5Z1NrRDdnVVJPRTZVSTkwanNqVjgteWl0c0lSTHZicTVnMTgxSGJON1ptaUpmcEFTV2RDeHlXYjhDbFllelZrUjRORGZMVzdWaEpqRXp4?oc=5"
-      },
-      {
-        "date": "2026-08-13",
-        "headline": "Sakana AI Releases Flagship \"Fugu\" Model on Free Chat, Adds Automated Artifact Generation - finance.biggo.com",
-        "summary": "Sakana AI Releases Flagship \"Fugu\" Model on Free Chat, Adds Automated Artifact Generation - finance.biggo.com",
-        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6VkxZdkFtUTVOaVVOZE5wQWZDTy1rMFV4cnNWcnQzYVFxWFNBMXRZVlFaM0RrUFB0ZEViT1g1Ml9tT0poVEFVelA0cFRxMnRwQTJxUy10VHk3ZGhPYnRKRnVpWDJFbWkzT200SUZXRzEzSlRUOEE?oc=5"
-      },
-      {
-        "date": "2026-07-25",
-        "headline": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM - MarkTechPost",
-        "summary": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM - MarkTechPost",
-        "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVVTcEEzanZwdXBPaDBrQnRSNUdhOHV5dWo2YzZBTTQtVlJOQXJHYlFfNU5sampnVGZXZnJhVVoxdHMzNllOVXRuX3k3akd0enBmanV1b3dtdmZCWm1NUm5DZ3U5Y1c2RDdNRC1OQzc4ZFpFSEtIVkJQMXQ4YzZCRlRQTUJVUEtFWDloaEdvN0p5MC1UUFJQLUxCWmtCUmZqR09YczI2ZzktTk1td1HSAbMBQVVfeXFMTU5qMGdSQkNYNkZCaTRzMnN2ZTRURzdsVjh4X2JPakd5WjJuQXhjOGo1a0hRTmJnQ2dCbVJ1b0t1c0pxOUR3bUpYbXN6aXZTd0R3eXNaVlhYc0lUcmNheHN3UHo1S2wyTFp5VGhra3k5UVVseU5wUGJkQkE1U2VqUDJRcTdCRFVHR3ctY1lwWXlzel9Eb1N4akdTb2ZKWWhZZVVkNDlEZGpqSk8tb2NQcWxjOEU?oc=5"
-      },
-      {
-        "date": "2026-07-24",
-        "headline": "Announcing Fugu-Ultra v1.1 and Claude Code interface for Fugu - Sakana AI",
-        "summary": "Announcing Fugu-Ultra v1.1 and Claude Code interface for Fugu - Sakana AI",
-        "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lNUZEQnBqS3hhS2gtYlJIQVBDOHVkTWtTOHUyRWtFdTJURkFnM2ZuRVNGcnVsTjFWU0ZjeWJ5VVZrNDRIZWE5RjBfNFRNQU1MdWJzMHlSLWNTeFo2VVE?oc=5"
-      },
-      {
-        "date": "2026-07-21",
-        "headline": "Sakana AI 推出网络安全模型 Fugu Cyber：领域基准测试表现优于 GPT-5.5-Cyber - news.17173.com",
-        "summary": "Sakana AI 推出网络安全模型 Fugu Cyber：领域基准测试表现优于 GPT-5.5-Cyber - news.17173.com",
-        "source": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8taFNjc3NmUTkwZGc5VmZMRzZGM2ppbXA1MHlGRTF4TXYxWjZta2pVY0hVN0RfSGtaZEZ3ODE1dW5JektqQUZfRnJjUTRmMkI2MHRyNjFKU21pdWdUZ0FYRHJXaGI?oc=5"
-      },
-      {
-        "date": "2026-07-03",
-        "headline": "Sakana AI 分享长跑 research agent 的记忆层 - 80aj.com",
-        "summary": "Sakana AI 分享长跑 research agent 的记忆层 - 80aj.com",
-        "source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wMklkaGZURWJFSWlLczBuSXVheTIzOUJ4N2tYalItaVRsWEdhQXpRNXF3aDhhekR2YjFJbzhia1JuTnFyN0FlejFjYmRQbkdWQ1p5emZmOWt0NWxSaGppZmN6SzdMZw?oc=5"
       }
     ],
     "sources": [
@@ -3171,6 +3177,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "SandboxAQ Lets Any AI Agent Join Your Slack Or Teams Channel - Quantum Zeitgeist",
+        "summary": "SandboxAQ Lets Any AI Agent Join Your Slack Or Teams Channel - Quantum Zeitgeist",
+        "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lSFhST3dLM1FkQW9lcFpIOUFQOGhKODRPVjFzeUY4TkJtT3JfTVVzYWN0LWxrUEJzV2VHVll4SHpCUHhqM0FvbWhCRklma3hyOE4xMjVlQ1VOVG9R?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "SandboxAQ Opens AI-Agent Coordination Code With a Commercial Restriction - Open Source For You",
+        "summary": "SandboxAQ Opens AI-Agent Coordination Code With a Commercial Restriction - Open Source For You",
+        "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmtyZDdOeEUySEFfYjRXX0lWTzVoYWtOYnIwWEVmT0ZrX0JtOHZyWS1hUW9xaFlWV1FsVGVCUVJ2VWxsQWU0cC1PMUdibjB4YV8zU0N5bWszUWNqMFV6QUk0TVNjR2ZFS0RyNmhnbm9pTVBRNGxacUJOX2h0RkpDTVdGLV9TU0ctQVBwUFE4RVpUZUtmMTRRSXI1QldLaW5DQzFJR2l1SEx4aXJpNVZLRWFn?oc=5"
+      },
+      {
+        "date": "2026-08-25",
+        "headline": "SandboxAQ Accelerates Fortune 500 Catalyst Discovery with AQCat, Now Generally Available in AWS Marketplace - PR Newswire",
+        "summary": "SandboxAQ Accelerates Fortune 500 Catalyst Discovery with AQCat, Now Generally Available in AWS Marketplace - PR Newswire",
+        "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSkJJZndJcndOVjMzdUl1dWNNY0JMbVZTeHRZOW9raFF5dWNEM3o3dHhPNXVwZzJsbDdEbHp4NUpzTlhib29pMGhYVXg1YjJIR2FJSkgzdGF6WFc0VTJxVkp1QUhURXZpUnd4d3BTVVUwbG8wTmxVQmQzcTZtejBrWU1LX2J3SkFvcGVRbU5fTEEzS1dqcndnamEzZ3FuOGNPZzhtMXppcm1ZdGtaczZ6YmktMTJGYl9UYjdDTUFnQkdJY2MwSFJtcXlLTTloM2JBREQ3X09Odlc3aGpzcWFhcHJqT21ZSEtTcHNfTlpyelZwYlRF?oc=5"
+      },
+      {
+        "date": "2026-08-19",
+        "headline": "SandboxAQ Launches AQPotency Drug Discovery Model on Claude - HPCwire",
+        "summary": "SandboxAQ Launches AQPotency Drug Discovery Model on Claude - HPCwire",
+        "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTg0QzU5TDF6eWluclFBSzZxOXdHcGJXQThiNGVydUNfa2ZLQWdzeFRzRmQ1a0RBbHBFZTZjSU5LZUQ4eGtKVjVyT1dMbHI3X2t6S0JqWXZTcF9sTnpOT0ZMY0lCR200eU5IeDh2NXIyaFgxUmhzWUF2RHpta0Nidl9xNzV6Uy0tMktTbXdUc1hsdXRTbWxFUXdXeUhOUQ?oc=5"
+      },
+      {
+        "date": "2026-08-19",
+        "headline": "SandboxAQ Launches AQPotency for Drug-Target Screening - AI Insider",
+        "summary": "SandboxAQ Launches AQPotency for Drug-Target Screening - AI Insider",
+        "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xYkpWZmpXaDNYTGM5dVI1Rm16YWNqZzdOM24xMFdDcThEZVVJWV9EQ3k1UDlUNFgtazNGUmxpYmwtaERHN204SG1sa3puRFVsMy1BZlVVcHBjNjJyR0MzTUdfWE94bUt5blpidm9CVnJrS1h3c3czWm1YdXU?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "SandboxAQ Open Sources Switch: Bring Any AI Agent Into Any Team Chat - PR Newswire",
         "summary": "SandboxAQ Open Sources Switch: Bring Any AI Agent Into Any Team Chat - PR Newswire",
@@ -3199,36 +3235,6 @@
         "headline": "AQPotency Ranks Drug Candidates In Seconds, SandboxAQ Says - Quantum Zeitgeist",
         "summary": "AQPotency Ranks Drug Candidates In Seconds, SandboxAQ Says - Quantum Zeitgeist",
         "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYUtsZ29VRXpzU3FSRHp4RzJ3eFNlVURuazZvcGQzdGxTUWZrUndJLXJLRGNycDBZRnRKVG1ReHZtT1lPQUJzUXphMFpqSUZ6RFZ5cy0zQkx4Tkk2T3BkRFpMY1I4M2MzT01YWGV2Ni02TUFpOWpkbi1BSUxPT3k3Rm1wdHhtQQ?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "SandboxAQ Expands Access to AQCat Catalyst Discovery Model Through AWS - HPCwire",
-        "summary": "SandboxAQ Expands Access to AQCat Catalyst Discovery Model Through AWS - HPCwire",
-        "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXBzSmxyTllqZENzY2tmSEtzUXBHZTRlX2wzclRuSGU5MkxaZmo2cWZTVXQzUTAtZlBZU3QxcTh4eFI2eTdsNmxDbjFFU2xMRDRvdklTcDVJVFgyS0p2TF9NRHFQVGVHUnlHUVhYRVkzOXlUVWNGcXZ2cDY2YjVUd29abVZHYlVNU1Y1UWZWeFpsTkF2RGhZRmxhcGpEWUo1aVhQNEIzdXR3eG9SenVqRHpwbw?oc=5"
-      },
-      {
-        "date": "2026-08-20",
-        "headline": "SandboxAQ’s goal to find PFAS-free alternatives for the semiconductor industry - Manufacturing Dive",
-        "summary": "SandboxAQ’s goal to find PFAS-free alternatives for the semiconductor industry - Manufacturing Dive",
-        "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2pFY2ZXajRSd1pnZkhjRzNpWloyQXhaNlFYdk5hVEJEYUJpRmhEb1RKZWRlbl84OThlRzdZcDFfb2VPVnFzZ19hNThudGtXVUU3R19DQXROX1hyRnJXaFpMckFLeFJ6aVJSOVBhclVLSjlVMTdPSjdnd3BkSzZwX1gzbHdra0x6WU1vLWQ4RHo3Nlp4WFJlNGREQXlTUVF4WHVSYXBHUWdYZkJnTGc?oc=5"
-      },
-      {
-        "date": "2026-08-20",
-        "headline": "SandboxAQ introduces AQPotency for virtual drug screening - Pharmaceutical Business review -",
-        "summary": "SandboxAQ introduces AQPotency for virtual drug screening - Pharmaceutical Business review -",
-        "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2c1Qnp4VWxBVmVrMVFGY0FpZ3FkSG9zQWdRT3BZSENiWU5LSTZDcTZpYXU2ZWVYVjRjdjh3djhBc0djRmtHVFJ6RUF5NGFuTUxyMkE5c0x6VlJyQnZqREI1Vk5RWUQ0bTYxRV9uNDdHVjRXR3U3dHExUjlHMWNoRTljZWhRNTAxWUhqT0ZFRHIxYkcwVDdoWEZXaw?oc=5"
-      },
-      {
-        "date": "2026-08-20",
-        "headline": "SandboxAQ’s New Tool Ranks Drug Candidates For Just $1 Per 1,000 - Quantum Zeitgeist",
-        "summary": "SandboxAQ’s New Tool Ranks Drug Candidates For Just $1 Per 1,000 - Quantum Zeitgeist",
-        "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tWWRoSUpvbk9wM01EWk1TYlVBOW0xOC1lY18zcXJzZnZ1dk5uRlZ0OEFMdWM3dFUtbmd6Wm91RldtMnNNRUZVV1dhbi15T2YyakNUYnAxNmFXNDVRUG56RjdQTk5uUktRMlhnOTF4aGkwQUoxOTdjbA?oc=5"
-      },
-      {
-        "date": "2026-08-19",
-        "headline": "SandboxAQ Makes AQCat Generally Available on Claude for High-Throughput Catalyst Screening - PR Newswire",
-        "summary": "SandboxAQ Makes AQCat Generally Available on Claude for High-Throughput Catalyst Screening - PR Newswire",
-        "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVBCdk1PRmdkS1otN0FGOE9xeEZzbFdUckJQQUJ2cTJZUFFQeDdGTUJ4NXNsN19qUkx1eGtsejVPSEl5eGpUdFVKMmhUN3VjSTg4eUphTlVOYmFNWDBtMXdyb1ZMTkdZSkh6dHFFcTN3ZnJOdWJ6X3RISmI0aC1nWW82aHNrMEhMSU9nZ1BzOVY5ZHpGYVhLalZZZ1FySm0wSEtONXdyMU5BTDJYa3lnOE1DRjY5bk1YUTBwM3BNU2tGUG15WTZ5WHh0dkdhX2FweGFGVGk2Mm90LV9Xa2Vj?oc=5"
       }
     ],
     "sources": [
@@ -3270,6 +3276,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "Salesforce Soars 14% as Claudeforce and a Guidance Raise End the Slump, ServiceNow Climbs 5%, Adobe Advances 3% - 24/7 Wall St.",
+        "summary": "Salesforce Soars 14% as Claudeforce and a Guidance Raise End the Slump, ServiceNow Climbs 5%, Adobe Advances 3% - 24/7 Wall St.",
+        "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWDVvdFJ4bEtKOXk3R25JaDg1N0d2X0Z3bWlXOVktTW9mMlFWZzg5SGdKSmFodWRya0laQ2Y4U0RnMXR3R3RuVWp5cWliVjk0cFFhWTd0ZVRITUU4QWdMYm80VEdtNks3enVMN0dIRjZNUXE1bUpkeWdKa0daa1VsUUhJdFM4S3hscHgtZ1FHbmNhS3BqOWd4cWt0VXpPNlVtWGx6SUZuV2dhWkJUeUtFSThZU09IZTdGeE02NE9MQXNQem9QeUhzcmRnUlcyeHhTNU54b3dhTjZWTV9sQy13Tm9Keks?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "NTT DATA to Acquire Netgain, Expand ServiceNow Business in Sweden - HPCwire",
+        "summary": "NTT DATA to Acquire Netgain, Expand ServiceNow Business in Sweden - HPCwire",
+        "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlJvNVF1bXUwWlVFc0xta2E4QmRTWmtLMW5SOWZKaGd4YjlGdjRoQnNVb2hkN1FhSmV1WXVtOV81c0hCX2p1eVU5SkZvV2lLS1lrNnR2X01YSkNwZG9qUFRpaWhldnR6eHJiNUxSdFJKYkR2bUtGR1IyVldDTFpOU0RoTlhjb0NZc2hJZUV5M0RLZGs2QUlnT2E3cVAxVDM3ZlBraGVMbE1aR1dfTGZCancyUHI?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Bullish Bets Send ServiceNow Soaring Ahead Of Earnings - TipRanks",
+        "summary": "Bullish Bets Send ServiceNow Soaring Ahead Of Earnings - TipRanks",
+        "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYnJET1VjeklURUtpTXFLTXM4TlJDSG53ZUg0bkVNV2RDNF9zZGZ5bFFqX0hvcWpTTjNydjVCVGs5LVF1MDMxYjVRTXBDSC00eWhpSTR1bWh6bU5mdHA0ejl0dTdIRU1ELVZUQkxBLWx4aE02LUdKbmFhanViNmhUa0xZTE9YYWp5SHNndGk4Z25GSk5yczRlbA?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Salesforce Soars 14% as Claudeforce and a Guidance Raise End the Slump, ServiceNow Climbs 5%, Adobe Advances 3% - Yahoo Finance",
+        "summary": "Salesforce Soars 14% as Claudeforce and a Guidance Raise End the Slump, ServiceNow Climbs 5%, Adobe Advances 3% - Yahoo Finance",
+        "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYmF4VTQtZDB0ZEdYZ0JDQnUtUUk4U0xmRFNHNTl1OGFQWjVUM1FqTTJmT29CZWVTaXpIekdsNnY5azlWbDZQVlZRcjFhV0dLaFFuVkxKTXVfbTlPVFp2TDhISlBKZExyM1VIQkdIQXo1QjZBaHY5ZFFBSkdjMWhhVE1tNWVFUjg3U0llUWlaQmZMMGI1Sjh1V1dnX1ExZWFyUXVkbFRkbjc?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Why is ServiceNow stock surging today? - Investing.com",
+        "summary": "Why is ServiceNow stock surging today? - Investing.com",
+        "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmxrSE9Sb2ozdV9OcXBuUlVsOV9WaDFPNTBna3dXRzZBV3lldTNDVUE5cjdzT2lGV3k4b1NWc3c5eUVDdEpkQmZZREphVTVKbTJKczhHS2RnQUpDOEZHdTg4NmdWRHBDbmd3TF94ZHBxT1dCbldFa1BhQ0JDLVFBTkVQbEs3OThfVm9FblFLeE50am9qNXRUOC1rNDlSQ1hn?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "ServiceNow: A Loaded Rocket On The AI Launch Pad (NYSE:NOW) - Seeking Alpha",
         "summary": "ServiceNow: A Loaded Rocket On The AI Launch Pad (NYSE:NOW) - Seeking Alpha",
@@ -3298,36 +3334,6 @@
         "headline": "Pricefx Announces Integration with ServiceNow to Bring AI-Powered Deal Optimization to Sales Workflows - Business Wire",
         "summary": "Pricefx Announces Integration with ServiceNow to Bring AI-Powered Deal Optimization to Sales Workflows - Business Wire",
         "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV1QybllyNHVuOHJYUS1BaHd2R1dKLUVaSjFaQUNyYmR4bVNzV29WWHNIcFotWEtnVXJvSlNIdUlzd3gwSUdfSnBBa2ZBWE9JMTE4aERqVXEtb2tLU0dJY0ZiWDlUQktNQ0V0Yjl6VFB0dUVScTEwclYzTl84QVFEWFRjaTlXblFQeE02aEREUW9hdFdoU1JqRHVKblRNOWRENHhic0JJZGVxTmRSTC1zbnJTQ1NQazJKSVV1SjRKZDVIYUVtSFZ6WlBxVWpYMnpJcU03dnA3ZE5xcW1xYVA5QU9iUTFEVG1BTzdjaGtPYmY?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Salesforce, Intuit, ServiceNow, Palantir, and More Stocks That Explain Today’s Market - Barron's",
-        "summary": "Salesforce, Intuit, ServiceNow, Palantir, and More Stocks That Explain Today’s Market - Barron's",
-        "source": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nbDZXMUktZV9CX0VpMURsOVZfb1REMDM4RTJGMmZjMmJRN1liVk5PUFFTc04wQjhRX1ZITF9zRTlSY1dKTEk4cjNUNE9vMm1ieFV1TFRoMUtPS0ZDbjBPcTZGZGM?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Salesforce, Intuit, ServiceNow, Palantir, and More Stocks That Explain Today's Market -- Barrons.com - Moomoo",
-        "summary": "Salesforce, Intuit, ServiceNow, Palantir, and More Stocks That Explain Today's Market -- Barrons.com - Moomoo",
-        "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUVWbkRQdTlObmNvU1ZmY05zbU5MZ1ZUZ1dZNW9DODFvZDBiSzhSaEZwWFR4NWNRaHc2RkFzZ1E5R2NxZEdGTzY1RU1tS2tNbDk0RHJrQUlYTXNhaUw3MTJSenFRM3BxNXhuZGxQVDFVbnZSNTFXcV93cjVubXpQRHR6b1ltN1RnMVBmbWpiWDAwRUtnUGo5M280cGs3RkpobXZPSHBNZGZuUzdWMjF4NnVudE8?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "ServiceNow Tokenized Stock (Robinhood) Price | NOW Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
-        "summary": "ServiceNow Tokenized Stock (Robinhood) Price | NOW Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
-        "source": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1SlZEUzVoZ0RtOEx6bVRxc0JQQXBSQkVRaHREaTFVM094cWd5eUhkcktzNkIzalNCN1gtWGZndnRWWUZha0M0a0c3bnVwVE1ZQWstcDVVWkFNRjM3VUc5TGdKd19PQlJqRjNSM3BhQTVjUQ?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "ServiceNow Tokenized Stock (Robinhood) Analytics - CryptoRank",
-        "summary": "ServiceNow Tokenized Stock (Robinhood) Analytics - CryptoRank",
-        "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BWnpWSkdtdVlBNDZ5LS13NktoYmJQX19uaW52Nm9MRl9qMDhwdThpV1JQck1wSEVkazNQaFpwVWRQXy0yNDBFRXNVVVpZMGc5aWY3aHByTWNSYW1fN0o3cFNLNjZ1MlBrX3o4RXdQeDdqNnd5MEdFOFlmQzl0YXM?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "ServiceNow Just Ripped 29% in a Month. What Would It Take to Get NOW Stock Up to $150? - Yahoo Finance",
-        "summary": "ServiceNow Just Ripped 29% in a Month. What Would It Take to Get NOW Stock Up to $150? - Yahoo Finance",
-        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRUk1WU5tbEw1NHVlR25VUk5nenN1ZXRXYWpTZm1OMEFLYUptM0Ntcno1UU5feGRaOWt5dnlja1VGSUgxUmQ1LTZBUi03RUlWeFZFb1ZOZmc5cVZNbHFQeEs3Qm9rNGZYUGtwcUJEUU1rZUdFVURndkxiNjJwdnZmVmJwbl91dFR5THhDc18yc0kwUXVpT0hjcTdvMU0?oc=5"
       }
     ],
     "sources": [
@@ -3369,6 +3375,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "Snowflake, Varonis Systems, Fastly, Adobe, and DocuSign Stocks Trade Up, What You Need To Know - TradingView",
+        "summary": "Snowflake, Varonis Systems, Fastly, Adobe, and DocuSign Stocks Trade Up, What You Need To Know - TradingView",
+        "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOajF3S0hFR01KRjllcXBXSk04cDg4Z2JlZmxsUWptai1SdEx0Q2w2WC0wb0lJZUZMblRCYzg5a0JHLXRUUU9WSHRHMTNDUXFuaFpfM0JqZU5jY1BnWHBaQm5rQ2tPWkV6NU1MUlFpZ0dNWE9zcXVBeGFKblRQOWFISVVGRHFRQ2RVOEJPWEFhMGh6SHJ4Y3Q5dTFSRGJXa284c0lXUlFoTUFfQl8zYnpmTFhyd1pqOUljWHptVW9DMW11REQ5bFY2aDZBTmdnblFfZUNnT3A0dHl3UERZa3M4MUt3Vk4?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Snowflake Stock On A Winning Streak: Time To Get In Or Book Profits? - Trefis",
+        "summary": "Snowflake Stock On A Winning Streak: Time To Get In Or Book Profits? - Trefis",
+        "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNEIyMlZJVkFhSUt3bktGLTNUa3hLRDRpcHotRjdmRDRBbWJ2TjQzTi1EbmV0NEtjekJlRzBJMFlsVkNSNXYxbW9UbGFtVS15QjdhMmhBdlJLeUNlMzJlZi12a2ZHd3J4NEFta3czSmJaejE4MU5pZUE2cUpyX3k5cnBBOGZ1MVl3ckRTRE9uY0lETk1wOTVOYjlxenNHRjYxNjNMR1NKU1lFSk5jdFN2djNTdVBXZkotVEQ3ajI1ZnJJX25xaXNKYkg4bWxzLUxpenlj?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Snowflake Inc Stock (SNOW) Moved Up by 4.93% on Aug 27: Drivers Behind the Movement - TradingKey",
+        "summary": "Snowflake Inc Stock (SNOW) Moved Up by 4.93% on Aug 27: Drivers Behind the Movement - TradingKey",
+        "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUkgycFhsckp0VEltM3luNDBaYmJhMXcwRG5OWWZkZy1YNGJMbm5CR05nOWFOSnhSOG9NcnZoellIeGF1LTNzWlRQVXVkQTV0RGdzLU1HVEFaTFBTWU1MRzJuNkdWNExVZFlMb3hFNHNCYkVKVEh2T2R6N0JGQzFWWWRFT1owbXpjbHRJ?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "A Look at Snowflake Inc (SNOW) After 4.4% Gain -- GF Value $286. - GuruFocus",
+        "summary": "A Look at Snowflake Inc (SNOW) After 4.4% Gain -- GF Value $286. - GuruFocus",
+        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU1l6NWtlR29ibHpDQ0pRSHE5VDFRUXlsQjQtdEJFRjdyWVlaOHEtazNiMFJYeUpPR01McmZuWnRHdXdXYlRlbkJDbC1oNFZYZTZrU0lwbDRNbHBWa3NXRUtnRUVnUTk5ZWdQWm5ZU2JJTDhjVTJMU0NvdHZDSTFqRWkyQzhyLUV3NlNhdi1zdEdUbXBhc29xUWQ5bW12ZmQtZFlWNFduejVuT0xwTVFtWQ?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Snowflake, St. Johns both go 3-0-1 in girls soccer at Payson - White Mountain Independent",
+        "summary": "Snowflake, St. Johns both go 3-0-1 in girls soccer at Payson - White Mountain Independent",
+        "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXhXZmtkSnJxcnAyV0NCOTEwNVRhV3NhZGZvOFRVb3hsZ3ZTRHNBRHNlSVduVmdmNHQ3a05DalIxY0F0WlNVQlBxYnhLZjI1Y1ZxSUZnRGRkS0E2OEpzWDR2RDZuTFh0VVA5R3cwSUFDTG1zaFE1T0xYMXM4YXZQQnF6dFcxRklSSzMyeS1mQ29kdDJLVENEZVowTDBSTUlwcllIalBWajR4dkUteEhQb0pCVmg4ck16ZElLcE1RUFN0N19lWWZ5NlZibWpqODRpMUJkX3NnSE1xdw?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "Snowflake ends service-account passwords. Now comes the hard part - BleepingComputer",
         "summary": "Snowflake ends service-account passwords. Now comes the hard part - BleepingComputer",
@@ -3397,36 +3433,6 @@
         "headline": "Snowflake options indicate 12% move on Sept. 2 earnings By Investing.com - Investing.com Nigeria",
         "summary": "Snowflake options indicate 12% move on Sept. 2 earnings By Investing.com - Investing.com Nigeria",
         "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMDZSUGxBd2I2YU44QzB2azk4aVRMZ0JyVnNnWVF1cC1UOHR5YVpnUUhtQmZYOHRnMTdRaXhCeDlCTWNCaDdsY0hONURqUkFxOXRrRENnY2Q1VnFxbllCTm5RLWJnOWplWDhaY3RvNHNOcFhheWI0eUI3MnFNalM3WmlEM2dWME8xSzdjZWlzb2ZLekw3Y3h5ZDFLRlJwYzIybFU5Z0JpSkZ5NjBHZTVwWHFsR0c?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Snowflake (SNOW) to Release Earnings on Wednesday - MarketBeat",
-        "summary": "Snowflake (SNOW) to Release Earnings on Wednesday - MarketBeat",
-        "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2ZJejltenJjWkUzcWZfMC11Sm94REg4VHIwd1VqZjFraEZLWXRXZHZGeDJqTEUyWWFNazFkeHpzTWtJVHExdm9vVFZXaEJvY043RWpqbTBYT09SbTF5VW1KWTlmNWo1WUtMMGstUXV3LWpGZk03QjZqQWo5QU9IU1YteVVSOGhyUUJycmx4ZFliVXpwb1pKS0NaVDhnNDhWOGRxOThVYW5McnRnc1lz?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Snowflake's AI-driven revenue growth and AWS de... - Pluang",
-        "summary": "Snowflake's AI-driven revenue growth and AWS de... - Pluang",
-        "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaVd2WGF3NURfU01lR2RiSUhpT3pEWXJJWmt1UUxaTHNieXpQMkR5NGR2SmZ1X2s2VmtVRTYzR2lYanNPNU1JU1NUbHlfSm56UnUyX1lvMkZrZE1MTXA5RWNFVmZ4R2s3eEVuVW1nTFhRMjR0c0pRQ3FydDFzMVNXM0Z5NFVBMWVHelQ3a1RpVmFuVjNQMFlHQ0RfbDhGUQ?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Snowflake & Mandai launch Animal 360 for animal care - IT Brief Asia",
-        "summary": "Snowflake & Mandai launch Animal 360 for animal care - IT Brief Asia",
-        "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQejJubFhJUHpMZ3NRUWllNzR1Zk93dVB3eFJXdlhtUTNscFZ0dzBqcUVJcXMyQUs3WU85eWhjMENHejBlZjh6QW1qbXZkU29fOHFTS0pKeVc3My1lNF9fLXJkdTZQdjVERmwxSUVKaHdiV0JQbkVxdm56cWk3dllrdU9wOA?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "Snowflake Stock Fans Should Prepare for September 2 as AI Agents Are Pouring More Data Into It - 24/7 Wall St.",
-        "summary": "Snowflake Stock Fans Should Prepare for September 2 as AI Agents Are Pouring More Data Into It - 24/7 Wall St.",
-        "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTWQyZ0g1QTBUSWhTZUd6Nm1yYWVrOGxrZlZaYl9YZW9tNTJjVkh3TzBfcWdfeWlXRUszSWJlWDlUTWZoRE85NkotOUk3SmVGR2U1QzdYWTBYZEMzT0FYbW84d1JuRWxHRVEzcWw3X0hvN056bEtRQlJNRzRYRkVNN1FGOXF2YjhjOTRUTmFtc3RFMHpVYTl5dFZqV1Vlb3pNUWxWVVd0M3VLQkU0Xy1OQVhvd0xtT1dpLTk4c09xX3I2aWx4SER1OXFaOGZfYzVUSlJ5Sw?oc=5"
-      },
-      {
-        "date": "2026-08-25",
-        "headline": "3 Reasons Investors Love Snowflake (SNOW) - StockStory",
-        "summary": "3 Reasons Investors Love Snowflake (SNOW) - StockStory",
-        "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdU5tdGNVTHFCb1NWU0pHb3NiYjBJMEMtLWlGT3pWZGZoQ0E2NW9yb1Vfd3FYNWpPZDA3Tm0tLW41TUpSb3pNZzlCTkNrZmxGSFBZTzV3R1VNSjJTbHpZQm9tdGs1bFNpRGhoVk11WC10azFpSHlpRnNsNUstVnZyNEpJOUxNV2phQ3pJT2pQWHM0NVJvRHRCYV9xRUhRa0N3?oc=5"
       }
     ],
     "sources": [
@@ -3470,6 +3476,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-05",
+        "headline": "Stepfun, China's AI Six Tigers, finishes new US$2.5b funding round for HK IPO - The Standard (HK)",
+        "summary": "Stepfun, China's AI Six Tigers, finishes new US$2.5b funding round for HK IPO - The Standard (HK)",
+        "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdnRSZE13RjFUMGZaV2J4WC0xREZfMG82aGJRU1B5UzVCbVNlU1BlX2xYMlpxWmhsQ2N2NW1RS182d292Q2kzMmFPdURZUDNuWmJHSHhFUGFtSDZZeXdVc0h4VEN4QUJYTzJmSGFFam5NS2pqSGhSSi1iek9oTXd2UlFQeGNaTjZCVlVpY1l2WVdfUk5JQ0tQMWh6UVVBNk5mV1pIV2M3dkV2SWhxUi1ITi1oOXVyTXhteHYzTExBeGRtSFNx?oc=5"
+      },
+      {
+        "date": "2026-07-20",
+        "headline": "Foundation model company StepFun and Alipay announce a system-level partnership - Breaking Travel News",
+        "summary": "Foundation model company StepFun and Alipay announce a system-level partnership - Breaking Travel News",
+        "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTHdGcFNBWlhMRXJHb09WZ01jZEVpZXFhV1NhT1R5Zm9mTExTU1MwVXVnOXRDWm96bzVBQ09sSzg4Q0k1ZlN2dVpmZkpsVmVibXRkTXNFaU5hb2pwS3NMenlaNFNzcS1QRi02YlZsSlBYT3c5Vk15MmlYd21Oa090bHc3eWVVeklibk02WnhJb3dDLVRWd2t1bWhaZXBZbmZUc2tKWE9tcDJXN2IydzdCMldSbDdBWm1pZzdMemN4UDVndw?oc=5"
+      },
+      {
+        "date": "2026-07-16",
+        "headline": "Realme Exits China as Stepfun and Honor Charge In, Kicking Off the AI Smartphone Knockout Round - finance.biggo.com",
+        "summary": "Realme Exits China as Stepfun and Honor Charge In, Kicking Off the AI Smartphone Knockout Round - finance.biggo.com",
+        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UTGxJd3ZiQVdJOVRqQnNWb0U2TndxTzlha2hGVFJGbkdzSmllbEVSaFRvcFJoU0h1VG42MFBmdnoxRnBtMXhXTkt0b25HTndEYk5rcDBKYjR0R2lmZENfaWRadDNQVGdQRmVxSEoxbU5FSU1TS2c?oc=5"
+      },
+      {
+        "date": "2026-07-15",
+        "headline": "Chongqing Afari Technology Partners with StepFun to Introduce Large Models to Vehicles - Gasgoo",
+        "summary": "Chongqing Afari Technology Partners with StepFun to Introduce Large Models to Vehicles - Gasgoo",
+        "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUEZaMEhnZktpczlGYTM4b0NxQ3lVR1lKUEJjMkVGZXpZRjB3R0t6X0xwWWdYbHh0aTdfZnVOcmFQaEVoZDJYWWlROGYwOE41MjJxN3Qza0pTT2l0Z0E5anpkcnFVc0pfUkhLdVZEQ09IbUZnS2ZrLXVRb2pwM0RuUkozU25CcjV3UFVKVkJnbmZUMnZVUncyeUpwOUx4Nmx2Zy1vWXdMS04xaHVWeFkyM2YySTdnZ2xfNm9TbDhzaVVWMm9MZmtmQmVQQ3dKSzBndW94cFVTNVdWRG5SY3I5T1NB?oc=5"
+      },
+      {
+        "date": "2026-07-14",
+        "headline": "StepFun Unveils the First Agentic AI Phone Ahead of Apple and OpenAI - Startup Fortune",
+        "summary": "StepFun Unveils the First Agentic AI Phone Ahead of Apple and OpenAI - Startup Fortune",
+        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0kzdjBEdkVHRkNlTlJVbEZubm1RNjhGaTROMTJyajhCd2lnbWxqZkk2dXdoa3Z6V3lRdHVxU0pQZ3BJSzhnZi0xbWtzWE16WnlIa29rSmhaZEh6Y2xNOFRVWjg0SlFweFBDRmFkSnlDSFl5VXBKM2Rlc0tKb3VaN1dQcDE0cnJnUjZ2bmRsdjRRaHRUNnRMLVhETEw?oc=5"
+      },
+      {
         "date": "2026-08-21",
         "headline": "Peking University and StepFun Unveil TensorCast: A Programmable Tensor Management Layer That Cuts LLM Time-to-First-Token by Up to 93.2% - Pandaily",
         "summary": "Peking University and StepFun Unveil TensorCast: A Programmable Tensor Management Layer That Cuts LLM Time-to-First-Token by Up to 93.2% - Pandaily",
@@ -3498,36 +3534,6 @@
         "headline": "ZTE Nubia vs StepFun: The Showdown Over AI Agent Smartphones Heats Up This Summer - Pandaily",
         "summary": "ZTE Nubia vs StepFun: The Showdown Over AI Agent Smartphones Heats Up This Summer - Pandaily",
         "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94RkRBRm1BSEE3ZXlBRTBRcnBsd0pjUldKek5YZGljM1lhM1EwSWcydWdqTkJsZUMtTGxVQmJXbG5rMkE1dnotN2tBczIzMGIwRDUwN3NQMnkwTmN2Q3QxSmgyOXpLWFM5OXgySzJKTjQ?oc=5"
-      },
-      {
-        "date": "2026-08-14",
-        "headline": "DJI, StepFun apps among 75 flagged by China over personal-data violations - MLex",
-        "summary": "DJI, StepFun apps among 75 flagged by China over personal-data violations - MLex",
-        "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZFNxQkJpSF9UVnVZLUN5WTJJZzVfTUljd3NZbEVQaTZibWhPMDlNR0tfLVNiMWNkbS1ZTGcwM0hHZmZGZ2RGMmppdkwtRkdQLVBXVFF2OFBnZEV6bVh5UVdnWUkzWF80d0Z5dkFZSU0tTm1qRWM4YTZhWG5QWEd5TFo2Nlk5cm0xYU5VSWxWemlhcUZrb2VPMTAySTdncU44bUhNSzA3OERCb25CMjh4ZXhSLXFGQdIBWkFVX3lxTE50c0g3NTkwb1dpWGE3djhvWjlXMXhhUUJ5eFBEamFtaUEwVkhHMDJMcUxOVTF2bThGSkVRSWNGY3RiTVNTZHREcWh6TUMzTjNkUVozWWxGUjA4UQ?oc=5"
-      },
-      {
-        "date": "2026-07-17",
-        "headline": "Alipay, StepFun form partnership for AI agent services - Tech in Asia",
-        "summary": "Alipay, StepFun form partnership for AI agent services - Tech in Asia",
-        "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2o5LVd2aVRnR29aWjRWb1hOWm5MTEdTU2NBeTZURE5EYmtiVXlJblFrYXFmeU1YSHhYUVBmczBPYjUtRGxLcHZxYm1vdlpZZjJsQ2lmdjFNVlVjUE9idmYza0FWV1FjYkw5LWhEX0w2N3Z6SUU2R1U1XzB0alkzdUpGcVlKdXla?oc=5"
-      },
-      {
-        "date": "2026-07-17",
-        "headline": "AI Phones Move Beyond Skin-Deep Gimmicks: Stepfun Fires the First Shot in Native Agent System Overhaul - finance.biggo.com",
-        "summary": "AI Phones Move Beyond Skin-Deep Gimmicks: Stepfun Fires the First Shot in Native Agent System Overhaul - finance.biggo.com",
-        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oSU5mZ3lnWnpPS0hITGNPX0szNERYeXMzZXhRWkU2QU9JUkpBU0ZZV0VKdS1vTF9zTkVMV0dVUlVhdGowS0dDQ01UNnFTenRsV3BKUmRJVmNOWDlIdE5kZUdMSl9tSEZfVU1DXzZ4Q2JvODNXNmc?oc=5"
-      },
-      {
-        "date": "2026-07-16",
-        "headline": "StepFun Launches World's First Mass-Market Agentic Smartphone - thepaper.cn",
-        "summary": "StepFun Launches World's First Mass-Market Agentic Smartphone - thepaper.cn",
-        "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oeHduclc2ejRLOTYxeEJJc19VSFZBNXhiWVQ3UzRKSVoxbFJiYzRxM2xKbVExVWxKZmU2a1YyeXlPOFpDVjVBZjdFUUNxenpVR0RWQW9kNnhITGNEWnc?oc=5"
-      },
-      {
-        "date": "2026-07-14",
-        "headline": "Stepfun Unveils World's First Agent Phone STEPX Neo, Bridging the Full \"Model-System-Device\" Chain - finance.biggo.com",
-        "summary": "Stepfun Unveils World's First Agent Phone STEPX Neo, Bridging the Full \"Model-System-Device\" Chain - finance.biggo.com",
-        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wR2I3eG5tS210WFhzUDRsR3Y2S25OUG15czA3LWhROE8zd1hQd3huOEVsQ3czaXlqNGVNdEtMMUtlT2NDRmJGZ3RQeEdLVF9rRzdHV3RfejNEZE0yTFI3Uk82SjI0T1lNcjIyMzM5UThJWU1CeVE?oc=5"
       }
     ],
     "sources": [
@@ -3780,6 +3786,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-27",
+        "headline": "Zhipu AI shares jump after confirming it developed popular AI model Ox Alpha - Investing.com Nigeria",
+        "summary": "Zhipu AI shares jump after confirming it developed popular AI model Ox Alpha - Investing.com Nigeria",
+        "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQjFVWlN4Q2xtU0g0NTdrOERpZ04zWS1TU1NhZEl4VWw5c2xUV0p6UGlfMUZ6a0UtWEJSbERTSjFFWk1TTHFmek8taXVZbzZIZnpfWTNmQXhyTVdvaVU0THVxWDA1YThRZ3N0eUhsSmFudzFDQThEaXkzbzY5d2lwR0F1cU9uNDl3OTFMVUNsX2hQQTl0a2JBeVBhVXc2UkxYMjB1Z1RrVWpyZDZ1NkFHTzB1N2MtWkE1MElYVnREdWNIUXBoWWtieTlqbkI?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Zhipu AI releases GLM-5.3-Flash model, powered by 100,000 domestically made chips - Global Times",
+        "summary": "Zhipu AI releases GLM-5.3-Flash model, powered by 100,000 domestically made chips - Global Times",
+        "source": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MdlNBdE9pQ0VZMGs5VXJEUERVSkhQNzJZZlI1cVctaUoyTFA4M2VweS01UU1QRHQxUEthNGNBSTd4VlNFVjk4RHN6YjFlbGcyRF8zMGpaMlhiTXB6ckZ0QW53?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Zhipu AI Unveils GLM-5.3-Flash, the Mystery Model Behind 'Ox Alpha' - Pandaily",
+        "summary": "Zhipu AI Unveils GLM-5.3-Flash, the Mystery Model Behind 'Ox Alpha' - Pandaily",
+        "source": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54cVZEazdobmFadjBKY0h4NnJyaUVINVRlaDN2aTZSVWNNRFZJV1ZkNXoxaTlhS0Z5YzItWEpPd25ybG5KMzd4TDM1bE5ldHI3V2c?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Zhipu AI Claims Ownership of the \"Niulai\" Model – Practical Tests Prove It Is \"Niuma\"-Friendly - 36 Kr",
+        "summary": "Zhipu AI Claims Ownership of the \"Niulai\" Model – Practical Tests Prove It Is \"Niuma\"-Friendly - 36 Kr",
+        "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wOHM3QTY5NzBvZzJGY0Z5RlFFb1AwejN4M3JlYjlrcDZMSnNPcXdIMjhVODAwZWhOMzFxenFkQmN0SmNoSlc0OVctSHJsM1ZiVE5r?oc=5"
+      },
+      {
+        "date": "2026-08-27",
+        "headline": "Earnings Preview | Zhipu AI to Release Results Next Monday! ARR and Token Volume-Price Dynamics Take Center Stage; Can the Stock Recover After Halving from Its Peak? - 富途牛牛",
+        "summary": "Earnings Preview | Zhipu AI to Release Results Next Monday! ARR and Token Volume-Price Dynamics Take Center Stage; Can the Stock Recover After Halving from Its Peak? - 富途牛牛",
+        "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOFBtWjRxRUV2WmdBZWpLUkJoTXhqenRqRXNVVDVpWlNpRVRjRVplUUdOU3RuOUt1R0ItMEx1bTJBUmJVSFAtcHZDOVNUbHRTZGRteWZLbG44a0lBZkR5TmRjTWpRQTQ0dU9NLXF5WXRucGVrb0lmazFsMWI1bnhhM05lZ2JLSVN2NEU2X21CQjRfRkEzZWRwcUxGazVFTm9Ib0M4?oc=5"
+      },
+      {
         "date": "2026-08-26",
         "headline": "Zhipu AI open-sources GLM-5.3-Flash: runs on Chinese-made chip clusters, priced at one-fortieth of Claude Opus 4.8 - finance.biggo.com",
         "summary": "Zhipu AI open-sources GLM-5.3-Flash: runs on Chinese-made chip clusters, priced at one-fortieth of Claude Opus 4.8 - finance.biggo.com",
@@ -3808,36 +3844,6 @@
         "headline": "Zhipu AI shares slide over 20% after Moonshot unveils advanced AI model - Investing.com",
         "summary": "Zhipu AI shares slide over 20% after Moonshot unveils advanced AI model - Investing.com",
         "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT01qV2tuMndqTDhBQ3pyYWZkcl9uRXp5Z29iTlFzZWx4eHF1eUJ0ekVYeGdOZFlOTE00amlkZEtYejNtdDBwel9ieEw3QnJtMk1PdEYzYmlDOXc3VjFFaWQ3Xy03aktyd3BPdlRKVjhWYlhFZkwzaGJjSExROG5rWl9zR3J5R0V3QVBHWjdRRk9sVTJBbTZlOVVaUUl2bkdaTHFsYkFOTEZqS2VKNXFGVk5EUDZXdXhCTFBUVTRhYlJiV0NrY1E?oc=5"
-      },
-      {
-        "date": "2026-08-21",
-        "headline": "Mysterious AI model surpasses GPT-5.6 and Claude in coding benchmarks, with technical characteristics pointing to an unreleased new model from Zhipu AI. - Moomoo",
-        "summary": "Mysterious AI model surpasses GPT-5.6 and Claude in coding benchmarks, with technical characteristics pointing to an unreleased new model from Zhipu AI. - Moomoo",
-        "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmV0S1JrVWZfcmdhZWx5UThuZU1FcU0xUzZ0cXpLTEJqWHhvandpRTBZS19yc2VkUGtSMjA3QmN3VE82S3VydktQbDRfM3VnbWQySjhSc3MzUmFrdkl4WmFrMzNKeWVNRnVwU3NaV1NFWHB4U3F4Q0FGLWNRZG8zRkowdFlCUlRtcVUxQ195ZnFFR2x4RVpFUw?oc=5"
-      },
-      {
-        "date": "2026-08-20",
-        "headline": "Destiny-Altering Decision: How 500B-Valued Zhipu AI Defies Headwinds to Rewrite Its Fate | DeepKr - 36 Kr",
-        "summary": "Destiny-Altering Decision: How 500B-Valued Zhipu AI Defies Headwinds to Rewrite Its Fate | DeepKr - 36 Kr",
-        "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1UE5RdXJ6N1lfTWwzcktackNmZUtXcVlkM0J2WTFieTI4Zm1kVUN2enV5ck05RFo5UlduSW93THAtOFp5eEpQTHVnT1pKNTcxUHZF?oc=5"
-      },
-      {
-        "date": "2026-08-19",
-        "headline": "Zhipu AI Founder Tang Jie Discusses Scaling Laws: Trillion-Parameter Large Models Were a Detour for the Industry; The Next Key Step Lies in Post-Training - Moomoo",
-        "summary": "Zhipu AI Founder Tang Jie Discusses Scaling Laws: Trillion-Parameter Large Models Were a Detour for the Industry; The Next Key Step Lies in Post-Training - Moomoo",
-        "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRGhCSnM5N0lDNGs2MjByREwyTVYzd1JrbThwcmNSOThZdjloT1F2SVN6UzZKcjhCSXIzSVpDRjJEckMwako3WUxMZE9lQkt6VXhiNlotUXJka2hPdTlTQnFVMldfM01Vd2hCb25rTFVQQ3hlSDgxR1hubjViVnVNZ3NtUEF6NS1XU2xOYVBFTGJwbHo3RUFyRVRpcHl4TmxhbVBiWUx5U1ljQl9GNlE?oc=5"
-      },
-      {
-        "date": "2026-08-16",
-        "headline": "Zhipu AI Co-Founder Tang Jie: Tokens as the Engine of the Intelligent Economy - Geopolitechs",
-        "summary": "Zhipu AI Co-Founder Tang Jie: Tokens as the Engine of the Intelligent Economy - Geopolitechs",
-        "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PaVY3SmR5ZTdvVHlOdXdxUmltX0ZFS2lCdGZjeTZDWDZncm9oamxRQmRPamxyY3FUa2ZDTkN6aVpCUmJkMGttTEFUXzhVcV91SW83RmhzY0ExcnpoVlZCYmRHcmF5YUlSYlZwcDNUbkZpUl90?oc=5"
-      },
-      {
-        "date": "2026-08-13",
-        "headline": "China's Zhipu AI, 32 other Chinese stocks added to key index - news.cgtn.com",
-        "summary": "China's Zhipu AI, 32 other Chinese stocks added to key index - news.cgtn.com",
-        "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVUJCVVJ0YXVMZkZKcWk1SkgxdkJnbWNoaWoxdEgtMmdwWEZzX2JScC1TSHNkTGMxbHdGNl84VmNHbnlfOVBxSkcyNFRweWxxeTFTVmo2S1BwbnFOYWdNRVY1Nk1YT0VXZjhVYXdzeDZva3pocU41aFUybklpTkJXUTJKV1ZsNTJha1Vqd3B1aTJnNmd4VUloWTl1RzNPMkw5Y092ZG5xN2ZpOG1ocmZFRGl6Q3JqU1k?oc=5"
       }
     ],
     "sources": [
