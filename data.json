@@ -23,6 +23,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-28",
+        "headline": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk - CNBC",
+        "summary": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk - CNBC",
+        "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ21NOU02QWU2LWhCbGl0c0NaRGZRRngyTTF4bmgxdFJtNFAydlNZY2dKUDJUQmJmR1pKRVRvWFVocFVJeUJaSHh1M29NMHpvQWJrWm44dmFLeEU3S0lxWTQyMF9TRXk0dkdmMWxKMllZRk0tM2YzY215T0RVZzBuSFBLbUphQlHSAYwBQVVfeXFMTTZTTExnSU1GUHF1anA1UGRMcUpjT2t2d0VKZE8xVHBjT005XzZwSHJMdWtQSGxxYjdKZ3RmZ3Byc2IwQWVnX2U0NERGX2VxUU1aTkRFdUlILXRZOE1qc25VaGloOWpTRktZM0RNZ3BERklZS29uWkhUYjZKVEdYNmo4R3V2aWhnWVJuQkw?oc=5"
+      },
+      {
+        "date": "2026-08-28",
+        "headline": "OpenAI and Anthropic are ruining San Francisco - sfgate.com",
+        "summary": "OpenAI and Anthropic are ruining San Francisco - sfgate.com",
+        "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQm1IVndUSE5RT09KZDJTY1hSbzhDbG1ZN1FCVXVtcllTaEljNTUzZlY4SVFMQXV5SjVEMWxxbWtNTVNWY2hYR00xZ0RRZldHSmhzNkVSa3hpbFpwbVE2YWE2Y3FXUTZpeTZ2ZUNYNVVFd0tVb19STTJlRE14dnhqMUx4enI?oc=5"
+      },
+      {
+        "date": "2026-08-28",
+        "headline": "Jim Cramer Says Salesforce’s (CRM) Anthropic Partnership Silences AI Disruption Fears - Yahoo Finance",
+        "summary": "Jim Cramer Says Salesforce’s (CRM) Anthropic Partnership Silences AI Disruption Fears - Yahoo Finance",
+        "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQejY3VGVOMFdYa3ZmY1BGeS1IYWNXZjdyVlcwLWVYTW1Zb1B3UkhpdnEtdGdjQUZUUEpFbUN4LW8tVTBCMGh5OExPU01xRVdkM1NaYmNCU1NhVmJqazB5NG5ZQUlsUFhBenZUN29GRENVR0JGVmJycXVZbFlDSzhrY0Y2SXVpUkFfV2VIdGdUTHBOVkw4N1ZVNVRR?oc=5"
+      },
+      {
+        "date": "2026-08-28",
+        "headline": "The Information's Jessica Lessin on Anthropic IPO: All signs are pointing to a huge moment - CNBC",
+        "summary": "The Information's Jessica Lessin on Anthropic IPO: All signs are pointing to a huge moment - CNBC",
+        "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZktLWjM2Umg3cjJxZTI0MkNIUTBJZC0yUlBuZXZndkJFN1RHU3YxQjluNU9fMG85Y3pqZHdUOWJyOEJkLUZiTTlBWmJxc2w1ZTk5Mk1aSVlLWFBrSlYxMlNpeTNoMjdwMWJiejVSQ2RteUx3emhPYThLVV93ZlFLcTEzVEtlSXNWdUYwWV9jUG5JbldoYlhMWWpuRUYteUk2VmpEOWxYR3JnX1NPdi1tTWFhUC1SODdtRzFyQ3Z4NlFLS29WSGEyM2ZQbw?oc=5"
+      },
+      {
+        "date": "2026-08-28",
+        "headline": "Bay Area Security Workers Threaten Action After Anthropic Office Closure - KQED",
+        "summary": "Bay Area Security Workers Threaten Action After Anthropic Office Closure - KQED",
+        "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkVBTkVna3J0QUNvc0tCdnlJVGd5RW9qNWtta1BETTF6cVJyeXhGSWxvaWtyY0Q0VDkxdi04TklBUWVseVU3UGVpa1laeVlPb3F0UkUzRjVEc0ZHdzBBc2dkenJJblcxcXpPR2ZEWUZlb3RHMjJMR2Y1NG10MDdWOUtFYXdBZ0gzTDRISkRkWnE2NGFnczNGU0ZWT3JKYlAybDgxNzBMaFBROUE?oc=5"
+      },
+      {
         "date": "2026-08-27",
         "headline": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I. - The New York Times",
         "summary": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I. - The New York Times",
@@ -51,36 +81,6 @@
         "headline": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools - Bloomberg.com",
         "summary": "Anthropic Tests New Way for Claude to Work With Robots and Scientific Lab Tools - Bloomberg.com",
         "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnU3QkdiNk1jYklqWmJZWXlJbGlCWUhjTEM5REpHcFJxX0c0ZndUZUFnTDJVNWJKQ1dnN2Z6QkxJSHdhYmlkN2p5blZUUFUxaTdBWXJUcl9WaHNyVjN3M0N3RzBPZUNRaHBZdkU0YmtvRDc1MzBkME9EamdoYTEwYlU3QTJ5RmtmV2dKdHpWMm9EY3hURkFhYS1DSWVmSVVPS28xaEEwbklDMTU5Yk1kM2RjZHZveVhhV1pUTF90R0ZWaE9pcUkwSXNn?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns - CNBC",
-        "summary": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDU0UHo4UERDMHZlcjVyV1I4S0dWWEQ1SGhYOXFURmJmZUJiZHpud1pGVXRKQmx1ZXl6Sy01NjBkTlkyQXFRWEJfeTVkYXVHODNvZ0p3YTVudnVSNEN4WTJQLWpad0JJa09WZ1Roay1JZ3JUZDlNdFJNRGNZYzMyNHd1TmRzTVJQ0gGOAUFVX3lxTE5oWUF2YXIzVjUzOE5zUzVNT05nemItSm9rdm1OMmRvQWFPc05NRWVteG5mNnM3dmtzSHZOYlowYTNFTnNFT0M0UmY3ZTRhN1FGTUV1U1NKcnZhcUp0LUpVU2dMa1ZCazZvSUFWNTNBNWhzNlUtekUwR1J1a2UtZ25wT3JaVzUzZGFWV1BpX1E?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Salesforce and Anthropic announce partnership - CNBC",
-        "summary": "Salesforce and Anthropic announce partnership - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUtBYURoWUhLUmFxWE90OTlkN1M0TVdDTmZRUG5nYUZ2UUhWX2FlcTVQZWJmaDZXV28wV2RTaWkxalI4WFJkSWZwdlJDQko3YXo1bFdfWl9uR1ZxejlIZ3FGSUZXUTRWTWM5SnBTRGtzbDdiejFldG5uR0doc1pyQndMUE56SjNZSFdydmlFSkpfdw?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Anthropic to Pay Nscale $45 Billion for AI Computing Power - Bloomberg.com",
-        "summary": "Anthropic to Pay Nscale $45 Billion for AI Computing Power - Bloomberg.com",
-        "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzVZckV2QWFDb2xsVWN6OGhuamVpbENEQTZxZWk3SjFxVWxhSlVWeERya1lGM0dzbGx0RGlsMU1kLWhxcFQxVldKZThrR01CUS1Gcnhya0NEMGk2aklKMnZIRHIzZlNlTWRIekdlQ19jaU5NczBNUmpqY1hWVlVTbTFVclF2dWRGUVZ3SUN2NFp4OXA3QktYcW5LWWNHZWtmMDBxVFItc2FBS3Iy?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Anthropic and Nscale strike $45 billion cloud deal, sources say - CNBC",
-        "summary": "Anthropic and Nscale strike $45 billion cloud deal, sources say - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHkzbVhyLS1hNG8xcnI2cXhwUnE5N01KZE5sRnJRNnNfcHExOGlDYl9JM05XTlRVMUJCM3pRbmNfNEd5NllyVkxXdUc2ZU5OMl9pVUNoZ0taV0U2eVZ3MkZDZ0lLZ29fLWNObzBhYmpDdnpQMVdHanp0bzlXekVUT1hIM1FEV1BBYVpiQW50M3czTEJYZ2ZVUkVkUnhrbFXSAaQBQVVfeXFMT0VLWU96MG5fRksyN0FHZVF6RUExb2R4UlhScjJGUzRLejc5aXctcVpEUkVSd0lBa2d4cF9xSDZlaXJ3MzByZEpsN08yQU4wcnRSaDVIR3AtaGlCdG9SbVUwOU91Tk9QSnVoclRNdEEtMUhnRnd1LUNrV2h6MTIyVHUzazVUT3JpcGlldGlLdjZLRU9BV3VWMXhhNXZ2RzZNcFdqQWU?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Anthropic agrees $45bn AI data centre deal with UK start-up Nscale - Financial Times",
-        "summary": "Anthropic agrees $45bn AI data centre deal with UK start-up Nscale - Financial Times",
-        "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFdwRkdzT29RSlNEUjhiTk9wbEF5S2RKSW5fbmZzOHM2WXFKaHlrYVhVT2ctRWRTLWZLMlFGMXNDU0VhWXJhNkRjNGpZYUVlMkJoWDJ4OHhyVmZ0NTNtTkdZSUVFeGVRVWVyZzdUT0o5dUFVeUNVQVJmcDQ3aVAwRUFfbFg?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-08-27",
+    "_refresh_note": "2026-08-28",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,36 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-08-28",
+        "headline": "VB Schools now using ChatGPT for Teachers - WAVY.com",
+        "summary": "VB Schools now using ChatGPT for Teachers - WAVY.com",
+        "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaGRvekhvaWR1THdkdFdKRlFSaDdnY3FPRlh3al9HdWgyUS1TNWlaOVVPSkJma3dZM29mS0pLR2pYU2dmSXVwS1A3eGxRdGJHbnAxZnZYdVI5OHU3UWcwVjhJQXFnR3JEMVpVRncyOURDc05kYTdhRUcyU3dBZlJHMGkwVmdGeVRUaVczSkhjNW5WVFN2Um02TXpB0gGfAUFVX3lxTE05WDlNcFU4b1lzdWl1akJGbjh3YXdVaUd4RWZ0YTNMV3ZiaENOT0xDUGltX3JhcDdtQ2FucGxFRHlEYmd5NVNxNjhtSnJGaUZxbTRORXMtQ1dKOHNsWUtIZGI0M0R4RWFlcnkxdXlBaW4tOHNpcExUNkRTTmtUdGZUOV9VLUh2RHpvdFVoQTF2OHBYMjc4cFpxb0tNbXhCaw?oc=5"
+      },
+      {
+        "date": "2026-08-28",
+        "headline": "Baltimore joins school districts using ChatGPT for Teachers - CBS News",
+        "summary": "Baltimore joins school districts using ChatGPT for Teachers - CBS News",
+        "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeS14VG42TDFZM05fUFNoQmpUOG95MGJVTUNuWG9ISXdNTnRrZ1c3SWRqQm5oYTNhMGR6V0pGWG1uRU10S1NpSzRxaDhrSjM2eXZFSFd3c21OaEV5VWl3c0Flc0NLRzU2RXlNQmVSdGd4eEF6UElDMFBYeEtZZV9ZY01ab0VEdTBiTGFDVzExUFhWOEw1NWpuam9VMnNFelRmZmc?oc=5"
+      },
+      {
+        "date": "2026-08-28",
+        "headline": "OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access - CNBC",
+        "summary": "OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access - CNBC",
+        "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wU3BSTUhWQXkxRjEwZHMxbmN0WEkzX1VEY3AwZUtHbzB1eVpzTVljOUlMV1pzd3ZVTkNqN0FVTEtpajRPcnhKZEhsaUxhd0Vac2NhR19NNDRxQWQ5bjVmWlVzV3NBbld0OHNxZjRlY2J2bmxDMGZxYTZLazfSAYIBQVVfeXFMUEM0VGlsR0dXUUxCZDdfWW9iQmhDS1NocUNFSWVQcWdrLTFzaGxzdkFxcW1pSEx2dFdJQ21TLWUtbDJvWkdNOVQ1R3Y3aDBZTS1CNDEzcmhfUkgyN1JfemdxSDhXVXpSN3NvQTRLeWU3RHJ6Q3RQMUl2ZjVGM21lZjNDdw?oc=5"
+      },
+      {
+        "date": "2026-08-28",
+        "headline": "Dyer Center leaderless, former director alleges ChatGPT drove her to delusions - The Lafayette – The Oldest College Newspaper in Pennsylvania",
+        "summary": "Dyer Center leaderless, former director alleges ChatGPT drove her to delusions - The Lafayette – The Oldest College Newspaper in Pennsylvania",
+        "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGZHMlJQdzJMd1NoRUFVWGhzRTZSc3M3Vy02dHVKcjd2WHRzVUVJU25sanl4VjhwYXNfTnlRa2o2RUwwcFEtRmRZVzUxR3Etc1NDcFZuZTQ2QkRMX1BSTU5qczhMYW83a1BMdm9lc1RBZjBGWk11ZGw4SDdoZDM1U3FQZHFQYWVYa3VfYjVzcjZSQQ?oc=5"
+      },
+      {
+        "date": "2026-08-28",
+        "headline": "I Asked ChatGPT To Debunk One Common Myth About Trump's Economy — Here's What It Said - Yahoo Finance",
+        "summary": "I Asked ChatGPT To Debunk One Common Myth About Trump's Economy — Here's What It Said - Yahoo Finance",
+        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOHp5NjB0OXRCR2k1a0s1ellBSDNZMEN0cG9IUm9EcHZZU1g2dlBnNWNKU1QyMnEzaWsxUHpqYU1EWUltaEk4QUhKR2hVUFRGYVk3RHcxbEtoUWhLNDBsUzY4c3ZsV05veTFrMnFwN2Jwd0xwdnp2aHUtbjhKWmxWSU1EOTk2LU5FMC1aekxoUUFrNlhtZE93djNlS3k?oc=5"
+      },
       {
         "date": "2026-08-27",
         "headline": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico",
@@ -163,36 +193,6 @@
         "headline": "OpenAI, Nvidia CEOs to speak at tech-focused G20 meeting - Reuters",
         "summary": "OpenAI, Nvidia CEOs to speak at tech-focused G20 meeting - Reuters",
         "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2hNTjJlM0VMcW8yeWg1UjUtUWRVbDE2WFlUb0ZQTTRkb1hNaEUtdTd6MGZGelFvN1hwU2hHMHhNNGNOSVVxMVNhUmFKMlVBNGJkT1hOdDNCMjZKWmRrcEtrY3JGWFlMU3dPOWYxTGNDaUt2VjZlQzRWZW01dlE2a1RwRUZtblRqZDA3bVVwVllRWmpWZTF5ZmJ5cXBfZFlfNUEtYWtmXzZYd19pTEkxVA?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Unexpected chat between OpenAI bots led to Hugging Face hack - BBC",
-        "summary": "Unexpected chat between OpenAI bots led to Hugging Face hack - BBC",
-        "source": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SaXBsdXNSdEFDQWNJQkpGdlYzVG1RalZrOEd0TmlzZmgtSVRERHZGYkNFUGQ3NFVjX2dvaG5uNHJLLWo5VDNYMmFrU1RlYjhobnk4QW1seDhGUQ?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground - CNBC",
-        "summary": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VdHlNWkdYQUJBdVV5c1luMDFlQVYyZnNzRFV3X3kweGY0ZG5IMVpfTE5Qd2JIdkMyaDZOOUJHZm0xU2FUcGdDT3Fzd0lITzd3NjRSbTJGYWNXWnVLV08yXzRUNUtSVGI0WFBlMHZMUk9FNFZCOXfSAXtBVV95cUxPREVoZVc1MjZnZzRDZ1diQ19ET2RQRURoYWtNUmNUUE1sSkgwZWJWZFl5M09MeHgyZjVYVTM2ZmdPdnV2NlgzdmJ3U2MzN09GYmQ0aUxtbFFGS0NvanpNbVY2NmxuV1R1ZnM0ZnZLS2dUUXR3XzF0amphbUU?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "OpenAI Is the Sole Investor in Its Latest Venture Fund - WSJ",
-        "summary": "OpenAI Is the Sole Investor in Its Latest Venture Fund - WSJ",
-        "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXNOQnRueFRNZWFzNnhTZVBUSWpuOUV5VVhyS2d2VV84bXM5TTBwcTRoVzY4TG5ER2RqWmlZc0Z2dlgxeXA1YmVudVFlU3Y0Tl9XTy05MmlqOTY4eW1OcDZjcGNQMld5UlBGcGhFcmtEazJoUlRJeEZVdXZDV1BSSzdvWUJHV2JfTXZlZndiWWFFZGZ3cjloaVZPWDFJdWVYSXRoaUl3?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Inside OpenAI’s Reboot - Time Magazine",
-        "summary": "Inside OpenAI’s Reboot - Time Magazine",
-        "source": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VV0QxTTNlaWk2MXdtUVRzbzV5Nmp2VXRDaHdYeVZlRWkxcVBadXQtOGRlTU9EVW01RUtEYlZqdFExNTFOaDVSV1ctb1lrMXo1azlTRWJBNWdPejVMa1RTbmZ5OVZCMEpJdmQ3cVZBYlphdw?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "How do we explain OpenAI’s executive exodus? - TechCrunch",
-        "summary": "How do we explain OpenAI’s executive exodus? - TechCrunch",
-        "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSnVHRnFsUmo5Tk0tOHJVQnFNaWpqOFFvNTNGMkpjVWVSTURwd092RzMxcXBLNlVPcUh5LUhRT0lTRktQMVRteGcweXBrai16a3U2WDN6VE1KdXozay1LeEFvaU5HWFRNaElzOUZfb21zZE9NSjJjSDFUSTdjei1xZUhTbw?oc=5"
       }
     ],
     "sources": [
@@ -245,6 +245,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-06-17",
+        "headline": "SpaceX Acquires Cursor Maker Anysphere in $60 Billion All-Stock Deal to Strengthen AI Coding Capabilities - Revenue Guidance Range - dars.gov.et",
+        "summary": "SpaceX Acquires Cursor Maker Anysphere in $60 Billion All-Stock Deal to Strengthen AI Coding Capabilities - Revenue Guidance Range - dars.gov.et",
+        "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPczNKZXU1TzdaRGIzV1g0UE1xRy1uZmMyTjlJTXFVUHZSODlwX3F2M3ZwVjFRMkxaUUZzYUF3bm5ZdjRZUmsxWnItNlB6VkJCNWVlYVJzd2lCNTBRQ09OWGQxbHQ1a0pFWkZ2NnVYa2hKVXJWTFA5VXNPZTgxYTgwYlpOR3RjdU5Menc2YnR0eDRhMTByUkhnU3pheWFET0stem4wZHpBYjhyY0Z5OURXUjBLbzBzMlpBR280Wmc0Wkl2UVUxdzRPNkNoUW5zUFpxai1lT05WSmxXM3lMdmthWg?oc=5"
+      },
+      {
+        "date": "2026-06-16",
+        "headline": "SpaceX buys Cursor-maker Anysphere for $60B in enterprise AI push: report - Tech Funding News",
+        "summary": "SpaceX buys Cursor-maker Anysphere for $60B in enterprise AI push: report - Tech Funding News",
+        "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmd0ZkNNMjNwaW9yRXpZcmdZR1pwMnB6NzZ2ZGdqblg3eXpvNVh3UXEyb2IzNUU5cGNfUTNpZHBQNGRzcmotZnQzWURBMk5KMDN5bFZaT2NmNGNSSjRKUFFZM3JXeEZ3ampMZG9YNzVnRXhHSk5IcXpLVU13VGlXMDZxcGs1bncxcUNKXy1Ha2F4TUk?oc=5"
+      },
+      {
+        "date": "2026-06-16",
+        "headline": "SpaceX buys Anysphere for $60 billion to strengthen enterprise AI - Межа. Новини України.",
+        "summary": "SpaceX buys Anysphere for $60 billion to strengthen enterprise AI - Межа. Новини України.",
+        "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15LXRGRk9FOTRwM25RRnZ5d0FIajRfdGZCcXlLWGkwVUZ1NGJxd29PbFU3UUVHS1lsQXZmV3dmaGVlWTRveU1RMk9kSTN2ZVZ4NWtPVy1GcVB5aVJfdG8yMmU5ZXRRV0V5RkJJ?oc=5"
+      },
+      {
+        "date": "2026-04-29",
+        "headline": "House panels probe Airbnb, Anysphere over use of Chinese AI models - Nextgov/FCW",
+        "summary": "House panels probe Airbnb, Anysphere over use of Chinese AI models - Nextgov/FCW",
+        "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ2JVdmJpTHp6VnhMdWZJTW51UU1laERtaVZrQUd1TXhpcWhtajQ4WkxsZENJM3ZaNTdXcnd0aDNRVTVQN0V4WWFCRE50VjBRbnE5UlFhcWJWSU1rMEtBZk1aLTFfQW4tNUxGNEpwVVZMSm1XekhremcwUWJMN1k1bXZYY05WWkx6Wmpyc3JXcEdFZHdDOWZ3LXFFY2FMTzh5UUJSYnhENkJpM2FnWWFHVXB6cEVrUkxiVy1KSGhtSEVjVkVk?oc=5"
+      },
+      {
+        "date": "2026-04-07",
+        "headline": "Cursor AI Valuation Hits $60B: Anysphere's $2B Revenue Surge [2026] - tech-insider.org",
+        "summary": "Cursor AI Valuation Hits $60B: Anysphere's $2B Revenue Surge [2026] - tech-insider.org",
+        "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSDV3ZTFRYU80eTNPanM2aVJlZ21kSjd0SmU2Y1lYZEpzRU9BZW9xdl9ibXZya0JweTJJWmFmRmFLbkF2Q0JRNXNtQmxDOGxmLUlGaHRoMGIyOGRsZEdqNmNkd3BEWDR0VXZXYnhGU242Y2J5bXJtbUZBTDd5d1E2LXlnTGM?oc=5"
+      },
+      {
         "date": "2026-08-27",
         "headline": "Russian hackers turn Cursor AI coding tool into cyber weapon, target 7 companies - The News International",
         "summary": "Russian hackers turn Cursor AI coding tool into cyber weapon, target 7 companies - The News International",
@@ -273,36 +303,6 @@
         "headline": "SpaceX to buy Cursor AI parent company Anysphere in $60 billion deal - CNBC",
         "summary": "SpaceX to buy Cursor AI parent company Anysphere in $60 billion deal - CNBC",
         "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHRXTE0zckkzcHdQdktMSXk4MTJGUzlpUFptNWNIQzdreDlFakQ3X0N5WDhGX1JWM1c3Nm9pSm81N1dBNHZlcDFFQ3hQNDVpLVQxVkdqOWZkdU1FUGdOY0hQdFRvUmhjd19Td3V2T2RyZlYtYUl3NHo0X3JTRjUxN2pQXy1MTE1sZTR5WGtuWWtEX2kwYW5SSFpxQlNDMnU3YVJrOXFPbWRRRG56UlJv?oc=5"
-      },
-      {
-        "date": "2026-08-16",
-        "headline": "SpaceX Buys Cursor: 60 Billion for Anysphere, the Largest Startup Acquisition Ever - Pasquale Pillitteri",
-        "summary": "SpaceX Buys Cursor: 60 Billion for Anysphere, the Largest Startup Acquisition Ever - Pasquale Pillitteri",
-        "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHBDQlpvTnRxZjNsb19wbFpRMDRBcHNoUXlndlNuanVqWlJIZEtkUmdBbnpia2lyZDVqNXNHcllrVUI3Vm1uY3dPS0pkWVhfSEJkLThnWWU1UGctM1VpcmVlcFRQRGsxcGZEdjRRNDk5S296SEhlNkdTYzNuakM5dUN6NGl1TjdlYl9Z?oc=5"
-      },
-      {
-        "date": "2026-08-14",
-        "headline": "SpaceX Finalises $60 Billion Purchase of Cursor Maker Anysphere - KuCoin",
-        "summary": "SpaceX Finalises $60 Billion Purchase of Cursor Maker Anysphere - KuCoin",
-        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRW5HUFRrMXllMy1NRnBrejRsc1lPTDJUVURzV0N3Wjlwb3lEcmR5X0R5N2dGc214WXZJdVZ6b0pXenlsUWNERE4zTmpFX2RTVDV2RkRzT2ZZOGRGamlrTHBaSl9CZFB0eHdOaEl3TmZ3UUlUWGZudUVNcEhkX3JwM0pOY1NJSlozSmFrd2h0YVZCTG9mckU5Mlh1azA?oc=5"
-      },
-      {
-        "date": "2026-06-17",
-        "headline": "SpaceX to acquire AI coding startup Anysphere in $60 billion all-stock deal - ET Enterprise AI",
-        "summary": "SpaceX to acquire AI coding startup Anysphere in $60 billion all-stock deal - ET Enterprise AI",
-        "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUGNmMzA1dU1OYkhjUGF1OUI0MGZrZl9lbXJ0alByUk1kdGl5bXJsVndMTDFuSGdHdndFd2ZvdlBIOXZOcGFucmV1OEJ3QjJiZVdDNGRqTTFuU2NqT2pQeWJIc19xbThoNzZURDhhX1c2cWd3ZGo4aUZaa2k4N0psUDBFUkpWTzZ0RW5CdWxGUFRJN0V6LVVfWTdfaFhpMVdaSUlzeVhiV29mU3VGR1N0amtZM3l3NS1tWUplRWlGTmx4QkZKMUpwekpPMXpMaGJ3YzFhZENDV0gtTHJlZHFr0gHkAUFVX3lxTE9CMFNqbXc5UXdyelNLNDB1NkJ6OWlXaEpPZHpMczk5M0FncmdpaUdHUG5iaXR5SXhFeDFlTUd2a2hMT3RZa2FaU2xmcXJqWElraFd6Tkdta0JQMmN2cWQ2NVFGWUhNQnBVNFJjZXRLZzh1MDhnLXZQMENIUk1kRlB4MHVFeFBKZDV0LV9WV1l6a1dsVHJPdkhXendjUjBQYXVYZHYzb3M5ZFZZazR3WGp4ZURKUmU3anZEM05CYWZCamlPenNxY0tfUjBsSUVaTko5c1U1emtRSXhQbU12U2hqTG12Mg?oc=5"
-      },
-      {
-        "date": "2026-06-16",
-        "headline": "SpaceX agrees to buy Cursor parent Anysphere for $60 billion - qz.com",
-        "summary": "SpaceX agrees to buy Cursor parent Anysphere for $60 billion - qz.com",
-        "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BMDV6LUhyQ3JRYlBRanhYMDJiajhPYmJMWGZxQ1lsZ0hwRXowcDVXSXowUmRoN1NBS3NWVmFpSkljMGRMRzQ3bF9lRmJ5RHhjbHF4QkhTZWJMektFUlBEelVScWMxNnVLeXBQbWt6SWlSOXpxN1ZZ?oc=5"
-      },
-      {
-        "date": "2026-06-16",
-        "headline": "SpaceX To Acquire AI Coding Startup Anysphere In $60 Billion Deal - International Business Times",
-        "summary": "SpaceX To Acquire AI Coding Startup Anysphere In $60 Billion Deal - International Business Times",
-        "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORy1iTFlYRDJ5UlpsUU5mTUdqYWNjUnRRa1VaZHRGTjY2UVRJWUtWWGFCaU1YbUtBRVgxY3d5cVdUSXhMZjNUaXk2eVM0TC1OSFlpRVZtbUxoMmxGeFpqQjJUTkZGRGdaa0llUDFQS2V1NzNYVXVxNG1sU0d0MkFDcWlUMHhjemVTRDd6dEVVcUdtS3E3?oc=5"
       }
     ],
     "sources": [
