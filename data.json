@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-09-04",
+    "_refresh_note": "2026-09-05",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,30 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-09-05",
+        "headline": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "summary": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+      },
+      {
+        "date": "2026-09-05",
+        "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+      },
+      {
+        "date": "2026-09-04",
+        "headline": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+        "summary": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
+      },
+      {
+        "date": "2026-09-04",
+        "headline": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+        "summary": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
+      },
       {
         "date": "2026-09-04",
         "headline": "ChatGPT took our stories. We’re suing. - Mother Jones",
@@ -169,30 +193,6 @@
         "headline": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting - NPR",
         "summary": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting - NPR",
         "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV294TTdTbEROTGJieW1QWXhQWnkySGdpdkpSUTJCWFB6c0tPZWtaZVY0SGxMNjFXN0VrNmZuU3JlcDZ1UEc2UWw3ZkNWMWE0RzY4Z1E0c3dZQ0pueFhTWkFBQUdWSDF6UlV3TFZSZC1uUGZZQllmY0Z1NkZqMVpIeVZCX0RFdw?oc=5"
-      },
-      {
-        "date": "2026-09-02",
-        "headline": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI - theguardian.com",
-        "summary": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI - theguardian.com",
-        "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMV90YW15alhlRmlUN1lBSFN2LXhnaEpHTG9tRkVXa2tlZGN2a2xqVW9TU19ldTRZNm9NVDBRV2N5VDlnc0EzMjFldHozVVNGT3k5NkxfTWV0WjRXbndVNjNLMF9xTTNJMzMzOXBUaXhkX3YxOFB2bEY2dXZyWlJIdjR5UnFYUVppOGdjVkNLV1RRU2s?oc=5"
-      },
-      {
-        "date": "2026-09-02",
-        "headline": "Teachers, students file new wave of lawsuits against OpenAI over Tumbler Ridge shooting - CBC",
-        "summary": "Teachers, students file new wave of lawsuits against OpenAI over Tumbler Ridge shooting - CBC",
-        "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR1BTQ29iVmVwd3ZLNXFwVWFCY0pqZ3ZNazRsU3VOcjBZTlZFLVRpeWZrZnROUWd5UmRoaUZnZWxZRWhoY3ctRmFSMVRkTTFlbUdNMnk4WmNrejhXTW92WnVCQTl6OWEzVnByWFB5WEVhU1lWYlM3VS1BS2R2Rzc3QjZ2ZEQxUVpsU25BSXJkUW84V0JkaUdVRUdUU0hmZw?oc=5"
-      },
-      {
-        "date": "2026-09-02",
-        "headline": "Trump administration backs OpenAI in New York Times' copyright case over training of chatbots - AP News",
-        "summary": "Trump administration backs OpenAI in New York Times' copyright case over training of chatbots - AP News",
-        "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOU1xbWtObkNxdE5XZFhKeEtxRVh3MU1wejllZWlhNjVOSWNDYkFQVmQ1UVppUmQtQ0diQnFGeGQtdDBSYUEtUjdtYzU0amhKdmptSDhFNHVfdzFXZmEzaU1YX0YxcmVyck4wekJVTkEzYXFhNWdSc0YzRlF1blQ3WHZMZ0NnTmVmYUp2Z2pOOHpsUVdQSVprTG1NZzlrenltRzJrRGhvb21tTDNYTWxR?oc=5"
-      },
-      {
-        "date": "2026-09-02",
-        "headline": "OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says - reuters.com",
-        "summary": "OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says - reuters.com",
-        "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzRaMjFZOFNCczJMbnBJS2hMWTJ5b2szVjZFdU1nSHZRMWRaT2JKajlCeVMxRFFqeG5Bbm5JdG55Mkl1MzktZW00ZFJrdFQ2bk9lQjVFOE1xcGctLTBTNWxWc1pvaUc3UVFab3lpT2QyM2hQQ2hMNFZpZnBNbEprUEJrMVdreTdlWFRUZGtVSi0tVkdaT0UyZ0FFa2xFdngxRFR5TEZCY3czZ0oxb2N1c2FoYjA2ay1kYl9wcTEwOUJDcTIyek1BSQ?oc=5"
       }
     ],
     "sources": [
