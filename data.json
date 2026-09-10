@@ -23,6 +23,18 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-10",
+        "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "summary": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
+      },
+      {
+        "date": "2026-09-10",
+        "headline": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "summary": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
+      },
+      {
         "date": "2026-09-09",
         "headline": "'Gambling with our lives': AI researcher quits Anthropic - yahoo.com",
         "summary": "'Gambling with our lives': AI researcher quits Anthropic - yahoo.com",
@@ -69,18 +81,6 @@
         "headline": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months - The Information",
         "summary": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months - The Information",
         "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXRPY1Z1di1Kbks0MzNxSkpJdi1DTkRoQzZxUDJHVW90Q2pCalNYaDVIZ2Y0MENIS2laWE1MdEYtRGZFNFhaRDJKcEVsRHBsY2p2X0pUT3REVEc1VzhHN1JQQ0NmR0IybE5USmFQd1pfSFBBWVAyQzAwME43eEZCd0lCX0pycjIyWU9TT0VBczZyZk9sWnRmNGNn?oc=5"
-      },
-      {
-        "date": "2026-09-06",
-        "headline": "The IPO Quiet Period Explained: What Anthropic Can And Cannot Say - Financial Samurai",
-        "summary": "The IPO Quiet Period Explained: What Anthropic Can And Cannot Say - Financial Samurai",
-        "source": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kQ1J3eE9tc0pMc2lwTC1HaS1OMTRWUlBBZ3pELUJpejlJM3ozQXM1TVkzLUtpQklpcHVHZnE1ZjlWYnRySjNUTzBOUURsU052MFFub25YNm5MZGRVRG1F?oc=5"
-      },
-      {
-        "date": "2026-09-06",
-        "headline": "Anthropic Said to Postpone IPO to Just Before Midterms - PYMNTS.com",
-        "summary": "Anthropic Said to Postpone IPO to Just Before Midterms - PYMNTS.com",
-        "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0NsYUpTMDYwbkg0Rm42OTUtNnkwdjFzc3ZOLUtoTkgxMk1NQWJtRzNUY3Q1bGV5Rl9mTEJDOTRUdGVnbl9FVFFTYkRRcjdiS1JpWGFGOXM3R205M09UVjdsOVZBVDdQb2VjSXA0Q2EtUU9HU3Yta3ZIanZfaVYzdG0tWXZvTkxQV2ltN3cyZmtyMzBSOXRRNDJSenpNQ3Y1SG45dDliT0szSnFqSGM4MTJB?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-09-09",
+    "_refresh_note": "2026-09-10",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,18 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-09-10",
+        "headline": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+        "summary": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+        "source": "https://www.qbitai.com/2026/09/486684.html"
+      },
+      {
+        "date": "2026-09-10",
+        "headline": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+        "summary": "OpenAI puts Pro subscriptions on hold due to Astra demand (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
+      },
       {
         "date": "2026-09-09",
         "headline": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters",
@@ -181,18 +193,6 @@
         "headline": "ChatGPT vs almond? Sam Altman says ChatGPT uses as much water as an almond - the internet isn’t buying it - The Times of India",
         "summary": "ChatGPT vs almond? Sam Altman says ChatGPT uses as much water as an almond - the internet isn’t buying it - The Times of India",
         "source": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQmVFYjBrOGdyVTZLVFR0dTFhNWxvWFV2WFJPNTBPbHVwZGlzSlpDN0Vkcld3MHlWZTBpTmFCamw0OFIwYmdpcFdfc2VZY1R6eXNRSDFHcndTTHVOaVdiZFNwQW0yeVU4RXVNQlFXc3JKQkM5UXcxX0JDY2RtZFJLZjB6cjVRTU5LdjByTWgtMEUxNmhnb3ZmUVBkRVBCdFJ6RktzZVIxOXlSTGxMdTRpMXZqMEx3OV9EXzQ4MjhSWWZMaDhWM2xVRlFFZ1k5R1VudmQ5eDIzYzNYdjBGWnVuQ2o0LV9oVHZXdzBianpJNklPcXhIZDNtc1RjZzRIZXQ1NkpIYmF2WDZkTmPSAZACQVVfeXFMTTBQVVc3ZlhxNlIxV0xYdWpnNERPaW4zektnUFQ4YXNta2ZfRVBkOUhKZE5KZTJ1WG1mdXdyS2RGVkFtTGZ3dnlZOFJXRk56c1lxSVBEOFFIb2t2UFd6MDB0LUw1aGFtRlFQOEpOX2ZNYVJiUnE1YUFOYlFadFhNblA3X2l6REJqMjlESl9LVXNmMjE4a3ZtcTkzOUlZOUNhRTJVV3RqSnd1R3pBRXoyY1cyYllWTVFyOUxlWnBwZHFsczhBQUNRQXk0X3lORTBfVENwcHdoaDgtWXByNEp3bG0zWFRTcXIzZ05zQ1RPTEY0WVNxUjBVdWVBMHVMS05qZlNXMlZmNk9mZXhaUHdZeU4?oc=5"
-      },
-      {
-        "date": "2026-09-06",
-        "headline": "How To Set Up ChatGPT's Parental Controls To Protect Your Teen - Engadget",
-        "summary": "How To Set Up ChatGPT's Parental Controls To Protect Your Teen - Engadget",
-        "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DeGw3S01FcFR2U1U0d1JOcTdjRWtoa0hTeEJYVFRRc3hjSVlxWWhHREkwNGtVcWl4aUE2T3R5bXdJOEdjZXFjSkljdGxUY0Jpc3AwalB3SmVZd1VfclJRNkZYUHZOVFo2ZG50TFlOTERsTlpNdHRBTVBLWVdHQQ?oc=5"
-      },
-      {
-        "date": "2026-09-06",
-        "headline": "ChatGPT on Tesla vs. Apple Stock — and Which One It Picked - MoneyLion",
-        "summary": "ChatGPT on Tesla vs. Apple Stock — and Which One It Picked - MoneyLion",
-        "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOblE3NzF4UlYyUTI1VktxdGdaUnlIbDNQNTduZE9MLTFkR0dBNGRVanZKWnRueWRCZTNJVm9nNGc3R0JyNDB1VV95a1JxUkNpRmxrWm56aDk1VVAweHRkd0RITjVORkI4OEpyTHNaR0ZMaUxCM3pFWHlLeVI2ZW9YZHNOSjRpX0NUU2paS2FrZWdCZllJbVdn?oc=5"
       }
     ],
     "sources": [
@@ -2472,6 +2472,12 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-10",
+        "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "summary": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
+      },
+      {
         "date": "2026-08-26",
         "headline": "Kimi K3 AI model maker Moonshot AI, which US government accused of ‘stealing’ Anthropic's tech, may make - The Times of India",
         "summary": "Kimi K3 AI model maker Moonshot AI, which US government accused of ‘stealing’ Anthropic's tech, may make - The Times of India",
@@ -2524,12 +2530,6 @@
         "headline": "Moonshot AI: Chinese company seeks money from US cloud providers - Table.Briefings",
         "summary": "Moonshot AI: Chinese company seeks money from US cloud providers - Table.Briefings",
         "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd2xrX0cyMkZpSC1PUGZCTHA5UVNocHd6WFR2VGFSNTFVUG8xdzRwUzVvaWhjamg5ME0wSWU2elBfMkRfNzEtQWNLcDJqVWttTVI5ZW8zZWR2YXpGSE5sYlVYR3NNTzk0bFF1ZS1rNDU4VnRzOEpvLTJKanBYRFYxZkxBR3BkckV2S3FjMzlESEVMOXFBTFBRaVBGOUNsUQ?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "China's Moonshot AI is negotiating revenue-sharing agreements with Microsoft, Amazon and Alphabet's Google that would allow the U.S. cloud giants to host its blockbuster Kimi K3 model, three people familiar with the ‌talks said - Reuters - Moomoo",
-        "summary": "China's Moonshot AI is negotiating revenue-sharing agreements with Microsoft, Amazon and Alphabet's Google that would allow the U.S. cloud giants to host its blockbuster Kimi K3 model, three people familiar with the ‌talks said - Reuters - Moomoo",
-        "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmNRMGxJQlN4c0JrMC1NU3hMR0ZiWlVZTGp2WTNuWkI3YUx3V1FkSXFFWm54aUtONGE4Uk0xZ3NReS1oYUNFdG5YeWJxWVRMeU5WNlJBU2xyUmFiZFFyY0dYZENNZ1lUc1hoTkJqZElaMXZMcjBDMzBjTlkwRmJwRGNFbDVRYndwMVI4S2FzYzc1R3Nqb3pPRU1NYlJLYzJ5Nkl5ZGRlb1pxeWFGSWdnbE5Za2ZsU2RjUzl1OA?oc=5"
       }
     ],
     "sources": [
