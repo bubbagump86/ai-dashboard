@@ -23,6 +23,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-11",
+        "headline": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
+        "summary": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
+        "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5"
+      },
+      {
+        "date": "2026-09-11",
+        "headline": "Have You Protested AI Recently? Anthropic May Be Watching You for Precrimes - CNET",
+        "summary": "Have You Protested AI Recently? Anthropic May Be Watching You for Precrimes - CNET",
+        "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGE2Nm9zaGVuNUZEUVNRU2tBbzhlUmpMZTh4MHpPMVBIWnNJbHdIRkZVM1ZlME90XzZGelB5c2FhbXRRS0lZWDJtVnZGVTdoR3ltdFphcVo5aW9kbENzQk1BUG9fY1hXZ2EyX3NKVTdLaHNHNFZiTEF1Uzc1cGhma25fTUZMTXdxRXQwdEkzQWxNYV9sOGZ3QzczeUVxOVN0SzFnTGhRaUY0WG44cjF5d3NSYWRIbjVJRUhEOHB2RFQ?oc=5"
+      },
+      {
+        "date": "2026-09-11",
+        "headline": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown - CNBC",
+        "summary": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown - CNBC",
+        "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmxROTdQNUMtdlp6WWt5NEJ4clJ3cXhXcmhCbWNSeHo3RWpkUzlsNVBqYldaVlFtYmtGdGl6ZklWczgyem0zbzcxWEM3R0Q5S2RwZElPNDdFYmtfbG9TeWFvc0tyVWt3U1FHd18wb9IBdEFVX3lxTE1ITHNmX3NhN1dBQ29pS3gzZ0JnX1dmQzNNUHdERWZuY3AwZXJmUXNDWVFaVFIxbF9GYkk3QWJKTkdabGdYX1F5Vkh6YU1OYVRaMUQ3aGMyVFVuM1VEOG1yTDFPS045d1NXd1o2VDcxMjhrUGF6?oc=5"
+      },
+      {
+        "date": "2026-09-11",
+        "headline": "Hugging Face CEO on Anthropic researcher's AI warning: 'Like asking your AC guy about climate change' - Business Insider",
+        "summary": "Hugging Face CEO on Anthropic researcher's AI warning: 'Like asking your AC guy about climate change' - Business Insider",
+        "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzFCUmNvWE5fZ21VMHNUOXY1NmVWUmlMMVV4eVI4Z0IxYmZ4RjdpSk1OMXlmWkduZnVUc0YwNFlUMWh6Vnc0SUh5RzBiRTFtUDlPcFBwQkJlc2dqNVh1WUREQVU2Y2pVTnBlWW95YVZZc1JyYzZlckF4R3ZkQmJmc183LU9WdGdOcUlfel80R04?oc=5"
+      },
+      {
+        "date": "2026-09-11",
+        "headline": "Anthropic Signs 24,000-Square-Foot Lease in Cambridge, Drawn by Proximity to Life Science Research - The Harvard Crimson",
+        "summary": "Anthropic Signs 24,000-Square-Foot Lease in Cambridge, Drawn by Proximity to Life Science Research - The Harvard Crimson",
+        "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkFQLUVmOWltODlwS0gwb3F2TWhkQ3JUMU9mRlVKNzB3UUdSVXpLa3Vwa1IzQ1o0Rm5zUGVsVGpiQ3FKbkdGTTAxWUM2ZU92LVMxXzVqSnVSMklJRy1vcThsREtTNFh0eVhaVDBFM1N3QS1Nb3M5RC1URE9vNWJ0cFAwZS0?oc=5"
+      },
+      {
         "date": "2026-09-10",
         "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
         "summary": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek (TechCrunch)",
@@ -51,36 +81,6 @@
         "headline": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ",
         "summary": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ",
         "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5"
-      },
-      {
-        "date": "2026-09-09",
-        "headline": "He Helped Build Powerful AI at OpenAI and Anthropic. Now He's Afraid It Could Kill Us - Time Magazine",
-        "summary": "He Helped Build Powerful AI at OpenAI and Anthropic. Now He's Afraid It Could Kill Us - Time Magazine",
-        "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0temJ5Q1lqZzdnLXdGOU9GcjdyTWdxcEtUM0QtNTcwQjR6aXBvRzVyTVRobkdGZmhXWDNQMXlabGVxbktEa0lyUm9CaVEwTXU2eVphbkRuUG1CWFl2VEFSaGdQck1EVDFSaHJrN0FOZ2pnc1AwNmpB?oc=5"
-      },
-      {
-        "date": "2026-09-09",
-        "headline": "A new Anthropic model seeks to test how AI could impact the U.S. economy - NPR",
-        "summary": "A new Anthropic model seeks to test how AI could impact the U.S. economy - NPR",
-        "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zbl9Ya1QyeGVtRDVaTTNqVktBeFFUdXVza1VOdVh1UDZEX0FzR0hsVTdEaDg4ZG9OYWVoZlhTM0s3SHZZT3M3cG5LWFpPdThrUzJPRWdwWjEzRFU4WnZuRTYtREFXam5pV2Qwby1ta1c5bjQ?oc=5"
-      },
-      {
-        "date": "2026-09-06",
-        "headline": "Anthropic Has Committed More Than $100 Billion to AWS, and Its Prospectus Could Reveal More Details About This Contract - Currently.com",
-        "summary": "Anthropic Has Committed More Than $100 Billion to AWS, and Its Prospectus Could Reveal More Details About This Contract - Currently.com",
-        "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlBiNEc5OGN3MDBWUmlsa2hzTGZwUi00YlBFOXowWU4yLTJwYW5qVkpPdXpHMDJvcFdwZ3RJUDZNWUdsZXhrTVQ1Mk5YNVRCVGp2T1l1Tms5cFhTVDRtUHpHYUJhbmFmaFpKQnZjcWhmb2lMR2ZULUo1NzliSWU3c0YybU5kSGY0U2I1TzR0VG0?oc=5"
-      },
-      {
-        "date": "2026-09-06",
-        "headline": "Authors push back as publishers and agents make claims on Anthropic settlement - Yahoo Finance",
-        "summary": "Authors push back as publishers and agents make claims on Anthropic settlement - Yahoo Finance",
-        "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTktXYWFaQWNGZlI4cXVrOTlUbVBod3NtWXZ3cktWall1azZZTkdPa0xHNXdxTFotN0VaZ3pUWG9nVUx3YjFtSzA4YXVqZ2xhaGQ1bURZV0pDaG5ITi1GMkpIRnY1S212cFBuM25VNUM0eDltUVBmTEVEdVdyWHVOai1XUm1fcGZPQ2F3VWRVWmdmR1RGYjJ2VG5yRnVtRVgy?oc=5"
-      },
-      {
-        "date": "2026-09-06",
-        "headline": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months - The Information",
-        "summary": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months - The Information",
-        "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXRPY1Z1di1Kbks0MzNxSkpJdi1DTkRoQzZxUDJHVW90Q2pCalNYaDVIZ2Y0MENIS2laWE1MdEYtRGZFNFhaRDJKcEVsRHBsY2p2X0pUT3REVEc1VzhHN1JQQ0NmR0IybE5USmFQd1pfSFBBWVAyQzAwME43eEZCd0lCX0pycjIyWU9TT0VBczZyZk9sWnRmNGNn?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-09-10",
+    "_refresh_note": "2026-09-11",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,36 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-09-11",
+        "headline": "Top mathematicians are outraged by OpenAI’s methods - The Economist",
+        "summary": "Top mathematicians are outraged by OpenAI’s methods - The Economist",
+        "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFNON2QxYTZuOTQ0Q2FvUGI4V0FxblFBbDh4RXZWYXZSMDd6dTJGOEFHUVVTOVJ6SEw3dVdsWGJ4Z2ltb3hsOVZwSU5QSGNSQzlpOUlfWlZYTVVDSlhVWkNVWEstMmlyTFUzMTlCTEUzSUZBM3I3YUlCNl83a09xaFhEQ1EwcjRjc0hxQWxhQi15My1YcmlSNlBhaldid1FFVm9ybTdCNWJpVXNBMUM4?oc=5"
+      },
+      {
+        "date": "2026-09-11",
+        "headline": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff - bloomberg.com",
+        "summary": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff - bloomberg.com",
+        "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaE5RVzVKR09WQ0pick9xYjhVaXhnYUFpOUt2OElxZjBwbTRvT2d3U2FnRmFacXd5TWFvVnpwRUo5M0lEeWVNbWJURzdlRXFLbnFHa1Y4WU43SmxKYWcwUGRFQmdjV2FGeUg4TVdPVEFkTzJtNUtQV0xtVHROLV9XekJKSTZFbmFNb0xwaFNMejRHYmpwbUdpOGRlYXoza2hjWXRTdVdNcng0cmFNV2ZwTkFYT0tma1kzTkpN?oc=5"
+      },
+      {
+        "date": "2026-09-11",
+        "headline": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports - Reuters",
+        "summary": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports - Reuters",
+        "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM2FONXhOeTRKZVg5ZU5qa3JVQ2I4S1ZSX1V4YU1zelVDV19IczFXWWlGd1BfRjhfbVVNZ3R5ZW9VelJpT2k2TmVNUWk5UFdIcHJFMjdnMWVQbFdVMm53ckVfZEF5SnZqUjJvb0N3OXVKc19CNFd1Z2otY1Y4cmlBQ0VhaGZMbllrWHIyQUVLRU5JYTIzNm1jdTVTcmhQcHJmdWgzYzdwckp2c2NhcEttLUMycUh5OVA0NEVKZGZwRm04UQ?oc=5"
+      },
+      {
+        "date": "2026-09-11",
+        "headline": "OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates - The New Stack",
+        "summary": "OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates - The New Stack",
+        "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DZ1dkRjNRMDIzUWVaUUF0SEZ3QWVTMDBMd2xCSWpHdXkwa2pnaDZEZl9Ybk1zQjZvN0hsXzZCaTNIdFNDZFYweTRRUWdzTXBwZ1pCRmMzMmNmRlM5QUE?oc=5"
+      },
+      {
+        "date": "2026-09-11",
+        "headline": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown - CNBC",
+        "summary": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown - CNBC",
+        "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmxROTdQNUMtdlp6WWt5NEJ4clJ3cXhXcmhCbWNSeHo3RWpkUzlsNVBqYldaVlFtYmtGdGl6ZklWczgyem0zbzcxWEM3R0Q5S2RwZElPNDdFYmtfbG9TeWFvc0tyVWt3U1FHd18wb9IBdEFVX3lxTE1ITHNmX3NhN1dBQ29pS3gzZ0JnX1dmQzNNUHdERWZuY3AwZXJmUXNDWVFaVFIxbF9GYkk3QWJKTkdabGdYX1F5Vkh6YU1OYVRaMUQ3aGMyVFVuM1VEOG1yTDFPS045d1NXd1o2VDcxMjhrUGF6?oc=5"
+      },
       {
         "date": "2026-09-10",
         "headline": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
@@ -163,36 +193,6 @@
         "headline": "Vanderbilt online tool breached by rogue OpenAI agents - The Tennessean",
         "summary": "Vanderbilt online tool breached by rogue OpenAI agents - The Tennessean",
         "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYTVUeDdWM1FlNVlpRk1XMGUwY3dqQ1hzaUhiR3JScUZxM1pka0dfTVU3YUtwcEs1cFdUVS1sN0NKVGUzeU5kNEQ3dW9YVXI4bEdES3lVNHBDTk9LUjRvNVMwcGpLQzdoYkVLT2FOdkpzS3I0SHQzaldzeUVpNHljLW5maTllVnNJbm5KbGpWZUlwR0F2WXh0R25UbmgxLUh0LUJrV0tXekVZZm54TkJneVZjNG0tczBPd1BuZEVB?oc=5"
-      },
-      {
-        "date": "2026-09-09",
-        "headline": "Top US official named to OpenAI non-profit board warns advanced AI could be ‘deadly’ - Financial Times",
-        "summary": "Top US official named to OpenAI non-profit board warns advanced AI could be ‘deadly’ - Financial Times",
-        "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnQ4eTFvM0huQ3QtaGlscTlQNVNXRXBtTjM5V2hsclBHZmNfOFpURTB4RXNmejZZN0Fqc3BJbklrSHBWRC01b0MzM3BSTFRxU3pwYjVjWi1SZDY3X1g2c3VBZGN5MmNfWXV3S2F5WDZrd09XQzFhcTQzc0xsb0dSRjk5Wng?oc=5"
-      },
-      {
-        "date": "2026-09-09",
-        "headline": "OpenAI adds a prominent AI doomer to its board of directors - TechCrunch",
-        "summary": "OpenAI adds a prominent AI doomer to its board of directors - TechCrunch",
-        "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXA2ZGdXaWlfVkhjb0dpX2o0alQ4akZIYnBYVEpRYWJwWWFKcUdiM3VIZXludzI5Nm53NDhYVlNDWUJIc3J4dGVBZ0g1OUhwTDF4TU5qUnZuWW5LUlAtTnd5eU8tdUp2S1djTEZlcHNyQlF2NGJHSVZpaHRCbFAtdGFLWUZ1WUV5V3FmQ2lnXzQ5ZGRsYzJzVTB3?oc=5"
-      },
-      {
-        "date": "2026-09-06",
-        "headline": "GPT-6 Astra: A new generation of intelligence - OpenAI",
-        "summary": "GPT-6 Astra: A new generation of intelligence - OpenAI",
-        "source": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
-      },
-      {
-        "date": "2026-09-06",
-        "headline": "OpenAI's controversial ChatGPT-6 Astra advert paints a sad vision of the future - Creative Bloq",
-        "summary": "OpenAI's controversial ChatGPT-6 Astra advert paints a sad vision of the future - Creative Bloq",
-        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0pJQUo3RlJIcGZWaHR0ZFFyNDVEaUxveHQzakVUdGt5SFBJWnRVajZLek1mMGtyMTY4RHQxVnEzbWVBV295RmRFaXN0MUl2T1VOQUVGX1NLSy1kVFo5UF9jallaZmlkWjRTdzd5ZEUyZWQtOEVnT2hweFdEZEdTdTdpVXJ2ZU9ScFVCZmRoYTVDdFNEY0lVZDNzajk?oc=5"
-      },
-      {
-        "date": "2026-09-06",
-        "headline": "ChatGPT vs almond? Sam Altman says ChatGPT uses as much water as an almond - the internet isn’t buying it - The Times of India",
-        "summary": "ChatGPT vs almond? Sam Altman says ChatGPT uses as much water as an almond - the internet isn’t buying it - The Times of India",
-        "source": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQmVFYjBrOGdyVTZLVFR0dTFhNWxvWFV2WFJPNTBPbHVwZGlzSlpDN0Vkcld3MHlWZTBpTmFCamw0OFIwYmdpcFdfc2VZY1R6eXNRSDFHcndTTHVOaVdiZFNwQW0yeVU4RXVNQlFXc3JKQkM5UXcxX0JDY2RtZFJLZjB6cjVRTU5LdjByTWgtMEUxNmhnb3ZmUVBkRVBCdFJ6RktzZVIxOXlSTGxMdTRpMXZqMEx3OV9EXzQ4MjhSWWZMaDhWM2xVRlFFZ1k5R1VudmQ5eDIzYzNYdjBGWnVuQ2o0LV9oVHZXdzBianpJNklPcXhIZDNtc1RjZzRIZXQ1NkpIYmF2WDZkTmPSAZACQVVfeXFMTTBQVVc3ZlhxNlIxV0xYdWpnNERPaW4zektnUFQ4YXNta2ZfRVBkOUhKZE5KZTJ1WG1mdXdyS2RGVkFtTGZ3dnlZOFJXRk56c1lxSVBEOFFIb2t2UFd6MDB0LUw1aGFtRlFQOEpOX2ZNYVJiUnE1YUFOYlFadFhNblA3X2l6REJqMjlESl9LVXNmMjE4a3ZtcTkzOUlZOUNhRTJVV3RqSnd1R3pBRXoyY1cyYllWTVFyOUxlWnBwZHFsczhBQUNRQXk0X3lORTBfVENwcHdoaDgtWXByNEp3bG0zWFRTcXIzZ05zQ1RPTEY0WVNxUjBVdWVBMHVMS05qZlNXMlZmNk9mZXhaUHdZeU4?oc=5"
       }
     ],
     "sources": [
@@ -2467,6 +2467,12 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-11",
+        "headline": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+        "summary": "Kimi-maker Moonshot AI targets $2B in annual revenue (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/"
+      },
+      {
         "date": "2026-09-10",
         "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
         "summary": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek (TechCrunch)",
@@ -2519,12 +2525,6 @@
         "headline": "MSFT, AMZN, GOOGL Reportedly In Revenue-Sharing Talks With China's Moonshot AI Over Kimi K3 Model - Stocktwits",
         "summary": "MSFT, AMZN, GOOGL Reportedly In Revenue-Sharing Talks With China's Moonshot AI Over Kimi K3 Model - Stocktwits",
         "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRUl6WE5IWkJ5ZEpVREJWQzhkejhfMHU5YlVfTzBHQm5WY3B2QzFEM1BkOVF4ZFZHWUhOWEVxWVMyX0xzWmtVVmh2RTA4TGpfbkl5eFJnaFpJZDVTNGo2MGFuLThFMmdXZUtncTFHNDk2YVNLVTFyY3lNLU9yazhyV2JyUnpiQTRnMGZCTTl6TFo2NnhLRjNJVVM0NWlUR0JtTzdDTFpWcFBRcmFfS1dVNTgwWkR1bHBMNXpzbkdCMGc4RFM4UEJ4bHpUZnRkd3VLTDRlam1HMk5ZelBjeW44?oc=5"
-      },
-      {
-        "date": "2026-08-26",
-        "headline": "Moonshot AI: Chinese company seeks money from US cloud providers - Table.Briefings",
-        "summary": "Moonshot AI: Chinese company seeks money from US cloud providers - Table.Briefings",
-        "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd2xrX0cyMkZpSC1PUGZCTHA5UVNocHd6WFR2VGFSNTFVUG8xdzRwUzVvaWhjamg5ME0wSWU2elBfMkRfNzEtQWNLcDJqVWttTVI5ZW8zZWR2YXpGSE5sYlVYR3NNTzk0bFF1ZS1rNDU4VnRzOEpvLTJKanBYRFYxZkxBR3BkckV2S3FjMzlESEVMOXFBTFBRaVBGOUNsUQ?oc=5"
       }
     ],
     "sources": [
