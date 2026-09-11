@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-10T23:02:44+00:00",
-  "as_of_date": "2026-09-10",
+  "last_updated": "2026-09-11T05:54:00+00:00",
+  "as_of_date": "2026-09-11",
   "companies_tracked": 40,
   "categories": 10,
-  "news_items": 359,
+  "news_items": 356,
   "capital_raised": {
-    "total_usd": 230417600000,
+    "total_usd": 230481600000,
     "disclosed_count": 36,
     "total_count": 40,
-    "latest_round_total_usd": 251738800000,
+    "latest_round_total_usd": 251802800000,
     "latest_round_count": 33,
     "note": "sum of funding.total_raised_usd (lifetime)"
   },

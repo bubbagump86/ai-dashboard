@@ -1848,73 +1848,70 @@
     "lng": -122.4194
   },
   {
-    "name": "Enigma Aerospace",
-    "category": "Other",
-    "website": "https://www.enigma.aero",
-    "founded": "2024",
-    "hq": "Massachusetts",
-    "intro": "Enigma Aerospace is a defense tech startup building autonomous cargo aircraft for military logistics in remote and high-risk environments. Emerged from stealth in March 2026 with ~$7M in venture and US Department of War (formerly Air Force) funding. The company is building runway-independent delivery systems for frontline resupply operations.",
-    "product": "Two main products: (1) Phoenix — unmanned cargo aircraft that can carry up to 1,000 lbs over 2,000 nautical miles. Airdrop-capable, runway-independent, autonomous in GPS-denied environments. (2) Strata — logistics C2 software for mission planning, fleet coordination, real-time delivery management. Integrates with Palantir and Anduril's orchestration platforms. 5-6 Phoenix aircraft built to date. Goal: large-scale production within 12 months, operations by 2027.",
+    "name": "Enigma AI Labs",
+    "category": "AI Infrastructure",
+    "website": "https://enigma.inc",
+    "founded": "2025-01",
+    "hq": "Tel Aviv, Israel",
+    "lat": 32.0853,
+    "lng": 34.7818,
+    "intro": "Enigma is a physical AI research lab building foundation models (GEN-1) and proprietary robotic arms for human-robot interaction. Founded in January 2025 by former Unit 8200 researchers Jonathan Jacobi (CEO, Microsoft's youngest-ever employee) and Gal Niv (CTO). Emerged from stealth in July 2026 with a $71M seed round — one of the largest seed financings in Israeli startup history. Approach: invert the capability-first robotics paradigm by running 100+ robots in hangars in Israel and California, where anyone can interact with them to study how humans naturally communicate with machines. Investors include OpenAI/Anthropic/xAI/Cognition executives and researchers.",
+    "product": "Two main products: (1) GEN-1 — foundation AI model for robotics, designed to make robots more intelligent, adaptable, and easier to deploy across diverse hardware. (2) Proprietary robotic arms (hardware) used both as the company's research platform and to collect the training data for GEN-1. The 100+ robot fleet runs public-facing experiments (painting, sword fighting, chemistry) to gather natural human-robot interaction data at scale. Bet: the bottleneck in robotics isn't smarter robots, it's making them usable — analogous to how the iPhone's touchscreen beat smarter-but-clunkier predecessors.",
     "funding": {
-      "latest_round": "Seed + government contracts",
-      "amount_usd": 7000000,
-      "date": "2026-03-25",
+      "latest_round": "Seed",
+      "amount_usd": 71000000,
+      "date": "2026-07-27",
       "lead_investors": [
-        "Cybernetix Ventures",
-        "Valia Ventures"
+        "Index Ventures",
+        "Ribbit Capital",
+        "Conviction Partners"
       ],
       "post_money_valuation_usd": null,
-      "total_raised_usd": 7000000,
-      "source_note": "$7M total: $5M US Air Force (now DoW) contract + $2M VC. Backed by Cybernetix Ventures, Valia Ventures. Two CRADAs (DEVCOM, Air Force). 11 letters of support from Army, Air Force, SOF organizations. Source: Tectonic Defense, March 2026."
+      "total_raised_usd": 71000000,
+      "source_note": "$71M seed, led by Index Ventures and Ribbit Capital, with participation from Conviction Partners. Notable individual investors include Assaf Rappaport (Wiz co-founder/CEO), Merav Bahat (Dazz founder) via Stardust, Sarah Guo, plus executives and researchers from OpenAI, Anthropic, Google DeepMind, xAI, Thinking Machines, Cognition, Factory, and Wiz. Source: TechCrunch, Calcalist, Tech in Asia (Jul 27, 2026)."
     },
     "latest_news": [
       {
-        "date": "2026-08-24",
-        "headline": "General Bryan P. Fenton, retired Former Commander of U.S. Special Operations Command, Joins Enigma Aerospace Advisory Board - PR Newswire",
-        "summary": "General Bryan P. Fenton, retired Former Commander of U.S. Special Operations Command, Joins Enigma Aerospace Advisory Board - PR Newswire",
-        "source": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOS2RQZ1g1WFl3ZUlycWxHTW5WaG4xakhycDQzdm1mbERxQmJMOWRqYnViU1Z2NUJ1bE1BS2ZmWGJ3ajg2ckNrYjk1SVpkVV9zbEVtNzU1UVNJek1IOWYxdU1adUtobUJKWFM5czR3SGZ1TmN2WTR0dURaTzlVNGZzbkxkQjdDcUxZSEUzblg3SVdYemxYWnZ6Ri00THFqeUtOOFFFcE5CenRnNDQwV2wtRHdfWGxTeWlrdTFKaHdjdXZaWmZHR2QycEVaOGpCSDZzc1oyVWw3dDRNOThkRXAyYW9aUllwXzMtWHl2NEMydVRTWUdvaTVwV0JyLWY0SEQ5UXBVdA?oc=5"
+        "date": "2026-07-27",
+        "headline": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume - TechCrunch",
+        "summary": "Enigma raised a $71M seed round led by Index Ventures and Ribbit Capital, with participation from Conviction Partners. The Israeli robotics lab is putting 100+ AI-powered robots online to study natural human-robot communication.",
+        "source": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
       },
       {
-        "date": "2026-03-23",
-        "headline": "Enigma Aerospace unveils autonomous Phoenix air... - Pluang",
-        "summary": "Enigma Aerospace unveils autonomous Phoenix air... - Pluang",
-        "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMGpwdDBGZ3ZvVHBpenRoaGF6ZzFDek9rRGMyMXhCZTRaRkwxcFNSODB6UFBqeUxieUttZ29jV3JkajJDU1kzSFdhSnk1TkNsVjdsYjFrU2JzcVJoUk10MXFVR2hKYjA5VDBhNEVSanRSZm9QQTBKWlBFeWJ0WkJNQWVETGZVM1FoaWZSZlU2VDJ6ckky?oc=5"
+        "date": "2026-07-27",
+        "headline": "Israeli AI robotics startup Enigma emerges from stealth with $71 million Seed round - Calcalist",
+        "summary": "Founded by former Unit 8200 researchers Jonathan Jacobi (CEO) and Gal Niv (CTO), Enigma is developing foundation AI models for robots. One of the largest seed rounds in Israeli startup history.",
+        "source": "https://www.calcalistech.com/ctechnews/article/h1tdxjhrgx"
       },
       {
-        "date": "2026-07-08",
-        "headline": "Honeywell Aerospace and Enigma Aerospace Announce Collaboration on Autonomous Unmanned Aircraft Systems - AI Insider",
-        "summary": "Honeywell Aerospace and Enigma Aerospace Announce Collaboration on Autonomous Unmanned Aircraft Systems - AI Insider",
-        "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaWUzazNUMGRFYl9KdjR5RHNUdHJIVFVWYlFHa09udjM3WDV3YUlvbmtCSzBnUjFGZ2J3d2JHSXRyQTZMbmJoSWd6X3B1SEZ5WjA1amZYUmw2Y2hsZ0hJR3lPWnF4cHR0ZTVHemk4T21RSmc4TjMzYnJrZEk0cDY1b0FZQ3J5Y1JmWnF1ZmZscEx4eVRsM0ljcXpFR0hVekVxbW94NHhKcEhHbjR2bVMzVElEYmlVWi1fcGZVeUtfc3lVTFBCY3IwNXd6MnJsNkNwY200SlIzVGQ?oc=5"
+        "date": "2026-07-27",
+        "headline": "Index Ventures led Israeli AI startup Enigma's $71m seed - Tech in Asia",
+        "summary": "Israel-based Enigma raised US$71M seed led by Index Ventures and Ribbit Capital. Plans to use funding to expand AI research team, GPU capacity, and accelerate robotics software platform development.",
+        "source": "https://www.techinasia.com/news/index-ventures-led-israeli-ai-startup-enigmas-71m-seed"
       },
       {
-        "date": "2026-07-08",
-        "headline": "Honeywell Aerospace, Enigma Aerospace Sign MoU to Explore Mission Systems Integration for Phoenix UAS - Moomoo",
-        "summary": "Honeywell Aerospace, Enigma Aerospace Sign MoU to Explore Mission Systems Integration for Phoenix UAS - Moomoo",
-        "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQzlKMWU5ejRRb3dqeHpFOXFJdWhxMlFjNjRFelljWWs2SEJEdV9rY3F3eHIzRnlHZDdiekNBOElHT1dfRFBTSEJhejRGLXM0OUFNczdDLW40OV9mNkpGTGJBdzFfbGE1TUI3S2YwYmFEOVlmcGNCay1JRXlKRkZyQUJ1ZF9NTy04Tk1HSGNlbzEzM0F1WXltVjFLck5jRGxCVTdEYW5WbFVGNHdQOFRtd2owZ2E?oc=5"
+        "date": "2026-07-27",
+        "headline": "He joined Check Point at 16. Now Jonathan Jacobi has raised one of Israel's biggest seed rounds to build the AI brain for robots - Calcalist",
+        "summary": "The 26-year-old Enigma co-founder, who became the youngest employee in Microsoft and Check Point history, raised $71M to develop AI models and software for adaptable, intelligent robots.",
+        "source": "https://www.calcalistech.com/ctechnews/article/b4pza8b1l"
       },
       {
-        "date": "2026-07-08",
-        "headline": "Honeywell Aerospace and Enigma Aerospace announce collaboration on mission systems integration for Phoenix autonomous UAS - PR Newswire",
-        "summary": "Honeywell Aerospace and Enigma Aerospace announce collaboration on mission systems integration for Phoenix autonomous UAS - PR Newswire",
-        "source": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbmtYQl91X1R2SDFfZVBpRmMxa0RnS2JoSWFhOXFuaGNxZGxxYWRDVWtiRDVsbzFPbzk3YVhjTWFzbFNrT1EwOE1IZEVvNkVHUzNYQlJTMnJacXdzQlZjTzBJbWxZZy1ZbzMxRGc5RGZVVWhmVTNfVDgySVlnaU9IZ0N1NHZZZndBdjR4MTMtdGFpXzZ5dl84Y01oc3hBSDJybDRYQ1F1RVdObzVzV1JyLXlGSmdDTTJ2bUtJdXo0dmQzcDd3ZUJTUFdPbUZITDlTcWZpS214eU1vMTRhWi1fb19pNU1yVERlV0s2SVd0Y2dpZktINlpmeDQyV2hyNVFqMWQzVV8tYS0?oc=5"
+        "date": "2026-07-27",
+        "headline": "Enigma Raises $71 Million to Explore a New Kind of Robotic Intelligence - SME Business Review",
+        "summary": "The Israeli startup is putting more than 100 AI-powered robots online to study how people naturally communicate with machines. Funding will support research and engineering team expansion.",
+        "source": "https://smebusinessreview.com/robotics/enigma-71-million-explore-robotic-intelligence"
+      }
+    ],
+    "_founders": [
+      {
+        "name": "Jonathan Jacobi",
+        "role": "CEO & Co-Founder",
+        "background": "Microsoft's youngest-ever employee (recruited at 17 by Wiz founder Assaf Rappaport), former Check Point"
       },
       {
-        "date": "2026-05-19",
-        "headline": "Enigma Aerospace and Re:Build Manufacturing Partner to Deliver Affordable Mass for U.S. Air Logistics - PR Newswire",
-        "summary": "Enigma Aerospace and Re:Build Manufacturing Partner to Deliver Affordable Mass for U.S. Air Logistics - PR Newswire",
-        "source": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMEJxOUtLMXhtNXJ3NVdqa3RpWEpyQVBSd1BSZzRkbHh1MTNaOWVkY01zQWxtWUFDNXpYcFZSWXlDTFBwMVpFQXYxSmNhQTVlZ3pMQmRWYTRoRklpTXJibnF6a0FnWWhhT1Y5RnRyRkRDczJpWWxZd3JlSkVSOU9EVlh3a2Y5cXFmVEdYLWI2bGZSUGhwVUY1MFVfUW9iZWtEckRHOWxUTGl6aUljenRXS2t4LWV1aTlrYjVmbVhhV0p1RktmSlhKdXFqaF9CRnUtbzd0YXVjVlZtaG9TQnNDUEVrS3VfNy0wbWc?oc=5"
-      },
-      {
-        "date": "2026-03-23",
-        "headline": "Enigma Aerospace Emerges from Stealth to Build Autonomous Logistics Infrastructure for Contested Environments - PR Newswire",
-        "summary": "Enigma Aerospace Emerges from Stealth to Build Autonomous Logistics Infrastructure for Contested Environments - PR Newswire",
-        "source": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeVF1c2dLX3h3NXJ3Ri1JY2lNekJzMFZVdEE5bTR4bTAzQ3hZMWtjU0YwMnFvQ1hUSEg4QWxaYzVjd214TWRhcjM0R0liQUxld3VBQ0dEVGpsWjB2RERjOGxWdHRHT1gzZWJUT0xjS1VaeHp2YkttbTRTWFhzVmI0Ry1ULTMxYi1QM09MM2gxUVBwRl9kRzdSemhueHFiV3JTR25QOE15eDAwdV9wbFpSVXlWVy1WUk95V3JPQjNNbFZGNFdwOS1xc3FRbmg4MDhuaUR0WGJCVUJ5eHJVdlpPZGZ6Q1RJNnZNcTlBYl9rUlBaMEd3TjR5dQ?oc=5"
-      },
-      {
-        "date": "2026-03-25",
-        "headline": "Enigma Aerospace emerges from stealth with $7M for autonomous cargo aircraft",
-        "summary": "Backed by $5M Air Force contract and $2M VC. Building Phoenix cargo drone (1,000 lb payload, 2,000 mi range) and Strata logistics C2 software. Goal: large-scale production in 12 months, operations by 2027.",
-        "source": "https://theaiinsider.tech/2026/03/25/enigma-aerospace-emerges-from-stealth-with-7m-to-build-autonomous-military-supply-capabilities-for-for-high-risk-environments/"
+        "name": "Gal Niv",
+        "role": "CTO & Co-Founder",
+        "background": "Former Unit 8200; met Jacobi through hacking competitions as teenagers"
       }
     ],
     "sources": [
@@ -1937,9 +1934,7 @@
     "confidence": "medium",
     "arr_usd": null,
     "arr_source_note": "Pre-revenue, government/defense contracts.",
-    "_id": "enigma-aerospace",
-    "lat": 42.3601,
-    "lng": -71.0589
+    "_id": "enigma-aerospace"
   },
   {
     "name": "Google DeepMind",
