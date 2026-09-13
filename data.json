@@ -23,6 +23,18 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-13",
+        "headline": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+        "summary": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/"
+      },
+      {
+        "date": "2026-09-12",
+        "headline": "Anthropic CEO outlines plan to slow AI development",
+        "summary": "Anthropic CEO outlines plan to slow AI development (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+      },
+      {
         "date": "2026-09-12",
         "headline": "Anthropic CEO calls for slowdown of AI development amid safety concerns: \"We must make wise use of the time we gain\" - CBS News",
         "summary": "Anthropic CEO calls for slowdown of AI development amid safety concerns: \"We must make wise use of the time we gain\" - CBS News",
@@ -69,18 +81,6 @@
         "headline": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown - CNBC",
         "summary": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown - CNBC",
         "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmxROTdQNUMtdlp6WWt5NEJ4clJ3cXhXcmhCbWNSeHo3RWpkUzlsNVBqYldaVlFtYmtGdGl6ZklWczgyem0zbzcxWEM3R0Q5S2RwZElPNDdFYmtfbG9TeWFvc0tyVWt3U1FHd18wb9IBdEFVX3lxTE1ITHNmX3NhN1dBQ29pS3gzZ0JnX1dmQzNNUHdERWZuY3AwZXJmUXNDWVFaVFIxbF9GYkk3QWJKTkdabGdYX1F5Vkh6YU1OYVRaMUQ3aGMyVFVuM1VEOG1yTDFPS045d1NXd1o2VDcxMjhrUGF6?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "Hugging Face CEO on Anthropic researcher's AI warning: 'Like asking your AC guy about climate change' - Business Insider",
-        "summary": "Hugging Face CEO on Anthropic researcher's AI warning: 'Like asking your AC guy about climate change' - Business Insider",
-        "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzFCUmNvWE5fZ21VMHNUOXY1NmVWUmlMMVV4eVI4Z0IxYmZ4RjdpSk1OMXlmWkduZnVUc0YwNFlUMWh6Vnc0SUh5RzBiRTFtUDlPcFBwQkJlc2dqNVh1WUREQVU2Y2pVTnBlWW95YVZZc1JyYzZlckF4R3ZkQmJmc183LU9WdGdOcUlfel80R04?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "Anthropic Signs 24,000-Square-Foot Lease in Cambridge, Drawn by Proximity to Life Science Research - The Harvard Crimson",
-        "summary": "Anthropic Signs 24,000-Square-Foot Lease in Cambridge, Drawn by Proximity to Life Science Research - The Harvard Crimson",
-        "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkFQLUVmOWltODlwS0gwb3F2TWhkQ3JUMU9mRlVKNzB3UUdSVXpLa3Vwa1IzQ1o0Rm5zUGVsVGpiQ3FKbkdGTTAxWUM2ZU92LVMxXzVqSnVSMklJRy1vcThsREtTNFh0eVhaVDBFM1N3QS1Nb3M5RC1URE9vNWJ0cFAwZS0?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-09-12",
+    "_refresh_note": "2026-09-13",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,24 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-09-13",
+        "headline": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+        "summary": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/"
+      },
+      {
+        "date": "2026-09-12",
+        "headline": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "summary": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026 (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+      },
+      {
+        "date": "2026-09-11",
+        "headline": "OpenAI’s feud with mathematicians is only escalating",
+        "summary": "OpenAI’s feud with mathematicians is only escalating (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
+      },
       {
         "date": "2026-09-12",
         "headline": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast - CNBC",
@@ -175,24 +193,6 @@
         "headline": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff - bloomberg.com",
         "summary": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff - bloomberg.com",
         "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaE5RVzVKR09WQ0pick9xYjhVaXhnYUFpOUt2OElxZjBwbTRvT2d3U2FnRmFacXd5TWFvVnpwRUo5M0lEeWVNbWJURzdlRXFLbnFHa1Y4WU43SmxKYWcwUGRFQmdjV2FGeUg4TVdPVEFkTzJtNUtQV0xtVHROLV9XekJKSTZFbmFNb0xwaFNMejRHYmpwbUdpOGRlYXoza2hjWXRTdVdNcng0cmFNV2ZwTkFYT0tma1kzTkpN?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports - Reuters",
-        "summary": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports - Reuters",
-        "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM2FONXhOeTRKZVg5ZU5qa3JVQ2I4S1ZSX1V4YU1zelVDV19IczFXWWlGd1BfRjhfbVVNZ3R5ZW9VelJpT2k2TmVNUWk5UFdIcHJFMjdnMWVQbFdVMm53ckVfZEF5SnZqUjJvb0N3OXVKc19CNFd1Z2otY1Y4cmlBQ0VhaGZMbllrWHIyQUVLRU5JYTIzNm1jdTVTcmhQcHJmdWgzYzdwckp2c2NhcEttLUMycUh5OVA0NEVKZGZwRm04UQ?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates - The New Stack",
-        "summary": "OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates - The New Stack",
-        "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DZ1dkRjNRMDIzUWVaUUF0SEZ3QWVTMDBMd2xCSWpHdXkwa2pnaDZEZl9Ybk1zQjZvN0hsXzZCaTNIdFNDZFYweTRRUWdzTXBwZ1pCRmMzMmNmRlM5QUE?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown - CNBC",
-        "summary": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmxROTdQNUMtdlp6WWt5NEJ4clJ3cXhXcmhCbWNSeHo3RWpkUzlsNVBqYldaVlFtYmtGdGl6ZklWczgyem0zbzcxWEM3R0Q5S2RwZElPNDdFYmtfbG9TeWFvc0tyVWt3U1FHd18wb9IBdEFVX3lxTE1ITHNmX3NhN1dBQ29pS3gzZ0JnX1dmQzNNUHdERWZuY3AwZXJmUXNDWVFaVFIxbF9GYkk3QWJKTkdabGdYX1F5Vkh6YU1OYVRaMUQ3aGMyVFVuM1VEOG1yTDFPS045d1NXd1o2VDcxMjhrUGF6?oc=5"
       }
     ],
     "sources": [
