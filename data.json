@@ -23,6 +23,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-15",
+        "headline": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports - reuters.com",
+        "summary": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports - reuters.com",
+        "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaENkNHlJX1lkYlJtRzRtZ0NEaFpfbkxub0F1VkVUVHBvVTdMaHV1NjRDMnY5N09TTnIzRzFQZmFYcnY3ZkplMmxGQ1Y2OFRXT1kyTkNlWnZ0SjFsWHdHMWl6RklJeTFmMjVfYVN0ZTlidzhmR090TVdzRFRQd1ZmSFB2dXIyM1BLYVJDNlZMYy1PYnpTdTR0bHBYR2JwYWpMczAzSm5jU0JqYkJwb2V1SmhmMVJxSzRILXBZ?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues - CNBC",
+        "summary": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues - CNBC",
+        "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVX3pnQ1lXY2F2Y3MtZVNTUlZsb2hYeWQxaF9tSTB6aHZRUlR5azdFRkhLOV9EZDZWaHpGUWpqalo2SXVCb1pRQWgyVVNmamsweDJMUzBDeGtUWHBGZ1dRR3p4NHQwNG1CcG51ZWVBM252azBjMTNn0gF8QVVfeXFMUE0zU1ZReFVzWHBKMzliU2ZWbjRMaENCTUwzS3I0TlVwV1Q2dFRkQTNDbU5xelV1MVBWWjZ1NmFJTmNtZEVoc3pXYWRmTXpqUkVoUnlTTHpBbUlOb29aQmExb3NyeTQ2d05ta2VCb1dSaWZLclQ5OUhLSktrbA?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "Anthropic, OpenAI Safety Push Risks ‘Regulatory Wall’ for Rivals - Bloomberg.com",
+        "summary": "Anthropic, OpenAI Safety Push Risks ‘Regulatory Wall’ for Rivals - Bloomberg.com",
+        "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTU0zd1VVbVhsbUZVb29HWWlqY1dpc1lydktHWWZYcE1SM2dZd1ppenkzN2toRGtZSlY5dkRsUFg0U0taTlo4RzBzZldLX2JIV3liRjlVUVVSSE0ySF9YR3dtNllFdThlWTZBcDNlbUlXZHoxU2xYaXA4NjVSS2M0eEotenlQMEp5MWoxZlZvY3hBZjhCVVJob3dVb19LUG04YThOM010SjRSSG9rRDdOY0FR?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "Anthropic's S-1 is imminent, but its sustainability metrics are nascent - Axios",
+        "summary": "Anthropic's S-1 is imminent, but its sustainability metrics are nascent - Axios",
+        "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZnFVcnE5MWpBdkFUT3VWZ1gzNWU3NDZkZXItS2cxc0hZdFNhWGtDVThFRTc2c2h4YWo1eDFKcC1UbERNdE81OGEyTUJoVnh5R2daS2xlMFRocHJ1RzBMcW1oTnkzRU9yUEF5VWZ6RVhUYWRENnZBTEs2ZjNPN3QxZEhPS1lNZ2ZjSW13?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "Schwab scores exclusive (for now) contract with Anthropic and takes AI 'driver's seat' in RIA custody, analyst says, though others counter that it's generic and late-coming - RIABiz",
+        "summary": "Schwab scores exclusive (for now) contract with Anthropic and takes AI 'driver's seat' in RIA custody, analyst says, though others counter that it's generic and late-coming - RIABiz",
+        "source": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdUtjdmd0azNHNGtDQkpJVzNVYzludUltb1hRNk5KTGxpVXFZSUZXbk1YVmZHckswdUtkbUhiMzAwMDBWTDdNZXdqNlR1cUl0NzgtWE91cjB5eENVRWp1SzA3YTRFTGhwbHFYSDNibGhLVUpBT0Z3S01VLVh4eEd2UVdLZkhrSVBVcHdaa09OZEhLWTE2TmtnSzFGU09LUlNwdlpZbTlMWS1SMzZrUVZxNVJMTkdROHo1YUhIUU15X2xHeEg3eUZuSUFRYXpsbGpOTzhXdVExekNhUHhsX1JYbHV0Sk9PMDZDMFRDc3VqV3NxeGpCTmxXUEZocUJlczhXcG42LVZ5NTFaMjdJbHdXY1Q5S3VrbkVXLXZ6SnYtNXQ?oc=5"
+      },
+      {
         "date": "2026-09-14",
         "headline": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei - CNBC",
         "summary": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei - CNBC",
@@ -51,36 +81,6 @@
         "headline": "Could Dario Amodei's AI safety warnings hurt Anthropic's IPO? - Yahoo Finance",
         "summary": "Could Dario Amodei's AI safety warnings hurt Anthropic's IPO? - Yahoo Finance",
         "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNE95ak9wUFY0WloyMFItNWdOWTJRaG9BNjRHaVZ5SHFGRGJBVHVXODV5V0VPWGdTSGxPQkk5RUw0R1ctUnB6ZEpjTFVOZjBiR1B5eWRtVnk3c18xTEhseGFTNm1WUjRoNEU3Z1pzS01TYnh3elFMUmlRUHRWbVN0eWdR?oc=5"
-      },
-      {
-        "date": "2026-09-13",
-        "headline": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-        "summary": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic (TechCrunch)",
-        "source": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/"
-      },
-      {
-        "date": "2026-09-12",
-        "headline": "Anthropic CEO outlines plan to slow AI development",
-        "summary": "Anthropic CEO outlines plan to slow AI development (TechCrunch)",
-        "source": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
-      },
-      {
-        "date": "2026-09-12",
-        "headline": "Anthropic CEO calls for slowdown of AI development amid safety concerns: \"We must make wise use of the time we gain\" - CBS News",
-        "summary": "Anthropic CEO calls for slowdown of AI development amid safety concerns: \"We must make wise use of the time we gain\" - CBS News",
-        "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2otUFZkQndyRnVpMTlySVhTUnQ4YkVrdHhXem1oUUEtVzdMTGVaSUZjV01fOXZrRmNpb2dJM1AtUVVvT2Zmci0tbUxlaTdIOXNlQmp2QXYxN0RQd3pnYVpfTUlERlNNck1wOS1uNmVSaTZ1dS1HbmtsQjFoVFhnYVpXUnFzMkFXNWpEM0JZQQ?oc=5"
-      },
-      {
-        "date": "2026-09-12",
-        "headline": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown - The Guardian",
-        "summary": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown - The Guardian",
-        "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcU1YS0xFaGIxT09LRnlVc3AxVWdtZUJrYmxiY3ctc3FxZmVCbWx6LXdxaXZkUWY1TUl4N0xnZ3A3aDA0SmFNZm5xU2hQM0I4YXQ3RHZUeWozQnJxcHJra3ZwNXJ2WEVvTzltSy1ZdHoyMUVRNm1Ua1ZWdWF0TUw1cFpLRmVyUVI2U0dBZV9welJMczBPR1ZWN0RVYkpMTk5BRDY2Q0k5OE81Y1JPM0tmc08wWXc?oc=5"
-      },
-      {
-        "date": "2026-09-12",
-        "headline": "Here's who stands to make money from the Anthropic IPO - Yahoo Finance",
-        "summary": "Here's who stands to make money from the Anthropic IPO - Yahoo Finance",
-        "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVpmU0JnRFZzaXNNSXlMZzQtVkwyNHB6dzc0bldFRldIRFpYdGRVNm1zRTFhWUVRNkZmR3ZJcnVTc1RLS0k5dHpmaEdYZ0tWTHFPUkhnMzdJb014a1paR1NBalljbE1vOUNMTlhhc0hXQ2J5Yms5NmVVZm1XS0NlV1BWYmo4X3BSMmh0R3ZzVk53UTVQbHlSX21La0ZOd0NMVmNvYV9kZ3lNQVk0a2tj?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-09-14",
+    "_refresh_note": "2026-09-15",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,36 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-09-15",
+        "headline": "OpenAI Eyes Canada for Data Centers, Praises Carney’s Plan - Bloomberg.com",
+        "summary": "OpenAI Eyes Canada for Data Centers, Praises Carney’s Plan - Bloomberg.com",
+        "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0gwNHZJLUJhUzYyYmFRbWZxNmQyZ3pSXzRidzdneHFOdF9GUDZzYjItQ3R2YW9YTlFodkZhVTJxTlhQSkZ6bUlTX21BRGVPQlVLT0pmV3N1VmhTQlVUVjJlc0lfbldSN1FFSkh3ZXR5c2dxVW0tdmthaHhHU2RZc1dJR1F3MFdzUnlENXotNEEzOV9MTWphUTI1azVqeEJwTU1DTlZlNktxQVJTWm9YV2FFdGpRMU9ybnR6VWxrUQ?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues - CNBC",
+        "summary": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues - CNBC",
+        "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVX3pnQ1lXY2F2Y3MtZVNTUlZsb2hYeWQxaF9tSTB6aHZRUlR5azdFRkhLOV9EZDZWaHpGUWpqalo2SXVCb1pRQWgyVVNmamsweDJMUzBDeGtUWHBGZ1dRR3p4NHQwNG1CcG51ZWVBM252azBjMTNn0gF8QVVfeXFMUE0zU1ZReFVzWHBKMzliU2ZWbjRMaENCTUwzS3I0TlVwV1Q2dFRkQTNDbU5xelV1MVBWWjZ1NmFJTmNtZEVoc3pXYWRmTXpqUkVoUnlTTHpBbUlOb29aQmExb3NyeTQ2d05ta2VCb1dSaWZLclQ5OUhLSktrbA?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports - reuters.com",
+        "summary": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports - reuters.com",
+        "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3hqMlQtdi1BT1QzTGs4U1BVXzcxb05pRnpHMjI4RjBFekZBQ2lQSVZRTURaN1h3eGlZN0pCdmY1UzdwQzlNeldrMXh0YTFkZmxsdVBmV211YmdwZWIxTTAya1VpLUdtbGNRZkZZbFBVUklUVnVzd1NZRHpSTkpTZ3pWUGhQMmVzaW1qZDYydE83eTBNb3c4T2duTEw2dWx5WUVjZXVTX1Ixb25LR2ExRHlQTDltNWVrLW5KOExsdjJCaFE?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "OpenAI Weighing Funding Round at Over $1.2 Trillion Valuation - Bloomberg.com",
+        "summary": "OpenAI Weighing Funding Round at Over $1.2 Trillion Valuation - Bloomberg.com",
+        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDNxSXBBRlR1elJkWkRRc0NuRm1kMzJqeVNNWHJGbThRaXgzR0VUOXE3UjFRYVpubzJ6ZEVCZXVjLVJiUGNuYzhtUnZid2l4UmNwY0pCMnBMTDZzdjV4MXViRlJ6emszRDJJbTNNeEh1MmhhcDZrY05VaDZwb21yLW5pbVdxWURtcDhYZlBGLWVwYlpDSkF4Q09OMzUzX2pkVmt5akhQMjZCUFdvaGFwQg?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "OpenAI backs bipartisan push to address AI biothreats - Politico",
+        "summary": "OpenAI backs bipartisan push to address AI biothreats - Politico",
+        "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWtzLXBobVZlbEl3NjhNWmoyeXZsMnZRbk80Yi1iWTNFNUdFR1Y3SlkwSktxWlNFcGFUNmN1WWdvOVJuaW9Kcmt0dkN5Vm42OXR6OW5XSk04QTE2TXZCajBlMEp1UVNhZjRxOXNfYUJ4ZTI2YWpsbmM0T0lDeHpPdkNYemlaWHN4UmpKcHRCeFd5SEVERlFlQTV1LWI4Mk5Leng0RXhn?oc=5"
+      },
       {
         "date": "2026-09-14",
         "headline": "OpenAI CEO Sam Altman on AI: 'We could lose control' - Yahoo Finance",
@@ -163,36 +193,6 @@
         "headline": "Elon Musk Drops Apple From AI Antitrust Suit, Keeps Aiming At OpenAI - Yahoo Finance",
         "summary": "Elon Musk Drops Apple From AI Antitrust Suit, Keeps Aiming At OpenAI - Yahoo Finance",
         "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONk9ERWYyYU5XXzcwNWtXTWNPdllvUkd2TUZUamNiOGpOMVJzUlNqaDNiTXp5M05nNTdkQ2YyOWw2RlpsUHhfdzNMYTVDSGJzS1oxelhnMm9zcmxMY3E2RE9CMDA3TVExRU1RV2RnNHRpT1pJRHMzZ21NYkVIeG1wcmxUOGZpVldzaVBNVVl3N2tndw?oc=5"
-      },
-      {
-        "date": "2026-09-13",
-        "headline": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-        "summary": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic (TechCrunch)",
-        "source": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/"
-      },
-      {
-        "date": "2026-09-12",
-        "headline": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "summary": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026 (TechCrunch)",
-        "source": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "OpenAI’s feud with mathematicians is only escalating",
-        "summary": "OpenAI’s feud with mathematicians is only escalating (TechCrunch)",
-        "source": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
-      },
-      {
-        "date": "2026-09-12",
-        "headline": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast - CNBC",
-        "summary": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWdEQ1p3VzJkd2E3ZmYwWmRkRWlwWEhFSm1PTjQ3Y1N1bGNPd1lXcjZncEhPVVNrd3dFT3oxd1FVbzVMZmZTVEJVZGJ6MHNxTUd0eVI5MkpuY191WG9CaUozc3AzWkhPQUlzUDh0dXFqQzlNd09CR0NrQ01NaVBERHhCUE9vcmR1UmlfMFVXdmFlcDNocnJkMkJOa0pWQ0p0SVhia1QwS3A4LVZjYXdfLWhiRTHSAboBQVVfeXFMUE44bkREVTl5S1B2R2RMNUlMSlZlT1N0RU5yeTJLaDhFd0dWZ2wwRmdaVUpWRGpYbTBtVVlITnRNLTJRcW43RlhKQzZFVTluc2E2dVhuSzNOWWtoVzFwRDFDX0wxVWszTDk5NkcxQjNaN3JCWGlpUnhTdGM4dzliVHFQam1IV2x6dW1jMkh4SkFNWjVRbzlSQVpaZEFvbE9QZHNiSWJMS3l4aDVMLVFRdk9FbGYxLXBZdjNB?oc=5"
-      },
-      {
-        "date": "2026-09-12",
-        "headline": "Sam Altman: OpenAI won't go public this year as IPO now would come at an 'ill-advised moment' - Fortune",
-        "summary": "Sam Altman: OpenAI won't go public this year as IPO now would come at an 'ill-advised moment' - Fortune",
-        "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMm5STnhuRG5MT1ZWUjlzeWNqVEFGTjVxaVdkX2hzdjF5VElRajFKd3B2NlkwcWxNSFgwOVczb1l1N284MVlhNTRtMFN4T1dyY1NNVmdFeDBRQVdGWmZmRjdYM0NuTTN5SXhvbi1UaE55TDhCUmdINEZ6c2VobFZQX3ptWm9sTkE3UjB0bDZzNkxlLUxzZHE3N25R?oc=5"
       }
     ],
     "sources": [
@@ -245,6 +245,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-08-29",
+        "headline": "OpenAI Moves To Terminate Cursor Partnership Following SpaceX’s $60 Billion Acquisition Of Anysphere - Swarajya",
+        "summary": "OpenAI Moves To Terminate Cursor Partnership Following SpaceX’s $60 Billion Acquisition Of Anysphere - Swarajya",
+        "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHZVWnM3enVILXVMdld3NWVJdFBoRjdGVldUYUpqRllnVjJaNVVSSGduSTlXQXFGdk1ubi1PRUIwOWY1MzVtbzBDUWkwMm9Eem5tT0p4ZnM3SlRiR01tWkx6dUNEbF9fM2xzaVpLS3hfeG0wUngyRHhzdXJxdEx3bFB0ZUJlRlJuZmxHbjZ5U2pSLTVtNnZVSDh1T3hETlZoVE9EeElvMFZDaUowWGZXUS1vSDlmZ1pCZS1UcEY3NHNwNEU1clHSAdYBQVVfeXFMUEpfYlk1WHZSUjRjaWxqdEZhb1YxYUhDU1F4YmxDSmtwVWJCZTJMWVdiek5WbEw4emhLeDBOb1U1ZlhSY3hiMUxPR1FQcjJGWnI2VWZ2S3lYX2VxUlVIN2prQVhldldxUVY3TVpXRGt3OHFnLTlyR05wN1dJbWpzMFNkdDJuWEM5Z09HaHBQVGhycjF3UWlKajg1X0RTZWZxQmRJS2ZXNkdDbVMtb3NOSnk4dEdHaFhkaXhLRllTWnNtbEJneFBtLVpkU2VMaUpoMXctbkR3QQ?oc=5"
+      },
+      {
+        "date": "2026-06-17",
+        "headline": "Can Anysphere Buyout Drive SPCX Further After a Blockbuster IPO? - Zacks Investment Research",
+        "summary": "Can Anysphere Buyout Drive SPCX Further After a Blockbuster IPO? - Zacks Investment Research",
+        "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUtXNEV4R1dZemVaQ1REYWZCVlVjMmY0TUF3S0Ezc2ZQNkN6c0QzN0tMR2xNb25qUlhXVi0zT2MtRG1vWDBZdTRJS0RPdktIRUhDSm0wVnJqZ0NaU0MwODVpWEh1M2tqYk8xazZXbFZCUi1LNTJGNUxTVmQ4VVlManpONWU4SFdlcmJGYTdqSExWT09nZTdCdjZaSUg0UFZCNWZBdXBwWQ?oc=5"
+      },
+      {
+        "date": "2026-06-17",
+        "headline": "SpaceX Acquires AI Coding Startup Anysphere, Maker of Cursor, in $60 Billion All-Stock Deal - gHacks",
+        "summary": "SpaceX Acquires AI Coding Startup Anysphere, Maker of Cursor, in $60 Billion All-Stock Deal - gHacks",
+        "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSXVOeUtTVzZJMDRWN0Q2YUVUSTJxLVFweU5ZQlRJM1k5ZExndTBQVl9zU2dZcGR6TDhBOW1RenBWbHFhS2lCSnBtYXdwMWJJR0MtR01vX1dFRDkwcGIzV2JYR1N0T0h4c0F6Mlpub1ZwUmVLRmZESVBOUVR3bEJVQ0lBYjdnNVBHYlVpX01zamwwUk1OcHlGSFFZRmt5OE5kNFo1WWpZMlhTMHU3dzhnTFFxdnNLVUgyajNvWEQ2SFY?oc=5"
+      },
+      {
+        "date": "2026-06-17",
+        "headline": "Can Anysphere Buyout Drive SPCX Further After a Blockbuster IPO? - TradingView",
+        "summary": "Can Anysphere Buyout Drive SPCX Further After a Blockbuster IPO? - TradingView",
+        "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0UxR183blRGaWpCN0YyN1h0UnZOR1hqVmRhcHVhNk9VRi1FTENoeVBqRU44NDMzT1poV0p0UDBPT1lDeHQ5VURQR0hLYVdNZlZWRVZ6WHgtNmhwSENCVlV5M3RvcVNjVFZrbVo4bEpXZEZDaTR2M0NhbGx5alJJSmtDbFBkYjI5NFVyVElzVTNBMTRXeE1hZlVwTnpGN3QxZmwySnlpYUljOEx5S2tFZlh2RWFKYXlvWXZJ?oc=5"
+      },
+      {
+        "date": "2026-06-16",
+        "headline": "ANYSPHERE-M&A/SPACEX - The Facts",
+        "summary": "ANYSPHERE-M&A/SPACEX - The Facts",
+        "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM09mRVB6SUFvTDNDMHd6MnJRYllvNEJ5Y1doUTduX09UY1BEeGJJZkNZd2NmSGFLclFVNWh6aEN6TU5Ock4yeVNQTUlyUmJNUHBsMmJ1WkgtSTFHTlNLZlBtbWdZdHN5UC1oSWdTQWhhVHBSaldBQVhVc1pGY2s5cVRXdnNURWdnWUpzUm1XSXIyanM?oc=5"
+      },
+      {
         "date": "2026-06-16",
         "headline": "SpaceX buys Cursor-maker Anysphere for $60B in enterprise AI push: report - Tech Funding News",
         "summary": "SpaceX buys Cursor-maker Anysphere for $60B in enterprise AI push: report - Tech Funding News",
@@ -273,36 +303,6 @@
         "headline": "SpaceX Is Buying Cursor Maker Anysphere In A $60 Billion Stock Deal - Finimize",
         "summary": "SpaceX Is Buying Cursor Maker Anysphere In A $60 Billion Stock Deal - Finimize",
         "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnBDenljRXhaYnl4MUhsOWlnUlFuM3BBUVNjWFRld3V2eTRBRGdIai1nbDI1ejROS3hrbGVtekJkYkVVYkp1a1FRRk5OUXNxUUJYWUQ4UUF3SWM3T09vQlRXejJwNWJqQUZzdXhFWTVxQWdyS21oRFZldjViSlptQzZsVzlQMzBB?oc=5"
-      },
-      {
-        "date": "2026-08-16",
-        "headline": "SpaceX Buys Cursor: 60 Billion for Anysphere, the Largest Startup Acquisition Ever - Pasquale Pillitteri",
-        "summary": "SpaceX Buys Cursor: 60 Billion for Anysphere, the Largest Startup Acquisition Ever - Pasquale Pillitteri",
-        "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHBDQlpvTnRxZjNsb19wbFpRMDRBcHNoUXlndlNuanVqWlJIZEtkUmdBbnpia2lyZDVqNXNHcllrVUI3Vm1uY3dPS0pkWVhfSEJkLThnWWU1UGctM1VpcmVlcFRQRGsxcGZEdjRRNDk5S296SEhlNkdTYzNuakM5dUN6NGl1TjdlYl9Z?oc=5"
-      },
-      {
-        "date": "2026-07-28",
-        "headline": "Anysphere Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
-        "summary": "Anysphere Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
-        "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lbEVILU1wNkNQMUwzeFl5NEhJSVpfVTNOVUtHVTNkSjFkbEpmajctUjJZTGFwYWhtRWZ0TmNZeUdOTXJ0SkRjNXZQTUZxU0ZJeEtKamNNWHowNmx2aVZmQmIzLUtGVHlo?oc=5"
-      },
-      {
-        "date": "2026-06-17",
-        "headline": "SpaceX to acquire AI coding startup Anysphere in $60 billion all-stock deal - ET Enterprise AI",
-        "summary": "SpaceX to acquire AI coding startup Anysphere in $60 billion all-stock deal - ET Enterprise AI",
-        "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUGNmMzA1dU1OYkhjUGF1OUI0MGZrZl9lbXJ0alByUk1kdGl5bXJsVndMTDFuSGdHdndFd2ZvdlBIOXZOcGFucmV1OEJ3QjJiZVdDNGRqTTFuU2NqT2pQeWJIc19xbThoNzZURDhhX1c2cWd3ZGo4aUZaa2k4N0psUDBFUkpWTzZ0RW5CdWxGUFRJN0V6LVVfWTdfaFhpMVdaSUlzeVhiV29mU3VGR1N0amtZM3l3NS1tWUplRWlGTmx4QkZKMUpwekpPMXpMaGJ3YzFhZENDV0gtTHJlZHFr0gHkAUFVX3lxTE9CMFNqbXc5UXdyelNLNDB1NkJ6OWlXaEpPZHpMczk5M0FncmdpaUdHUG5iaXR5SXhFeDFlTUd2a2hMT3RZa2FaU2xmcXJqWElraFd6Tkdta0JQMmN2cWQ2NVFGWUhNQnBVNFJjZXRLZzh1MDhnLXZQMENIUk1kRlB4MHVFeFBKZDV0LV9WV1l6a1dsVHJPdkhXendjUjBQYXVYZHYzb3M5ZFZZazR3WGp4ZURKUmU3anZEM05CYWZCamlPenNxY0tfUjBsSUVaTko5c1U1emtRSXhQbU12U2hqTG12Mg?oc=5"
-      },
-      {
-        "date": "2026-06-16",
-        "headline": "SpaceX agrees to buy Cursor parent Anysphere for $60 billion - qz.com",
-        "summary": "SpaceX agrees to buy Cursor parent Anysphere for $60 billion - qz.com",
-        "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BMDV6LUhyQ3JRYlBRanhYMDJiajhPYmJMWGZxQ1lsZ0hwRXowcDVXSXowUmRoN1NBS3NWVmFpSkljMGRMRzQ3bF9lRmJ5RHhjbHF4QkhTZWJMektFUlBEelVScWMxNnVLeXBQbWt6SWlSOXpxN1ZZ?oc=5"
-      },
-      {
-        "date": "2026-06-16",
-        "headline": "SpaceX to buy Cursor AI parent company Anysphere in $60 billion deal - CNBC",
-        "summary": "SpaceX to buy Cursor AI parent company Anysphere in $60 billion deal - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHRXTE0zckkzcHdQdktMSXk4MTJGUzlpUFptNWNIQzdreDlFakQ3X0N5WDhGX1JWM1c3Nm9pSm81N1dBNHZlcDFFQ3hQNDVpLVQxVkdqOWZkdU1FUGdOY0hQdFRvUmhjd19Td3V2T2RyZlYtYUl3NHo0X3JTRjUxN2pQXy1MTE1sZTR5WGtuWWtEX2kwYW5SSFpxQlNDMnU3YVJrOXFPbWRRRG56UlJv?oc=5"
       }
     ],
     "sources": [
@@ -342,7 +342,7 @@
     "intro": "ElevenLabs is the leading AI voice platform, with the most realistic text-to-speech models in the world and a rapidly expanding enterprise voice-agent business. Founded in 2022 by ex-Google Mati Staniszewski and ex-Palantir Piotr Dąbkowski, the company has scaled to $500M+ ARR by May 2026 and is preparing for an IPO. Eleven v3 (their flagship conversational model) powers 1B+ end users through API integrations with Meta, Epic Games, Salesforce, MasterClass, and Harvey.",
     "product": "Three core platforms: (1) ElevenAgents — enterprise voice/chat agents for customer support, sales, and internal workflows, with deployment at Deutsche Telekom, Square, Revolut, Ukrainian Government; (2) ElevenCreative — generative audio platform for creators and brands, with voice, music (ElevenMusic, launched April 2026), sound effects, and dubbing across 70+ languages; (3) ElevenAPI — low-latency production-grade voice infrastructure used by Meta, Epic Games, Salesforce, MasterClass, and Harvey. Recent additions: Ads Engine in ElevenCreative (June 2026), Flows Agent (June 2026), Procedures in ElevenAgents (June 2026), Dubbing v2 and Music v2 (May 2026), ElevenLabs for Government (Feb 2026), Google SynthID integration for AI audio detection.",
     "funding": {
-      "latest_round": "seed",
+      "latest_round": "Series D",
       "amount_usd": 500000000,
       "date": "2026-07-24",
       "lead_investors": [
@@ -353,6 +353,36 @@
       "source_note": "Series D closed at $11B post-money (3x prior valuation), with additional close in May 2026 including BlackRock, NVIDIA NVentures, Wellington Management, and 30+ entertainment figures (Jamie Foxx, Eva Longoria). Existing investors a16z and ICONIQ participated with super pro-rata. Source: ElevenLabs blog, Reuters, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-09-15",
+        "headline": "Universal Music Group Creates Partnership with ElevenLabs to Launch AI-Powered Music Platform - OperaWire",
+        "summary": "Universal Music Group Creates Partnership with ElevenLabs to Launch AI-Powered Music Platform - OperaWire",
+        "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUEtVbzQyXy0tWF9tZ2pXU3lxeE5fU0Fxc3p1UkdDLWZveTJpbHFZWkxuc296ajBsMGRWWGcxNDNkbXpCbHFTSGRiMkhPQXA2MnFMemZ4eGo1S19xSzZfQkx1LUZ1c3owekhMLWp5UGhwSjQ4MHlpQThhd3pTWUItS0NjMWwwb2J3akYzSUNOZjQzZDFpR01lblBkYy1SSGNyWkRPc0YxYkFNSTBDOVAtelpUaWRqZjA?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "ElevenLabs launched Music v2.5 – shortly after announcing its UMG licensing deal. - Music Business Worldwide",
+        "summary": "ElevenLabs launched Music v2.5 – shortly after announcing its UMG licensing deal. - Music Business Worldwide",
+        "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQTlmZFRYeE40bzFnSVZkSVJraWJsLWxrNWNmX29haEdKZzRVMlRnY0F1VmdicFhsTm04Y3BoSllCMHl2NFZZZklWX0dZSWFqLUVFaGxRY3E0ZEFUX3pweERPRjNqMUkzZmxPSDAySm9HaEhFUnYxeE5zbjgxZjQwWWFoS193Sk5pUW1aTThQOG9Jek5lTHd0Wk9UZzJQVnh4Tno0MjZsdEFZYVUxak5fTkQxdUtnRzI2dUE?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "Antoni Rytel, ElevenLabs: We Need to Leverage CEE's Super Power - The Recursive",
+        "summary": "Antoni Rytel, ElevenLabs: We Need to Leverage CEE's Super Power - The Recursive",
+        "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qREFySDQ3OThEZUtPc2lJZ1lCemhQTzhXbFAxSXhjUjhTUnFQZ1lySnNmRmxEWEJhOC1SX2NWT1ItTzNkbkdiWGhYUmRZMXBjYWtqZTQwZVdIWkVDMmpGOV93TnA0ZzlHeV9iZjZwZlg?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "AIUC Raises $40M Series A to Audit AI Agents, Signs Cursor, Lovable, Harvey and ElevenLabs - AI Weekly",
+        "summary": "AIUC Raises $40M Series A to Audit AI Agents, Signs Cursor, Lovable, Harvey and ElevenLabs - AI Weekly",
+        "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRm5RVmZDYXFUMlJyejdWUG9zRGJGVDEyeXFTZ0oyckx0RWdQcHNIbEpKTE1nZ0o1SlVuMGIzLXdORHMwWElpeWt6cF8wZGE0YzRiazJWeXlWVk1XRGNtZHRlOFZfSVBDcnNEWWl2UE9vdXo5dERDT2ZPS29hNllyQ08zWGthZGUtZ3FTQkd0WXZGdEZqYzREMFQ4MENtOUFBRXBWeg?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "Judges from Microsoft, Adobe, ElevenLabs and Amazon Join the Tech Impact Awards for AI - EIN News",
+        "summary": "Judges from Microsoft, Adobe, ElevenLabs and Amazon Join the Tech Impact Awards for AI - EIN News",
+        "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVpnMkZIaWdYdDJCSlpUWFNfQktWOGw5c2x0cVU3X0U1eHphREloSTY5c2dqNDFPbVdqVWtKeFJ3azdUcktqVi1yMGJaY2Y1MG1QUFZWQ2FzeTg4VWROSEVqczlCWFZydS1DeXh4ZnJJT2dOYVlpRmtVeXlUTzQzcXBLWGwwNnZEeW9OVVJpTS0ydUFoY2JmS1dNUnY2c3E3SnhZZHIwVXVjVUNYd200aTNPX29rbmRfR1pUX1hEcEpFS3ZC?oc=5"
+      },
       {
         "date": "2026-09-14",
         "headline": "Universal Music and ElevenLabs team up to let fans reimagine music with AI - RouteNote",
@@ -382,36 +412,6 @@
         "headline": "UMG, ElevenLabs announce AI music licensing partnership - Music In Africa",
         "summary": "UMG, ElevenLabs announce AI music licensing partnership - Music In Africa",
         "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlk4QTZ6R3dKSGo5MV8zNHI1aFVleDNoSnU1UF91VmZ6ODNnNGJUb1pFTVp2dWpYZFFsR3N2c0xsSmkxT2M0ZXNSak9penJEOVdwUi05dzQyWTVqRDI2eXhvbV9BWkk3UnBFNWhXUGxwTU55TG51T3FVSms0elNGdklpb2xCaXpIZklzTFhaZFBGOUJW?oc=5"
-      },
-      {
-        "date": "2026-09-12",
-        "headline": "ElevenLabs Went From $0 to $600M+ ARR in 41 Months. When the AI Agent Closes the Deal, They Still Pay the Human. With Carles Reina, First VP of Revenue - saastr.com",
-        "summary": "ElevenLabs Went From $0 to $600M+ ARR in 41 Months. When the AI Agent Closes the Deal, They Still Pay the Human. With Carles Reina, First VP of Revenue - saastr.com",
-        "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSm9JRXpEZFJuWHdraTAwX2J2TDJ0TzRsanZ6STNfN3RYbTE0azkwRzdfTzlPRW9GbWpBNExSRHBISXN4YjdqeWFVVDZ5RTJUVGhORHNvU29laU1PSExyRGJqUTI4dTU5SjBVLU5pRklGeHdxZTBuVXBYV0l5ZGJqel9xSHlnMWdiNlJlcFBnUGhVRnNVVG0yckV3NFBZRUVUMVZxOERKd1hoTEZwLWtLTXZIZWVDUGdWNFphYjB3OURNNTJNaERPdVVFdUtHOVMwR25JY0o5ZzRkXzNoNHF3Mk50b1RzcG1HYjhKbE1wbVRJMDZHMG04TXlsZ0I?oc=5"
-      },
-      {
-        "date": "2026-09-12",
-        "headline": "ElevenLabs Music v2.5: Generative Audio Grows Up - The Futurum Group",
-        "summary": "ElevenLabs Music v2.5: Generative Audio Grows Up - The Futurum Group",
-        "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVTUxUFBXREViQzhnVHlEVldSMk9LRWVfYmNUclVHcTNZLV9jZU0xazJ5VU9zNV9Yb0c4Yk1CUWc3S3NpUllEd3Z2d1NWc29vc1RKNHNmUHgxdzdWNWgybG5takRYLWRocHJLb20wZWNacTZsVmpRNk1rNVVXcXMzWVdDdnJoaDhY?oc=5"
-      },
-      {
-        "date": "2026-09-12",
-        "headline": "UMG and ElevenLabs sign landmark agreement to launch licensed AI music creation platform - Adgully.com",
-        "summary": "UMG and ElevenLabs sign landmark agreement to launch licensed AI music creation platform - Adgully.com",
-        "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTlYLTBYRE9ha2NYMzlqSmhQX2lSd2RydjhGTkJqZ01rZG9iNDhRc1B0eFVJRXpyRE1TcUFxWTVCSG4wc2dVVWRNeVBZcXNUWExIcXBwUU8tNld2dGQ2aU5ObDBJdlFyVjU4Z2R4YnVwcmVDQ0NmcXJWTjQwOFJHcVFaUGRyZ3l3UmtUWEtCM2dDbGswZ1NmaFJLQTVndy1PRUlSRG5sSXJteHR3VU5EQTRNZ1hKZm9RMDh5MW1WWno?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "ElevenLabs and Universal Music Group’s new AI music platform will let you create remix of licensed songs - Digital Trends",
-        "summary": "ElevenLabs and Universal Music Group’s new AI music platform will let you create remix of licensed songs - Digital Trends",
-        "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb3dvSUo5aEQ4UDV5bEFkWFVEVDlZZURVbENybWJsYjE1bGhIQTE2MTRsSVV2VV9oeU4zT0dJUlhIQS1FY2dqQ1RuRWQ4eXNMYVJ0VnFDYkh1bm5jS19mQ0k1ZFl3NVoycF9sMGN3WlA4allNRUJVTmJva1V6X1JTMm5nR0IxUFdOMlF6dkZIYWlXN3kzZTJkM0IyS1h6VGx3S0lheEd1eUoxQzdRV0g3Y2o2YWxBVS1TZjRIN29vLV84dUtVN20yTU5CODJZN3R6QnhUQUpiTXRDOFFsTW5Jdw?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "UMG and voice AI giant ElevenLabs launch AI-powered music platform - semafor.com",
-        "summary": "UMG and voice AI giant ElevenLabs launch AI-powered music platform - semafor.com",
-        "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjdDbXAtR3BUSTR1bmtXV3ZjNXpCMDVsQlpXdGdQb2RVNm80UlBaN3h5dkoxR3lCWkJrUzNFb1VTY2pxd1NnQVN1aFFKaFVvWFE4NzgxS2ZuS1A0aTRMNDMzWkpiMTVOQTltYmNUM1RoQ180Vm1ITlgwTFNPLThVWWlyODR5RmRkejNHMU1JZS1oa2V5RE9uMHRUbjMybmFGaWxPd2xReGNwckVRMnc?oc=5"
       }
     ],
     "sources": [
@@ -465,6 +465,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-15",
+        "headline": "Grok AI Predicts that Ethereum Could Hit $12,000 by the End of 2026 - 99Bitcoins",
+        "summary": "Grok AI Predicts that Ethereum Could Hit $12,000 by the End of 2026 - 99Bitcoins",
+        "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT2l4NmV6Tl9ZVzg3UVVZMktyaHVIS1hMX2lxNEo3S2hXTm5aMk40WTZaaVlLRmJUTzluZ05NNENxWm9JN1hNT01weFNaY0J1dlctTlhBUU9pcWpkQk1WLWdMS3NSQ3d1Wl9OZ2t0ZjkwcmROU2hOSnJ3SDViNWY3TXlqWmEtckItNEdXUjVZVGhDV2Z5aEY4SS0yRGMtajgtTnR6UkVR?oc=5"
+      },
+      {
+        "date": "2026-09-14",
+        "headline": "Musk Says Grok 5 Will Be xAI's First AGI Model, Even as He Backs AI Slowdown Calls - finance.biggo.com",
+        "summary": "Musk Says Grok 5 Will Be xAI's First AGI Model, Even as He Backs AI Slowdown Calls - finance.biggo.com",
+        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92VkEyREZzcUlSdk9QVkNtSkpneVVueV85cUtWa1dycllLb0oxMlNXM1loSS1Za1pNVEFWdm1fSkhNWFJnemZSTWFmb0M5cFZoY1pYR3NlYkoybWdpekdGMjFQQ3JOaWUzbVp2WWZfU3pPLUptV3c?oc=5"
+      },
+      {
+        "date": "2026-09-11",
+        "headline": "Elon Musk’s Grok AI Predicts That Bitcoin Could Hit $200K by 2027 - Cryptonews",
+        "summary": "Elon Musk’s Grok AI Predicts That Bitcoin Could Hit $200K by 2027 - Cryptonews",
+        "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZRy0yYkR4RUQ5UmR3dVh0eWl4Nk1GTDJ3cXoyS21iX0dBdDF0U205eG5IazZ6MHJ6cExoMmNZMFM2YjhlZy12bVpQdFN2ZTJBdUNHcEx4YlNBZC16d1Y0Q3NzbzRiSlNyZVdPLXln?oc=5"
+      },
+      {
+        "date": "2026-09-10",
+        "headline": "Grok Bot for Engineering - xAI",
+        "summary": "Grok Bot for Engineering - xAI",
+        "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01cHNkUXU0ZTlJaEdrdndFbTg5aTB6ams4QzJ1YWM1M2t6c1hudjlwQWpramRhOW5NQjIydEFXQTJCMGhwMGdmb0dHelRZUFo5SW1GVDNFVXJUdmZa?oc=5"
+      },
+      {
+        "date": "2026-09-09",
+        "headline": "Elon Musk Grok AI Predicts $250K Bitcoin Price by 2027 - finance.yahoo.com",
+        "summary": "Elon Musk Grok AI Predicts $250K Bitcoin Price by 2027 - finance.yahoo.com",
+        "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREhNX0huLUNDUVRPekhnX3ZqQ196czQwSFZnZGIwaTllWmhYWEd6Vkp2Mzc1cFVGWDMtMFlNdE1ZeHhlYkhUMl9NOUxMUFNMeVBoQlRremt5NElKczZIOXdvUkZPcnlEWFNMQjhaSENuSDVOTVNBdUhtMmgtVEl5eVFpenlicXpkRnlQTjF5bXlCU1M5MWc?oc=5"
+      },
+      {
         "date": "2026-09-14",
         "headline": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down: 'Whoever wins with AI wins' - Yahoo",
         "summary": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down: 'Whoever wins with AI wins' - Yahoo",
@@ -493,36 +523,6 @@
         "headline": "Musk’s xAI Resolves Claims Against Apple Over AI Competition - Yahoo Finance",
         "summary": "Musk’s xAI Resolves Claims Against Apple Over AI Competition - Yahoo Finance",
         "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGM0ZFlaTGQ4UlV4WFN3Vll5a3p2WGxXX1pGaDJ5TWR1OHJtTWU0VE1EMDBlN2VNQURhSzhDaWw3cm5WYWw5d0JaM0hZWW1XMjhUVE9peDk1N3dadmR0bE1mNkZTek1oU3BYa2JwcU5ieXRmSy1KQkx6ZnY1c3Q4YzQ0Z3NNaFY0TUI5OWVfMno3aXd6Q3Qyc0p4WW8?oc=5"
-      },
-      {
-        "date": "2026-09-12",
-        "headline": "Mizzou running back Xai'Shaun Edwards (24) scores a touchdown - Columbia Missourian",
-        "summary": "Mizzou running back Xai'Shaun Edwards (24) scores a touchdown - Columbia Missourian",
-        "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeHd1Q3ZyZzg5VVRjSUllNlBMZXBZdk5vQWN0TFotT0ZOZVJld1AwNjBxbW41MWE3cEdQWkN2a1FVcFRMbk55UzBiZEdYcS0zZjJWRnNJa1J0Q1l3aXcwbmJYV09ZUkpzWk9xbHdyaDZkRVhzWUkyelgybk55NW41Qjc5cnctRldqREJ6QmxfY1p5Vi1rQV80ZHdkOFhVRTVlUThWb0Rrb1JWbjBBVVhnMUtmckNWMWhJa2VPTGhBRHZTUWpZVEt1SzZHT19iNzZLZEYzSFZUM1FfZWU4Nm5SSkt3?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "xAI has quietly built a massive battery at its Memphis data center hub - Canary Media",
-        "summary": "xAI has quietly built a massive battery at its Memphis data center hub - Canary Media",
-        "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3k1RHBYcEFFdmhIX3JSRXJ2R2pRWnNrVGxaanMyWmVyOVh2UnJtYzdYTHRpODY2eWdLdkVBWDVQSmZsektCN0p0d3hFQ1RGRlhXQ3JORl91a0djNkxlbE9KVmQwOWNzdWFtWmF0eW1IMElSRUdHd0VoX0RTSGZRMjRQd1Z4QWxLa3gtaGo0Yw?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "xAI millions stalled: Chaotic meeting ends early as Westwood, Boxtown residents demand answers - FOX13 Memphis",
-        "summary": "xAI millions stalled: Chaotic meeting ends early as Westwood, Boxtown residents demand answers - FOX13 Memphis",
-        "source": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZnJxVGdSOWpaQjNEUkJxZ2NVVEhGRTFjdHlyMFd5SkZsSDh5VU1HOVA2UTJhM2FHMkoyMjlWWkRVdFBFd2FsMnhpWVB5TkFvbTdXNnBzUzNwaFl0am1DM2hORGstcFlsYTNqZTVIaVU1aTYtNGZmbjJ2Sl81cjRrSXoxcmFvdkpMemdfQW5IZ2VxY0o0WUVFVzVLVGxqeUtTMDNGN1RNMUhrOG1vME9DOUhOZTZxQklLcjctaG9DQWFOUFpxYkpYMEp2Q2xpY3E2bUNHUHljdzEtemUzUjZUZHc4bFhxWnNjTk8ybTBvX1lrYkRxdWlsSTVqTzRreUlkZ3AwSGRyTQ?oc=5"
-      },
-      {
-        "date": "2026-09-10",
-        "headline": "Katie Miller Attacked Musk’s AI Rivals While Holding Up to $1M in xAI Stock - People.com",
-        "summary": "Katie Miller Attacked Musk’s AI Rivals While Holding Up to $1M in xAI Stock - People.com",
-        "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc01rbXAzYjZxNUFpTTRFNVBJSmlpbHFQXzQ4SGVweVI5Mld3OXQyQkRYWFdjVTQxT3JoUk9iMktKZEFtQ1RlTW1BTE9FLVJnUDRRa3lqR3djc2NXWnhySDIycWxLd29wYnFWVWNyR3pNNFR2SHFuRWtEc0FadDVYTXF0dUZJdDNIXzRvbElXNVNtVGhjX1U1UjhJbG9uQQ?oc=5"
-      },
-      {
-        "date": "2026-09-10",
-        "headline": "Former VP aide attacked AI rivals as she held $1M-plus stake in Musk’s xAI - Baltimore Sun",
-        "summary": "Former VP aide attacked AI rivals as she held $1M-plus stake in Musk’s xAI - Baltimore Sun",
-        "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVAtWGhZaWg2N3V2R0Vkc3lJT3NFRXA1dEdodXdiTXQ3QjEzdXU4U09vWUhQakxiNy1weE15QWViZFRXTVhFMTlwTEZrQnFmNHNkYXJlOTJyZFdfOUYtSTN4aWphNHZyUHUzNFp3UEQ1cDZzMXZmOWhRV0xJa19oZlp0S2tydEtaVDVURWNjbWI0bWo3M0tXWTZoY1F2VkhMQ1lRcEhBOUViYmgza0FSOVg5RQ?oc=5"
       }
     ],
     "sources": [
@@ -574,6 +574,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-15",
+        "headline": "Zhipu & MiniMax Drastically Slash Sales Expenses: Strategic Cost Reduction Shakeup in AI Sector - 36 Kr",
+        "summary": "Zhipu & MiniMax Drastically Slash Sales Expenses: Strategic Cost Reduction Shakeup in AI Sector - 36 Kr",
+        "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CWkcwb3BiMDhMYUpjdVBieXpXUHZoejFadFBnNUEwdXF4SEJHUnJMZ3pCTll3NnBtWE16bFFkN0c3c0Y3ajFxQkF4Sm5EUUptM1Jr?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "MiniMax's H3 Max Video Model Topped Sora and Veo, Then Its Price Quadrupled - Startup Fortune",
+        "summary": "MiniMax's H3 Max Video Model Topped Sora and Veo, Then Its Price Quadrupled - Startup Fortune",
+        "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFVFWkZUQmt6eEx3QXlUbTRqMTBTa0JfbXBuX3A4QkhPY2FlODYtaE9jZjN6U05rVC1iODd2NFpIR3AySkQxQklIOERNN1FrR0hBbzJLTTN2ZnJBZGJOTDQ4SDBwYmpqal9WeV85VnVsbURRakNvS1RNYl83dldWS3FMSFlJZE9iUWtlUWI3Tkt3N2h5QjNvRVkydnhfcDJIQUlF?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "China's AI Model Companies Shift Growth Logic: Zhipu and MiniMax Double Revenue While Cutting Sales Spending - finance.biggo.com",
+        "summary": "China's AI Model Companies Shift Growth Logic: Zhipu and MiniMax Double Revenue While Cutting Sales Spending - finance.biggo.com",
+        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xRVJpQ1ZSLWp6R2Q4bURLTWd2dzhlbmJtdmZDSS1ZVzRQbktWQXkxREVILTZQLWNOb0oxVW9IeURtdmNVblJfV3BpTEJ2WlEtQU9CeXlsajhCQnV5M2VxY0Zia2hoSUs3bEJFRVpZcF93NHhnQ0E?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "Why is MiniMax stock sliding today? By Investing.com - Investing.com South Africa",
+        "summary": "Why is MiniMax stock sliding today? By Investing.com - Investing.com South Africa",
+        "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcXZna2lDSHgwWkl3YndmWUNGcnQyUVc1STlpODNZOUhDRGJmUFNzT1RwcGl0a2M5bVNMRmdvd2xzZWdHM01XSy0tdjBHVDJPTGNQaUhabm5hNmNfMFdvVmtyY3huS3RudXhyMFJON3hSbndzcVlHVFJWNmNTbnJWVGcwNWV3N1QyVm5PZ1FMdEw5c3RiUThDVi1GNG5hZU9vYjFLQzd2elFnNjA?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "Why is MiniMax stock sliding today? By Investing.com - Investing.com Australia",
+        "summary": "Why is MiniMax stock sliding today? By Investing.com - Investing.com Australia",
+        "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRWtuR3Z6ajlfQkR1WXFCMHBqeGZWdEVTc2tzVkhQMl80em9tN3hRNUVrLTBvQmZ2enJQMHdOYmJmTmttNnVEa2lsUmVHVXBDUDNzRzAtWWh5X19CUUctYWhTbjluN01xTUlRczA3ZHRuUVg1M2Z6MkMzdW5zcWJOU2wyV1lMWXVsdmI5TjRDbUxBQzU3ajhFUjM1OA?oc=5"
+      },
+      {
         "date": "2026-09-14",
         "headline": "港股江波龙重挫9%，智谱、MINIMAX-W跳水，半导体板块大跌，医药、汽车股爆发 - 新浪财经",
         "summary": "港股江波龙重挫9%，智谱、MINIMAX-W跳水，半导体板块大跌，医药、汽车股爆发 - 新浪财经",
@@ -602,36 +632,6 @@
         "headline": "是时候重新评估 MiniMax 了 - PANews",
         "summary": "是时候重新评估 MiniMax 了 - PANews",
         "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hOFRfLWxGSlpuNkRKZmM4M0pyN1RvNjNUX3ZGV29hZUZPa3dmeFdlYklGTWRoUFdJZi13ODNoLWRTWHVGck4ycjVtQnY4VURyTUVhUnJ4Q3BwMXdWVEYyVU5aeEp1eUdPaEdWWmszQkVNVTQ5UEdSS1ltYWhHRmc?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "GLM-5.2 vs MiniMax M3 vs Kimi K3: 6.5x Params Gap [2026] - tech-insider.org",
-        "summary": "GLM-5.2 vs MiniMax M3 vs Kimi K3: 6.5x Params Gap [2026] - tech-insider.org",
-        "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nQllxZ0NCYjN5NGlwUjEyWHdSY2dKQ3NEOFA5cERqYW4zZHQwcUtfYWZtRDg5emN2bzlncXFHYVRDVVM1Z2kxTUdCYzZmdDhYQkUxYS13UGFscEwwanEzRlR0WmlLdkZyNXB0SGxDbWdvdzNk?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "Trending Industry Today: MINIMAX-W Leads Losses In AI-related Newly Listed Stocks - Moomoo",
-        "summary": "Trending Industry Today: MINIMAX-W Leads Losses In AI-related Newly Listed Stocks - Moomoo",
-        "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFdJS2MtdEQ1NlMwU0pqZDdzZVphMVVyT1p5TFNvYjREODRfMWxMMGlsbGJOSmQ3ZmJ4ekttLUE5TmNLb1NXY1ZGSXpmZUZPbWhwZmFWU2lkS29ILXMtSy0tUFJ5WVpGUm1kOXBNY0RwU3p6ZXVFMVA0OUVfbmZlM2psaTVMTjA0RU9zakVqSEt4WFlxZGxpVTVFRUlTVXRQOW9KVQ?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "Genspark extends its gratitude to the MiniMax development team for launching a specialized PPT model based on post-training of M3. - Moomoo",
-        "summary": "Genspark extends its gratitude to the MiniMax development team for launching a specialized PPT model based on post-training of M3. - Moomoo",
-        "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZm5uaV83aGU5WFp5d1FjSGpya0ZqdDhHTWRmWnZxcnUxaG56Z0tqcnUwWmpQRkJWR0I2d09UOEg0RURZWVdDZWZGenhLaEZvNEw2RU0wOHhpcElRV2I0SnVXVWxUVmhRRy0wZkVGN1VEaS16TlRLbmotZDIzOEVnYVkyMlZDRUdEbU5ObmdLVTJBbVk5SnAwOU93bm5OcEl6OTF4M3NaVWtsN0xu?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "Zhipu AI Token Sales Strategy and MiniMax's Quest for Definitive Market Identity - 36 Kr",
-        "summary": "Zhipu AI Token Sales Strategy and MiniMax's Quest for Definitive Market Identity - 36 Kr",
-        "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSU80ektBcV9iQmhXaGFubFNqcXBLRktGdGo4MUpwMFE0ZHZvY1dOQUc5QzhCa2lhVU9zUTc3UWhjMFg4Tk5NOXVBM1dHTy12cFlN?oc=5"
-      },
-      {
-        "date": "2026-09-11",
-        "headline": "Summary of HK Stock Ratings: Goldman Sachs Maintains Buy Rating on MINIMAX - Moomoo",
-        "summary": "Summary of HK Stock Ratings: Goldman Sachs Maintains Buy Rating on MINIMAX - Moomoo",
-        "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTFlfZ3pRMERtNkpZT0xUZHNGN2E1TGFkRml6NjFwekF3aU5uR0FKZWlFc0NpSDJrclJkSHZ4ODRydnc2R1hrNUVxNVNZT1ROTVZKS2VRRUxUSWFnbXlPZjh0M0ZUNkozX0NmR3Vobkh5UTVjZnFyYnc0b2p5T0VVTXhfWmh0dXF6Z0hlbkRhMWV1MWQ3LWlSVGJ6Qy1Oc0QwdVpnekV1WQ?oc=5"
       }
     ],
     "sources": [
