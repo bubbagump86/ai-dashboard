@@ -23,6 +23,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-17",
+        "headline": "The Anonymous Math Geek Who Quit Anthropic—and Became the Face of AI Safety - WSJ",
+        "summary": "The Anonymous Math Geek Who Quit Anthropic—and Became the Face of AI Safety - WSJ",
+        "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfZ1ZRUnVkR2YwbU50cWVaYVhxNEd2YnZ2ZVMzdlJWa1NvTXg3NUEzcEVfOWZ1Z2JuVlRlVVdfbm1HQXBKNEFNNjFJSmJra2FMMU9HZ014ekttTE0wQlJNYktqWFdNNF9YanJuR0NjaThSdk9zRnVVdzEwNTV2Zw?oc=5"
+      },
+      {
+        "date": "2026-09-17",
+        "headline": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears - The New York Times",
+        "summary": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears - The New York Times",
+        "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjdsMmVOalo4al9nOGNOMzl6ZTNwLUFHVzZlN3Ayd1ZUMkhReU4wZ0Y0X05hbnpoWldIQ0ZReUdoNVA5MTRBQUs2ZzZISU56X1dQbTIzRVQ2ZWpHeW5NVDZsdFRyMG9RWDBoYjNmNGU1ckxlNUtsRFo1dy02dlowVlZZWVRBamhHOWtF?oc=5"
+      },
+      {
+        "date": "2026-09-17",
+        "headline": "Anthropic shares 3 metrics to help AI companies monitor pace of development - CNBC",
+        "summary": "Anthropic shares 3 metrics to help AI companies monitor pace of development - CNBC",
+        "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzN2eUY3RnNGdHJMYWNMdS12T3g4WjB0SW1lOUIzNF85bC03a2lZVVo0QXVGc2cyMUUzS0lzUThUZ3BPZkZOalRkejJ0MkwwSC1VQVN6ck9yZHJzUEhoTGstQUEwRll6WHo0dWVxV21kR1FwTTVubWdDWTByWGJpUU1YeU9FYzZOektWZ1dMNmtWUTdveE1id1Y4Q2lHUWhuQ1FKTTFEY9IBrAFBVV95cUxQenhKVjFMSlpUdXlCc21oZTZvR3Ywa0Q3Rk9ILTAteUlXT3ZENFZxOHJxLVlrS0REcnM2NHFzaE9BMFR4N2ZDMnc3djhWN0hrcGN3WlhsZkd0SWs1aThJdk1FSWp5YTdQOS04ZWtVVTB6UzVMTVVURGhPclJjbGpWNUtzUTI2eEJPNjhVQlhxVmk5R09JaURYX3A4UFJYR0sybGdfak9JUHhlcEpZ?oc=5"
+      },
+      {
+        "date": "2026-09-17",
+        "headline": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
+        "summary": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
+        "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5"
+      },
+      {
+        "date": "2026-09-17",
+        "headline": "Anthropic Says Claude Drives 26% of Its Research and Development - Bloomberg.com",
+        "summary": "Anthropic Says Claude Drives 26% of Its Research and Development - Bloomberg.com",
+        "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQW9xMjhvRnlfemhnLXh1SmppNWZ6WHFjYXlUMzVUaDRVcFBlcGVvZjNUX1c4Zy1NcTN6ZXdXc1NzSVcwcDNoTnJ6cGVlb0dEWnRkbGlHbEdPNTFYdjZLb1RSLWFBTFlnMVg1MkFxOFBXeERNR1JsZjlPTFRfZDFteVRCTFcxRG9nVjAxMW1FeEpSV2lXSlBWTXNLT1V6TVYzeHhockFpZ2wzS25qOXIxS0hVWTg?oc=5"
+      },
+      {
         "date": "2026-09-15",
         "headline": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports - reuters.com",
         "summary": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports - reuters.com",
@@ -51,36 +81,6 @@
         "headline": "Schwab scores exclusive (for now) contract with Anthropic and takes AI 'driver's seat' in RIA custody, analyst says, though others counter that it's generic and late-coming - RIABiz",
         "summary": "Schwab scores exclusive (for now) contract with Anthropic and takes AI 'driver's seat' in RIA custody, analyst says, though others counter that it's generic and late-coming - RIABiz",
         "source": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdUtjdmd0azNHNGtDQkpJVzNVYzludUltb1hRNk5KTGxpVXFZSUZXbk1YVmZHckswdUtkbUhiMzAwMDBWTDdNZXdqNlR1cUl0NzgtWE91cjB5eENVRWp1SzA3YTRFTGhwbHFYSDNibGhLVUpBT0Z3S01VLVh4eEd2UVdLZkhrSVBVcHdaa09OZEhLWTE2TmtnSzFGU09LUlNwdlpZbTlMWS1SMzZrUVZxNVJMTkdROHo1YUhIUU15X2xHeEg3eUZuSUFRYXpsbGpOTzhXdVExekNhUHhsX1JYbHV0Sk9PMDZDMFRDc3VqV3NxeGpCTmxXUEZocUJlczhXcG42LVZ5NTFaMjdJbHdXY1Q5S3VrbkVXLXZ6SnYtNXQ?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei - CNBC",
-        "summary": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM01tVUxzRUtNUHM5YmNCSmlMcVZ0VmJrQU5nWmsySTJXZFNnWEhZajZxTmFOLW8ybTd0Z0lxVEZQSlJLVjV1djJROUFleXBmeHRLeDlpTkowNkZTbDZrSGJPVXBRZ2k1MUJZYlR4VThnSUhTNkl6eWhlTTBZS012UnV0a3kyaVlU0gGOAUFVX3lxTE54dzQxUXo4aFdlV2NKVnY1aHczRlZOTDRnaWVxTHFRUEhqUXhCS25Nd2hYYlY4bFh2WFlaTGRJbVdLTzNGajl5Y2FNSWVUSnBrbzJobTllT1M2Z1VxUTFweFZjVmNaNU9pMnRVZ3lsMkNiWmgwUHpYby1mNEI5TlNEdDliRUc0VUgxQnM4aWc?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says - BBC",
-        "summary": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says - BBC",
-        "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LX1VWZndOZkpCRzh4M21BdnVxb0QwNGxiX3UxamJ6TlV4ZDZRZWlhY3RmMS14WjNDazU1YWpKMFF4THhWNFF3eDBndzBqdmRBcFl3dTBiTk1GaXM?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "Should Anthropic press pause on a potential $2trn IPO? - The Economist",
-        "summary": "Should Anthropic press pause on a potential $2trn IPO? - The Economist",
-        "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVRnckxlRnNIdjY3T3JfQ0NmVG5IOFBjUUZHbzdaaldmaEw1cVpkajdoSjRYcDF2d3pMNDVXRkN0MERZZ0dRMnlLN1pkdEtBdk1UQnotQzZNdERpN0tQWUw0Q2tvWmM4NEs1aUh5Z1dxeDBLVjd6aUExUVQ2NUxQZmxidG91RFNpVnR1YzhRRHRrMnE2WDFiVEdYZnB3NFk?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "Anthropic IPO won't be slowed by safety uproar - Axios",
-        "summary": "Anthropic IPO won't be slowed by safety uproar - Axios",
-        "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zS2lQWHFmRUtzYk5hVlFYNWhKR0tEX3ZlajBZT1pQemx0aVcyVXhaVzJRRnRzUGE5NEFnMWJ4Yy1JUUd3ZWdsdExMRjgyMTdqbGxvV2Q4NzdDV2VLOFNmNF8tbWExem5qMFY5Tg?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "Could Dario Amodei's AI safety warnings hurt Anthropic's IPO? - Yahoo Finance",
-        "summary": "Could Dario Amodei's AI safety warnings hurt Anthropic's IPO? - Yahoo Finance",
-        "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNE95ak9wUFY0WloyMFItNWdOWTJRaG9BNjRHaVZ5SHFGRGJBVHVXODV5V0VPWGdTSGxPQkk5RUw0R1ctUnB6ZEpjTFVOZjBiR1B5eWRtVnk3c18xTEhseGFTNm1WUjRoNEU3Z1pzS01TYnh3elFMUmlRUHRWbVN0eWdR?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-09-15",
+    "_refresh_note": "2026-09-17",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,36 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-09-17",
+        "headline": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior - The New York Times",
+        "summary": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior - The New York Times",
+        "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5"
+      },
+      {
+        "date": "2026-09-17",
+        "headline": "The Startup That Built OpenAI’s Biggest Data Center Is Now Making Tiny Ones - WSJ",
+        "summary": "The Startup That Built OpenAI’s Biggest Data Center Is Now Making Tiny Ones - WSJ",
+        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3hWLW1IUElCTmg4TGwzNXN4RkxMVjRlTXZ3Uk9NMnNFOWV3WjZFaDN1cm5XYkdBNDZXbThZeDVadWg0djZiUzc1UWZDQ21ucTVOdmhrc3RwUUhSdEI3c0cyLUM5VUE5ZE8tMm56a3dxc2VsZGxvN0ZTMkg5VjBoT1ZTdm9xRGVPbFFFZEVRdWNkVWNtclF4cE1hNjNmeEowOFBiVkZOZC0zaWNidjg5Tw?oc=5"
+      },
+      {
+        "date": "2026-09-17",
+        "headline": "‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft - 404media.co",
+        "summary": "‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft - 404media.co",
+        "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLS1wOHhDcG5fTG40d210MXhQaURtbktUMXJiMWVFTVhiUVFiX21QVG5pbGVXUHJ6QmU2dFhYOU9aOTVJTFpZTmdUc0JTeklMSF80c1dkV2lPVXFvTkpPUjFranFvdjlGR25KUlJLcE5BczNaMmpPR2JCdXMwbzVZS2ItZVpELWtQR1g1QjAxZFliLUgzLXIyT0pkYlNseER0S1E5ZWxESmFJZWpVRVE?oc=5"
+      },
+      {
+        "date": "2026-09-17",
+        "headline": "OpenAI launches legal-focused AI platform, escalating race for law firm users - sg.news.yahoo.com",
+        "summary": "OpenAI launches legal-focused AI platform, escalating race for law firm users - sg.news.yahoo.com",
+        "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tbFpMc3JDcm9sN29GWlNURm4yYk9pV1VvdTh2Sm1RRUFBVmhGRlhVb3pEN3hqU2JYN2NWUHpCM19GVXBXNjdxWmhiSEM5ZWxqQngtckFVQnFpNWR3QVBoQkJtelVXc3ZOLVVHeW14bTEzNFRjSXFFSTY4dTc3dw?oc=5"
+      },
+      {
+        "date": "2026-09-17",
+        "headline": "OpenAI Is Close To Solving Another Millennium Prize Math Problem - theinformation.com",
+        "summary": "OpenAI Is Close To Solving Another Millennium Prize Math Problem - theinformation.com",
+        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLWRVSHVabXNvMG80VURJcTZ5SUNadGpvT1FIaWVESG1yekJiSHJ5cHJnQjZ1WVFveS1sc3FKN2xHcmhKQVBaUnJzWTh1VHFiRFE1Uk51TlB0dm9WVFF2S3BPVi1Rb01tNVJNMFQ2RXl5S1NPVW9oMVhVcVpnMlVlRkxFWkdlLVFUSDNkbmJCY2gyUnI4V0tFT04tcDd6U3JIa0c0a2dZWnJmSEE0YWlRMg?oc=5"
+      },
       {
         "date": "2026-09-15",
         "headline": "OpenAI Eyes Canada for Data Centers, Praises Carney’s Plan - Bloomberg.com",
@@ -163,36 +193,6 @@
         "headline": "OpenAI backs bipartisan push to address AI biothreats - Politico",
         "summary": "OpenAI backs bipartisan push to address AI biothreats - Politico",
         "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWtzLXBobVZlbEl3NjhNWmoyeXZsMnZRbk80Yi1iWTNFNUdFR1Y3SlkwSktxWlNFcGFUNmN1WWdvOVJuaW9Kcmt0dkN5Vm42OXR6OW5XSk04QTE2TXZCajBlMEp1UVNhZjRxOXNfYUJ4ZTI2YWpsbmM0T0lDeHpPdkNYemlaWHN4UmpKcHRCeFd5SEVERlFlQTV1LWI4Mk5Leng0RXhn?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "OpenAI CEO Sam Altman on AI: 'We could lose control' - Yahoo Finance",
-        "summary": "OpenAI CEO Sam Altman on AI: 'We could lose control' - Yahoo Finance",
-        "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2RPZm8yNWFPclE5WVBzc2ZtT0M0bDJZNURQblpGeXdfRk1DS2lKcXB6WWhoMGlOaWlxQjhrYzlaZEpTREdlcElSTlNqd0h1U1pNTFdxSGJ1WkN3cmVtRzl0dnBqbmZycTh3eEVwaG51YXJRQUVCTXRBYXBZYlp5eVRiazI4RF9VOXhGYVRUTlVsYl9HeEFOUjdWdUR6bHJwazNiRDE0VEVrRktBX0E?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "Exclusive | OpenAI Buys Startup Developing Smartphone Camera - WSJ",
-        "summary": "Exclusive | OpenAI Buys Startup Developing Smartphone Camera - WSJ",
-        "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTZxRTlsbk9LSDQ5WG1KdmRfc2ZtbGdUVFNnR0FtdW9zUlc5SmRsWi1RZ09ubldJQjBuOGRkaVBEckloOUFvQVhTZEJyRFBDcnFweXNmOEJ4alRyenB1ZkI4c21leU5wUzYtZGcxa282VldpR21sNzh5R1pnaWdLSXVRS20waDkyZVE?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out - Ars Technica",
-        "summary": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out - Ars Technica",
-        "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcE5ZMmNtbzdjVmR0QmRMX3RfVTMyaHp4YVA4bE5HNlQtVXAwZW44RGxTM3dhY0pkRE5DYlk1OUFwdnZRM2cxX2V4VlY4cVZmZXp1cG42UjltLXhDN2ZaN1haQ3Vpc29pU1BFLS1HUGNvbm1waENTNG9wZmkxUHh0ZllvS0x2RDczOHRkazc2blZJTnNPN1lCTlJyMnJncS1uczdOZ0prc3JYdER0RzVB?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "Apple takes OpenAI to court - CNBC",
-        "summary": "Apple takes OpenAI to court - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ybVdqR2dsVjdsVm93c3dlUUlzRmQ3TEZPM0lyU25JbmtqTDQwdkpuUHpPV1hWZTg4YzlkN2JwTFA4MGo0WS15ZmpoZFpNQ2VyM2JaOW9mUzZqaGo2QjdlMGpjU213dlNzZF82eWlWU0RBdVZNdUk5UUNn?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "Elon Musk Drops Apple From AI Antitrust Suit, Keeps Aiming At OpenAI - Yahoo Finance",
-        "summary": "Elon Musk Drops Apple From AI Antitrust Suit, Keeps Aiming At OpenAI - Yahoo Finance",
-        "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONk9ERWYyYU5XXzcwNWtXTWNPdllvUkd2TUZUamNiOGpOMVJzUlNqaDNiTXp5M05nNTdkQ2YyOWw2RlpsUHhfdzNMYTVDSGJzS1oxelhnMm9zcmxMY3E2RE9CMDA3TVExRU1RV2RnNHRpT1pJRHMzZ21NYkVIeG1wcmxUOGZpVldzaVBNVVl3N2tndw?oc=5"
       }
     ],
     "sources": [
@@ -354,6 +354,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-17",
+        "headline": "Europe Tech Fund Said In Talks to Back AI Startup ElevenLabs - Bloomberg.com",
+        "summary": "Europe Tech Fund Said In Talks to Back AI Startup ElevenLabs - Bloomberg.com",
+        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNclI5RXJXcXlOOUwyY3RyaWxLYVNzWkFSZUVZTGp2ZmNqNWtkbHAxdzhkdjBQQmRsbHM3UklTWnJrQW5TZi1xeWo5MjlyZ1hqME1lbkxCclJJc3JHRzg1b2JITFppejlBTlRrVXM2MEhMQjJnWUhRbUt1a2t2Ql90QU1iY3hmVHNZUW5fb3Y0a3NpZDRRWU9qM0U5ZjlmR0FueEVOVTlfYzFONnJLVkVDVw?oc=5"
+      },
+      {
+        "date": "2026-09-17",
+        "headline": "Sources: European tech fund in talks to invest in ElevenLabs - BN - marketscreener.com",
+        "summary": "Sources: European tech fund in talks to invest in ElevenLabs - BN - marketscreener.com",
+        "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0hmeGpsMkxvRzJKemd0MmZZYUs3ekVIbjVzMGQ0Skp4M3JHR0xmZTR6bWJ1QU1OVDZ5ZUJ1Rzg3UzNDTms1azNRd2htUG1LS002ZzZhZkNmWURHb0VBb2Q1dUhiYS1IR1BNTFAxdUJ4YnZXLW53TTdlX1F1QVZjeElfMnhTQ0t6cDZVZlB4Zk9nSFRjMFpacTkyckEwRVJRZ0tWc0VVc0RBMEJ3dDhmUklSaVZDdw?oc=5"
+      },
+      {
+        "date": "2026-09-16",
+        "headline": "Universal Music Group and ElevenLabs join forces on new AI music platform - RouteNote",
+        "summary": "Universal Music Group and ElevenLabs join forces on new AI music platform - RouteNote",
+        "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR3ZIRjY4TFBiRjFxUHN4eHItQW5NeGYyWXAzdWJVUjNNSTBUWDNJR0Jjdk43UnN0a3hMYUFRUjNmMHFHS09oZDVpVzJlXzNsZHNKR3ZKbGVycV9tTTYzUENjZHBmazltelA1aTFmb0Vsam5MYWhxMUJZZmxBWjdkQThNQmhUTHFxNHM1YlB4czV6ZGxzQnVVRWd4cGJ2U0dtU2gw?oc=5"
+      },
+      {
+        "date": "2026-09-15",
+        "headline": "5 things You Need to Know About ElevenLabs, the UMG AI partner with an $11B valuation – and big ambitions in music. - Music Business Worldwide",
+        "summary": "5 things You Need to Know About ElevenLabs, the UMG AI partner with an $11B valuation – and big ambitions in music. - Music Business Worldwide",
+        "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbmpIQkhpOFZyTUhYWFVfdWE0TXZsSVh3LUV5VmNlbXRTeFRXRV9QS2RZazJZNEF1NU5uVGJQdWdpSmJCVVJIa29mUEVsRmpJR3RRQU0zbFFlOGMzV1A2Z0JqQnhLMHdZcFFMRGxaOElhWUJHNVlON2dUR1BOWGVONTU0akxDMnRMa0h4azk2MUFUdHdMdElBMVhvNHpHd00zLTV3S08tWWlhWGlQQjRYZFE1Zm10OEgwMGF5aUJLMUo2b0NTNzN4MDRHY1RQTjZoTkpfLURFVnJQdC0wWnZ5cWp2eG4?oc=5"
+      },
+      {
+        "date": "2026-09-14",
+        "headline": "ElevenLabs Hires Former Adyen CFO Tandowsky to Drive Global Expansion With IPO Expertise - finance.biggo.com",
+        "summary": "ElevenLabs Hires Former Adyen CFO Tandowsky to Drive Global Expansion With IPO Expertise - finance.biggo.com",
+        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tU19lRnJEV1RLQnpSYnhhR0YwaWtjWGFURXFDR3djSHQyRWExMDNBNDhsekFaa052dXo0Qk1VbFRSOENoUXRLRWN1NzVQeERSQXpxNWpyVjg3UWVPRlZZdGtWZUJkTHA1Z01renFnUVFYUWNUU0E?oc=5"
+      },
+      {
         "date": "2026-09-15",
         "headline": "Universal Music Group Creates Partnership with ElevenLabs to Launch AI-Powered Music Platform - OperaWire",
         "summary": "Universal Music Group Creates Partnership with ElevenLabs to Launch AI-Powered Music Platform - OperaWire",
@@ -382,36 +412,6 @@
         "headline": "Judges from Microsoft, Adobe, ElevenLabs and Amazon Join the Tech Impact Awards for AI - EIN News",
         "summary": "Judges from Microsoft, Adobe, ElevenLabs and Amazon Join the Tech Impact Awards for AI - EIN News",
         "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVpnMkZIaWdYdDJCSlpUWFNfQktWOGw5c2x0cVU3X0U1eHphREloSTY5c2dqNDFPbVdqVWtKeFJ3azdUcktqVi1yMGJaY2Y1MG1QUFZWQ2FzeTg4VWROSEVqczlCWFZydS1DeXh4ZnJJT2dOYVlpRmtVeXlUTzQzcXBLWGwwNnZEeW9OVVJpTS0ydUFoY2JmS1dNUnY2c3E3SnhZZHIwVXVjVUNYd200aTNPX29rbmRfR1pUX1hEcEpFS3ZC?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "Universal Music and ElevenLabs team up to let fans reimagine music with AI - RouteNote",
-        "summary": "Universal Music and ElevenLabs team up to let fans reimagine music with AI - RouteNote",
-        "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNlREMTdKZmJXM3l2SVdBa1Z1MTg4TTdkRm5UOVBGdVpWejJqTFRyS0tDaWd4cG9vUURsMDFmb0l4ZkZRNVBfSEFhMW5CZzdObm5LSWlZV040bkZCTVVzbEt0aG9KN2F0dTVtajdYXzZ3RFpkY2tvMzVMdEcxdVlSbmdLa0psUlBsd29Odi1wRzhkdThYWmNjQ1E5dEthbERhT2JDUA?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "ElevenLabs MCP can now generate voice, music, images & video - TestingCatalog AI News",
-        "summary": "ElevenLabs MCP can now generate voice, music, images & video - TestingCatalog AI News",
-        "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmgtajc4cUZsMGIxUld0a3daNkVnd0liMkpDNUctMEZLbWNWSndBaXlCY0duMDVWaXFnUzN2S2RQMDUwc2pBZ19uaHBFN2JrbDVpcUwxUWdwMWFTM3dfSWlkTERNcGhFTHJpMzJpc2YyTnFlM2JWaTdfaVFWc3Q4b2dhdkpjOUZsZlhKamp1N0MzZw?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "ElevenLabs Launches 'Best Ever' Music Model, But Not With UMG - Digital Music News",
-        "summary": "ElevenLabs Launches 'Best Ever' Music Model, But Not With UMG - Digital Music News",
-        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzbFloVXBOeS1aeEZ1czBJTkF3YjV0WWMycmNmNE54cHVKa3dmcC04N1IzV3BwZ3p2eGFQZU9zM2U4TDRSeWFnSnFaMHVPQVJXMnJXOWJxVUFMcmdmMFhVcUVtN2JGY2lraXd3TnZnM3ptQmN0S0E?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "ElevenLabs unveils ‘Music v2.5’ – but UMG wasn’t involved - Music Ally",
-        "summary": "ElevenLabs unveils ‘Music v2.5’ – but UMG wasn’t involved - Music Ally",
-        "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbjdzSWZ1dkM2VUpJS09FQkZKTk5veEY1ZXRvdDlQUXF0anFNQ1dhanNKYzhKZUxPbTcxNl94TjQ5NlUyM1FtVlRETHRicm5VZ1VRcVNkcXRmS3pRLW5xSEJVMENNdThCaTI4SEVpb1dYclF2UnhLNkRaaFZrUUZ2MmpxdGNnYlN6MWt0YmdKZw?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "UMG, ElevenLabs announce AI music licensing partnership - Music In Africa",
-        "summary": "UMG, ElevenLabs announce AI music licensing partnership - Music In Africa",
-        "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlk4QTZ6R3dKSGo5MV8zNHI1aFVleDNoSnU1UF91VmZ6ODNnNGJUb1pFTVp2dWpYZFFsR3N2c0xsSmkxT2M0ZXNSak9penJEOVdwUi05dzQyWTVqRDI2eXhvbV9BWkk3UnBFNWhXUGxwTU55TG51T3FVSms0elNGdklpb2xCaXpIZklzTFhaZFBGOUJW?oc=5"
       }
     ],
     "sources": [
@@ -465,6 +465,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-17",
+        "headline": "Elon Musk Lives in an Airstream Trailer in Memphis to Personally Oversee xAI Supercomputer Expansion - finance.biggo.com",
+        "summary": "Elon Musk Lives in an Airstream Trailer in Memphis to Personally Oversee xAI Supercomputer Expansion - finance.biggo.com",
+        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45V2d1eGhYWjA4ZTFrOXJRa3loVl9KOHdzcVNYbGM3UkFaX0FydGRhM3NjUUN6S1hjeU81em5qMlpPbjdPaERocTVIbENCcUt4Z2c4UDZKN2M3ZF9nd2RwTGtRNHJaSkxQNVV3OGdvRW8xRE9ZX1E?oc=5"
+      },
+      {
+        "date": "2026-09-17",
+        "headline": "Elon Musk Resides in Airstream Trailer Amid xAI Expansion - GuruFocus",
+        "summary": "Elon Musk Resides in Airstream Trailer Amid xAI Expansion - GuruFocus",
+        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWZrY04zOHp5T2JWOVM5YjlDQUhQU1NMeWxCMllQR3h2VzhMUFZ1Qk1wUTZHdGVXRjRWUXVVNXRYenRmTDJCWGx6dEFiUk1lM0EyM2V3SU91SEpHNFQ2QWRyYTJjUExUNmkzSGx5S0VjTk01bks0ZktNR1FjODBNdElnYW9zLTBCeVFHOHlYM1k1aTEtbzA5SUxuTHE?oc=5"
+      },
+      {
+        "date": "2026-09-17",
+        "headline": "Ozi Amanat, Backer of Neuralink, SpaceX, xAI, Raises $200M for K2 Global - TechBullion",
+        "summary": "Ozi Amanat, Backer of Neuralink, SpaceX, xAI, Raises $200M for K2 Global - TechBullion",
+        "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWhsRWs0TldiUk12cnpnZVJlT0xaU2ZCYnlEaFR4X1FGa3FWZzh6UjdxdkpRdVVNV3BwS3VpZGc0dGZWeW9LdnRhOXV6VGdHNFUtMEhZeUhDejZUdW1yc29OUUZlTS1oVVg4UlloRW83ZVU0MUNiaG5ydDRPTUlaRndqUm1OcXNQUXFITGFIdnJuQVN0U2pj?oc=5"
+      },
+      {
+        "date": "2026-09-17",
+        "headline": "Grok AI Predicts Solana to Hit $450 by 2027: How Will it get There? - 99Bitcoins",
+        "summary": "Grok AI Predicts Solana to Hit $450 by 2027: How Will it get There? - 99Bitcoins",
+        "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjlubm1mb255Q1I2b3c2ZWVRS2NkSlVsWnZwZjVab2EtRUU5eFdVQVNOLTZuLXNMRHB3TGdLczQzWjFmTVhBUTBrWG5yRVJTMDJUUElYNXRaWkMzWlNjQ0tscmdzX0JfOUNYYkUwOU5Xa0dod0lYbkt4a3BEdjhFWTNtNUpLbUxoNFBF?oc=5"
+      },
+      {
+        "date": "2026-09-16",
+        "headline": "xAI models now available in Microsoft Copilot Studio | Microsoft Copilot Blog - Microsoft",
+        "summary": "xAI models now available in Microsoft Copilot Studio | Microsoft Copilot Blog - Microsoft",
+        "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZTIxYVo1OWFMVVFjOXhDb0hQWDc2VXI4WmdXbkxrdnhiQ21GSXZubTBFZWdYd0FpUmlVbUQ4Z2xVNU5DSmU1T2lWQzh3TVEzNDAzU1lQMUwtelU3ZnZfb1NXQnc1bmVXamVpdHRQclJvSUItZmlkaEMzR052RE53RGNFWnNnRnJWZG1HeTVVaHh2VmJqRUlDN1p0RzRkYnBucnQ2dmMza0pJOGpHMjdVaXRXRUdNbXM3RjBqTDhva3NnZHkwQ25RMU9fWHN3X0Z4ZFJ3Tkk2SGJCTWk0QVQwMFRQRQ?oc=5"
+      },
+      {
         "date": "2026-09-15",
         "headline": "Grok AI Predicts that Ethereum Could Hit $12,000 by the End of 2026 - 99Bitcoins",
         "summary": "Grok AI Predicts that Ethereum Could Hit $12,000 by the End of 2026 - 99Bitcoins",
@@ -493,36 +523,6 @@
         "headline": "Elon Musk Grok AI Predicts $250K Bitcoin Price by 2027 - finance.yahoo.com",
         "summary": "Elon Musk Grok AI Predicts $250K Bitcoin Price by 2027 - finance.yahoo.com",
         "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREhNX0huLUNDUVRPekhnX3ZqQ196czQwSFZnZGIwaTllWmhYWEd6Vkp2Mzc1cFVGWDMtMFlNdE1ZeHhlYkhUMl9NOUxMUFNMeVBoQlRremt5NElKczZIOXdvUkZPcnlEWFNMQjhaSENuSDVOTVNBdUhtMmgtVEl5eVFpenlicXpkRnlQTjF5bXlCU1M5MWc?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down: 'Whoever wins with AI wins' - Yahoo",
-        "summary": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down: 'Whoever wins with AI wins' - Yahoo",
-        "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYmRocGlCNXNxRmlhcGNBbk0xcWxmdy03MFFyVDAxVmtUQVR0ZVNrM0plWWc3SktOZGxjSm12TzN4bGFsR2l1NGNOYjlvZGxvbnFWOTlVaWFpd0tNMHJDR3pSZEpJYm1IU0JnRFQ3UG05Q1g0NkpSQ2tmb0hLLWV3QklldnZjaDc2UU5XeVBSQ1YyRmFVMTRFMVRTM0c5S0Zyc1RlWVJ5TmR5VExHLVJKVlphVTJCSDVIVHN0bVNyOEliWWN5MmFRbkV4cEhpY0ozRVJIY01Ba0JHaTRuSFRrbHp3SQ?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "Elon Musk Expects Grok 5 to Reach AGI as xAI Prepares Grok 4.8 Reinforcement Learning - TipRanks",
-        "summary": "Elon Musk Expects Grok 5 to Reach AGI as xAI Prepares Grok 4.8 Reinforcement Learning - TipRanks",
-        "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajM2YUlWSHU3bWgzWFVxTVVxTHNZal81UTRvWk9sTDJBU2V5cFE2dmV0X2RxaEVQbnVvYkZsTTFueEtYMlRpQ1FvTU5NbUZ5ckZ4ZVFlcGQ1M2RBcVp4cm1aSzIyb1o3MmhwYzFqR3FINDQ1WGdTYVR3RzloUHhpSWRWa1hGTFZvSVVIdUtwU3huUnhGdldYeWVnbmFleGp0NXR6WWdmRElFUkROd0ZtNW9sMWhhdw?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "Musk's xAI asks court to block Minnesota AI 'nudification' law during appeal - Reuters",
-        "summary": "Musk's xAI asks court to block Minnesota AI 'nudification' law during appeal - Reuters",
-        "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdk1uLXZfMHNrZlF6UmxRN2ZzUndiMkc3MnNlYlZrcFMxdktNTTVZeHdzb2tMc0E2YVo3UzFTd2VTTXFNWDdYcEFzeHVQdUx6cUtrdGVHSTVIbmNyVW43Wm0zcDYzUWxZajZzdThBdDYwVklPMjZaRHdKZkdZX1JnbGVjcGctRGxnZC1Pcnp1c1FqVVI2U2paUUJCb3dkTkJScFI0RVRSekJlYkJjOVhJclV5T1E5UXg0UEpVV2R0LVE?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "Musk’s xAI Resolves Claims Against Apple Over AI Competition - Bloomberg.com",
-        "summary": "Musk’s xAI Resolves Claims Against Apple Over AI Competition - Bloomberg.com",
-        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaFE3UC1FQ2RSQWZVR0piQ1BlQ19jZEhYQkNRcV91OGFhbzlNUGJsaEZ4MUc4RGt4LWt5NkF6WGtGTHd6NlBNVHBUMDIxb0NRVnBsTXZZaGkwS2ZZbzJmUHBLOUR5azZ4eXFrSndtcDYzb2Z2bUlCejVDTUFTX2ptOUxUR25VRC1HWHppNkhYS2lsdmVPMXZOZERMWmQ0Uk5MeEtKTERnMGlKdXdxWmNlSw?oc=5"
-      },
-      {
-        "date": "2026-09-14",
-        "headline": "Musk’s xAI Resolves Claims Against Apple Over AI Competition - Yahoo Finance",
-        "summary": "Musk’s xAI Resolves Claims Against Apple Over AI Competition - Yahoo Finance",
-        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGM0ZFlaTGQ4UlV4WFN3Vll5a3p2WGxXX1pGaDJ5TWR1OHJtTWU0VE1EMDBlN2VNQURhSzhDaWw3cm5WYWw5d0JaM0hZWW1XMjhUVE9peDk1N3dadmR0bE1mNkZTek1oU3BYa2JwcU5ieXRmSy1KQkx6ZnY1c3Q4YzQ0Z3NNaFY0TUI5OWVfMno3aXd6Q3Qyc0p4WW8?oc=5"
       }
     ],
     "sources": [
