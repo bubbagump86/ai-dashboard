@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-17T23:03:07+00:00",
-  "as_of_date": "2026-09-17",
+  "last_updated": "2026-09-18T23:02:47+00:00",
+  "as_of_date": "2026-09-18",
   "companies_tracked": 40,
   "categories": 10,
-  "news_items": 357,
+  "news_items": 358,
   "capital_raised": {
     "total_usd": 239981600000,
     "disclosed_count": 36,
@@ -19,8 +19,8 @@
     "note": "sum of arr_usd; only disclosed companies included"
   },
   "combined_valuation": {
-    "total_usd": 2875760000000,
-    "private_post_money_usd": 2561530000000,
+    "total_usd": 2860760000000,
+    "private_post_money_usd": 2546530000000,
     "private_count": 25,
     "public_market_cap_usd": 314230000000,
     "public_count": 4,
