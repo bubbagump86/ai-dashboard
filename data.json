@@ -24,6 +24,18 @@
     "latest_news": [
       {
         "date": "2026-09-18",
+        "headline": "Anthropic is operating a lab that conducts biology experiments",
+        "summary": "Anthropic is operating a lab that conducts biology experiments (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
+      },
+      {
+        "date": "2026-09-18",
+        "headline": "Anthropic’s first embedded evaluator is … Accenture?",
+        "summary": "Anthropic’s first embedded evaluator is … Accenture? (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
+      },
+      {
+        "date": "2026-09-18",
         "headline": "Anthropic Moves Ahead With I.P.O. Plans Amid A.I. Safety Debate - The New York Times",
         "summary": "Anthropic Moves Ahead With I.P.O. Plans Amid A.I. Safety Debate - The New York Times",
         "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzNk1Xck9GUE41UTZPc1p6elBuenQyZnA3bEg0WFEyeHNLNXBfNXZmZUNIOUtodnVSaWFXRGtueDFzenhuMS1xYVBvSjIwM0RQM25fSWtoVUszVmJCZEg5Q2RFb1llLVNlOEN4VjR1eDg0dWJyc09tN0QxNnZQeWc?oc=5"
@@ -69,18 +81,6 @@
         "headline": "Anthropic shares 3 metrics to help AI companies monitor pace of development - CNBC",
         "summary": "Anthropic shares 3 metrics to help AI companies monitor pace of development - CNBC",
         "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzN2eUY3RnNGdHJMYWNMdS12T3g4WjB0SW1lOUIzNF85bC03a2lZVVo0QXVGc2cyMUUzS0lzUThUZ3BPZkZOalRkejJ0MkwwSC1VQVN6ck9yZHJzUEhoTGstQUEwRll6WHo0dWVxV21kR1FwTTVubWdDWTByWGJpUU1YeU9FYzZOektWZ1dMNmtWUTdveE1id1Y4Q2lHUWhuQ1FKTTFEY9IBrAFBVV95cUxQenhKVjFMSlpUdXlCc21oZTZvR3Ywa0Q3Rk9ILTAteUlXT3ZENFZxOHJxLVlrS0REcnM2NHFzaE9BMFR4N2ZDMnc3djhWN0hrcGN3WlhsZkd0SWs1aThJdk1FSWp5YTdQOS04ZWtVVTB6UzVMTVVURGhPclJjbGpWNUtzUTI2eEJPNjhVQlhxVmk5R09JaURYX3A4UFJYR0sybGdfak9JUHhlcEpZ?oc=5"
-      },
-      {
-        "date": "2026-09-17",
-        "headline": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
-        "summary": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
-        "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5"
-      },
-      {
-        "date": "2026-09-17",
-        "headline": "Anthropic Says Claude Drives 26% of Its Research and Development - Bloomberg.com",
-        "summary": "Anthropic Says Claude Drives 26% of Its Research and Development - Bloomberg.com",
-        "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQW9xMjhvRnlfemhnLXh1SmppNWZ6WHFjYXlUMzVUaDRVcFBlcGVvZjNUX1c4Zy1NcTN6ZXdXc1NzSVcwcDNoTnJ6cGVlb0dEWnRkbGlHbEdPNTFYdjZLb1RSLWFBTFlnMVg1MkFxOFBXeERNR1JsZjlPTFRfZDFteVRCTFcxRG9nVjAxMW1FeEpSV2lXSlBWTXNLT1V6TVYzeHhockFpZ2wzS25qOXIxS0hVWTg?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-09-18",
+    "_refresh_note": "2026-09-19",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,12 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-09-18",
+        "headline": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "summary": "A new kind of AI model from a ChatGPT inventor is thrilling developers (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
+      },
       {
         "date": "2026-09-18",
         "headline": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC - CNBC",
@@ -187,12 +193,6 @@
         "headline": "OpenAI launches legal-focused AI platform, escalating race for law firm users - sg.news.yahoo.com",
         "summary": "OpenAI launches legal-focused AI platform, escalating race for law firm users - sg.news.yahoo.com",
         "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tbFpMc3JDcm9sN29GWlNURm4yYk9pV1VvdTh2Sm1RRUFBVmhGRlhVb3pEN3hqU2JYN2NWUHpCM19GVXBXNjdxWmhiSEM5ZWxqQngtckFVQnFpNWR3QVBoQkJtelVXc3ZOLVVHeW14bTEzNFRjSXFFSTY4dTc3dw?oc=5"
-      },
-      {
-        "date": "2026-09-17",
-        "headline": "OpenAI Is Close To Solving Another Millennium Prize Math Problem - theinformation.com",
-        "summary": "OpenAI Is Close To Solving Another Millennium Prize Math Problem - theinformation.com",
-        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLWRVSHVabXNvMG80VURJcTZ5SUNadGpvT1FIaWVESG1yekJiSHJ5cHJnQjZ1WVFveS1sc3FKN2xHcmhKQVBaUnJzWTh1VHFiRFE1Uk51TlB0dm9WVFF2S3BPVi1Rb01tNVJNMFQ2RXl5S1NPVW9oMVhVcVpnMlVlRkxFWkdlLVFUSDNkbmJCY2gyUnI4V0tFT04tcDd6U3JIa0c0a2dZWnJmSEE0YWlRMg?oc=5"
       }
     ],
     "sources": [
