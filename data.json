@@ -23,6 +23,12 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-23",
+        "headline": "Anthropic says its biology lab has already found something big",
+        "summary": "Anthropic says its biology lab has already found something big (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"
+      },
+      {
         "date": "2026-09-22",
         "headline": "Introducing Claude Opus 5.5 - Anthropic",
         "summary": "Introducing Claude Opus 5.5 - Anthropic",
@@ -75,12 +81,6 @@
         "headline": "NScale ties executive compensation to Microsoft, Anthropic agreements - Axios",
         "summary": "NScale ties executive compensation to Microsoft, Anthropic agreements - Axios",
         "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb0gwR05UX0NfQkFJdzdOdHlIZTl2OV9XLVNPLXQ0YTBndVZYZW5icmtyaHJBblNCOG5PNkd6Y1E4dmhETTdUaE9LSWMyRjRnWUlqVUJWUG1tM1JteHdrWXE3dkM5NjVRQ0FTSmUxcXlaNGh5Xzh6Mkl0MmFGWUFmeEw0VWhCMGRvX3h5Z3dEei1JR1JM?oc=5"
-      },
-      {
-        "date": "2026-09-21",
-        "headline": "Accenture Shares Climb on AI Safety Partnership with Anthropic - WSJ",
-        "summary": "Accenture Shares Climb on AI Safety Partnership with Anthropic - WSJ",
-        "source": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeE1BTGlPUnUyd2tnQlpWUVc2LUo0Nm1peDRvUmhSZWFaZDBsUlFhR1pCU3hzcEVHanQ5OHVHQjlsQlBWTXdtZnptLTI5R21FQU1zSldzSWVVR1lFZXNnb0k5TmVRaVVva096YjdENnE1ZFphOUVQcFRzdW81bkxzMVNaNGdtbEtzaF9uZjlIaGczOEY2cGRmM0FBRDhPcEc3UGZXZkhEVDQ5NlhJMGFTYzNkWG1SY2lURTFPNXFhQllZZzE1QVk3N0lyM2NDZWFEUThySmxmOXdSRFA0UWJtNzJaUWQtTU1oeThzQ0RBU1NROTk3UUpQRUYyZEFjSjZRcnVjS2RNM2VuN1pDQWN6Y2pLVnNzWmZmNVE?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-09-22",
+    "_refresh_note": "2026-09-23",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,12 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-09-23",
+        "headline": "ChatGPT mobile app gets voice-based agentic features",
+        "summary": "ChatGPT mobile app gets voice-based agentic features (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/"
+      },
       {
         "date": "2026-09-22",
         "headline": "Wall Street Reprices Meta as Muse Outpaces ChatGPT's Start - Yahoo Finance",
@@ -187,12 +193,6 @@
         "headline": "British Columbia Sues OpenAI for Failure to Warn Before Shooting - Bloomberg.com",
         "summary": "British Columbia Sues OpenAI for Failure to Warn Before Shooting - Bloomberg.com",
         "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdnBnVUQ2SW1weFV0Q1RZU29EaTRtbU13NTVEazZ4Q0cxVm9XWWRsMkxNX2pfb2x1ekIwQkJ2OVR5RnZXS2xleGI2ZUl2eXI3bDY4V01vNmVQcUVtTGl0WDFJX05ZcWNEb1RIWEZpQ21UbUR3VmJnZE5QeGpSLU5fSGc3Um5hVkt3dHltQnNQdmtUX2V1aXl5bGtlR0J0cENZWUYtcDBVMUNGZWd2MjdhbVpVbThGSm82WHotNTB3?oc=5"
-      },
-      {
-        "date": "2026-09-21",
-        "headline": "British Columbia sues OpenAI over Tumbler Ridge school shooting - Reuters",
-        "summary": "British Columbia sues OpenAI over Tumbler Ridge school shooting - Reuters",
-        "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDRPeFJZU0w2cG5XbUV6OTQ0VkJHYjJRcGk2UWxOTi1sMWM5Zl9wUDFpX0xfVG9vMUVac1J6cWNLODd0R082Q0hZcldFMlZubFJyTS1lazRYRjRmN0xLSTFPVWFUQm9mVk9CUUtaVGZTZjN4NzlFZnkwWXQ0WDJVUEZ3ZzZzekhVZ0xuOE5fWFVJZl9QVndlZ0lTcUJZazBQNExBZndtNmxleVIteHQ5TzE5X21yYVk?oc=5"
       }
     ],
     "sources": [
