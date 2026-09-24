@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-09-23",
+    "_refresh_note": "2026-09-24",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,12 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-09-24",
+        "headline": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "summary": "Australia to investigate if OpenAI hack of government health website broke the law (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/"
+      },
       {
         "date": "2026-09-23",
         "headline": "ChatGPT mobile app gets voice-based agentic features",
@@ -187,12 +193,6 @@
         "headline": "OpenAI proposes development of global AI standards to guide alignment, RSI - CNBC",
         "summary": "OpenAI proposes development of global AI standards to guide alignment, RSI - CNBC",
         "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MaTRGOTJzeUlkUEZIcVdRUGgxS1JHMnBReFE1aWpiajIzQTNSRFJobGt5Z2pVckNKOENlRS1lWEM3V3J2WE5COTlOUnQ4Wlo3SXVTQmpXQklsUklVZmNETHlWeGpFU1dwLWfSAW9BVV95cUxNOWFKNlkxSnZDRVdiX2xHSFZjSUFGdnlISTVtX0dveWJKZUF4WGpDUkQtQ1FPMVB2SUtqMFNUd0x2ODNuOUFNeTBsQlBjRWxqLVVTMVdxTENrN1FFRml2SndWZkxReG5xUzBrdFBXMzg?oc=5"
-      },
-      {
-        "date": "2026-09-21",
-        "headline": "British Columbia Sues OpenAI for Failure to Warn Before Shooting - Bloomberg.com",
-        "summary": "British Columbia Sues OpenAI for Failure to Warn Before Shooting - Bloomberg.com",
-        "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdnBnVUQ2SW1weFV0Q1RZU29EaTRtbU13NTVEazZ4Q0cxVm9XWWRsMkxNX2pfb2x1ekIwQkJ2OVR5RnZXS2xleGI2ZUl2eXI3bDY4V01vNmVQcUVtTGl0WDFJX05ZcWNEb1RIWEZpQ21UbUR3VmJnZE5QeGpSLU5fSGc3Um5hVkt3dHltQnNQdmtUX2V1aXl5bGtlR0J0cENZWUYtcDBVMUNGZWd2MjdhbVpVbThGSm82WHotNTB3?oc=5"
       }
     ],
     "sources": [
@@ -354,6 +354,12 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-24",
+        "headline": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+        "summary": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/"
+      },
+      {
         "date": "2026-09-19",
         "headline": "How to get sound effects for your game #gamedev #sounddesign #elevenlabs #ad - GameDev.net",
         "summary": "How to get sound effects for your game #gamedev #sounddesign #elevenlabs #ad - GameDev.net",
@@ -406,12 +412,6 @@
         "headline": "EQT Eyes Investment in ElevenLabs Voice-AI - Briefs Finance",
         "summary": "EQT Eyes Investment in ElevenLabs Voice-AI - Briefs Finance",
         "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXdZUTZMT2pqX20yT1hVUFM1OGswaUk3Z0JZUTkyZGFSSWRmeUpwVTZjY2RhOENOVHU2aHEtOHo1RzJKZVdWcEdBbHpPdkZRYWNaN21lSXJwSlJ2eEVpcnNaNWpMU2dpNjdXajdZM3hib3BJVWM4VGRNckVYRGZCcDBWMDRxVTdRX194QzZTLWFYZw?oc=5"
-      },
-      {
-        "date": "2026-09-18",
-        "headline": "EU’s €5B Scaleup Europe Fund in talks to back ElevenLabs’ $500M raise - techfundingnews.com",
-        "summary": "EU’s €5B Scaleup Europe Fund in talks to back ElevenLabs’ $500M raise - techfundingnews.com",
-        "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWm0wSnhMYUJnSmMxZXhzMXA5T0U5MU1LaXpNVlJpNmNDYVlhcF9hc1pyUnhVczh1SEstQnE4QzB0MEtkS0FKYUdxb0gzaUtLckRsdk9BMUxuSTZDR1FKNzRMTFpZNHVwTXNhaTVha21fWXdYSWlMMkVaV2FyMXlwTmRLcjhRQm1pWFhFTVQydU12REFiaHBIUU9qaw?oc=5"
       }
     ],
     "sources": [
@@ -1470,6 +1470,12 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-24",
+        "headline": "Databricks buys Row Zero and is scouting for more startups to acquire",
+        "summary": "Databricks buys Row Zero and is scouting for more startups to acquire (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/"
+      },
+      {
         "date": "2026-09-20",
         "headline": "StarRing Technology to List on HKEX Tomorrow: The Chinese Databricks Ignites Wave of GPU-Native Database Architectures - 富途牛牛",
         "summary": "StarRing Technology to List on HKEX Tomorrow: The Chinese Databricks Ignites Wave of GPU-Native Database Architectures - 富途牛牛",
@@ -1522,12 +1528,6 @@
         "headline": "Analytics and Data Science News for the Week of September 18; Updates from Alteryx, Databricks, Golden Analytics & More - solutionsreview.com",
         "summary": "Analytics and Data Science News for the Week of September 18; Updates from Alteryx, Databricks, Golden Analytics & More - solutionsreview.com",
         "source": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUlJGbDU2NkRjWjdoYXdyMGFpaFRCX2ROVWJkVk5RS3hDRWg0R0UydDRnX3hnNGVhTDBLWlRlM3ZnSG9GZGxzYWdzLVdrX1VsakZrd2tEb0FBblNIc2NuMV9SckJDcmhlQThjdDhack16UC1QaVJIQWQzaUZsTldpWEp4U1RLdU5ROURGeFkzMl9LUmhCMTJBeTNweThTYlJmZzl1bHZNMmxLcDdseGxfdzhiMTRycm1BZ2YwZmZDZzk2MUNDZWVmMW1hcHhVTWRaSjBVNVVvRDlLYjlMSFhIc3VrMzVlRi1WVDVrb2pVMndPakV1dVRrNw?oc=5"
-      },
-      {
-        "date": "2026-09-18",
-        "headline": "Enabling secure, productive work on personal devices - Databricks",
-        "summary": "Enabling secure, productive work on personal devices - Databricks",
-        "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjI1aW9tVmdkbWp6TjBPaHNXczk5QmV2eGpYbkdKTU90TU1XUzBKaHF6c1hRbldKbVFMTGJEWWptNFV5Y01rdndBOWMzdTAycV80bU5YQlZncFZQRHY2YmEtWXdWZ2JWZWZLblpfa1lqdGk4QjYxVlptbEJSNVJwWmgxSm9kck0?oc=5"
       }
     ],
     "sources": [
