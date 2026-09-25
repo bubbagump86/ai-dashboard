@@ -23,6 +23,18 @@
     },
     "latest_news": [
       {
+        "date": "2026-09-25",
+        "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+        "summary": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
+      },
+      {
+        "date": "2026-09-25",
+        "headline": "Anthropic’s founders seek voting control ahead of IPO",
+        "summary": "Anthropic’s founders seek voting control ahead of IPO (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
+      },
+      {
         "date": "2026-09-23",
         "headline": "Anthropic says its biology lab has already found something big",
         "summary": "Anthropic says its biology lab has already found something big (TechCrunch)",
@@ -69,18 +81,6 @@
         "headline": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - The Information",
         "summary": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - The Information",
         "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5"
-      },
-      {
-        "date": "2026-09-21",
-        "headline": "Anthropic, OpenAI, Microsoft and other AI companies scared of their own AI models get blunt advice from W - The Times of India",
-        "summary": "Anthropic, OpenAI, Microsoft and other AI companies scared of their own AI models get blunt advice from W - The Times of India",
-        "source": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNekowTHFFTHFpOGd4Y01mMVVoRWtsa1NWcmNQTVN5eEtKeFZZbmpmb0JpYTR5QWJmTjZjZ2VpNmpsY2F6V1BGSmJYWFNHOEFXZUlNd2FSZzk1S3NzUktQU0g3RldlYWRUR1hPSHg0cXJoRHRLb1pVLVJ0M0FNeUk2ZDBsZDNCR0Vyem5neUNWU1ZxVjFPMnBJS0xBTmpNTi1OekR5akx4Ml9XZnJUV2tSTlZWV1RkSDJFV044eC0xTWU1TlpVRXhPZHdkdXVTblh1MWZGTVpGYzd1ZGJrd1Z0VW9yb2RHS3ktQkpYcTlLYXJSajN5WURlSTYzTHh0M2ZMTHoweVNfd0FzVjd2dXFER25Ka01aS1laWTk5dGhDbTBXUlpTU21oZ2V5TEFadURxbnVucjROcW1fb2tsc0pUeXVQRTktTEF1Vk1TTmhJZ2ZZak5sMTViQ3pSc2NFVnZxenVDNFZMZ2U3LXlBOGdxUVdMdGRnckVRWm1OaUhKMUdEMnFPZEFxeVN3Zl9pVjZZRkHSAZcDQVVfeXFMT1FGQ3lRUjNuTjZvekQyWHlrM2d6Qk4yUjZERjlBbE02bDdwd1pKS3hlM1U2SnE3dHpra2xXanZxMV9zSDB2ejNCYm1meFpCMkpHTmhZUlJlVlFISDdwSUFwWWh3RkU0MXlTV3ZrNE5yb0w0NU80bjFYQWRqNWp5REpWRUJYRFpyWFRBT2E4V1pIZTRjVXpYRGswT2tXWjhNb3cxdFR2cEFRa3BtZ3dqM29uLWdkRlpzRDVJdk5ubnhUeEEwcUhoWEw3eFQ0N29FQ3JGdkhHZ05PbzRjcjNJOE45cFB5cDBtek1TTVgtSWhxN21pWUs1SFdJOTEwZW54WDctVDdiVjJYZ09XNzVTOHV0R1l5WGVjTzVDUFRPRFNHVW9mYVZQMERocHdkemYyVEdFUUhjTzVwcG1TUDRRTkZja3VTcHVyREI0aGRnTTUzNS1OV0ZVQkVkN283dG4tcVhpazJ2eU81RS1oTktSUlVObEpTVlUzWWlyQ09Wa0x4Y09ITTZuZG1mUkhiWUIzT09ob1RYYW8?oc=5"
-      },
-      {
-        "date": "2026-09-21",
-        "headline": "NScale ties executive compensation to Microsoft, Anthropic agreements - Axios",
-        "summary": "NScale ties executive compensation to Microsoft, Anthropic agreements - Axios",
-        "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb0gwR05UX0NfQkFJdzdOdHlIZTl2OV9XLVNPLXQ0YTBndVZYZW5icmtyaHJBblNCOG5PNkd6Y1E4dmhETTdUaE9LSWMyRjRnWUlqVUJWUG1tM1JteHdrWXE3dkM5NjVRQ0FTSmUxcXlaNGh5Xzh6Mkl0MmFGWUFmeEw0VWhCMGRvX3h5Z3dEei1JR1JM?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-09-24",
+    "_refresh_note": "2026-09-25",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,18 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-09-25",
+        "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+        "summary": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
+      },
+      {
+        "date": "2026-09-25",
+        "headline": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+        "summary": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts (TechCrunch)",
+        "source": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/"
+      },
       {
         "date": "2026-09-24",
         "headline": "Australia to investigate if OpenAI hack of government health website broke the law",
@@ -181,18 +193,6 @@
         "headline": "Did OpenAI solve the wrong Navier-Stokes problem? - Scientific American",
         "summary": "Did OpenAI solve the wrong Navier-Stokes problem? - Scientific American",
         "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ0x2LVFuWVJpYVNLaTNvbHEtclc5Sk5kSXJPaUduNU5aSjB3QXN4N0RCMzJRZ2FBa0VTVV92V3ZQb184Y1lJMHR5WXc4ZE5wNk5kdXNuQldMUHg4SDdCTWE3NzVkUjVKOWFuTzh3VlBRbWp3Sy1iVjRnWnoxbHhuWDVBcjU4eVNudG9BX0pJNDFnTTdQbVZV?oc=5"
-      },
-      {
-        "date": "2026-09-21",
-        "headline": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - The Information",
-        "summary": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - The Information",
-        "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5"
-      },
-      {
-        "date": "2026-09-21",
-        "headline": "OpenAI proposes development of global AI standards to guide alignment, RSI - CNBC",
-        "summary": "OpenAI proposes development of global AI standards to guide alignment, RSI - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MaTRGOTJzeUlkUEZIcVdRUGgxS1JHMnBReFE1aWpiajIzQTNSRFJobGt5Z2pVckNKOENlRS1lWEM3V3J2WE5COTlOUnQ4Wlo3SXVTQmpXQklsUklVZmNETHlWeGpFU1dwLWfSAW9BVV95cUxNOWFKNlkxSnZDRVdiX2xHSFZjSUFGdnlISTVtX0dveWJKZUF4WGpDUkQtQ1FPMVB2SUtqMFNUd0x2ODNuOUFNeTBsQlBjRWxqLVVTMVdxTENrN1FFRml2SndWZkxReG5xUzBrdFBXMzg?oc=5"
       }
     ],
     "sources": [
