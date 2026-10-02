@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-10-01",
+    "_refresh_note": "2026-10-02",
     "arr_usd": 65000000000
   },
   {
@@ -3398,6 +3398,12 @@
     },
     "latest_news": [
       {
+        "date": "2026-10-02",
+        "headline": "Snowflake Inc.  (SNOW)  (CIK 0001640147) - 8-K filing",
+        "summary": "SEC filing: Snowflake Inc.  (SNOW)  (CIK 0001640147) - 8-K filing",
+        "source": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001640147&type=8-K"
+      },
+      {
         "date": "2026-09-28",
         "headline": "Why Salesforce, ServiceNow and Snowflake All Dropped 4% Within Minutes of a Meta Announcement Monday - 24/7 Wall St.",
         "summary": "Why Salesforce, ServiceNow and Snowflake All Dropped 4% Within Minutes of a Meta Announcement Monday - 24/7 Wall St.",
@@ -3450,12 +3456,6 @@
         "headline": "Surging Earnings Estimates Signal Upside for Snowflake (SNOW) Stock - Yahoo Finance",
         "summary": "Surging Earnings Estimates Signal Upside for Snowflake (SNOW) Stock - Yahoo Finance",
         "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHUwLUVQLU8tTGotaklLYzVGdllDVFQzamp4MDZHVFRvRUdBYjV6d0xHR1Y4YWVIRktjRm9OMGV4ZHRCZ1k2TmNxampna2dKTUhWR3duZmRDenZSejlYcEY0ekZscE1TME5HN2F2ODZhRzNTbENEd3N2em9DWUlOUDFXQk9lZnFIVXJjNHNsSkhrQmt3NUhTVktSR05MZk1PZEJ1RnZWMnI?oc=5"
-      },
-      {
-        "date": "2026-09-18",
-        "headline": "What Happens To Snowflake Stock If AI Keeps Costing It Margin? - Trefis",
-        "summary": "What Happens To Snowflake Stock If AI Keeps Costing It Margin? - Trefis",
-        "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZlU3WXVXWmYxS3lXT2JDSnloSzBnWEpKTjJnWWxERzRmQ2NIc3dIeVNZVVhhMDF2TXQ1STNSVzFySTF5QmRVY00wV2N5dUpTSERVbU95b1NhcnphWXR4aTFWelNXUmpfb1I4bFJsUk5XbXhSNzdBTFpIX2tiOS1zb1FYU19ZV2tidnRVMFFLMXJISTZUOVdWVFZFQlA2cFItMEw0ZS03XzJwcHlhalZSN2pydTZoTlZQYnBjS2xnT25uV2xrQ0dJOFdjQzQ?oc=5"
       }
     ],
     "sources": [
