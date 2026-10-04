@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-10-03",
+    "_refresh_note": "2026-10-04",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,12 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-10-03",
+        "headline": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ (TechCrunch)",
+        "source": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+      },
       {
         "date": "2026-10-03",
         "headline": "I Quit OpenAI Because Its Culture Is Broken - The Atlantic",
@@ -187,12 +193,6 @@
         "headline": "Synopsys shares jump on robust growth outlook, OpenAI and AWS deals - Reuters",
         "summary": "Synopsys shares jump on robust growth outlook, OpenAI and AWS deals - Reuters",
         "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcGlqQnBISDJ0MDlRNllWZFpLMlpwc0FXU0xwZkhBUDg1QndSWUY0NzNtQ3ZQa0pyQ2ktSEdjMzhDN0t4b2hpakcxZ2RJdXdzMGZwcGkwSE1CU013c1E1eTl3YlBwczl2eWc4T3k1S2J6Z0s2QTh5Ml9qTHlhbjh6dDhNVHFaZU9ValYySmFlb3hwRjhGVzFDdWszX3RkLVNnQmIyWmtVTQ?oc=5"
-      },
-      {
-        "date": "2026-10-01",
-        "headline": "Synopsys unveils partnership with Amazon, OpenAI - Fox Business",
-        "summary": "Synopsys unveils partnership with Amazon, OpenAI - Fox Business",
-        "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PdnJkRDZzaUxXQ2NaMW56SWQ3blV1aTVMRlE5d1dxVVhNRnN1X1FtalloWmJIdnl1RHVYR0QtOUdEbm5tc2VQYVdYdjJHOW82aWI3ZlRuWDdrRDQ?oc=5"
       }
     ],
     "sources": [
