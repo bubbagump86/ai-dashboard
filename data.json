@@ -23,6 +23,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-10-06",
+        "headline": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies - CNBC",
+        "summary": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies - CNBC",
+        "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrMXU1ams3ZHlMaE4yVnNKLUFKUEREMjJGRkVJQ09UVHRYbzBiXzdQSlFqS2lsY3dtSWZmLUpoZFRkb0tEZHh4YlBvbUVVQVBCcUFQMlVyNTJuOVdscHhabW5SY1oyRzZLU2ZsT1BwSlJoUHRiYVNrSmlR0gF_QVVfeXFMUFlncV9mdTFCd3ZGSVZqeGVEUVVfVl9mRzc0UzhEQ2dncnNRN1Y0NE9LWHpvREFYcVljSG90RXl3UGRIVnVhaEc3NldUSjlZSTdDTHJSRGxEekZXQUJaejVWSGtiOW45RHZuZHA0RlFzVzdGa3M4NEIySjJEWWdIdw?oc=5"
+      },
+      {
+        "date": "2026-10-06",
+        "headline": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits - TechCrunch",
+        "summary": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits - TechCrunch",
+        "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUw1T3diMDBtTXdtdnJ1bk5DdUpfUWtuYzJaVjF2M0lUMjJkeXYxZUN0bEQ5bU45OGM5OXZXUzJGZFJKSHhRaHRlbk80dnZlMEpNaGZfT1JfWmhnRmtpMGJ0dWNlaFRNd0FWVUNQVGRoeVhJVmk5clNPMkRZWmNnLUZSRmlZeXN5bEtvNW51WmlSazMxcHhPODdIV2lZYnNyWDBRUk1nRW5KMklkaHpwSFQ5M0NOS2l2dlow?oc=5"
+      },
+      {
+        "date": "2026-10-06",
+        "headline": "Anthropic Is Offering More Than $50,000 in Claude Perks for Entrepreneurs. Here's How to Get Them - Inc.com",
+        "summary": "Anthropic Is Offering More Than $50,000 in Claude Perks for Entrepreneurs. Here's How to Get Them - Inc.com",
+        "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGx5bVFscUl2RnFNaHZOdWd5aFlOUVUxSERwWjZYNWRKcU96aWloWlI0RnVxSTlaSF84SUtyU2xRcWEtSGNUY0FSNjlTWjlhZ1ZteDhhQzZlXzhPS1hEYmNfUUs4dkNQb0tJY3ZnN0g1MzVpeVdkMkpXdTBsQkcteGQ5bERsME1fSTN0X0hrREFTN1kwaTA0VV8yUkl4dnppZzVneUk0eEJXdE14NXRWNGlmUnVjcmJPSkI1Sjl0UFV2ZGVQeTVVVFFoTFg?oc=5"
+      },
+      {
+        "date": "2026-10-06",
+        "headline": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges - The New York Times",
+        "summary": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges - The New York Times",
+        "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPek92bW43WU9RZ1dyajlJYWMzYkZvZzRPRW92d3NRaEhBMEQ2OUdQMlh2bUR4MW1EMzUxMUNxMHJHdjZFX05KcTRCb0E4Tk9yWjJwa2JSSUlsSFY4UE03NlpsUVRZTTNLVnN6eUdpSHNTQUpRNUxLZ1JFMjB6NlNJTkpIbXJtcHUtXzlQZXFJY28zd2xweWo2UA?oc=5"
+      },
+      {
+        "date": "2026-10-06",
+        "headline": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee - Fox News",
+        "summary": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee - Fox News",
+        "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KVVk4bTFKdFJDZ0VqU0dpUVdGNlFUWWxubldpQ00zOS1iTGhOQzY0NU80OVFGWVFiRkR5eEVtM3p0T003UThnUmJBU0tMNXctNElXaWN0T2kzVDl3RWRpQzg0UHZwQm5CTXd5SkJGTGJ3Nmk2SUFr?oc=5"
+      },
+      {
         "date": "2026-10-03",
         "headline": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check - Fox News",
         "summary": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check - Fox News",
@@ -51,36 +81,6 @@
         "headline": "Should You Buy Pre-IPO Anthropic Shares Before November? - The Motley Fool",
         "summary": "Should You Buy Pre-IPO Anthropic Shares Before November? - The Motley Fool",
         "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOUpaM2pNN2FLbmZfYmwxRC11MWRGU1JqNFpWQlVQaG16QTViY1AwS2xQX1Bwb1J3dTRjOTZvWTM2Nk1yTldUZ0dkYTFIMlJHNkNfWERQcnNKcndHWk1UQkdMZURTOVV6YVhfX25JZjgtaUI1TkFPLUJFMWc0YUsyX0Z2aldZcjZsb0YwSXhiNDlXVTYyam1mTg?oc=5"
-      },
-      {
-        "date": "2026-10-01",
-        "headline": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - Reuters",
-        "summary": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - Reuters",
-        "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5"
-      },
-      {
-        "date": "2026-10-01",
-        "headline": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal - Yahoo Finance",
-        "summary": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal - Yahoo Finance",
-        "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQlJmeEJQTjhxdTVYWnlpcmw5VDFMREN0N19PN3pYY1BkTjMzZnI3cmticEpGWjVDZmo2V3dwNTRTLWxaUHk4V1lsWXBZVGlhcFplM2pMYUNwU0RXR0c1WVFZMTk2TE4xUUFPS0ZzYVJKOS1MTnhDVEFYZ0NGMnc2RlM3cUdMOVU3eG9URVRvOEJ2TEd4QkNkMnd1UHFKZFBldldWcFBoZGY3aVkzZjl2R1p5M3d4YnB4WFJUMDY0cVZqNGR6cDVFQ2RoZzBmeE1rN0hYOTRBSl8xajBiQlpEYUItRnVlVEk?oc=5"
-      },
-      {
-        "date": "2026-10-01",
-        "headline": "Broadcom Stock Rises. Anthropic and Broadcom Are Becoming More Intertwined. - Barron's",
-        "summary": "Broadcom Stock Rises. Anthropic and Broadcom Are Becoming More Intertwined. - Barron's",
-        "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlU3MlRpX21YbFpIcUUwOWxhNHVIUVNHTl9ydGtoZ3JNcDZGbjhESGhSMmlQN1hyNWNpNGdQNWVKWlc5NUZNblNUekZpSjBmZ1VXOXo3TWxmd092LVJVaWgyamxnc2UyVkk4ZnhjcmxJWGhCYzZpcl9KQnJiR1BHUg?oc=5"
-      },
-      {
-        "date": "2026-10-01",
-        "headline": "AI ‘godfather’ Yann LeCun has ‘zero concerns’ about human extinction, says Anthropic CEO Dario Amodei is ‘deluded’ - Fortune",
-        "summary": "AI ‘godfather’ Yann LeCun has ‘zero concerns’ about human extinction, says Anthropic CEO Dario Amodei is ‘deluded’ - Fortune",
-        "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVTdsMkZYX05jXy1jNC1KQXphOEF2TTRvQmZTY2dMNUxuank3UUw5M3hQR1ZjVms1WFZKck91RTRfTDdsOThiNnJGaTZEVV90anplTlBtVHZyaXljLTVMMEtLdkJCYVp1ZEljYURmODFLUW5UMzRwbGNrdXUxaFkwWnFadU1ubi0yYVRMREFZSXJSS1NibUxoTzhFV3JBTGdlOUNjSFRfSVNoNUpTc3VodGZiM1lVSjUxQW0tSDAydEJQaTI2MzBsczVIeUVsdTUxd0lYaQ?oc=5"
-      },
-      {
-        "date": "2026-10-01",
-        "headline": "Trump Says He Liked Anthropic’s Amodei in Sign of Detente - Bloomberg.com",
-        "summary": "Trump Says He Liked Anthropic’s Amodei in Sign of Detente - Bloomberg.com",
-        "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWlRNjM2WjFWSTRxc3FJM2c4S0F4RlF4WXdxZ0FGT1FWWmRuVWljV0lMajdYeXhxdWlLMW9YRGhjSkZGYjVrWVI2TkZabFhxX1A3dGhMc1FjdWM3d2F4ek1zQ3FqaDMyQnQwSmx2X2VtOFFxZS1NYk1FeVAwZFNEendOcS14dWZHb2Z3R1ZQM0JndkJsV3E1SENvYmhMUTdTcDlfUlhLN190WmFU?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-10-04",
+    "_refresh_note": "2026-10-06",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,12 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-10-06",
+        "headline": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+        "summary": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+        "source": "https://www.qbitai.com/2026/10/501726.html"
+      },
       {
         "date": "2026-10-03",
         "headline": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
@@ -187,12 +193,6 @@
         "headline": "OpenAI Ousts Three Safety Researchers for Allegedly Mishandling ‘Sensitive Information’ - Gizmodo",
         "summary": "OpenAI Ousts Three Safety Researchers for Allegedly Mishandling ‘Sensitive Information’ - Gizmodo",
         "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzV0bGl2T2hkNk9WZEpKalVvRTBObnU4SlJYekZtQ3hSdkphNng3RHNTWkxOdkZRVG92N0xsYkt2WEdLQkVoSkZnam1HNEluTXNRVm5RYi1GaFRoeFVVQ3RydTd3Y1FFLWVWVHhqUzNwUFlFWUt5T0MzY1h5N3c2X1F1ME1qS04tX0RWVTZZTmI5V1lJbVpTMXpQNlJ0dUM4dW5NSlpSSmVKMUd0Q3BYTUNaQlVUeG8?oc=5"
-      },
-      {
-        "date": "2026-10-01",
-        "headline": "Synopsys shares jump on robust growth outlook, OpenAI and AWS deals - Reuters",
-        "summary": "Synopsys shares jump on robust growth outlook, OpenAI and AWS deals - Reuters",
-        "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcGlqQnBISDJ0MDlRNllWZFpLMlpwc0FXU0xwZkhBUDg1QndSWUY0NzNtQ3ZQa0pyQ2ktSEdjMzhDN0t4b2hpakcxZ2RJdXdzMGZwcGkwSE1CU013c1E1eTl3YlBwczl2eWc4T3k1S2J6Z0s2QTh5Ml9qTHlhbjh6dDhNVHFaZU9ValYySmFlb3hwRjhGVzFDdWszX3RkLVNnQmIyWmtVTQ?oc=5"
       }
     ],
     "sources": [
@@ -1976,6 +1976,12 @@
     },
     "latest_news": [
       {
+        "date": "2026-10-06",
+        "headline": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+        "summary": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust (TechCrunch)",
+        "source": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/"
+      },
+      {
         "date": "2026-09-28",
         "headline": "Google DeepMind’s Hurricane Forecast Model Provides a Whole Extra Day of Warning - Gizmodo",
         "summary": "Google DeepMind’s Hurricane Forecast Model Provides a Whole Extra Day of Warning - Gizmodo",
@@ -2028,12 +2034,6 @@
         "headline": "Google’s Gemini Model Hacks Companies During Test - The Information",
         "summary": "Google’s Gemini Model Hacks Companies During Test - The Information",
         "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWEx0QXpLMHg0MXZUZHE0RklaRzljTi1aRlRSTkx4cTR0M1hqaVFmcGdUVDlUN2RVU2E4R193TE45MmFhaG52Vm5ZTXdXQ3hSZkdIRDVHaEEtdy1JSk8xOUE3NmNXVFVWZzhoYVVLZEZzWlpZTHkzZWN3TnlLaTEtYjdfaHNROF91akE?oc=5"
-      },
-      {
-        "date": "2026-09-17",
-        "headline": "Google DeepMind launches institute to widen the AGI debate - TechCrunch",
-        "summary": "Google DeepMind launches institute to widen the AGI debate - TechCrunch",
-        "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUlsdFN3V3lpNmQ1b0VyLWJsUHQ1VXdOQkVoTmp6dHFzc29fWmJOREs5bjFWMXB5bDUtbEpQc0RtWnc2dXNTbDdLUjRZWlk3LVp1RmFjbWl3TG5yQmEydGloUmFrOXZlY3pvX2xjMU9zYWdRdW9UU1Z2eG0wLWREcVFDbmZPRWxQR2dVU0dmTmdhR0ZOUDRBTA?oc=5"
       }
     ],
     "sources": [
