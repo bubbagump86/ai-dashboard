@@ -23,6 +23,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-10-19",
+        "headline": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Bloomberg.com",
+        "summary": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Bloomberg.com",
+        "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPM1lSczhESmRndWxlZjZIbWhtVS0zZXBjS2Z2Qi12ZVIwcXR0c2lZTWNSYjQxc2lTUnBGaEVBQWZpbUFhNUxQcUhNeVByZVFPQ0hJbm52TVVrX2c0WFFaMDJHSjktNHV3VFVhcDZoY2Ewc1Q4Yks2N0FTek1HR0lYYVoxV0ZYb0Y0c2RmUUtRdVlSbDRNYWJvcm5PeFdqQkVOeFVfQ1RMZTZTeGtzcDFR?oc=5"
+      },
+      {
+        "date": "2026-10-19",
+        "headline": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says - Reuters",
+        "summary": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says - Reuters",
+        "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5"
+      },
+      {
+        "date": "2026-10-19",
+        "headline": "Anthropic and Nscale in talks for second multibillion-dollar deal - Financial Times",
+        "summary": "Anthropic and Nscale in talks for second multibillion-dollar deal - Financial Times",
+        "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1NLVUZHTjRBSTloV1dqSi0wVmZXTUkwSmpzT2NpVG5ia29za0NIdkpGbWJDMnVVSmY2M2FvQTF5NnlrdWRkM0duNUZtNEdRQmVTLWxTZm1DN3V5NFBmQmxCOEJWZG4yNWRyN295NjYtc3A5Z1pzQ1QwUVJDY0VaZmNqbFI?oc=5"
+      },
+      {
+        "date": "2026-10-19",
+        "headline": "Anthropic commits 5% of its stock to a new 'public benefit' fund - ABC News - Breaking News, Latest News and Videos",
+        "summary": "Anthropic commits 5% of its stock to a new 'public benefit' fund - ABC News - Breaking News, Latest News and Videos",
+        "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaEVPUC1oaUJHZjI5NDlCY21rcTRFWHVLVWtWa2hhamEwNVZiNmhJVDNYc21DWTU0MFpzQXc2RWJUUXNCbW5hVW4wTTFnWW43emRfVmNONEYtTkhhWlQtbk9uYks2MXJGUnVxdlZIRzh5YUR3dUN6OEx2aU12eF83S1oySVNfa1hyZGJUNGJfUHlwWmVhVUhFLXVNdERYZ2_SAaQBQVVfeXFMTWw5a2VCcE4xUktaRWpiTVh3S2FnYUxTWHpfZG1fZWtLLVRSX2pOVXlkQWx0SWZJbXZHY19hS2ZtYURqLWNRcC0yLWlMTGdTY0tPVDZnR1pBMkxILVl5Z3VKekdCNzYwa1duWHBaWkJmMlFDUnNydkhWdEY4ak80dEJ6RmoxOWlUVW9Dejk0Uld5VHNjTjlldTRheTlZUU1Bc0lzYzc?oc=5"
+      },
+      {
+        "date": "2026-10-19",
+        "headline": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports - Reuters",
+        "summary": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports - Reuters",
+        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX21NdVRPSTJNSUZiZ201OEo3U1Q0Rk9XVFJGaHVEWG1pczBSZzNpZVI2UXEwdEljb0F1UjJTUFRQOXBSTF9zQTNtRnhUcjBKRG9pVktwU1JXeWNiS0ZSZjBZaUhhakJEaU5YbEpBWG14MkUwTjhLX1RzU2NnY2ZvRER6VkVvNUVzemcwU0JzSWE4SmMzM3loLUdFR2JsMG9BbE9hS0ZrZFRGRVUtQ3BYYw?oc=5"
+      },
+      {
         "date": "2026-10-18",
         "headline": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them? - The Guardian",
         "summary": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them? - The Guardian",
@@ -51,36 +81,6 @@
         "headline": "Anthropic wants outside input on Claude’s values. But who gets the final say? - NBC News",
         "summary": "Anthropic wants outside input on Claude’s values. But who gets the final say? - NBC News",
         "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDdLdlFXTmVsa1pVT2o5MU5hbF9nR0pqbl9CZWUyWnZ4cTFXN0VzM1Rld0FuUk8xdmZkZHNTTkpKX0pVdk1ZOXBwaW5MdDlsLWkyRXhTcXliTlRFRHhwaER6STVRSWZMSEVmb0NBVkN0NFJFNHFaQ1dsNHFzWXdVUTU4V2MwZldsOHZnbkZpd1EwNjlwVlNQOGNiWnl3SnhXSVJHMg?oc=5"
-      },
-      {
-        "date": "2026-10-17",
-        "headline": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters",
-        "summary": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters",
-        "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5"
-      },
-      {
-        "date": "2026-10-17",
-        "headline": "Anthropic’s Dario Amodei is steering a possible $2 trillion IPO—but he says up to 40% of his time goes to making sure company culture is good - Fortune",
-        "summary": "Anthropic’s Dario Amodei is steering a possible $2 trillion IPO—but he says up to 40% of his time goes to making sure company culture is good - Fortune",
-        "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVndFZDV2OEU0dmx1U1N1Ri1MTnRjeFBpOHlGU040ekJHZ1VHZkhkcWhvYV9qVFdKNXdjdFpZZ0JWbW1wN1BWcGNHakgwY29GYjZRanRXLXl1QTlPaVhiNGg0WDhOZXhYQnNzUEhtRkREVl9nOGRDMXRieDhMUTNPLXNuWF9LSlByZGpqSXFxZEpWWmd5OC0wZDBzclNVUnh0dk1PeHRzR2o?oc=5"
-      },
-      {
-        "date": "2026-10-17",
-        "headline": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers - CNBC",
-        "summary": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOXg1cnVLam5kdlRzekpwZ2ppalNIaHlYU1poOW9IQlJUMDlOc09zX2RZU2NtckE0bE9KWW1hQ3VGS185MTdSaHNFYnBlYTg0UVY2V2xKWEZUbWlTLTJlX0tFU053c05kaW1heTNxT2nSAXZBVV95cUxNMjJTd05DdHhXYVlhNDdrTWdhTk5XYkpYbEFORE9QeFJZLXhIU21ISjV4akVoVUt4b0w3VHZuUzBnQ3gyQm5Ec2swaGJKMFlqbkRkcm5KcjI3QkFlR04tVHJSalZDQUl2WFJHSDhyUVVGeWpMT1NR?oc=5"
-      },
-      {
-        "date": "2026-10-17",
-        "headline": "Anthropic says its workforce has become less junior and is spending more time in meetings - TechCrunch",
-        "summary": "Anthropic says its workforce has become less junior and is spending more time in meetings - TechCrunch",
-        "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVRwb2hUSGYwb3BQaUZ3XzJCcEpERVhxU1RWNEUxcVFmZHg3Y2REQzBITC04N2VUU1JZajR2ZHNRLUU3bkRVeWtDcVBWQ3p0cnJLODdjOFBVQTJFT0JwdVl4Y2pvSG9CNms5VGtVbTNNODEzTGRBeEZWMUc2WF9Hc1pBRUZsa0l4ZTNmNDBpU3V6VTFFNVFHQUVVVHB5VFJnZWF3M1BxT3pqa1M5VkZCb0Q1aU5SUDVuNTJRZm5KalpmUQ?oc=5"
-      },
-      {
-        "date": "2026-10-17",
-        "headline": "Anthropic offers Blackstone double-digit yield in latest chip financing - Financial Times",
-        "summary": "Anthropic offers Blackstone double-digit yield in latest chip financing - Financial Times",
-        "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmFpNlpUSHlsQlNoUVJMUVlfMXN1MjlOcElmRzVOT3RlbC1haEJNY3hsSXFpeUNrZDFHQ3FCeVZITjJaRV9BcUZsQlZ4MFlieEVjVTN2UEYxSDB5MUlPM1NrUWx6NjVOQ1NzMXpBMGo4bWRjdTMxc0t2UWRyQjFhOHlFWWE?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-10-18",
+    "_refresh_note": "2026-10-19",
     "arr_usd": 65000000000
   },
   {
