@@ -23,6 +23,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-10-21",
+        "headline": "Anthropic unveils Claude Duet AI agent app - Reuters",
+        "summary": "Anthropic unveils Claude Duet AI agent app - Reuters",
+        "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5"
+      },
+      {
+        "date": "2026-10-21",
+        "headline": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots - CNBC",
+        "summary": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots - CNBC",
+        "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5"
+      },
+      {
+        "date": "2026-10-21",
+        "headline": "Claude Duet Is Anthropic's Answer To Meta Muse And OpenAI Dots - Engadget",
+        "summary": "Claude Duet Is Anthropic's Answer To Meta Muse And OpenAI Dots - Engadget",
+        "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZG9TT3FiN2RJS0EzYUVwOTZjZVRaQmVPZS1DX0pfclJzbTdKVnp2S0E5bkgtbWRaZDY2dXBMX25WV1ZmOXdQcmhiQ0FuSVl5Q0FvNFhVWk1kQTFDcTByYnVsdHA0RVRHYnpNa19TdXpHemIxNjV2MmNwb05rNlBzNTZRbDZlMXJsSWtRS28tdV9YeVZDbHNJNVo3RQ?oc=5"
+      },
+      {
+        "date": "2026-10-21",
+        "headline": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk - Politico",
+        "summary": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk - Politico",
+        "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWhaN0lXMkdTcldqYTBoVktsbUx1QzI3emNYTmZ2Q2ZENEp0NFh2My1VeGZLbnlYbS1SMFNkak1FLXk1eGtaMUMtME9EOFpCV3N4TG45ZEUyNHRiVFNZcHFSTURZel9kSzNKRU8ySHBNZmtrcEg0VkNrdHhjUF8yWFVjMEFlYzhpcVE?oc=5"
+      },
+      {
+        "date": "2026-10-21",
+        "headline": "OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates - The Information",
+        "summary": "OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates - The Information",
+        "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUs3RGNJVkplRVdTb3lZdnRJRGhoNmE5ZVBQUEhRWHRCdWstaXNnWTRXSktsbDBIRy1uNXphcmRoWThRWWR5VzZsWHZJb2Y0dnNBekV3ejhCSjAtTFJkQmkwRDhnUEtZYUVzYzJna1pIbThSQ1Boc0R5NlgtVWhCOVhQRmQ1T0dwbXlTamxyRzduX2V2TFNieXBLaWdYYlVieGlLbkY2U1U5N0FxSHc?oc=5"
+      },
+      {
         "date": "2026-10-19",
         "headline": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Bloomberg.com",
         "summary": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Bloomberg.com",
@@ -51,36 +81,6 @@
         "headline": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports - Reuters",
         "summary": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports - Reuters",
         "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX21NdVRPSTJNSUZiZ201OEo3U1Q0Rk9XVFJGaHVEWG1pczBSZzNpZVI2UXEwdEljb0F1UjJTUFRQOXBSTF9zQTNtRnhUcjBKRG9pVktwU1JXeWNiS0ZSZjBZaUhhakJEaU5YbEpBWG14MkUwTjhLX1RzU2NnY2ZvRER6VkVvNUVzemcwU0JzSWE4SmMzM3loLUdFR2JsMG9BbE9hS0ZrZFRGRVUtQ3BYYw?oc=5"
-      },
-      {
-        "date": "2026-10-18",
-        "headline": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them? - The Guardian",
-        "summary": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them? - The Guardian",
-        "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjB4YWJlM1piXzhhQzJFa1ZMWXh1dC1lZHJpaUJhVFhoZGdZbkwxUzRmeUdXdktLU2M5eFdRTG04am5UNDdtYlMwZWxLVW0zejBZWWtTTlExMTRTUlpnY3NUZGZ3V1JsMVlVY0RTWVdVQUhvWU0xZWdzNEgwdFJzQmdR?oc=5"
-      },
-      {
-        "date": "2026-10-18",
-        "headline": "Anthropic to commit 5% stake to new public benefit fund - Reuters",
-        "summary": "Anthropic to commit 5% stake to new public benefit fund - Reuters",
-        "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5"
-      },
-      {
-        "date": "2026-10-18",
-        "headline": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund - Bloomberg.com",
-        "summary": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund - Bloomberg.com",
-        "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmMyNWxod0hjdmwxeU0tdEk1dGpOSXdfSVdrLXdIVjB2LVR5YlpmZFhMZnlYcDNRNV9zRTcxY3piNFAzZm5mMThxeXJmVW5rMHFUSkpkQjc2NkJNWG0zUHE4RUNuV2w0RGFTQXlVQ0RtQ2VJbVdfVjE2Nmg4aDdFYXBVZGlhVzRmV3U4bXQzMHgtR1hqcl94YnRJNTVqRjVsT1h0SjJvVDUtZTdDSHJwWWxHbw?oc=5"
-      },
-      {
-        "date": "2026-10-18",
-        "headline": "Anthropic to Shift Some Shares Into New ‘Public Good’ Fund - Yahoo Finance",
-        "summary": "Anthropic to Shift Some Shares Into New ‘Public Good’ Fund - Yahoo Finance",
-        "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcklNaTdrWjZiZkR4WUpVOHdtRjhiaHkzYl9weXp3MEZMUWMwZkZsQ2IzWWVZOGI3cFJrcE55UENEcF83NWNsMGwxUFFoOElzbmhkeWQyZmtwWk9sQWI0X0k0UGF1VGdkcFJJcjhndkkzRXprd3h1Y2pCOEZLOTJ0QWpUNmZrc1FieFdZY3dGTzBHSHpENzN3UUNOMFRlSVk?oc=5"
-      },
-      {
-        "date": "2026-10-18",
-        "headline": "Anthropic wants outside input on Claude’s values. But who gets the final say? - NBC News",
-        "summary": "Anthropic wants outside input on Claude’s values. But who gets the final say? - NBC News",
-        "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDdLdlFXTmVsa1pVT2o5MU5hbF9nR0pqbl9CZWUyWnZ4cTFXN0VzM1Rld0FuUk8xdmZkZHNTTkpKX0pVdk1ZOXBwaW5MdDlsLWkyRXhTcXliTlRFRHhwaER6STVRSWZMSEVmb0NBVkN0NFJFNHFaQ1dsNHFzWXdVUTU4V2MwZldsOHZnbkZpd1EwNjlwVlNQOGNiWnl3SnhXSVJHMg?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-10-19",
+    "_refresh_note": "2026-10-21",
     "arr_usd": 65000000000
   },
   {
