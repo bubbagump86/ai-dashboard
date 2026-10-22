@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-10-21",
+    "_refresh_note": "2026-10-22",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,30 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-10-22",
+        "headline": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "summary": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO (TechCrunch)",
+        "source": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+      },
+      {
+        "date": "2026-10-22",
+        "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "summary": "OpenAI makes its Jev competitor widely available as decision model competition heats up (TechCrunch)",
+        "source": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+      },
+      {
+        "date": "2026-10-22",
+        "headline": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+        "summary": "Former OpenAI science lead launches Warp Science to automate wet labs with robots (TechCrunch)",
+        "source": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/"
+      },
+      {
+        "date": "2026-10-22",
+        "headline": "Uber puts all 30,000 employees on ChatGPT Work",
+        "summary": "Uber puts all 30,000 employees on ChatGPT Work (TechCrunch)",
+        "source": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+      },
       {
         "date": "2026-10-18",
         "headline": "OpenAI released 722 math papers at once and mathematicians are freaking out - ZME Science",
@@ -169,30 +193,6 @@
         "headline": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test — rogue bot wrote a script to find accounts with public seed phrases, took funds to pay for gas - Tom's Hardware",
         "summary": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test — rogue bot wrote a script to find accounts with public seed phrases, took funds to pay for gas - Tom's Hardware",
         "source": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZnNFVnlsajY4aEc0dDlDY3VmZU53YUQtenVDTEZsdXJUb3pMSmctUXRueTg2MkR6d05OQzJtenpGOUhmdnJ5VXFtNzItS0RGTU1pVzgtM2NKSWxpX2ExLXp3aWRWVVc3MWhqdHJoTmxwZVNacmNqTU02R01pMUhHR2xlYTJHU28tYngtR3RtcmMyNWNPclN0WnhaQnBCajgwWXJoN2FaSHpZRmlINWdmZTRrb1Z1VXlxWTVucGRkU1NyTXBKNmlwY3JuVXZ5VFFUMThWUGtabFRxaFl3QW1sRXJnaXVyMGR4a20xZDVFQmp1NHlJTl9iaGU0b1U4ZnZFaWxBNw?oc=5"
-      },
-      {
-        "date": "2026-10-17",
-        "headline": "Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco - Los Angeles Times",
-        "summary": "Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco - Los Angeles Times",
-        "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzQ0SDI3d0kxMkg3cmhGVlY2azI3RzF3aUs2aWtUWEloT0NoYlhtNlh3cGdDeEwxTjNxekRwT0owUWc0cWVTZTktbzFueG02LXB6VjRBaVdCUlJUYVdEcXhFd2lqOW9tcENHRTU0a3RwUWt6SXdXWU4wdndFbWVuSVBFQUE5MnM1cVFxWDBSLTBhR201Ymt0SjFkZGJVQjZNeHpwUDZMbkY1OGJtamdOZ004SzRPWnB0NXhfSw?oc=5"
-      },
-      {
-        "date": "2026-10-17",
-        "headline": "Replit makes OpenAI its default over Anthropic, CEO says - TechCrunch",
-        "summary": "Replit makes OpenAI its default over Anthropic, CEO says - TechCrunch",
-        "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFoxYWFYWWFqQTRraXdReXZYYmo5S0ZabG04MmlMbnp5R1VoMUsyLWpIMVg0bUhnOUNqMmxZV05BWm1DRVg4QlhONW9qbUo5UktELXhFMmc4VXhKMzhPbGxuZ2l0cjhGdE1MaEtPU0hBNzdqbTZPaEFHRENkVU9hcG9ieFhDalBPSUNZSEJGRQ?oc=5"
-      },
-      {
-        "date": "2026-10-17",
-        "headline": "OpenAI, Oracle data center fines for trucks on dirt roads nearly reach six figures - MLive.com",
-        "summary": "OpenAI, Oracle data center fines for trucks on dirt roads nearly reach six figures - MLive.com",
-        "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUDRSeDVnejk0andUdlFwN0pPdlg4ZXdyaVUzcHpXMFRCUTZBM0RlQjZmaWhjNVlvd0hHVWRwVHktYkxGLVhIT09iV09CUjlmSjdNdkdWVURRUFN0S1Q0czdYSnJrSnBwMEF6MDVfcGoybENrN3piTldnM3MwdkhvZFhGVjlNaW0yMDlya2ZMR3piRzQ3MkpPelljWndEeGVmdDdkcnBzZ1JrcG1CWUE1cURsdGFHdkNiUDVXUkdUWWkycGRpYnFjN0N5cw?oc=5"
-      },
-      {
-        "date": "2026-10-17",
-        "headline": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet - The Decoder",
-        "summary": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet - The Decoder",
-        "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeC1FWUplYTdoakc0bVZpYUhDSzI5Z3NGVm5IbERyTS15U2x5cS1zYUo4Q3B3aEM5T0kzZ0VWMGgwRDBQLXQ0S0xDWDNoSUZXbS04ckM0R0lRQ3N6NVZkc25qc1JfUlY2d2RQZC1MYXZGOGlIdVJzZklnaGVmN1hTWVF2ck1wM2t1VGIzZVhtWndxLU5yMnJIbVBVakF5d2EtVUlXblNSa2l3Y1hWbEdRR0lKT2x6SHdO?oc=5"
       }
     ],
     "sources": [
