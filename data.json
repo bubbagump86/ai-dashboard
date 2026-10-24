@@ -23,6 +23,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-10-24",
+        "headline": "‘Most likely to kick some ass’: Before founding Anthropic, Dario Amodei was a standout at Lowell - San Francisco Chronicle",
+        "summary": "‘Most likely to kick some ass’: Before founding Anthropic, Dario Amodei was a standout at Lowell - San Francisco Chronicle",
+        "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVU9MLWFpZDVudzJmT3hlT3JlN0V3R25ZNHRISDd5QkdwcWFfSUJSS18yLVk2WkM0ZG8yRjBXX1ZwVUNBNW5IbklBU1RKMm9EVlp6eUlJLXFidHJQc1Voc0dVdEhzVDBBRW0yNmxOb3FfQ3RhVGRlXzc4ek9oUXB4aDZqX2FrMExvUkxSOHVDVDd5c0toMG5oTg?oc=5"
+      },
+      {
+        "date": "2026-10-24",
+        "headline": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission - Rolling Stone",
+        "summary": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission - Rolling Stone",
+        "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTh5TVotQUREU29MT1BHc3JwV0p6X2FiUjlIbllhX3hkaWpxZnNMUzkyMHU0elBhRFBlUmJKWTE1X1k3VmhFQ056RFZ2cHV3ZS1jcW1hQXN6djRLcFNjNmdIeEFpY3FZU1RFVkZPM296WDNwOEM1S3R3WU9kSGhJeVFqRUhpVG1NWWZlczdYWW5veElSaG9SM1JGeGpRUUZ5bUNQMHpKOU9udVpISzdCUjFPNkRIWFk?oc=5"
+      },
+      {
+        "date": "2026-10-24",
+        "headline": "Anthropic’s Margin is OpenAI’s Opportunity - The Information",
+        "summary": "Anthropic’s Margin is OpenAI’s Opportunity - The Information",
+        "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0N0ZWVJZjFXUjdmLTdoRVdJbzkwVDBYaXM1eHN3aEdPbm4zTXNhdjJrbTdHdkQyQTJ5ZWRBMGdheFRKeUFjMFNGbWRZdHhnZWh2YXdDZDV2R2JTazNmaU5kTk9oVmQ2a0hnUzl3V2dtSWE0U2ZOZjB5TElicGVxOE1sSQ?oc=5"
+      },
+      {
+        "date": "2026-10-24",
+        "headline": "Forget Anthropic: Biotech Is Quietly Dominating the IPO Sphere - Barron's",
+        "summary": "Forget Anthropic: Biotech Is Quietly Dominating the IPO Sphere - Barron's",
+        "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yVi1sdEgxYmx2THJJODdIVTVFLUVTbXN0ZGFKQzB5TW5BZHFRb29JTTJNZUtjR25Palc4Ymo3SnVSeWhvU0xHb0hyMllRNUQ0NFU0RlhfZ1BKODBvRXhWdzdZY3Q2UUU3bHFlQnRyamtnR19xR01mZTBR?oc=5"
+      },
+      {
+        "date": "2026-10-24",
+        "headline": "Anthropic’s AI Hid a Secret Message in the Stars. OpenAI’s Bot Found It. - Gizmodo",
+        "summary": "Anthropic’s AI Hid a Secret Message in the Stars. OpenAI’s Bot Found It. - Gizmodo",
+        "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTVmY3RjbFEzeDNnb2xOa0FDUm9Ga2VRMXM4ODZlOEd5YkdWMUhoRU4xTnJaTWF0MzRjZ0E3SWpCRGV2NXdaeDhKTTRlNEszMmk5cVdPR2RqdWl4YWlkd0Z6cE9sQWNkMVdOTHBVYlJhbkVhRW1LOE5VMUpBdUdKbm9JYWlwdEk4ZWQ4c2FZZ0lJTVlaTzRZZEE4MmVLc2s?oc=5"
+      },
+      {
         "date": "2026-10-23",
         "headline": "Anthropic strikes deal to launch European consultancy - Financial Times",
         "summary": "Anthropic strikes deal to launch European consultancy - Financial Times",
@@ -51,36 +81,6 @@
         "headline": "Anthropic's Mythos pretends to be human during CTF exercise - The Jerusalem Post",
         "summary": "Anthropic's Mythos pretends to be human during CTF exercise - The Jerusalem Post",
         "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdEl1MW1yRXUzOTJqckthVFAyX09fYkNzQzRoLXptQllxcTNpMHU5bDI5VU5yWndvcnZ6TEFxekVMVzFCNklKVElWSExQRFNlZ3lCUzRYSE8wRUs0UjhKTjhTQmZVNWVuajE3S0ZLT1ZoaExQb1NSVjdGbGppZ1VfakhnZ01CQQ?oc=5"
-      },
-      {
-        "date": "2026-10-21",
-        "headline": "Anthropic unveils Claude Duet AI agent app - Reuters",
-        "summary": "Anthropic unveils Claude Duet AI agent app - Reuters",
-        "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5"
-      },
-      {
-        "date": "2026-10-21",
-        "headline": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots - CNBC",
-        "summary": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5"
-      },
-      {
-        "date": "2026-10-21",
-        "headline": "Claude Duet Is Anthropic's Answer To Meta Muse And OpenAI Dots - Engadget",
-        "summary": "Claude Duet Is Anthropic's Answer To Meta Muse And OpenAI Dots - Engadget",
-        "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZG9TT3FiN2RJS0EzYUVwOTZjZVRaQmVPZS1DX0pfclJzbTdKVnp2S0E5bkgtbWRaZDY2dXBMX25WV1ZmOXdQcmhiQ0FuSVl5Q0FvNFhVWk1kQTFDcTByYnVsdHA0RVRHYnpNa19TdXpHemIxNjV2MmNwb05rNlBzNTZRbDZlMXJsSWtRS28tdV9YeVZDbHNJNVo3RQ?oc=5"
-      },
-      {
-        "date": "2026-10-21",
-        "headline": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk - Politico",
-        "summary": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk - Politico",
-        "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWhaN0lXMkdTcldqYTBoVktsbUx1QzI3emNYTmZ2Q2ZENEp0NFh2My1VeGZLbnlYbS1SMFNkak1FLXk1eGtaMUMtME9EOFpCV3N4TG45ZEUyNHRiVFNZcHFSTURZel9kSzNKRU8ySHBNZmtrcEg0VkNrdHhjUF8yWFVjMEFlYzhpcVE?oc=5"
-      },
-      {
-        "date": "2026-10-21",
-        "headline": "OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates - The Information",
-        "summary": "OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates - The Information",
-        "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUs3RGNJVkplRVdTb3lZdnRJRGhoNmE5ZVBQUEhRWHRCdWstaXNnWTRXSktsbDBIRy1uNXphcmRoWThRWWR5VzZsWHZJb2Y0dnNBekV3ejhCSjAtTFJkQmkwRDhnUEtZYUVzYzJna1pIbThSQ1Boc0R5NlgtVWhCOVhQRmQ1T0dwbXlTamxyRzduX2V2TFNieXBLaWdYYlVieGlLbkY2U1U5N0FxSHc?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-10-23",
+    "_refresh_note": "2026-10-24",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,18 @@
       "source_note": "$122B committed capital at $852B post-money. Co-led by SoftBank, a16z, D.E. Shaw, MGX, TPG, T. Rowe Price. First retail participation via bank channels ($3B from individuals). $4.7B revolving credit facility from JPMorgan, Citi, Goldman, Morgan Stanley, etc. Source: OpenAI, CNBC."
     },
     "latest_news": [
+      {
+        "date": "2026-10-24",
+        "headline": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "summary": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. (TechCrunch)",
+        "source": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+      },
+      {
+        "date": "2026-10-23",
+        "headline": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "summary": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” (TechCrunch)",
+        "source": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+      },
       {
         "date": "2026-10-23",
         "headline": "The Signal Chats That Cost OpenAI Researchers Their Jobs - WSJ",
@@ -181,18 +193,6 @@
         "headline": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
         "summary": "Former OpenAI science lead launches Warp Science to automate wet labs with robots (TechCrunch)",
         "source": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/"
-      },
-      {
-        "date": "2026-10-22",
-        "headline": "Uber puts all 30,000 employees on ChatGPT Work",
-        "summary": "Uber puts all 30,000 employees on ChatGPT Work (TechCrunch)",
-        "source": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
-      },
-      {
-        "date": "2026-10-18",
-        "headline": "OpenAI released 722 math papers at once and mathematicians are freaking out - ZME Science",
-        "summary": "OpenAI released 722 math papers at once and mathematicians are freaking out - ZME Science",
-        "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZHNtU1pDZnQtT1dRNWJadTJqRkRGdjV6QTZuNVQxN3p1ZHU3M1ZPdm50Y09wclVTVkoxdUgyQjRQNUU1ZDQyNW94ajIxMmc2YXhQOHppdWN2ZHdua0pwZC1WMFlma1B3MDhkRXNKMGtadnlaTjRGY3RWVUo4MGlReWFIRE1VazJuZlhFRElSVGVtWU9VZkhiV3ZQRllTcjQ0NEtheUdfZUE2YXlIWHlSNTNoUkg3R05Dd0pCZUp6VGk3UQ?oc=5"
       }
     ],
     "sources": [
@@ -245,6 +245,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-06-17",
+        "headline": "Can Anysphere Buyout Drive SPCX Further After a Blockbuster IPO? - Yahoo Finance",
+        "summary": "Can Anysphere Buyout Drive SPCX Further After a Blockbuster IPO? - Yahoo Finance",
+        "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0xmb2IxLXZoZ0tNZTVMdEZTc1huX2FlMDZGX3ZGMGdpbGVOTXdEM2J4TC1fMmVQNEZJdTdLUGlfUzdVWTlaSHJhSWVKUzh6aEdueHIyeU1Kbkp6d0kxODZXNVl3U29WOUN5VUNYTFdKWjF5WGp4bmc0VWxRYm9GbHFuTVZlMnQ5a3JuaTRmSFJUNG8xTUlCSmRLMzY3OFBD?oc=5"
+      },
+      {
+        "date": "2026-06-17",
+        "headline": "Can Anysphere Buyout Drive SPCX Further After a Blockbuster IPO? - Zacks Investment Research",
+        "summary": "Can Anysphere Buyout Drive SPCX Further After a Blockbuster IPO? - Zacks Investment Research",
+        "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUtXNEV4R1dZemVaQ1REYWZCVlVjMmY0TUF3S0Ezc2ZQNkN6c0QzN0tMR2xNb25qUlhXVi0zT2MtRG1vWDBZdTRJS0RPdktIRUhDSm0wVnJqZ0NaU0MwODVpWEh1M2tqYk8xazZXbFZCUi1LNTJGNUxTVmQ4VVlManpONWU4SFdlcmJGYTdqSExWT09nZTdCdjZaSUg0UFZCNWZBdXBwWQ?oc=5"
+      },
+      {
+        "date": "2026-06-16",
+        "headline": "SpaceX buys Cursor-maker Anysphere for $60B in enterprise AI push: report - Tech Funding News",
+        "summary": "SpaceX buys Cursor-maker Anysphere for $60B in enterprise AI push: report - Tech Funding News",
+        "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmd0ZkNNMjNwaW9yRXpZcmdZR1pwMnB6NzZ2ZGdqblg3eXpvNVh3UXEyb2IzNUU5cGNfUTNpZHBQNGRzcmotZnQzWURBMk5KMDN5bFZaT2NmNGNSSjRKUFFZM3JXeEZ3ampMZG9YNzVnRXhHSk5IcXpLVU13VGlXMDZxcGs1bncxcUNKXy1Ha2F4TUk?oc=5"
+      },
+      {
+        "date": "2026-06-16",
+        "headline": "SpaceX to Acquire Cursor Maker Anysphere in $60 Billion AI Bet to Boost Software and Developer Tools - Open Magazine",
+        "summary": "SpaceX to Acquire Cursor Maker Anysphere in $60 Billion AI Bet to Boost Software and Developer Tools - Open Magazine",
+        "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlRISFg3Zk5rY3UxM0x0Y184eWxmZjlaUFVVZ1g1clFzX3UwNWNIME1mNnE5VEpxSXlkZDlPUGVsLUJEZkxSV2R5Vi0zaHdKZmVRcHIzWmlyem5lNk5pZmpXc2xuMmRKZFRsWjkybzJGM0NzcFRGbk5IZjlET2NtRmtTVUQwWVF5al9MTFNKMkp6bXA3ZVc2bEoyZ1R5VXc?oc=5"
+      },
+      {
+        "date": "2026-04-29",
+        "headline": "House panels probe Airbnb, Anysphere over use of Chinese AI models - Nextgov/FCW",
+        "summary": "House panels probe Airbnb, Anysphere over use of Chinese AI models - Nextgov/FCW",
+        "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ2JVdmJpTHp6VnhMdWZJTW51UU1laERtaVZrQUd1TXhpcWhtajQ4WkxsZENJM3ZaNTdXcnd0aDNRVTVQN0V4WWFCRE50VjBRbnE5UlFhcWJWSU1rMEtBZk1aLTFfQW4tNUxGNEpwVVZMSm1XekhremcwUWJMN1k1bXZYY05WWkx6Wmpyc3JXcEdFZHdDOWZ3LXFFY2FMTzh5UUJSYnhENkJpM2FnWWFHVXB6cEVrUkxiVy1KSGhtSEVjVkVk?oc=5"
+      },
+      {
         "date": "2026-08-29",
         "headline": "OpenAI Moves To Terminate Cursor Partnership Following SpaceX’s $60 Billion Acquisition Of Anysphere - Swarajya",
         "summary": "OpenAI Moves To Terminate Cursor Partnership Following SpaceX’s $60 Billion Acquisition Of Anysphere - Swarajya",
@@ -273,36 +303,6 @@
         "headline": "SpaceX buys Cursor maker Anysphere in $60 billion all-stock deal - CryptoRank",
         "summary": "SpaceX buys Cursor maker Anysphere in $60 billion all-stock deal - CryptoRank",
         "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZG5LRjVPeGYxZ1djaHZUUVU3RzRqMFZwYUZYeWdkdHZkcWkzR1piekZzZmVuVTBxak1oM0h3VGw3QUwzV1VOZDdCamdPNnZyWkI0aVRmbUlwWE1iSVNvS0R6SXVUbzU3Sy1JUWcwaUJiOFR0bWUtX1RkWW9kX05pd3pfNVE?oc=5"
-      },
-      {
-        "date": "2026-10-07",
-        "headline": "Cursor AI Statistics 2026: How Anysphere Hit $29 Billion and $1 Billion in Revenue - SQ Magazine",
-        "summary": "Cursor AI Statistics 2026: How Anysphere Hit $29 Billion and $1 Billion in Revenue - SQ Magazine",
-        "source": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rQTN4RlpXS1lyY1h4QWkyakd4SkJ4cjE4XzZfZzN3UzRzNC1vbG9HS2dMbzBoTmRBLUVvN2lRbVNYRjVlWXFJaWRxTGlUeUVINzkxdjNZX3ozdw?oc=5"
-      },
-      {
-        "date": "2026-08-10",
-        "headline": "Cursor AI Model: Why Anysphere’s Acquisition Is Data Abso… - FourWeekMBA",
-        "summary": "Cursor AI Model: Why Anysphere’s Acquisition Is Data Abso… - FourWeekMBA",
-        "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOW1sWUVManduVDRlZ0hpanIycUhWbWlUWVhjS3QzMGtmRGtTb1NNeF9GandKSm4wWG5oZWdfVXFVWUk2cVI0d3piR0J1bzBTdnZtcTZKUmVwTF9sMngwMk1zU1pDZnFzVkpzcEI3X1lHTUNZTTdUbzBqU3RVTW1uV2h2TmlCQQ?oc=5"
-      },
-      {
-        "date": "2026-06-17",
-        "headline": "SpaceX to acquire AI coding startup Anysphere in $60 billion all-stock deal - ET Enterprise AI",
-        "summary": "SpaceX to acquire AI coding startup Anysphere in $60 billion all-stock deal - ET Enterprise AI",
-        "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUGNmMzA1dU1OYkhjUGF1OUI0MGZrZl9lbXJ0alByUk1kdGl5bXJsVndMTDFuSGdHdndFd2ZvdlBIOXZOcGFucmV1OEJ3QjJiZVdDNGRqTTFuU2NqT2pQeWJIc19xbThoNzZURDhhX1c2cWd3ZGo4aUZaa2k4N0psUDBFUkpWTzZ0RW5CdWxGUFRJN0V6LVVfWTdfaFhpMVdaSUlzeVhiV29mU3VGR1N0amtZM3l3NS1tWUplRWlGTmx4QkZKMUpwekpPMXpMaGJ3YzFhZENDV0gtTHJlZHFr0gHkAUFVX3lxTE9CMFNqbXc5UXdyelNLNDB1NkJ6OWlXaEpPZHpMczk5M0FncmdpaUdHUG5iaXR5SXhFeDFlTUd2a2hMT3RZa2FaU2xmcXJqWElraFd6Tkdta0JQMmN2cWQ2NVFGWUhNQnBVNFJjZXRLZzh1MDhnLXZQMENIUk1kRlB4MHVFeFBKZDV0LV9WV1l6a1dsVHJPdkhXendjUjBQYXVYZHYzb3M5ZFZZazR3WGp4ZURKUmU3anZEM05CYWZCamlPenNxY0tfUjBsSUVaTko5c1U1emtRSXhQbU12U2hqTG12Mg?oc=5"
-      },
-      {
-        "date": "2026-06-16",
-        "headline": "SpaceX agrees to buy Cursor parent Anysphere for $60 billion - Quartz",
-        "summary": "SpaceX agrees to buy Cursor parent Anysphere for $60 billion - Quartz",
-        "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BMDV6LUhyQ3JRYlBRanhYMDJiajhPYmJMWGZxQ1lsZ0hwRXowcDVXSXowUmRoN1NBS3NWVmFpSkljMGRMRzQ3bF9lRmJ5RHhjbHF4QkhTZWJMektFUlBEelVScWMxNnVLeXBQbWt6SWlSOXpxN1ZZ?oc=5"
-      },
-      {
-        "date": "2026-06-16",
-        "headline": "SpaceX to buy Cursor AI parent company Anysphere in $60 billion deal - CNBC",
-        "summary": "SpaceX to buy Cursor AI parent company Anysphere in $60 billion deal - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHRXTE0zckkzcHdQdktMSXk4MTJGUzlpUFptNWNIQzdreDlFakQ3X0N5WDhGX1JWM1c3Nm9pSm81N1dBNHZlcDFFQ3hQNDVpLVQxVkdqOWZkdU1FUGdOY0hQdFRvUmhjd19Td3V2T2RyZlYtYUl3NHo0X3JTRjUxN2pQXy1MTE1sZTR5WGtuWWtEX2kwYW5SSFpxQlNDMnU3YVJrOXFPbWRRRG56UlJv?oc=5"
       }
     ],
     "sources": [
