@@ -23,6 +23,12 @@
     },
     "latest_news": [
       {
+        "date": "2026-10-30",
+        "headline": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "summary": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says (TechCrunch)",
+        "source": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+      },
+      {
         "date": "2026-10-29",
         "headline": "VC Insider: Anthropic mints record gains in record time - Business Insider",
         "summary": "VC Insider: Anthropic mints record gains in record time - Business Insider",
@@ -75,12 +81,6 @@
         "headline": "Banks Shelve Bond Sale for Anthropic-Tied Texas Data Center - Bloomberg.com",
         "summary": "Banks Shelve Bond Sale for Anthropic-Tied Texas Data Center - Bloomberg.com",
         "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWZ1cFJjWU12d2ZBMU9WVTFvbXFMdXBwaUFMRko0VXBXYkZadEM1dDRsRi04QjR6TjE1NmhpOGY3bDBNdjlrWXUtT29uc2NTNmpVTzE4QnQ0ZkRtNURPOG1OZW5QOGFyMGJ2R196NFhxTThFZGlpSV9PdlVBRFJXdm0wdHRzSnpOTEtPR18ybFpXSGZESWNxeEhEdGotYUJNOHhXYVR3XzlDVlVabjhV?oc=5"
-      },
-      {
-        "date": "2026-10-28",
-        "headline": "Anthropic acquires one-person biotech Mithril, starts drug programs - Quartz",
-        "summary": "Anthropic acquires one-person biotech Mithril, starts drug programs - Quartz",
-        "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XY3FHSmo5aHdLVjQ1dTVYdUx5Vm5BYmJJX3JjVnNuZDgwRHN1T28zUTlqQ2w0VHJMU3pDblIzV2QzVmh1NnJrWjc5di1QVnhQaXFaNzMySDAzXzF6MWZleGtSU1drVUwtM2hiZmRmdTk3SG5Ea3F1UlBXOFJNWlU?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-10-29",
+    "_refresh_note": "2026-10-30",
     "arr_usd": 65000000000
   },
   {
@@ -581,6 +581,12 @@
     },
     "latest_news": [
       {
+        "date": "2026-10-30",
+        "headline": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+        "summary": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+        "source": "https://www.qbitai.com/2026/10/506743.html"
+      },
+      {
         "date": "2026-10-29",
         "headline": "港股开盘：MINIMAX、联想、智谱、携程、中芯国际、美团、阿里，集体下跌 - 凤凰网财经",
         "summary": "港股开盘：MINIMAX、联想、智谱、携程、中芯国际、美团、阿里，集体下跌 - 凤凰网财经",
@@ -633,12 +639,6 @@
         "headline": "DeepSeek V4.1 Flash vs Kimi K3.1 vs MiniMax: 13x Gap [2026] - https://tech-insider.org/",
         "summary": "DeepSeek V4.1 Flash vs Kimi K3.1 vs MiniMax: 13x Gap [2026] - https://tech-insider.org/",
         "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeVc2YVptaUl0SGdRdU95RHQtMUYtLWZTNkVxeTg5amlpVUpfTE5ieGhuS19wcGl2QU8xVGxOUFhBSWNkN2dlS2pfWVFfM1c1b3hIT0UwUExDMk9Rb1JfYXRUWG94WURlRTN2MnVtNVdiaUQ1RTlxYkJOZUJFRHhsM1AtSVdrWWRydm1fV2h5bzdCZDA?oc=5"
-      },
-      {
-        "date": "2026-10-26",
-        "headline": "ZAI, Minimax shares fall after Chinese rival Moonshot releases upgraded model - Investing.com",
-        "summary": "ZAI, Minimax shares fall after Chinese rival Moonshot releases upgraded model - Investing.com",
-        "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS29iUWFCckdfWlVndDdoZndHUnRsSWRFSFFhTUlBSTFZNlFySGs4YVFmQzZLOENCYVBiWHYtX0hoVnY4NFIzdldQLXZmMFFmRkgtdFdzUmgxVjRDOUp6a0N3MHN5UTBUS2gzWEhIUTE4S0NCdnV5R1ZlZEFNWW5yaDhlWVJrSXhIOFdHekpRTndaV3hHclpLaDVoUnpHeTB5Rm5XaW9ubGptcTVQeGpteS16a0otUVhOTV9Yd3FrRDRfOHBUbW9zS1A3dTFMUQ?oc=5"
       }
     ],
     "sources": [
