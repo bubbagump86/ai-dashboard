@@ -23,6 +23,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-11-01",
+        "headline": "Anthropic expands text watermarking to older Claude versions beginning November 3 - Mashable",
+        "summary": "Anthropic expands text watermarking to older Claude versions beginning November 3 - Mashable",
+        "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEM4THdHaktsdExGbnVyMWxVLWhuRmx4S3hYSEMwWFIxcjIydjA2TVl6bkZidU10QmYyWEZWYkNsM0NXdTBHc2pIY0tXU1ZiMTdYbDZvYVNUUDduTDB2eU1DRU0yVERyS3ppRFpHWjZ5OUFxdXU5ZTRCbk5hSG9UNkgxQTJmX1BKWlJkOXAtNA?oc=5"
+      },
+      {
+        "date": "2026-11-01",
+        "headline": "Anthropic says you can’t be mean to Claude. It’s not about feelings - CNN",
+        "summary": "Anthropic says you can’t be mean to Claude. It’s not about feelings - CNN",
+        "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01ZU5qTkttUWgxLW5mbWVCb3lVVWZrQjRJLU5nbXozRjRhMDhmSGswckNlZGpMMWZwQlZHT3g5Mm1KM2JMaWQzcGFoRWg1d2N0dTlDQkhWR0RPa1puRWRfUlZXWXh6YmxOZDRKdEdWV2VFbXAwV3hzZnNzckptQQ?oc=5"
+      },
+      {
+        "date": "2026-11-01",
+        "headline": "Anthropic orders AI tool Claude to stop remaking video games - Game Developer",
+        "summary": "Anthropic orders AI tool Claude to stop remaking video games - Game Developer",
+        "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5"
+      },
+      {
+        "date": "2026-11-01",
+        "headline": "Claude AI Predicts a Huge Move for Nvidia (NVDA) in Euphoric Scenario - Tokenist",
+        "summary": "Claude AI Predicts a Huge Move for Nvidia (NVDA) in Euphoric Scenario - Tokenist",
+        "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWZocFRkbkZ1Skx1RGw1a3Vsd1lLLUdkWXRxbUdzQzFoMk1wQkVxS0xkSzJqQTJTcWtwQ0tkRXA5MnBTa0FtSE5mZjRhVmQwZXJBLVE0U0ltNWswTi01SFhZUmVTb3F0a0NSXy1UdDdrTGhqTTl2M2hkU0c5ZHhySzBpUUQtWDRySUtmTWdjaVQySE0?oc=5"
+      },
+      {
+        "date": "2026-11-01",
+        "headline": "Anthropic's internal AI use is now worth more than employee pay, at the prices it charges customers - Business Insider",
+        "summary": "Anthropic's internal AI use is now worth more than employee pay, at the prices it charges customers - Business Insider",
+        "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckZlQklSTUE5MnZLZDM2U1RWbGFtQzRmVU1mTTk5YUVLNEVta3FmZnM5OWIxUW9DN253ZlctTGk4RFEybHFGQU9hXzNSdkE5SGZRbjNKLUd6RE9OaEN6NWkzd2dpcnRDRjdGR01DN0JyQWVjcFhkaEs5UmlmNS1oZV9VSVhjbHk3d0M3aHVwa0lfODdOZFF4NnVHSTBRUy1EZlE?oc=5"
+      },
+      {
         "date": "2026-10-30",
         "headline": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
         "summary": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says (TechCrunch)",
@@ -51,36 +81,6 @@
         "headline": "Anthropic vows to do the right thing. Can it succeed where Google failed? - The Boston Globe",
         "summary": "Anthropic vows to do the right thing. Can it succeed where Google failed? - The Boston Globe",
         "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OeHprek10YlRmY2MteFhfeDdBLWJjbF9heS0xdi1rU21IZkFEbV9jOGU4Z0pYWmxVMi1DZ00xNmVRZWJvUzV0WFltNHRYOWxpYjZLOFBacS00Z1ZfcW12UkRXN09xdUs3THRoYjRkSGZ2SlU?oc=5"
-      },
-      {
-        "date": "2026-10-29",
-        "headline": "Anthropic spent $2.75 million guarding Dario Amodei last year—more than 4 times his salary - Fortune",
-        "summary": "Anthropic spent $2.75 million guarding Dario Amodei last year—more than 4 times his salary - Fortune",
-        "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTFYMkE3VElIM3Q5QlM3Q3FZSlJXQ2ExZDJwMkdqdmVTenZ0X0pwVXNkTHAwc2lBdkh0NVcxVENFN3Z0S21TZ3E0YWZ1UmZKdlZpc1Nsb0plTWRzU3dsZ05oX1dDX09yamJVWjN5bTRCeV95V0pnNjItWW91MC1Lak9ob3o5c2hGeERMOTJMdzNfSUgxQWdIR0tBeHd0d19XaVZPQkdGLWw3aC1mbTF2bUo3YlBiTkM1VVRpcXFUVQ?oc=5"
-      },
-      {
-        "date": "2026-10-28",
-        "headline": "Prediction market bets set the tone for Anthropic's much-awaited IPO - Reuters",
-        "summary": "Prediction market bets set the tone for Anthropic's much-awaited IPO - Reuters",
-        "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3hmM3czNEdSNnpYeVB5eGZpZVB5QzJSa3ZNdDVsVVd4WHVZTkhyMjFpM3J1czNvMFprVU1NZmN3cDJmT1FTN0ZCRXFkYzI4TFVpbkZ0alFuY2l1QmhXWmJ3V1duQVhaSThlSjY3djh6empxXzM3VGIxQmVsMUFXSGdEVjRZMW1EeXZnU2Q3cHRITE5XWElQbG4zOERNUW44WXd0RkdYVDdQc0xERGdPdWRn?oc=5"
-      },
-      {
-        "date": "2026-10-28",
-        "headline": "Anthropic unveils additional Claude tools for lawyers - Reuters",
-        "summary": "Anthropic unveils additional Claude tools for lawyers - Reuters",
-        "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFBaWDBVa3BKM0dEcGpjZldpYXlJb1pZdDYtMFFOaDJpMEtjWkVyaGMtVHhGd0pwZDRLLUJhNnlveHJwZHNsckY1STlMZXBuc1Z4SUpiSEJVTFlWR0I5d1o3X3ZabkRNMkE0TDRTaVNiVnRzS0o4S1JTcllTVUVPZ1JXOFI1bFV2dm1JaE00YzluSGZwY2V4NDk1aVB3c1RTX2pFZUk5SzQ?oc=5"
-      },
-      {
-        "date": "2026-10-28",
-        "headline": "iPhone Duo Reactions, Anthropic Says AI Could End Humanity and Microsoft Employee Buyouts | Tech Today - CNET",
-        "summary": "iPhone Duo Reactions, Anthropic Says AI Could End Humanity and Microsoft Employee Buyouts | Tech Today - CNET",
-        "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbVZfQVdDelI1NTVuNkpick1kSU9ucWxzVFB6RXozMnpwR1BLYnZnTnBzQWpoaEU1VWt0M0RYeEVDWDc4b2F6aU9rZTlYMXFTLWtLaFZSdEhtSmZtaGdBX3FSMkhRV1hLSVEtdFJNbXhzSWRLdjMyWGs5dl9rZzh6VWtvS3FhTWlfdEtTV2FYbTZkODVJckF5ckpRU3VnamNFS0VZZEhGOXdkanNLbkt6aU9la1hBcTRUWUEzQk9QMVVEcGJvU1pj?oc=5"
-      },
-      {
-        "date": "2026-10-28",
-        "headline": "Banks Shelve Bond Sale for Anthropic-Tied Texas Data Center - Bloomberg.com",
-        "summary": "Banks Shelve Bond Sale for Anthropic-Tied Texas Data Center - Bloomberg.com",
-        "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWZ1cFJjWU12d2ZBMU9WVTFvbXFMdXBwaUFMRko0VXBXYkZadEM1dDRsRi04QjR6TjE1NmhpOGY3bDBNdjlrWXUtT29uc2NTNmpVTzE4QnQ0ZkRtNURPOG1OZW5QOGFyMGJ2R196NFhxTThFZGlpSV9PdlVBRFJXdm0wdHRzSnpOTEtPR18ybFpXSGZESWNxeEhEdGotYUJNOHhXYVR3XzlDVlVabjhV?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-10-31",
+    "_refresh_note": "2026-11-01",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,36 @@
       "source_note": "Oct 2026: in-progress round, target CUT from $30B to **$20B** at $1.25T post-money (was $30B at $1.4T last month); **$11B secured so far**, first close expected below $20B. Led by a group of UAE investors alongside Coatue; some large investors reduced allocations (\"tepid\" response); a subsequent retail offering could bring the total to $20B. Round NOT closed — figures subject to change. Pre-existing: $122B total raised; $852B post-money from prior rounds. Source: FT, CNBC, Bloomberg, TechCrunch, WSJ (Oct 31, 2026)."
     },
     "latest_news": [
+      {
+        "date": "2026-11-01",
+        "headline": "Behind the Curtain: OpenAI's post-election power play - Axios",
+        "summary": "Behind the Curtain: OpenAI's post-election power play - Axios",
+        "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tb1haUUNRbkZzckJCdXl1bUhveG82WWhlMWQ2eFVHTm9uWXJDWmVQQVowVmJxSnBuNEExZ1l2ZGpTUmdFSlhYbWg5VTVuYlZ0WUhoR1dmUjIydXprMmNHN3R3TGoyUGY5THJZeE5VSjVQVUU?oc=5"
+      },
+      {
+        "date": "2026-11-01",
+        "headline": "Parents of woman who died of seizure after ChaGPT misguidance sue OpenAI - The Guardian",
+        "summary": "Parents of woman who died of seizure after ChaGPT misguidance sue OpenAI - The Guardian",
+        "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1BpVmV2di1BOHI2NHZrV3RFTWY3LUw1NG5VVklTNVd5WTdPUmp5djEyNHNqNTkyVHpqMHhiR3FsT1BwbjdzZ3hxMXM4VmpCTDNYY2x2cGhrcmlac2lyZXZ1WG1hYi13Y3R3NkpwV0l1RmNEQU1PcEtvZ0dXa3NzM0xHd3Q0cVdZNXpINg?oc=5"
+      },
+      {
+        "date": "2026-11-01",
+        "headline": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic - South China Morning Post",
+        "summary": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic - South China Morning Post",
+        "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFU5NlZJMVBaQ0txUnotazkwaWdmQzJwb3JvWUY4dTFHd2VERGZtdVJiMmxaTG9vR0pjZjFLOXZoZVRfRlFFZzM3dV81VVM3RDZLckQxZ01nc2ZFWGVvQlVoalk3X21iWDdBa29WcWNvblY1YVpGc3hPbDJCVVA3a2d2YVJDbFlZRUdkZ0NXTHplVTlEUGJ6RVBXTXZ1bWQ5eVRNNtIBpAFBVV95cUxQY3o3SXYteGFPRF9kQ3psaFZaTDJHMzhibnhoVE5LdjhGVUxkN2VBNnVuNHd2XzhodEpYLTRyMzhRcXNpWjY4SjBhMmdzek1oN0ZGRnh6RU5aWm12QUxYdDVvaktJUUU2UE1QVVdXUzhvdHFPZ0FrOHpOODJNQUlHYm5DSlI3aW8wS0dpMHFDWTNfNGpQeS0wYnU1TkIxbmtxVGRfSw?oc=5"
+      },
+      {
+        "date": "2026-11-01",
+        "headline": "OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses' - Business Insider",
+        "summary": "OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses' - Business Insider",
+        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaDB2b0M4TF9RNnhlZWxmdFVLWFRGQU1GcTVxcDUwbTVDcThhM3UtclBXU2QyYnp3WjM3MFgxN3JIa1hwbVR4NTVua01Sa25JN1A2X3JDWi0tbGZtLVI2aXBKUHZadWRCRXIzc25BbU94RlJna0F4OXAxX3ZmeC1YS3FQclFhM1hsYTRPQmZsWVBVRUFFNUhpMDhmZ1c?oc=5"
+      },
+      {
+        "date": "2026-11-01",
+        "headline": "OpenAI Adds Stricter Limits For Teens Asking About Firearms - Engadget",
+        "summary": "OpenAI Adds Stricter Limits For Teens Asking About Firearms - Engadget",
+        "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXRJaXBhOUM0NjZMUzN0dDF5SnpQaHQ1Uy15U0c3dDlZNTlTZmZETkx1eHRJUG11VDFsQmRISEJKMV9sWEtrNy03aTdZUTlVdU5aZy0tZERXemZLS0pMZ3V3NWhxSG94eEZsaGZhMW85QkwzUWd4UUZLeGVDTXRYR1J3d2ZzNG1kbHNPMmVJazJXSmdJbmpGbg?oc=5"
+      },
       {
         "date": "2026-10-31",
         "headline": "OpenAI reportedly lowers funding target for new round",
@@ -163,36 +193,6 @@
         "headline": "Family sues OpenAI, claiming ChatGPT is partly responsible for daughter’s death - KOMO",
         "summary": "Family sues OpenAI, claiming ChatGPT is partly responsible for daughter’s death - KOMO",
         "source": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNZ1QxT0dGVjd6V2VXM05CSWpNOHdZMG9HQTFrQUlBczFrQ3BxZGFvN1V3ZVlENG42eGdkZUs2eUlTdUI1NHoxbU5aTXFiTDdJRDJDbFdhV3JTWm1zVTY3QnNPY1NkcFVWbUFZdVZaeUMxWVQ4OXpPQUVRYldQTzBYcGhGQnE4U2hQTDFoYkZsVEEyQ1l6VlFsaWl5UWNmdGNvbHpFNGlUM2JkUTFBb3Z5Y0FNSklqSkliaUlsWVk5UnkzOVdRN1F1bHhqYkJCRUFmUE5aWmJYNDVSeFJpS2NGWi1oblEzNTBCQXdhVXVvbTBXNXduMWR6bGxxMkxQSnhUdVBubDRVRy1xSHVuaVFtY0tGTGFMX0xLOG9NNUY4RUVBWXE1aFJZ?oc=5"
-      },
-      {
-        "date": "2026-10-29",
-        "headline": "Microsoft Generated $10B In Revenue From OpenAI - TV News Check",
-        "summary": "Microsoft Generated $10B In Revenue From OpenAI - TV News Check",
-        "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWmVRMTRnYVczLVNGaTJYU3FFVDdPblJBTGFaV2xQbDJtaFI0UFlNZTVhWm9WQ2tNNWFCbllHWkliV3NWMGxVMHUzcTBqRGliZmdsUUVNSEdUWlZCLUJhT09TU3pzTkxQSjh2d1pqSUJ0TjFIMzlvSVBGVnFWRDBKdm1xd2ZkY2xYTFE?oc=5"
-      },
-      {
-        "date": "2026-10-28",
-        "headline": "Microsoft recorded $10 billion in revenue from OpenAI",
-        "summary": "Microsoft recorded $10 billion in revenue from OpenAI (TechCrunch)",
-        "source": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
-      },
-      {
-        "date": "2026-10-27",
-        "headline": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup - CNBC",
-        "summary": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXNOakpZUWg2elFlZ2k0VXcxVHlybzUtYTJxWmZIUEw1QmM4a0xiRmdrdjZFZGloUU5HZG1DTFp0Ry1FcC1PMFVrY2gxYmlrb0E2dUFaaHF6Z2NGSV9mRW5wVkh2TTI4Yy1ZeU42X003YjdrZjhaem1XOEh4eXk5MTVn0gGHAUFVX3lxTE1aMnIwbG5ZZUoxd1NqT0hCeS1hdFdCbnVzWVdBUkUyb1lzZzVQRXU5WHNJTEhUOXd1eG11RGVZajFHazZnaWZ1MS03eHNCVUlPaTl1dXN0WW50Q0w4ZERuR3hOd25TRmV0VEYtckN3TmlIZ2dFdkhueFN6dy1lWVlDd2FQTmMxRQ?oc=5"
-      },
-      {
-        "date": "2026-10-27",
-        "headline": "Oracle Reinvents Enterprise Computing for the AI Era with OpenAI - Oracle",
-        "summary": "Oracle Reinvents Enterprise Computing for the AI Era with OpenAI - Oracle",
-        "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdjR1UmFjeXVOUGFjcWhDckhHMUxxUVpfQkRmdTB1ZVZtTnZWVzBrQ2EtcG5EY1JYdUw3ckZjWkxTZG9va05CVmhzQ0RiVHhfTGxEN3BkQnN4V2tTLWdnZ2FUNW5yTDdKcFA4V1Q1V091SjFfYTA4MlUzYzlSMFFscXhfaUJPM2tLckFVbmhvRXFkT2FBSzNmOWlXWG9kdVdZQllaSVBXNHl2YnBzRzAzR2R0T3d4ZG9DSkhYVEdHZUpmRndo?oc=5"
-      },
-      {
-        "date": "2026-10-27",
-        "headline": "Oracle expands OpenAI partnership, stock jumps on deal - CNBC",
-        "summary": "Oracle expands OpenAI partnership, stock jumps on deal - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVRPQkhOWF9iLXVxeEVhci01ZV95V0NBb0NGanhIUkVfbEc3cnpiV25QYXlHSnNZWE1nX1RXd0Iyb0hkMFNnaElxVHBQcjZwYmlLbVZQVGx1OEk0Yk1VbzdxTEVVc2l2TmRxZXN5TnF5b3pZOXRfdGVCb0pvTjZ5VU56ZGlINUZ1QlFscWZYUlNuMVhwVkhrTUZ0Z28?oc=5"
       }
     ],
     "sources": [
