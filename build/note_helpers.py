@@ -80,6 +80,11 @@ def _sentence_end(text, start):
 
     Parenthesis-aware: a ';' or '.' inside '(...)' does not end the
     sentence.
+
+    NOTE: a top-level ';' is deliberately NOT a sentence terminator. It is
+    a clause separator, and the cap clause commonly carries trailing detail
+    after it ('**market cap ~$66.2B**; revenue LTM $4.28B.'). Treating ';'
+    as a boundary would orphan that tail.
     """
     depth = 0
     i = start
@@ -90,7 +95,7 @@ def _sentence_end(text, start):
         elif ch == ')':
             depth = max(0, depth - 1)
         elif depth == 0:
-            if ch in '.;!' and (i + 1 >= len(text) or text[i + 1].isspace()):
+            if ch in '.!' and (i + 1 >= len(text) or text[i+1].isspace()):
                 return i + 1
             if ch == '\n':
                 return i + 1
@@ -114,6 +119,9 @@ def _strip_one(note):
     open_start = i
     if note[:i].endswith('**') and not note[:i - 2].endswith('**'):
         open_start = i - 2
+    # _sentence_end already runs past ';' clause separators, so the trailing
+    # detail after the cap value (e.g. '; revenue LTM $4.28B.') is included
+    # in the removal span.
     sent_end = _sentence_end(note, val_end)
 
     # Consume a short lead-in immediately before the marker.
@@ -198,6 +206,24 @@ if __name__ == '__main__':
          66_200_000_000,
          'Stock ~$183.45 (Nov 12, -0.50%) => **market cap ~$66.2B**.',
          ['$63.2B', '$64.3B']),
+        # The Nov-12 production notes carry trailing detail after the cap
+        # value; removing the clause must take that detail with it.
+        ('DataDog-trailing',
+         'Public (NASDAQ: DDOG). Q3 2026: revenue $1.197B (+35.2% YoY). '
+         'Source: Nasdaq (Nov 4-6, 2026). Stock ~$183.45 (Nov 12, -0.50%) => '
+         '**market cap ~$66.2B**; revenue LTM $4.28B.',
+         67_000_000_000,
+         'Stock ~$185.49 (Nov 13) => **market cap ~$67.0B**; revenue LTM $4.28B.',
+         ['$66.2B**']),
+        ('ServiceNow-trailing',
+         'Public (NYSE: NOW). Consensus Moderate Buy, average target $154.50. '
+         'Stock ~$100.82 (Nov 12 close, -2.20% from $102.76) => '
+         '**market cap ~$104.6B**; 1.04B shares, 52-week range $81.24-$175.00. '
+         'Revenue LTM $15.43B.',
+         105_500_000_000,
+         'Stock ~$102.69 (Nov 13, +2.01%) => **market cap ~$105.5B**; 1.04B shares, '
+         '52-week range $81.24-$175.00. Revenue LTM $15.43B.',
+         ['$104.6B**']),
     ]
 
     failures = []
@@ -212,6 +238,11 @@ if __name__ == '__main__':
         for bad in forbidden:
             if bad in out:
                 failures.append(f'{name}: stale {bad}')
+        # Trailing detail that belongs to the cap clause must not be left
+        # orphaned behind after the clause is removed.
+        for frag in ('revenue LTM', '52-week range', '1.04B shares'):
+            if out.count(frag) > 1:
+                failures.append(f'{name}: duplicated {frag!r} ({out.count(frag)}x)')
         # Idempotency: a second run must not duplicate or corrupt.
         out2 = update_market_cap_note(out, cap, line)
         if out2.count(MARKER) != 1:
