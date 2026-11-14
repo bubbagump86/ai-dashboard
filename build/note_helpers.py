@@ -61,6 +61,22 @@ _LEADIN_PAREN_RE = re.compile(
     r'((?:Stock|Shares|stock|shares|Market cap|market cap|Trading|trading)\b'
     r'(?:[^.;]|\.(?!\s)|\([^)]*\)){0,160}?(?:=>|⇒)\s*\*{0,2})$'
 )
+# An orphan clause left behind by an older removal pass: a short
+# capitalised fragment ending in a period, sitting immediately before the
+# cap clause's lead-in. We only absorb a conservative set of shapes so we
+# never swallow real content.
+_ORPHAN_RE = re.compile(
+    r'(?:^|(?<=\.\s))'
+    r'((?:Revenue LTM|revenue LTM|Market Cap|market cap|Shares|shares|'
+    r'1\.04B shares|[0-9.]+B shares)[^.;]{0,90}?\.\s*)$'
+)
+# Detail fragments that may be carried by a cap clause. Used to spot and
+# remove orphans that a previous pass left behind.
+_DETAIL_FRAGMENTS = (
+    'Revenue LTM', 'revenue LTM',
+    '52-week range', '52 Week Range',
+    '1.04B shares', '210.08M shares',
+)
 
 
 def _value_end(text, marker_idx):
@@ -133,6 +149,16 @@ def _strip_one(note):
             start = m.start(1)
             break
 
+    # Absorb an ORPHAN clause that a previous run left immediately before
+    # this cap clause. Those orphans are trailing detail of an older cap
+    # clause ('... off the $81 low. Revenue LTM $15.43B. Stock ~$X => ...')
+    # that the old removal logic did not take with it. If we leave them, the
+    # replacement line reintroduces the same detail and the note ends up
+    # with it twice.
+    orphan = _ORPHAN_RE.search(note[:start])
+    if orphan:
+        start = orphan.start(1)
+
     removed = note[start:sent_end]
     return note[:start] + note[sent_end:], removed
 
@@ -163,6 +189,52 @@ def update_market_cap_note(note, new_cap_usd, new_line=None):
     base = base.rstrip()
     if base and not base.endswith(('.', '!', '?')):
         base += '.'
+
+    # De-duplicate trailing detail that the replacement line re-supplies.
+    # A previous pass can leave an orphan ('... $81 low. Revenue LTM $15.43B.')
+    # in front of the old cap clause; if the new line carries the same
+    # detail we would otherwise end up with it twice.
+    for frag in _DETAIL_FRAGMENTS:
+        if frag not in new_line:
+            continue
+        # Drop earlier standalone clause occurrences, keeping the one in
+        # new_line. We must use a parenthesis- and number-aware sentence
+        # scanner: a naive find('.') cuts '$15.43B' in half.
+        idx = base.find(frag)
+        while idx != -1:
+            line_start = base.rfind('. ', 0, idx) + 2
+            seg = base[line_start:idx]
+            # Only remove a STANDALONE orphan clause: the fragment must be
+            # at the start of its sentence and that sentence must be short.
+            # Anything embedded in a longer paragraph (e.g. an analyst
+            # ratings section) is real content and must survive.
+            standalone = (len(seg) <= 60
+                          and 'market cap' not in seg
+                          and not re.search(r'[;:]', seg)
+                          and len(base[line_start:idx].strip()) == len(seg.strip()))
+            if standalone:
+                # End of this clause: scan forward for a sentence boundary
+                # that is not inside a number.
+                j = idx
+                depth = 0
+                end = -1
+                while j < len(base):
+                    ch = base[j]
+                    if ch == '(':
+                        depth += 1
+                    elif ch == ')':
+                        depth = max(0, depth - 1)
+                    elif depth == 0 and ch in '.!' and (
+                            j + 1 >= len(base) or base[j+1].isspace()):
+                        end = j + 1
+                        break
+                    j += 1
+                if end != -1:
+                    base = base[:line_start] + base[end:].lstrip()
+                    idx = base.find(frag)
+                    continue
+            idx = base.find(frag, idx + 1)
+
     return (base + ' ' + new_line).strip()
 
 
@@ -224,6 +296,20 @@ if __name__ == '__main__':
          'Stock ~$102.69 (Nov 13, +2.01%) => **market cap ~$105.5B**; 1.04B shares, '
          '52-week range $81.24-$175.00. Revenue LTM $15.43B.',
          ['$104.6B**']),
+        # The committed Nov-13 ServiceNow note carries an ORPHAN 'Revenue LTM
+        # $15.43B.' left behind by the older removal pass, immediately before
+        # the cap clause. Replacing the clause without absorbing the orphan
+        # leaves the detail in the note twice.
+        ('ServiceNow-orphan',
+         'Public (NYSE: NOW). Consensus Moderate Buy, average target $154.50; '
+         'Argus Buy $170; 52-week range $81.24-$175.00. Down ~29% in a month but '
+         'off the $81 low. Revenue LTM $15.43B. Stock ~$102.69 (Nov 13, +2.01%) '
+         '=> **market cap ~$105.5B**; 1.04B shares, 52-week range $81.24-$175.00. '
+         'Revenue LTM $15.43B.',
+         105_500_000_000,
+         'Stock ~$101.59 (Nov 14) => **market cap ~$105.5B**; 1.04B shares, '
+         '52-week range $81.24-$175.00. Revenue LTM $15.43B.',
+         ['$102.69', 'Nov 13, +2.01%']),
     ]
 
     failures = []
@@ -240,9 +326,23 @@ if __name__ == '__main__':
                 failures.append(f'{name}: stale {bad}')
         # Trailing detail that belongs to the cap clause must not be left
         # orphaned behind after the clause is removed.
+        #
+        # This is a DIFF-based check, not an absolute count: ServiceNow's
+        # note legitimately mentions '52-week range' twice (once in the
+        # analyst-ratings paragraph, once in the cap clause). The rule is
+        # that the update must not ADD a duplicate beyond what the input
+        # already had, plus at most the single copy carried by new_line.
         for frag in ('revenue LTM', '52-week range', '1.04B shares'):
-            if out.count(frag) > 1:
-                failures.append(f'{name}: duplicated {frag!r} ({out.count(frag)}x)')
+            allowed = note.count(frag) + (1 if frag in line else 0)
+            if out.count(frag) > allowed:
+                failures.append(
+                    f'{name}: duplicated {frag!r} ({note.count(frag)} in, '
+                    f'{out.count(frag)} out, allowed {allowed})')
+        # No content may be lost that was not part of a cap clause.
+        for keep in ('Buyback', 'Argus Buy', 'Morgan Stanley', 'Consensus Moderate Buy',
+                     'BTIG Buy', 'S&P SmallCap 600', 'Q3 2026', 'Argus Buy $170'):
+            if keep in note and keep not in out:
+                failures.append(f'{name}: lost content {keep!r}')
         # Idempotency: a second run must not duplicate or corrupt.
         out2 = update_market_cap_note(out, cap, line)
         if out2.count(MARKER) != 1:
