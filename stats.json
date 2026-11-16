@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15T23:03:19+00:00",
-  "as_of_date": "2026-11-15",
+  "last_updated": "2026-11-16T23:03:28+00:00",
+  "as_of_date": "2026-11-16",
   "companies_tracked": 40,
   "categories": 10,
   "news_items": 363,
@@ -19,10 +19,10 @@
     "note": "sum of arr_usd; only disclosed companies included"
   },
   "combined_valuation": {
-    "total_usd": 2823810000000,
+    "total_usd": 2814850000000,
     "private_post_money_usd": 2546030000000,
     "private_count": 24,
-    "public_market_cap_usd": 277780000000,
+    "public_market_cap_usd": 268820000000,
     "public_count": 4,
     "note": "private = post_money_valuation_usd; public = current_market_cap_usd"
   }
