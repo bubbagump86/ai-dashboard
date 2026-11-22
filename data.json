@@ -23,6 +23,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-11-22",
+        "headline": "Anthropic’s Canberra push now includes 46 registered lobbyists - Politico",
+        "summary": "Anthropic’s Canberra push now includes 46 registered lobbyists - Politico",
+        "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWHppU1hxd2RuQXVfSnBtR3R1SEM2SWJGQzFqNXF0QlJHQllPVF9hcU9tQ0xBSDhsMVpFYThkaW9hcHVEdlBpNWI2R21Ed2JHaWM5LUt3ajhiUFBCQkh6dVgzNlI3S3NtOTFTdjU3LWZheHpTeUFLbGFkQVBJdTJPVkxXNlFib3hjVEdvTmtMVDBLV0tZbjJudXFnQjJ6aFY4bXVOeFdfcWx4T1JOSW1HMQ?oc=5"
+      },
+      {
+        "date": "2026-11-22",
+        "headline": "The richest person in San Francisco doesn’t work at Anthropic - San Francisco Chronicle",
+        "summary": "The richest person in San Francisco doesn’t work at Anthropic - San Francisco Chronicle",
+        "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWtsYUoycFdYZ1dkYkNuQ2RibzBpUWZIN0JlM3hVNlhPTVVVQVhOd3FNLVNRd1ItdDBZeVdiYWF5U1hTVXlCcjJSdkxDY2p1MVJyNnJjMDZyVVpEMV9lUW1vbXY3LVdZb0dFLVI2eGxwX0llUG1fRmJ4VkJfUndib293aFI0QkhfeVE?oc=5"
+      },
+      {
+        "date": "2026-11-22",
+        "headline": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - AP News",
+        "summary": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - AP News",
+        "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTZBX2xZWWNQeGFIRExEbFNFSUJiV3I1cG80MzZzUUh2ZDZQTXM0dC1iNDdRVTZLZkFWelpTWnRvODY4clRUUmNaamdBQXdRSmM3U3NQdS1RbzU3dF92OVBfMTRRM3JIbF8tMlIzZ1JRUWFVV3Q0U2xtZHlCRU5YWkhIV3hQNURrVnZFU2d2NA?oc=5"
+      },
+      {
+        "date": "2026-11-22",
+        "headline": "\"I would not be surprised if Anthropic's market cap reached $5 trillion in the not-too-distant future\" - CTech",
+        "summary": "\"I would not be surprised if Anthropic's market cap reached $5 trillion in the not-too-distant future\" - CTech",
+        "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55YjU4NWNqRl9xMlk5bVYxaVpjRHdWeVhPT2lfejBQNzI0Z25McV95QWxqa2pFZFRXVWc5UHR6UTlXaFhCcXlCSzZIX2NQeWZGRUxtSHR2WmJPWGNVUEVXcU5qUG5abnc?oc=5"
+      },
+      {
+        "date": "2026-11-22",
+        "headline": "SA Asks: How much of a threat is Anthropic's multi-chip strategy to Nvidia? (NVDA:NASDAQ) - Seeking Alpha",
+        "summary": "SA Asks: How much of a threat is Anthropic's multi-chip strategy to Nvidia? (NVDA:NASDAQ) - Seeking Alpha",
+        "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2hUazlXb2h6eVVNWnd5X184WG5YMmF1N3c4Vk5oaUVFZGJycjVPWEpfSDZRNFBGYVJpa3ZoRi1KMkI3Q3ZXSFVzdE5rTVpTZncyYjlSU3d3VUNfUXZzYWRnRUVXTVFUOHFycUFyNnpBN3lPMHhOTWRrZmE4UVBxSzB3RkJkVU94MnRQNkQza3M0eDFpNlZWUUNTZmQxWHR1alFTOEhVNW03cXZhcXdr?oc=5"
+      },
+      {
         "date": "2026-11-21",
         "headline": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse - Yahoo Finance",
         "summary": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse - Yahoo Finance",
@@ -51,36 +81,6 @@
         "headline": "Anthropic says it will put humanity first. Will its IPO change that? - NPR",
         "summary": "Anthropic says it will put humanity first. Will its IPO change that? - NPR",
         "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWZST3piU2NqZVJlVFlPQU9BY1F3eXNMR3VQdVd3OTRTcUF0b0FHSmp3MFZpZHFYaWNrOE9zRnl5LXBlNDlwaXQxaHhKY0VDVjQyVHhiT2ZQZHA0c2pwWFJ2VkItZEtmMHFfSmg3VU44dHgta0VnUHNVZy1sZGhRT0V3?oc=5"
-      },
-      {
-        "date": "2026-11-20",
-        "headline": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues - The New York Times",
-        "summary": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues - The New York Times",
-        "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XYVdGdzl2am5CT1o3QlFFV2duR2dJZzNpbjlrYWg2cU4tVHJwZ0I4WWhaVmd3ZHQ0cTVyRklGcHprTlk0UFEzenE2T2ZNZ1pvNXdKbDBySkFDXzA5cktobkRxaTcxdkZzWGtfXzVzLXZqeEhnSDk5VEROWGRsNzQ?oc=5"
-      },
-      {
-        "date": "2026-11-20",
-        "headline": "Machine Gods: Anthropic's early days - NPR",
-        "summary": "Machine Gods: Anthropic's early days - NPR",
-        "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZnFoeXlZdlFNZnVCS3JkaXR3S1lnc2dtNGluSmdjZ0J5UEtUVnZYYzFrY3ZOV2prVjJsZUR2M09XUEVBLVVqQW1sVTU4NFpNZXdBLVVBNUdiWUxxU05kS2ltQjFlZDVrSE9IcC1UOU1FUnZGdzdSQ19NbHo5eHBrQlVKaXVUdw?oc=5"
-      },
-      {
-        "date": "2026-11-20",
-        "headline": "Seaport's Jay Goldberg: Anthropic's slowing growth raises caution - CNBC",
-        "summary": "Seaport's Jay Goldberg: Anthropic's slowing growth raises caution - CNBC",
-        "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnphLW1KU29SVV90M01sbGNrX0RDaWRsYzRJY3p5Q0dGdzIzOElOQTJQMUtMeU1YdHF5NVI4YnlyRDNhNjRoRDBBVGtBSHVwYzdBbDZ0eVJ2d1R1TnYzcGNuSmhJXzZQTFFwWnRVRTNCaVZUbVlVV2ZDeXlvRWNYWFBFc2xXWXFEdFVBbmktZ2VfXzVWcnk4a1FGSVJHWmtrUG5ySUdCcWw?oc=5"
-      },
-      {
-        "date": "2026-11-20",
-        "headline": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math - WSJ",
-        "summary": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math - WSJ",
-        "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2R1UU5HMEVNTGhtYWxQaTNBMjVRZnZxZjJVU0U1MVk0U2dIRHh6akhYNV9tNWxXYjNmeU16UzdqZDM3bUpDS1BxOEd2b3oySzVMako4Z25JMmNFUVd5ZlFWNTZ4WmJ6d2NXT0R5Z1JsNVNGMi04MGowVF9CQkl4dEEtXzJNYWRDeHA3Rk1hV250dEZWQjNRLW5RZHZPQ0ZMMlNLSDdkejFKTklvZW1ZNDZZalFOQQ?oc=5"
-      },
-      {
-        "date": "2026-11-20",
-        "headline": "Anthropic Mathematician Claims to Have Solved Math’s Most Famous Problem - The New York Times",
-        "summary": "Anthropic Mathematician Claims to Have Solved Math’s Most Famous Problem - The New York Times",
-        "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5"
       }
     ],
     "sources": [
@@ -109,7 +109,7 @@
     "_id": "anthropic",
     "lat": 37.7749,
     "lng": -122.4194,
-    "_refresh_note": "2026-11-21",
+    "_refresh_note": "2026-11-22",
     "arr_usd": 65000000000
   },
   {
@@ -134,6 +134,36 @@
       "source_note": "Oct 2026: in-progress round, target CUT from $30B to **$20B** at $1.25T post-money (was $30B at $1.4T last month); **$11B secured so far**, first close expected below $20B. Led by a group of UAE investors alongside Coatue; some large investors reduced allocations (\"tepid\" response); a subsequent retail offering could bring the total to $20B. Round NOT closed — figures subject to change. Pre-existing: $122B total raised; $852B post-money from prior rounds. Source: FT, CNBC, Bloomberg, TechCrunch, WSJ (Oct 31, 2026)."
     },
     "latest_news": [
+      {
+        "date": "2026-11-22",
+        "headline": "OpenAI Chief Scientist Urges Industry Limits on AI Development - Bloomberg.com",
+        "summary": "OpenAI Chief Scientist Urges Industry Limits on AI Development - Bloomberg.com",
+        "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVTYVIwT3huVU8teHdXRHdnWGxOUTI5d1J6elZhWktVMVpSZDhhRmk5eV82c0JuRDBSUWNHdl84Z253WDJDbmd6SXhiNlFsdkxhM2gxWTVoTnY2ZkdrZ0dVam1OVXNSZWIwUnBQaTU4bEhJNTZValFSQ1Naam1xb1FkTklSZXI2Ums4d19sUjVheGtLNGhUWjFPcEVyd0ZIRmJlX0FqNXF5cHpCR2pjczF5WQ?oc=5"
+      },
+      {
+        "date": "2026-11-22",
+        "headline": "OpenAI’s chief scientist has thoughts on how to limit AI development - TechCrunch",
+        "summary": "OpenAI’s chief scientist has thoughts on how to limit AI development - TechCrunch",
+        "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGxIY24yOU1LOUlMeVhETGlMMUZaVjN6SHZzSkduYTluS1RkZzVxUktHR2dFRndlZEUxdjBmQXlpdzRkMjhIVDRaTXlsTUUzbzFud0Y3R1ZaUzhxS3dlYUVaNlgzSDB6cVNNMTNzNGRSNHYwaGp0MkdTNmptYzZxRG1GeVRmVzdaRjNkWkU1b21UTWROUGJrUWJ5UksyeGtPZG1PSQ?oc=5"
+      },
+      {
+        "date": "2026-11-22",
+        "headline": "OpenAI calls for industry-wide AI brake tied to perplexity - Seeking Alpha",
+        "summary": "OpenAI calls for industry-wide AI brake tied to perplexity - Seeking Alpha",
+        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2FhV2JfU0NzTjBtdE1wMTlrdzR6WTNYVVZsNy1GYUZQSkVldkFQTWF4MmhXMHQwd1pMdkVUbVJkb01UbEZwYlZKSFNfSkZ5WXNPTEF2V3ZNWkM2V1ZNUW5zS1ZyUDF0Vk1Nb1k4YXhOdFhOY3lveG8zcjY5NTdaZDZKN3JxNHZ6R0RVY2hmX1g0MDctclk2VDhzcFE?oc=5"
+      },
+      {
+        "date": "2026-11-22",
+        "headline": "No 'kill switch' can stop rogue AI, former OpenAI board member warns - Fox News",
+        "summary": "No 'kill switch' can stop rogue AI, former OpenAI board member warns - Fox News",
+        "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yOFMyWHZ3WTR6anVWcHlwSHhpcnc2QUZMQ2RLQzRqQUxMSEdHRGhFblNzMFJTZDRDQXlEdXpFT1BYUHY0czNPQl93S0VvQ285cjVBNEd3?oc=5"
+      },
+      {
+        "date": "2026-11-22",
+        "headline": "Perplexity and Intelligence - OpenAI",
+        "summary": "Perplexity and Intelligence - OpenAI",
+        "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5"
+      },
       {
         "date": "2026-11-21",
         "headline": "Oracle Says It Has Completed Funding to Fulfil OpenAI Deal - The Information",
@@ -163,36 +193,6 @@
         "headline": "Howard Marks warns OpenAI and Anthropic their AI lead may not last - Crypto Briefing",
         "summary": "Howard Marks warns OpenAI and Anthropic their AI lead may not last - Crypto Briefing",
         "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ONE5MQmxwWVk5Z3psaE1Kbk13aUlKWWs0SlY1ejBVS1V1T2RaUkZzVGhVNU9YZkdta3l2ZkVERldKNFAtRGNfaVMtUDVsZGN1eHlYV01Td3VlNXp5c2Q1UlRUMGY2Zm9UNmNIVVNsTDY?oc=5"
-      },
-      {
-        "date": "2026-11-20",
-        "headline": "ChatGPT Helped School Shooter Build 3D-Printed Weapons and Discuss Violent Plans, Report Alleges - Yahoo",
-        "summary": "ChatGPT Helped School Shooter Build 3D-Printed Weapons and Discuss Violent Plans, Report Alleges - Yahoo",
-        "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHlvYlBERzlrYTczUngwbnpQaEtlWXl1Q0VqSjNKYTg4Wld6Rlk3Y19qZ0hXXzh5bnNPRHhQMlMzNDRsc3BoTV82NElBdEVTVXV6NG8yekl6UEQtbTZrS2hFUUtrVVQxVXowM2JfMzNRMnpUV0daZlU1bnptcEplUzhYSy1JU2lBN01LN3RJbDBac00?oc=5"
-      },
-      {
-        "date": "2026-11-20",
-        "headline": "Sleeping man sets boot on fire, suspected thief uses ChatGPT to corroborate story and more in Summit County sheriff’s log - SummitDaily.com",
-        "summary": "Sleeping man sets boot on fire, suspected thief uses ChatGPT to corroborate story and more in Summit County sheriff’s log - SummitDaily.com",
-        "source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeURYYThXbmNJekdfLXMxeHl2b1owVHpudEZ1b19IQm81WUY5aTN4NFFyWmE4c2EwQ1pOWnpZei1KamVCQUlHMEE0ZHA3OVdMV0w0TUE1REJKdWk1bENVYkZnRDUtTk1MMkhFaHJrVkRRdER1bm1weGROaFlobm9FZV9ER3BLWmNObHpQODd3a2RLX3Z3ZmtBbFd0bXdhYWxzWmJQdlFlTU8wQjR6czJyUHZwMldvRzY1d2ZLdGFJeUd5N1l1TVd0dktrMHk1VzFLZng0T3d1RkpoSVJpOFp2M0xnWUdtTTc2?oc=5"
-      },
-      {
-        "date": "2026-11-20",
-        "headline": "Google, ChatGPT & Others With Coupon Codes Directly In The AI Answers - Search Engine Roundtable",
-        "summary": "Google, ChatGPT & Others With Coupon Codes Directly In The AI Answers - Search Engine Roundtable",
-        "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11ZGJMaTFkdjg1TzlHNDFjbW4tSVhVRXcwN3U3a3FQaVBjaHNFbE93aWRlYnA4N3ZWSmxHUFg5a2tlNEc4cGFyb3IydGJUYXFkcG8xRHExdFlJWmx5UXJCX2pzd09EeHh4a3N1WGtEWW0wY2hxUXc?oc=5"
-      },
-      {
-        "date": "2026-11-20",
-        "headline": "OpenAI starts testing its dots agents with some ChatGPT Plus users - The Next Web",
-        "summary": "OpenAI starts testing its dots agents with some ChatGPT Plus users - The Next Web",
-        "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGpsaEtteG1fS294VHlKelhHY3FjYmpjUnJEczI4S2l2U21XY18zXzROZmNoc3FybkIyc0FyQ0tHRzQtci1PSmROUWNBNjdxSTZrcUNETjctc2dZN0hGcHpwQkRjdHM2WURnTFprTDcxem9qRnIwSnBNRXVzTUNCNQ?oc=5"
-      },
-      {
-        "date": "2026-11-20",
-        "headline": "Apple Working On Agents Who Can Do More Than ChatGPT, Muse Or Claude - NDTV",
-        "summary": "Apple Working On Agents Who Can Do More Than ChatGPT, Muse Or Claude - NDTV",
-        "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSHpWNldkM19QNHM1eTNFVnBrUWJvX1d6SFFPb3A0eWJzdzNvSXV4OTJhd1hoa2xGVGMxNks4SUJLOEVvUk83T25YMTh1VHRybTRzSW5XLU9abVdUMWNVUFRuaG1IVDlpdWdXVXUyVlEweFpiei1MZHgtNUNGZ3ZWc0I0LVVwNklPM1Q3N0VqN1ZVVmF6QUtSejVBUzNzeHQxemc2RVA0QkV0TkE00gG0AUFVX3lxTE5xWkFHT2o3UWlETVpUTFpUTkdFc0pmQWo3RnBlU0hKS2VkdU1GOTV0aHdtS0lVeng2cl82Sm91S19YdFZSLWJzWWlXSDgyUEJmQ3d0Njd3RGRVQ3JOSGFIVC1iTjRxeGJaLWhKc0JYMnBsclB2NndQWUQxYWlMRm9CMDdGTTdibVlUMWtxTkNhZDhQSUd2V2pOOXlJQS1tUlNSbVBGWTBYWUk5Nml0Wm5BeUM5Tg?oc=5"
       }
     ],
     "sources": [
@@ -361,6 +361,36 @@
     },
     "latest_news": [
       {
+        "date": "2026-11-19",
+        "headline": "59 European tech leaders, from ElevenLabs, Lovable and DeepL to LeCun and Aghion, demand a dedicated AI budget from the EU - Dealroom",
+        "summary": "59 European tech leaders, from ElevenLabs, Lovable and DeepL to LeCun and Aghion, demand a dedicated AI budget from the EU - Dealroom",
+        "source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRGtQelJtUHV5RUM4NER6OFYzOTVLRjl0ZGdGczNXMjZoNU5QQ1lsNmd4ME9XUURaVDRyWk9KZldMQm9oanVaTHh1cFFkZC15Zks5eldoWUFzbkN6aktGSFhYMF9WLUk1YVpJZElDWUhxTFRfTkFPd3F6UGlBcWVmaF9la0YyRm9qbTU0dTFvUktKdHFPdDZKdmhOSHhPUDNQcl9xaVVHRXR0c242WVZtbHdSUTVVNU1hTDk2ZEsyTFlyYXg5Y0I0Nk96dE9sanBhTVg2ckFKcDl5ZUV4eFp5WG8zSVJfRE9k?oc=5"
+      },
+      {
+        "date": "2026-11-19",
+        "headline": "LeCun, ElevenLabs, DeepL urge EU to put AI in the next budget - IO+",
+        "summary": "LeCun, ElevenLabs, DeepL urge EU to put AI in the next budget - IO+",
+        "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYl9weXpyQld2UEZwZVk1VnVHSjNfUkM0TDQybnV2a3VTdnRoa3NlQmRTcm44UmFDd05FTFlxdGhva0hpRTMxQVZ0ZVpObzRUMDZvbVR6YUo3SmhoX1pNaVBMMVdTRENaR1ljMUlfSEdGOEJRcG1IR3pLcHZUWV93dXZIYVYyV2F5UkJpNklNVQ?oc=5"
+      },
+      {
+        "date": "2026-11-18",
+        "headline": "ElevenLabs, Lovable and DeepL CEOs urge EU to back homegrown AI - Sifted",
+        "summary": "ElevenLabs, Lovable and DeepL CEOs urge EU to back homegrown AI - Sifted",
+        "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVRkWC1teWloaEJlTk1aUGo5cVZEdFBmeWpwN2oxQXh3QmxHWkM1bkVGeEJDMkR6a3lFendZNVFaU3JRYTRqUlI1X1RsTHJxRkFsYjBMY2ozVHpKQ2pLWGwxTi1faXg4WkNCSFowUTJjY09UZWg3Tk1zclE2V0o2dGFRYlUxbnc?oc=5"
+      },
+      {
+        "date": "2026-11-17",
+        "headline": "ElevenLabs wins up to £10.8m GOV Voice government contract - Resultsense",
+        "summary": "ElevenLabs wins up to £10.8m GOV Voice government contract - Resultsense",
+        "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZW5meF83bDZHUHpsY3Q5NW43RG9VZVBDbFoyRFF0SDRpYWZMc1lUM2NlVGxFNDJiYWdZRnlPaFp3LV8tV2Q3SHYzTXNKZzB1ckRrUDU2am5Yb3lOUFhxZUt0VUx4TDk1T0JhVEhuamNIWjBoUUU2aXI5Tnk1cUdabi1GeWVtdw?oc=5"
+      },
+      {
+        "date": "2026-11-17",
+        "headline": "Japanese Voice AI Startup Kotoba to Be Acquired by ElevenLabs - Wowtale",
+        "summary": "Japanese Voice AI Startup Kotoba to Be Acquired by ElevenLabs - Wowtale",
+        "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wR1ZlcWsxQXh4cTlWRDN5ZnBjYVdRNHRDREROeUVtYV9mdnMtY1IxYmJsRDFXZkdhQjV5WW1RNmI4UEI3aU9YWkJRTTdMeFVieTlR?oc=5"
+      },
+      {
         "date": "2026-11-21",
         "headline": "AI Tool of the Week: this ElevenLabs app takes meeting notes and dictation - Livemint",
         "summary": "AI Tool of the Week: this ElevenLabs app takes meeting notes and dictation - Livemint",
@@ -389,36 +419,6 @@
         "headline": "ElevenLabs Enters AI Note-Taking and Dictation Race With ElevenAI - AI Insider",
         "summary": "ElevenLabs Enters AI Note-Taking and Dictation Race With ElevenAI - AI Insider",
         "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVE9TVGdnVzBIOW82YWMwUERKa1VkWkJuRWhIMnJyUENpWXVXaEc5ODcyVDNySTdFQnZ3RUk5UkpHbHh5WWczMjlxbUNvNjJBY1g1SVhNZlBWTHBUSjNHemplazYyWkFwYzBHWGZpOU1LNzVNOEc3enJwTUdPNVZwdkFoOUdCZWo0alc0SDRnUWo5eEtWM0lMQWFFNnpjUUpvRlpvU3Fn?oc=5"
-      },
-      {
-        "date": "2026-11-17",
-        "headline": "ElevenLabs to Acquire Kotoba Technologies - CX Today",
-        "summary": "ElevenLabs to Acquire Kotoba Technologies - CX Today",
-        "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeWR2NVplRmpDVTFqRGx0MmdDX19iaEhLRG1tMWZ6bTFwOGw1bHFEbEhIRXhKV1pDUW5uM1lVeVNMdXZMTXIwQ0tCWk16d2J6aURaLTY3TUVONjNjRVY3dTY1ZENTa2lVUFdnb3I2dm5jbVZBN1d4ZGZmakN0WWwwa1NNMkZQbzhMSkgyWnl1VERhNmFtcFdDZzZn?oc=5"
-      },
-      {
-        "date": "2026-11-17",
-        "headline": "ElevenLabs Finalizes $100M Acquisition of Kotoba Voice AI - Digital Music News",
-        "summary": "ElevenLabs Finalizes $100M Acquisition of Kotoba Voice AI - Digital Music News",
-        "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeEZBT1JqbWtKQTJ5SXZaRnZzdGlkOEJzUkE1MXF3Yll4U19yNkhpMFQ2a2ZkU3VodE1oNFpHak1mVENPQm9BRVJmbFJmRUEwNUZkdDNWTl8ySzQtOFFIeWFxUzZ3Q3R3VzZSWUtzMU04UGdhWWRLaXgwcEZpWkFubFZRRE51aTlDRy1n?oc=5"
-      },
-      {
-        "date": "2026-11-17",
-        "headline": "ElevenLabs to Acquire Japanese Voice AI Company Kotoba in Reported $100 Million Deal - RouteNote",
-        "summary": "ElevenLabs to Acquire Japanese Voice AI Company Kotoba in Reported $100 Million Deal - RouteNote",
-        "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzVaQ0pqcUIyZjRPRTY4NjZOVWZyWkw4VWxZdU1GMWR0aVp6NjVOVy02ZzM2TG9LWl9Zd2ZHRjA3RlE0OFFickdRN3JXcWhjbVRqMm9jdE9hWXNiekw2bV8zSkl2VktUX3hPeENnbFYwcDF5VndDLTFrMnNfemUxb3NTbm5YLTlXRUU3TFVHeDNNWm8wckoxZGEtMlZSeTdYbzVPTkJiVlZQVkhsYVNMNmdB?oc=5"
-      },
-      {
-        "date": "2026-11-17",
-        "headline": "ElevenLabs agrees to acquire Japan-focused voice AI company Kotoba in reported $100M deal - Music Business Worldwide",
-        "summary": "ElevenLabs agrees to acquire Japan-focused voice AI company Kotoba in reported $100M deal - Music Business Worldwide",
-        "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb19pZC1OUEZLVUUybmhmUnhxbkswVkRoYW9HSk9SX2pNOGVXQTVTbWhxWUd3MEVaQUVBNE9sM3Jha2JVcUQySjNLTVBVb2MxZnFHVWdydUVkS0h6dlFKcnNBaGhmd21XdFpPOXFBdTY4UmUwS1ZVNElzQkZpa1VVNGhzeUVwUkczc3pJbEVIMEpFbDdwTFhpRzUwMFFTNER6TUxVR0I3TmRJWXV0RFp6a2ZBaU1SYmpKUkRQdVBNMFRmTEtWWm9B?oc=5"
-      },
-      {
-        "date": "2026-11-17",
-        "headline": "ElevenLabs to Acquire Kotoba for Japanese Voice AI Expansion - Unite.AI",
-        "summary": "ElevenLabs to Acquire Kotoba for Japanese Voice AI Expansion - Unite.AI",
-        "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEZSTUd5bGUwajdxSzF2Q1VlLW9iX1BWOWxidTRIc1FxQlRZeTR2LXJyX0Y0LS13amRKR0l4SlgyMUF1UWZ1ZTFIQkl4SVhWN3NZUzE0aXltaUhPdlhFWU84dnowU3B5dC1lOGp3QmQ3d2RZc3ROb2VDYjdzd0Y2RnEtVUpHenA4Tmc?oc=5"
       }
     ],
     "sources": [
@@ -1600,7 +1600,7 @@
       "lead_investors": [],
       "post_money_valuation_usd": 56820000000,
       "total_raised_usd": 147000000,
-      "source_note": "Public (NASDAQ: DDOG). IPO Sept 2019. Q3 2026 (reported Nov 4, 2026): revenue $1.197B (+35.2% YoY, above high end of guidance) vs $1.148B est; adjusted EPS $0.81 vs $0.64 est (+26.4%, 6th straight beat); non-GAAP operating income $334M (28% margin vs 23%); gross margin 81.2%; FCF $251M (21% margin); cash $5.2B; ~33,500 customers, ~4,860 with ≥$100K ARR (+20% YoY); non-AI growth high-20s% for a 5th straight quarter; AI customers 750 → 850; infra monitoring > $2B ARR; monitored GPU devices up 8x YTD. **Q4 guide $1.19–1.20B (25–26% growth) implied a ~$2M sequential dip** (largest customer at contractual minimum) ⇒ −14.4% on Nov 4 to $188.72, −7.6% Nov 5 to $174.31, then +2.5% Nov 6 to $179.04. FY26 revenue guide raised to $4.51–4.53B (~32% growth); FY26 adj EPS $2.73–2.75. 52-week range $98.01–$300.68. BTIG Buy, target cut $289 → $260. Consensus target $273.59 (16 analysts). Source: Nasdaq, Finviz, Yahoo Finance, Investing.com, StockAnalysis (Nov 4–6, 2026). Stock ~$157.37 (Nov 20 close) ⇒ **market cap ~$56.82B**; revenue LTM $4.28B.",
+      "source_note": "Public (NASDAQ: DDOG). IPO Sept 2019. Q3 2026 (reported Nov 4, 2026): revenue $1.197B (+35.2% YoY, above high end of guidance) vs $1.148B est; adjusted EPS $0.81 vs $0.64 est (+26.4%, 6th straight beat); non-GAAP operating income $334M (28% margin vs 23%); gross margin 81.2%; FCF $251M (21% margin); cash $5.2B; ~33,500 customers, ~4,860 with ≥$100K ARR (+20% YoY); non-AI growth high-20s% for a 5th straight quarter; AI customers 750 → 850; infra monitoring > $2B ARR; monitored GPU devices up 8x YTD. **Q4 guide $1.19–1.20B (25–26% growth) implied a ~$2M sequential dip** (largest customer at contractual minimum) ⇒ −14.4% on Nov 4 to $188.72, −7.6% Nov 5 to $174.31, then +2.5% Nov 6 to $179.04. FY26 revenue guide raised to $4.51–4.53B (~32% growth); FY26 adj EPS $2.73–2.75. 52-week range $98.01–$300.68. BTIG Buy, target cut $289 → $260. Consensus target $273.59 (16 analysts). Source: Nasdaq, Finviz, Yahoo Finance, Investing.com, StockAnalysis (Nov 4–6, 2026). Stock ~$157.37 (Nov 20 close, −5.46%) ⇒ **market cap ~$56.82B**; revenue LTM $4.28B.",
       "current_market_cap_usd": 56820000000
     },
     "latest_news": [
