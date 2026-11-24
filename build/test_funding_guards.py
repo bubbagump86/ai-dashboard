@@ -14,7 +14,7 @@ import os
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from refresh import detect_funding_info  # noqa: E402
+from refresh import detect_funding_info, is_unclosed_round_headline  # noqa: E402
 
 
 # --- Headlines that produced WRONG updates. Guard must reject them. ------
@@ -74,8 +74,74 @@ ACCEPT_CASES = [
 ]
 
 
+# --- Unclosed-round guard --------------------------------------------------
+# Production incident 2026-11-23: Bloomberg reported "Cognition in Talks for
+# $75 Billion Value With New Funding ... considering raising $2 billion or
+# more ... terms could still change". The detector read the $75B as a
+# valuation and overwrote Cognition's CONFIRMED $48B September Series E
+# valuation with a price nobody had agreed to.
+#
+# These headlines describe PROPOSALS. They must be surfaced as news but
+# must never move amount_usd / post_money_valuation_usd.
+UNCLOSED_CASES = [
+    'Cognition AI reportedly seeks $2bn funding at $75bn valuation - Verdict',
+    'Cognition AI seeks to raise $2 billion at a $75 billion valuation',
+    'Potential Cognition AI Round Would Raise $2B-Plus at $75B Valuation',
+    'Cognition AI discusses funding round at $75 billion valuation',
+    'Cognition AI in talks to be valued at $75 billion in latest funding round',
+    'Sakana AI plans IPO as early as fall next year; weighs dual listing',
+    "Sakana AI gears up for one of Japan's biggest startup IPOs",
+    '"I would not be surprised if Anthropic\'s market cap reached $5 trillion"',
+    'Zhipu AI (ZHIPU) Pre-IPO Price Prediction: Buyers still have the edge',
+    'Nova AI is considering raising $500 million for its Series B',
+    'Mistral AI in talks on a $1.7 billion round at $13 billion valuation',
+    # Moonshot's Series G: "Eyes $5 Billion at $50 Billion" was a PRE-IPO
+    # target with a $50B pre-money; the dashboard's headline numbers come
+    # from the closed Series F ($35B post-money), so the Series G proposal
+    # must never overwrite them.
+    'Moonshot AI Eyes $5 Billion at $50 Billion Valuation',
+]
+
+# ...but a CONFIRMED round must never be mistaken for a proposal.
+CLOSED_ROUND_CASES = [
+    'Cognition AI raises $2 billion at $48 billion valuation - Reuters',
+    'Cognition AI Raises $1 Billion as Devin Starts Writing Most of Its Own Code',
+    'ElevenLabs Raises $500M Series D at $11B Valuation',
+    'Anthropic raised $3.5 billion at a $61.5 billion valuation',
+    'StepFun closes $2.5 billion funding round for HK IPO',
+    'Cursor maker Anysphere lands $900M round at $9.9B valuation',
+    'Mistral AI secures $600 million in new funding round',
+    'Manus AI confirmed $500M round after Meta unwind',
+    # "working on a round" = round UNDER WAY, not a pure negotiation.
+    'OpenAI working on new $30B raise at $1.25T valuation ahead of IPO',
+]
+
+
 def main():
     failures = []
+
+    print('=' * 72)
+    print('UNCLOSED ROUND CASES (must NOT change headline funding)')
+    print('=' * 72)
+    for headline in UNCLOSED_CASES:
+        if is_unclosed_round_headline(headline):
+            print(f'  PASS  {headline[:66]}')
+        else:
+            print(f'  FAIL  {headline[:66]}')
+            print('        -> treated as a CLOSED round (would corrupt funding!)')
+            failures.append(('UNCLOSED', headline, 'treated as closed'))
+
+    print()
+    print('=' * 72)
+    print('CLOSED ROUND CASES (must NOT be flagged as unclosed)')
+    print('=' * 72)
+    for headline in CLOSED_ROUND_CASES:
+        if not is_unclosed_round_headline(headline):
+            print(f'  PASS  {headline[:66]}')
+        else:
+            print(f'  FAIL  {headline[:66]}')
+            print('        -> wrongly flagged as unclosed (regression!)')
+            failures.append(('CLOSED', headline, 'wrongly flagged unclosed'))
 
     print('=' * 72)
     print('REJECT CASES (guard must block)')
@@ -121,7 +187,7 @@ def main():
         for f in failures:
             print(f'  - {f[0]}: {f[1][:70]}')
         return 1
-    print(f'ALL {len(REJECT_CASES) + len(ACCEPT_CASES)} CASES PASS')
+    print(f'ALL {len(REJECT_CASES) + len(ACCEPT_CASES) + len(UNCLOSED_CASES) + len(CLOSED_ROUND_CASES)} CASES PASS')
     return 0
 
 

@@ -483,6 +483,89 @@ def _money_belongs_to_someone_else(text, company_name):
     return False
 
 
+# --- Unclosed-round guard -------------------------------------------------
+# A headline can describe a round that has NOT closed. Those numbers are
+# proposals, not facts, and must never overwrite the headline funding
+# fields (which represent a CONFIRMED closed round).
+#
+# Production incident (2026-11-23): Bloomberg reported "Cognition in Talks
+# for $75 Billion Value With New Funding ... considering raising $2
+# billion or more ... terms could still change". The detector read the
+# $75B as a valuation and overwrote Cognition's confirmed $48B September
+# Series E valuation with a number that was never agreed. Same class:
+# Zhipu AI's IPO pre-IPO price forecast, Sakana AI's 2027 IPO talk, and
+# any "would raise" / "seeks" / "in talks" framing.
+#
+# These headlines are still valuable: they are surfaced as news and can be
+# documented in the source note. They just must not move the numbers.
+UNCLOSED_ROUND_MARKERS = (
+    'in talks', 'in discussion', 'discussions', 'discusses', 'discussed',
+    'reportedly', 'reportedly',
+    'seeks', 'seeking', 'seeks to raise', 'seeking to raise',
+    'weighing', 'weighs', 'mulling', 'considering', 'consider', 'considered',
+    'planning', 'plans', 'planned', 'eyeing', 'eyes', 'eying',
+    'would raise', 'could raise', 'may raise', 'might raise',
+    'proposed', 'proposing', 'targeting', 'targets',
+    'expected to raise', 'set to raise', 'poised to raise',
+    'gears up for', 'gear up for', 'prepares for', 'preparing for',
+    'poised for', 'set for an ipo', 'eyes an ipo', 'plans an ipo',
+    'pre-ipo price', 'pre ipo price', 'price prediction',
+    'could be valued', 'would be valued', 'may be valued',
+    'potential', 'potential round', 'not yet closed',
+    'terms could change', 'no term sheet',
+    # Speculation / opinion framing
+    'would not be surprised', 'would be surprised', 'i wouldn',
+    'could reach', 'could hit', 'could top', 'could top',
+    'may reach', 'might reach', 'is expected to reach',
+)
+
+# Verbs that unambiguously mean the money HAS been committed. If one of
+# these appears with a concrete amount, the round is treated as closed
+# even if the headline also contains soft language.
+CLOSED_ROUND_VERBS = (
+    'raises', 'raised', 'secures', 'secured', 'closes', 'closed',
+    'lands', 'landed', 'nabs', 'bags', 'announces $',
+)
+
+
+def is_unclosed_round_headline(text):
+    """True when a headline describes a round that has not closed.
+
+    A headline is treated as CLOSED if it carries an explicit closed-verb
+    ("raises $2B at a $75B valuation"), even if it also says "seeks" or
+    "reportedly" — companies announce both at once sometimes. Only when
+    no closed-verb is present do the speculative markers apply.
+    """
+    if not text:
+        return False
+    t = text.lower()
+
+    # Explicit closed language wins.
+    if any(v in t for v in CLOSED_ROUND_VERBS):
+        return False
+
+    # "closed"/"completes" style language also wins.
+    if re.search(r'\b(closed|completes|completed|finali[sz]es|finali[sz]ed|'
+                 r'lands|landed|nabs|announces)\b.{0,40}\$\s*[\d.]+\s*'
+                 r'(billion|million|bn|b|m)\b', t):
+        return False
+
+    # "working on a round" means a round is UNDER WAY — it may already have
+    # a confirmed first close. It is not a pure negotiation like "seeks" or
+    # "in talks", so it is not treated as unclosed here. (An in-progress
+    # round is still handled conservatively by the 10% threshold: a target
+    # valuation does not replace an existing confirmed valuation unless it
+    # is materially larger, and the source note records that the round is
+    # not closed.)
+    if re.search(r'\b(working on|working toward|underway|under way)\b', t):
+        return False
+
+    for marker in UNCLOSED_ROUND_MARKERS:
+        if marker in t:
+            return True
+    return False
+
+
 def detect_funding_info(text, company_name=None):
     """Given a headline, extract any funding round info.
     Returns dict with any of: amount_usd, valuation_usd, round_name, date, source_url, source_headline.
@@ -690,6 +773,7 @@ def main():
     print(f'  {len(companies)} companies')
 
     changes = 0
+    speculative = []
     new_companies = []
 
     for i, c in enumerate(companies):
@@ -732,7 +816,6 @@ def main():
             # Cap at 10 newest per company
             c['latest_news'] = (fresh + existing)[:10]
             changes += 1
-            changes += 1
 
         # Detect funding round info in new headlines
         funding_changes = []
@@ -742,6 +825,12 @@ def main():
                 continue
             finfo = detect_funding_info(it['headline'], company_name)
             if not finfo:
+                continue
+            # An UNCLOSED round ("in talks", "seeks", "would raise") reports
+            # proposals, not agreed numbers. It must not overwrite the
+            # confirmed figures — see is_unclosed_round_headline().
+            if is_unclosed_round_headline(it['headline']):
+                speculative.append(f"{company_name}: {it['headline'][:90]}")
                 continue
             # Update the company record if newer and a real improvement
             updated = False
@@ -771,6 +860,12 @@ def main():
                     c['funding']['date'] = it_date
         if funding_changes:
             print(f'    💰 funding updates: {", ".join(funding_changes)}')
+
+    # Report rounds that were deliberately NOT applied (still in talks).
+    if speculative:
+        print(f'\n⚠ {len(speculative)} unclosed round(s) surfaced — headline funding NOT changed:')
+        for s in speculative:
+            print(f'    - {s}')
 
     # Update last-updated timestamp
     if not dry_run and changes > 0:
