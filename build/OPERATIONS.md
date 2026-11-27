@@ -17,9 +17,22 @@ about $3.2B.
   dataset.
 - Share counts in use: ServiceNow 1,037M · Snowflake 352.80M ·
   DataDog 361.04M · AvePoint 210.08M.
-- **US market holidays close the market.** When the latest print is the
-  prior session's close, label the source note with that session's date
-  (e.g. "Nov 25 close" on a Nov 26 holiday).
+- **US market holidays close the market — but check the calendar
+  carefully.** Thanksgiving 2026 fell on Thu Nov 26: US markets were
+  **closed Nov 26** but the half-session **did trade** (Nov 25 was the
+  last full close, Nov 27 was the first full session back). Do not
+  assume "yesterday was a holiday so the print is stale" — confirm by
+  reading the close date on the quote page, and cross-check with the
+  `/history/` page when the summary page looks stale.
+- **The stockanalysis.com summary page can serve a stale intraday read.**
+  On 2026-11-27 the summary page for ServiceNow still showed the prior
+  session's close while its `/history/` page had the correct Nov 27
+  close. When the summary page and a second ticker disagree, trust
+  `/history/` and re-read with an explicit "is the most recent close
+  Nov 27?" question.
+- **Label the note with the actual trading date** of the close you used
+  (e.g. "Nov 27 close"), so a reader can tell a stale print from a
+  current one.
 
 ## Funding semantics
 
